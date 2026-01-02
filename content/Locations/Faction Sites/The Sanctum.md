@@ -79,9 +79,3 @@ In recent years, technology has increasingly invaded the Sanctum:
 **Mobile Mirror Complex**: A complex system composed of mirrors with a thousand facets redistributes light from outside to dark areas. It moves according to the time of day to adapt to the course of the sun.
 
 **Small Automatons**: Ascend and descend along the shelves, allowing archivists to access high-perched books without resorting to ladders or forklifts.
-
-## Philosophy and Purpose
-The Sanctum is as the [[Ordis]] intended it: a grand monument celebrating knowledge and wisdom, a beacon illuminating humanity with the light of wisdom. It embodies the faction's commitment to preserving the past and learning from history to avoid repeating past mistakes.
-
-## Connection to Ordis Mission
-The Sanctum houses the research efforts of Ordis historians and philosophers who study events and trends to understand how troubles and conflicts have arisen. By examining what [[Asgartha]] has endured, they seek to avoid repeating the mistakes of the past and even begin to sense the possible cause of the Confluence.
