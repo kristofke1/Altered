@@ -8,7 +8,7 @@ date_end: 1 AC
 duration: single event
 locations:
   - "[[Kuningasplatz]]"
-  - "[[Acus]]"
+  - "[[The Acus]]"
   - "[[Altered/Locations/Nations/Asgartha|Asgartha]]"
 factions: []
 characters_active:

@@ -66,7 +66,7 @@ When [[Kojo Oduro|Kojo]] attended the Omnium final as a spectator (having joined
 The team's reputation grew over the years through competitions - both official and unofficial. [[Carmela]] discussed potential sponsors and the possibility of becoming a top-tier team as their success increased.
 
 ## Support for Kojo's Departure
-When [[Kojo Oduro]] decided to join the [[The Rediscovery Endeavor|Expeditionary Corps]], the Jusaka Blaze fully supported his decision:
+When [[Kojo Oduro]] decided to join the [[Expeditionary Corps]], the Jusaka Blaze fully supported his decision:
 - [[Gault]] went to great lengths ensuring [[Kojo Oduro|Kojo]]'s application was accepted
 - The team defended him when [[Gulrang Oduro|Gulrang]] tried to dissuade him
 - They helped sway the opinion of the [[The Aegis|Aegis]] captain

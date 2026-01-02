@@ -2,49 +2,32 @@
 title: Prodigium
 type: concept
 category: event
-source: faction_axiom.md
-related_concepts:
-  - "[[Automata]]"
-  - "[[Kelon]]"
-associated_factions:
-  - "[[Axiom]]"
+source: ["faction_axiom"]
+related_concepts: ["[[Automata]]", "[[Kelon]]", "[[Constructs]]"]
+associated_factions: ["[[Axiom]]"]
 associated_locations: []
-first_mentioned:
-description_summary: The grand technological fair of the Axiom Faction, showcasing their latest innovations
-tags:
-  - event
-  - exhibition
-  - technology-showcase
-  - axiom-event
+first_mentioned: null
+description_summary: "The grand technological fair of the Axiom Faction, showcasing their latest innovations"
+tags: [event, exhibition, technology-showcase, axiom]
 ---
 
 # Prodigium
 
+## Overview
+
 The Prodigium is the grand technological fair of the [[Axiom]] Faction, serving as a showcase for their latest innovations and engineering marvels.
 
-## Nature
+## Purpose
 
-The Prodigium is described as a technological fair where the [[Axiom]] present their newest creations to the public. It represents both a celebration of innovation and a demonstration of the Faction's capabilities.
+The Prodigium provides a platform for the [[Axiom]] to present their newest creations to the public, demonstrating technological achievements and introducing breakthrough technologies. The fair aligns with the Axiom's strategy of disseminating the technologies they develop to the widest possible audience.
 
-## Upcoming Event
+## Automata Unveiling
 
-An upcoming Prodigium is mentioned in relation to the [[Automata]] project. With a bit of luck, these robotic beings - humanity's first - may be presented at this fair.
+An upcoming Prodigium is planned to potentially unveil the [[Automata]] project. The [[Axiom]] hopes that presenting these robotic beings—humanity's first—at the fair would mark a new turning point in the ongoing industrial revolution within the peninsula.
 
-The [[Axiom]] hopes that unveiling the [[Automata]] at the Prodigium would mark a new turning point in the ongoing industrial revolution within the peninsula.
+## Relationships
 
-## Significance
-
-The Prodigium serves multiple purposes for the [[Axiom]]:
-- Public demonstration of technological achievement
-- Validation of their innovative approach
-- Opportunity to showcase how their creations improve lives
-- Platform for introducing breakthrough technologies
-- Evidence of the practical application of their philosophy
-
-## Context
-
-The fair aligns with the [[Axiom]]'s strategy of disseminating the technologies they develop as much as possible, making them available to the widest possible audience to demonstrate through example the validity of their approach.
-
-## Historical Precedent
-
-The Prodigium appears to be an established tradition for the [[Axiom]], serving as a recurring event where they can display their commitment to progress and innovation.
+- **[[Axiom]]**: Faction that hosts the Prodigium
+- **[[Automata]]**: Robotic beings potentially to be unveiled at upcoming Prodigium
+- **[[Constructs]]**: Axiom creations previously showcased
+- **[[Kelon]]**: Energy source powering Axiom innovations

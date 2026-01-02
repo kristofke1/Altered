@@ -40,7 +40,7 @@ Cilistro Tighe was a [[Lyra]] Phonomancer and Baron of the Tribe of the West, on
 
 Tighe led the Tribe of the West when the reunited Tumult Nomad tribes faced potential civil war. Tighe was the first Baron to mobilize forces, prompting [[Balram Kasun]] and [[Ainara Aldana]] to do the same. The three Baron armies prepared to clash at the meadow that would become [[Kuningasplatz]].
 
-[[Heshkari]]'s forces encircled the Baron armies and imposed an ultimatum to lay down arms. The Barons viewed Heshkari as another rival when the [[Phoenix]] descended from the [[Acus]] and perched on [[Rune]]'s shoulder, crowning him with fire. Tighe bent the knee along with all others present.
+[[Heshkari]]'s forces encircled the Baron armies and imposed an ultimatum to lay down arms. The Barons viewed Heshkari as another rival when the [[Phoenix]] descended from the [[The Acus]] and perched on [[Rune]]'s shoulder, crowning him with fire. Tighe bent the knee along with all others present.
 
 Rune appointed Tighe to the [[Trusted Council]] alongside both his original allies and the other Barons, forming the [[The Runic Knights|Runic Knights]].
 

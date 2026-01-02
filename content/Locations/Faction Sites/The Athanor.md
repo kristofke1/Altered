@@ -15,15 +15,15 @@ present_factions:
   - "[[Axiom]]"
 government_type:
 notable_features:
-  - Grandiose glass and metal girder structure
-  - Nestled within deep crater at summit of rocky edifice
+  - Glass and metal girder structure
+  - Located in crater at summit of rocky edifice
   - Connected walkways and manufacturing platforms
   - Communication tubes and forklift network
   - Direct access to Wright Altiport
-  - Marshaling yard with dozen railway tracks
+  - Marshaling yard with railway tracks
   - Nexus energy core at center
   - Construct creation facilities
-  - Research facilities for Tumult phenomena
+  - Tumult research facilities
 climate:
 characters: []
 tags:
@@ -35,34 +35,27 @@ tags:
 
 # The Athanor
 
-The Athanor is the architectural jewel of the [[Axiom]], a grandiose structure of glass and metal girders that serves as a premier research and manufacturing facility.
+## Overview
+The Athanor is the primary research and manufacturing facility of the [[Axiom]], located within a deep crater at the summit of the rocky edifice in [[Arkaster]].
 
-## Location and Structure
+## Structure
+The facility is a glass and metal girder construction featuring walkways connecting various sections, manufacturing platforms at different levels, and a network of communication tubes and forklifts.
 
-The Athanor is nestled within a deep crater located at the summit of the rocky edifice in [[Arkaster]]. The structure features:
-- Numerous walkways connecting various sections
-- Manufacturing platforms at different levels
-- Network of communication tubes and forklifts
-- Glass and metal girder construction
-
-## Transportation Connections
-
-The Athanor has direct access to [[Wright Altiport]], with:
-- A marshaling yard for cargo handling
-- A dozen railway tracks for transport
-- Trains that circulate transporting machines to aerostats charged with disseminating technology throughout the peninsula
+## Transportation
+The Athanor has direct access to [[Wright Altiport]]. A marshaling yard with a dozen railway tracks handles cargo. Trains transport machines to aerostats that disseminate technology throughout the peninsula.
 
 ## The Nexus
-
-At the center of the Athanor pulses the [[Nexus]], a sphere of concentrated [[Kelon]] floating in the air. This energy core powers all the equipment of the Athanor. It is near this energy core that [[Constructs]] are created.
+At the center of the Athanor pulses the [[Nexus]], a sphere of concentrated [[Kelon]] floating in the air. This energy core powers all equipment in the facility. [[Constructs]] are created near the Nexus.
 
 ## Research Functions
+The Athanor serves as a research center studying phenomena caused by [[The Tumult]]: botanists analyze Tumult-tinted plants, naturalists observe new animal species, and physicists examine [[Kelon]] and study how gravity and time have been affected by [[The Confluence]].
 
-The Athanor is not only dedicated to [[Constructs]] production. It also serves as a research center where new phenomena that have disrupted reality are studied:
-- Botanists analyze plants tinted by [[The Tumult]]
-- Naturalists observe new animal species
-- Physicists examine [[Kelon]] and study how gravity or time have been affected by [[The Confluence]]
-
-## Philosophy
-
-The [[Axiom]] accept the world as it is presented to them, without any value judgment. Their work at the Athanor reflects the belief that humanity's goal should not be a step backward, but stabilization, and by extension, the taming of the existing.
+## Relationships
+- **[[Arkaster]]**: Capital city where the Athanor is located
+- **[[Axiom]]**: Faction operating the facility
+- **[[Nexus]]**: Energy core at the center of the Athanor
+- **[[Wright Altiport]]**: Transportation hub with direct access
+- **[[Kelon]]**: Energy source studied and utilized here
+- **[[Constructs]]**: Mechanical artifacts created at the facility
+- **[[The Tumult]]**: Phenomenon studied by researchers
+- **[[The Confluence]]**: Event whose effects are researched here

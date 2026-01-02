@@ -3,7 +3,7 @@ title: Lyra
 type: organization
 category: faction
 source: faction_lyra
-founded:
+founded: 59 AC
 founder:
 status: active
 dissolved_date:

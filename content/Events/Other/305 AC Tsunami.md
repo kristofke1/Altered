@@ -2,7 +2,9 @@
 title: 305 AC Tsunami
 type: event
 category: historical_catastrophe
-source: ["[[L29_Tidal_Wave]]", "[[T30_Murky_Truths]]"]
+source:
+  - "L29_Tidal_Wave"
+  - "T30_Murky_Truths"
 date: 305 AC
 location: "[[Arkaster]], [[Muir Concordia]]"
 affiliated_faction: null

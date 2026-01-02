@@ -17,8 +17,8 @@ associated_locations:
   - "[[Phoenix Chamber]]"
   - "[[Haven]]"
   - "[[Kuningasplatz]]"
-  - "[[Acus]]"
-first_mentioned: "1 AC"
+  - "[[The Acus]]"
+first_mentioned: 1 AC
 description_summary: Mythical Firebird that crowned Rune as first Kuningas; currently in egg form awaiting rebirth
 tags:
   - creature
@@ -38,7 +38,7 @@ The Phoenix, also known as the Firebird, is a mythical creature associated with 
 
 ## The Concord (1 AC)
 
-During the events leading to [[The Concord]], the Phoenix plunged from the heights of [[Acus]], spreading its flaming wings above the assembled forces. The Firebird perched on [[Rune]]'s shoulder, crowning him with a circle of fire that left an indelible mark on his brow. This sign led all present—[[Heshkari]] first, then all others including the opposing Barons—to bend the knee. Rune was thus crowned the first Kuningas of Asgartha.
+During the events leading to [[The Concord]], the Phoenix plunged from the heights of [[The Acus]], spreading its flaming wings above the assembled forces. The Firebird perched on [[Rune]]'s shoulder, crowning him with a circle of fire that left an indelible mark on his brow. This sign led all present—[[Heshkari]] first, then all others including the opposing Barons—to bend the knee. Rune was thus crowned the first Kuningas of Asgartha.
 
 ## The Vanishing (42 AC)
 

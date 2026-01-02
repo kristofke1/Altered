@@ -1,75 +1,55 @@
 ---
-title: "Baba Yaga"
+title: Baba Yaga
 type: character
 category: eidolon
-source: "faction_yzmir"
+source: ["faction_yzmir", "card_lore"]
 birth_date: null
 death_date: null
-reign_period: null
-status: "active"
-fate: "Serves as guardian of the Black Wave"
-species: "Eidolon"
-became_oneiros: false
+status: active
+fate: null
+species: eidolon
+became_oneiros: true
 affiliated_faction: "[[Yzmir]]"
 founded_organizations: []
 titles: ["Watcher of the Black Wave"]
 lineage: null
 key_events: []
-locations_associated: ["[[The Black Wave]]", "[[The Kadigir]]"]
+locations_associated: ["[[The Black Wave]]", "[[The Kadigir]]", "[[Gora Grove]]"]
 tags: [eidolon, yzmir, guardian, black-wave]
 ---
 
 # Baba Yaga
 
 ## Overview
-Baba Yaga is an [[Eidolons|Eidolon]] affiliated with the [[Yzmir]] faction. They serve as the guardian and watcher of [[The Black Wave]], one of the two persistent [[The Tumult|Tumult]] singularities housed within [[The Kadigir]].
 
-## Role and Responsibilities
-Baba Yaga continually watches over [[The Black Wave]]—a gloomy clearing covered in black grass and bathed in perpetual twilight darkness. This vigilant guardianship is essential because:
-- Monstrosities sometimes burst forth from the Black Wave unexpectedly
-- These creatures must be defeated before they can threaten the population
-- The unpredictable nature of these emergences requires constant surveillance
+Baba Yaga is an [[Eidolon]] who serves as guardian and watcher of [[The Black Wave]], one of the two persistent [[The Tumult|Tumult]] singularities housed within [[The Kadigir]]. Her presence at the Black Wave was one of the reasons [[Aysun]] chose this location for founding the Yzmir Bastion.
 
-## Connection to The Kadigir
-Baba Yaga's presence at [[The Black Wave]] was one of the reasons [[Aysun]] chose this location for founding [[The Kadigir]]. The [[The Tumult|Tumult]] singularity needed to be carefully monitored and contained for the safety of the population of [[Arkaster|the First City]], and Baba Yaga provides this essential protective function.
-
-## Protective Secrecy
-Like other aspects of the Yzmir's defensive work, Baba Yaga's role in protecting [[Asgartha]] from the dangers posed by [[The Black Wave]] is not widely known. The [[Yzmir]] keep such threats secret to prevent the people of Asgartha from succumbing to panic about the monstrosities lurking at the edge of existence.
-
-## Dual Nature
+## Appearance and Forms
 
 ### Grandmother Form
 
-In peaceful state, Baba Yaga displays friendly grandmother manner. She serves heady herbal tea in steaming cups. She brings trays with small porcelain plates loaded with sugar-coated cookies, little pastries, and preserves. She sits knitting woolen scarf. Her friendly manner makes her seem more like grandmother than frightening old shrew.
+In peaceful state, Baba Yaga displays a friendly grandmother manner. She serves herbal tea in steaming cups and brings trays with sugar-coated cookies, pastries, and preserves. She sits knitting woolen scarves.
 
 ### Harpy Transformation
 
-When Black Wave quivers, Baba Yaga's mood turns grim. Friendly old woman transforms into harpy with terrifying face. She grabs pestle and summons mortar when danger approaches. Transformation occurs when obsidian clearing mood becomes threatening.
+When [[The Black Wave]] quivers and danger approaches, Baba Yaga transforms into a harpy with a terrifying face. She grabs her pestle and summons her mortar.
 
 ## Isba
 
-Baba Yaga's dwelling is isba (hut) that moves on chicken legs. When Black Wave danger emerges, isba starts moving on its chicken legs responding to threat.
+Baba Yaga dwells in an isba (hut) that moves on chicken legs. The isba responds to threats from the Black Wave by beginning to move.
 
-## Card Lore Timeline
+## Timeline
 
 ### 391 AC - Monitoring with Akesha
 
-Akesha sat on rocking chair on isba terrace wrapped in wool blanket. She was assigned to monitor Black Wave alongside Baba Yaga. Front door opened and Baba came out with tray holding porcelain plates with treats and steaming teapot.
+[[Akesha Adhikari]] was assigned to monitor [[The Black Wave]] alongside Baba Yaga at [[Gora Grove]]. Baba Yaga served spiced tea with cloves, cinnamon, star anise, and cardamom while knitting on the isba terrace.
 
-Her friendly manner seemed more grandmother than frightening. Taru emerged from under covers seeing treats. Baba sat down and started knitting woolen scarf. She served spiced tea: cloves, cinnamon, star anise, cardamom. Gora Grove could have been relaxing place in Kadigir if not for Tumult Singularity.
-
-Suddenly isba started moving on chicken legs. Akesha spilled tea. Baba stood up scanning fleecy plain with grass black as night. When Baba grabbed pestle and summoned mortar, Akesha covered self with Sigils. When Akesha turned toward Baba again, friendly old woman was now harpy with terrifying face.
-
-## Significance
-
-Throughout history, Yzmir positioned themselves as defenders of humanity against dark and nameless threats lurking within Tumult. Baba Yaga represents crucial part of defensive network, standing as sentinel against creatures emerging from twilight clearing.
-
-Even within Yzmir's own Bastion, Initiates never far from dangers they study, and Baba Yaga's constant vigilance ensures these dangers remain contained.
+When danger emerged from the Black Wave, the isba started moving on its chicken legs. Baba Yaga grabbed her pestle, summoned her mortar, and transformed from friendly old woman into harpy. [[Akesha Adhikari|Akesha]] covered herself with Sigils in response.
 
 ## Relationships
 
 - **[[Akesha Adhikari]]**: Yzmir Initiate who monitored Black Wave with Baba Yaga (391 AC)
-- **[[Taru]]**: Akesha's Alter Ego present at isba, emerged for treats
+- **[[Taru]]**: Akesha's Alter Ego present at isba
 - **[[The Black Wave]]**: Tumult Singularity Baba Yaga guards
 - **[[Gora Grove]]**: Location of Baba Yaga's isba in Kadigir
 - **[[The Kadigir]]**: Yzmir Bastion housing Black Wave

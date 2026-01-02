@@ -1,28 +1,39 @@
 ---
 title: Athena
-type: concept
-category: deity
-source: T7_Far_Far_Beneath_In_The_Abysmal_Sea
-related_concepts: ["[[The Oneiroi]]", "[[Tyr]]", "[[Odysseus]]", "[[Ordis]]", "[[The Aegis|Aegis]]"]
-associated_factions: ["[[Ordis|Ordis]]"]
-associated_locations: []
-first_mentioned: "392 AC"
-description_summary: Deity of wisdom and strategy invoked by Sigismar Synd before battle against the Kraken
-tags:
-  - deity
-  - oneiros
-  - strategy
-  - Ordis
+type: character
+category: eidolon
+source: ["[[T7_far_far_beneath_in_the_abysmal_sea]]"]
+birth_date: null
+death_date: null
+status: active
+fate: null
+species: eidolon
+became_oneiros: true
+affiliated_faction: "[[Ordis]]"
+founded_organizations: []
+titles: ["Goddess of Wisdom and Strategy"]
+lineage: null
+key_events: []
+locations_associated: []
+tags: [deity, eidolon, strategy, ordis]
 ---
+
+# Athena
 
 ## Overview
 
-Athena is a deity associated with wisdom and strategy, invoked by warriors and strategists of the Ordis Faction, particularly those serving in the Aegis.
+Athena is an [[Eidolon]] deity associated with wisdom and strategy, invoked by warriors and strategists of the [[Ordis]] Faction.
 
-## Invocation
+## Timeline
 
-During the battle against the Kraken in 392 AC, Sigismar Synd (Paladin of the Aegis) prayed to Athena alongside Tyr and Odysseus as the Ouroboros approached the trap they had set. This invocation sought divine favor for the success of his strategic plan.
+### 392 AC - Invocation Before Kraken Battle
 
-## Cultural Significance
+[[Sigismar Synd]], Paladin of [[The Aegis]], prayed to Athena alongside [[Tyr]] and [[Odysseus]] as [[The Ouroboros]] approached the trap set for the [[Kraken]].
 
-Athena represents strategic thinking and tactical wisdom, qualities highly valued by the Ordis Faction and especially important to the military forces of the Aegis who must plan complex operations.
+## Relationships
+
+- **[[Sigismar Synd]]**: Paladin who invoked Athena before battle (392 AC)
+- **[[Tyr]]**: Deity invoked alongside Athena (392 AC)
+- **[[Odysseus]]**: Eidolon invoked alongside Athena (392 AC)
+- **[[The Aegis]]**: Ordis military force whose members invoke Athena
+- **[[Kraken]]**: Leviathan whose battle prompted Athena's invocation

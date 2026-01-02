@@ -1,28 +1,39 @@
 ---
 title: Odysseus
-type: concept
-category: deity
-source: T7_Far_Far_Beneath_In_The_Abysmal_Sea
-related_concepts: ["[[The Oneiroi]]", "[[Athena]]", "[[Tyr]]", "[[Ordis]]", "[[The Aegis|Aegis]]"]
-associated_factions: ["[[Ordis|Ordis]]"]
-associated_locations: []
-first_mentioned: "392 AC"
-description_summary: Deity of cunning and endurance invoked by Sigismar Synd before battle against the Kraken
-tags:
-  - deity
-  - oneiros
-  - cunning
-  - Ordis
+type: character
+category: eidolon
+source: ["[[T7_far_far_beneath_in_the_abysmal_sea]]"]
+birth_date: null
+death_date: null
+status: active
+fate: null
+species: eidolon
+became_oneiros: true
+affiliated_faction: "[[Ordis]]"
+founded_organizations: []
+titles: []
+lineage: null
+key_events: []
+locations_associated: []
+tags: [deity, eidolon, cunning, ordis]
 ---
+
+# Odysseus
 
 ## Overview
 
-Odysseus is a deity associated with cunning and endurance, invoked by warriors and strategists of the Ordis Faction, particularly those serving in the Aegis.
+Odysseus is an [[Eidolon]] associated with cunning and endurance, invoked by warriors and strategists of the [[Ordis]] Faction.
 
-## Invocation
+## Timeline
 
-During the battle against the Kraken in 392 AC, Sigismar Synd (Paladin of the Aegis) prayed to Odysseus alongside Athena and Tyr as the Ouroboros approached the trap they had set. This invocation sought divine favor for the success of his strategic plan.
+### 392 AC - Invocation Before Kraken Battle
 
-## Cultural Significance
+[[Sigismar Synd]], Paladin of [[The Aegis]], prayed to Odysseus alongside [[Athena]] and [[Tyr]] as [[The Ouroboros]] approached the trap set for the [[Kraken]].
 
-Odysseus represents clever tactics and the ability to endure through difficult trials, qualities highly valued by the Ordis Faction and especially important to the military forces of the Aegis who must overcome seemingly impossible challenges.
+## Relationships
+
+- **[[Sigismar Synd]]**: Paladin who invoked Odysseus before battle (392 AC)
+- **[[Athena]]**: Deity invoked alongside Odysseus (392 AC)
+- **[[Tyr]]**: Deity invoked alongside Odysseus (392 AC)
+- **[[The Aegis]]**: Ordis military force whose members invoke Odysseus
+- **[[Kraken]]**: Leviathan whose battle prompted Odysseus's invocation

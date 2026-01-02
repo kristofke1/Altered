@@ -74,5 +74,4 @@ As Initiates, Yzmir mages must:
 - Protect [[Asgartha]] from hidden threats
 - Exercise restraint with their accumulated power
 
-## Connection to Yzmir Philosophy
-The term "Initiates" reflects the Yzmir belief that they are those who have been initiated into hidden knowledge—who have dared to lift the veil and peek at what lurks beneath the surface of reality. They are aware that humanity is still at the mercy of forces beyond its comprehension, and they work to remedy this state of affairs.
+

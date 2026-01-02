@@ -11,9 +11,8 @@ associated_factions:
   - "[[Bravos]]"
 associated_locations:
   - "[[Dusk]]"
-  - "[[Arkaster]]"
 first_mentioned: 
-description_summary: A sword fighting style developed by Atsadi, fast and sharp as lightning, designed for one-armed combat
+description_summary: A sword fighting style fast and sharp as lightning, designed for one-armed combat
 tags:
   - martial-art
   - sword-fighting
@@ -24,45 +23,27 @@ tags:
 # Galisgi
 
 ## Overview
-The Galisgi is a sword fighting style developed by [[Atsadi]], the One-Armed Swordsman of [[Dusk]]. The style is characterized as being "fast and sharp as lightning," specifically designed to compensate for the handicap of fighting with only one arm.
 
-## Development
-[[Atsadi]] developed the Galisgi after losing his right arm while trying to save [[Altered/Characters/Other/Aurora]] from a [[The Tumult|Tumult]] singularity. After receiving training from [[Bedivere]], an [[Eidolon]] who also lost an arm, Atsadi left [[Dusk]] to travel the world.
+The Galisgi is a sword fighting style characterized as being fast and sharp as lightning, specifically designed to compensate for the handicap of fighting with only one arm. The style was developed by [[Atsadi]], the One-Armed Swordsman of [[Dusk]].
 
-He sought tutelage from numerous swordsmen and blacksmiths, begging for lessons from countless fencing schools. Throughout this journey, he continued to refine his own technique to compensate for his physical limitation. Over time, these efforts coalesced into the Galisgi style.
+## Origins
+
+The Galisgi emerged from necessity after [[Atsadi]] lost his right arm while trying to save [[Aurora]] from a [[The Tumult|Tumult]] singularity. After receiving initial training from [[Bedivere]], an [[Eidolons|Eidolon]] who also lost an arm, Atsadi traveled the world seeking tutelage from numerous swordsmen and blacksmiths. Throughout this journey, he refined techniques to compensate for his physical limitation, eventually codifying them into the Galisgi style.
 
 ## Characteristics
-The Galisgi emphasizes:
-- **Speed**: Movements described as fast as lightning
-- **Precision**: Sharp, focused strikes
-- **Instinct**: Fighting without conscious thought, allowing instinct to dictate movements
-- **Adaptability**: Improvising defenses and anticipating strikes
-- **Efficiency**: Compensating for one-armed handicap through superior technique
 
-### Combat Approach
-When fighting, [[Atsadi]]'s breathing remains a continuous, peaceful breeze even during intense combat. He waits alert for the slightest opening, his instinct dictating his movements and anticipating strikes. His sword sings and whistles like wind as he:
-- Darts and twirls
-- Positions his blade to protect his advance
-- Lunges with feints
-- Brings his sword down in vicious arcs
-- Shoulder-bumps opponents to knock them off balance
+The Galisgi emphasizes speed, precision, and instinct. Practitioners maintain peaceful, continuous breathing even during intense combat while waiting alert for the slightest opening. The style relies on instinct dictating movements and anticipating strikes rather than conscious thought.
 
-## Testing Against Eidolons
-As soon as [[Atsadi]] developed sufficient proficiency in the Galisgi, he compared it to the fighting styles of legendary [[Eidolons]]. He endured failures and setbacks at first, but eventually triumphed through hard work.
+Combat techniques include darting and twirling movements, positioning the blade to protect advance, lunging with feints, bringing the sword down in vicious arcs, and shoulder-bumping opponents to disrupt balance. The sword produces singing and whistling sounds like wind during execution.
 
-### Notable Victories
-Atsadi has defeated or bested numerous legendary warriors manifested as Eidolons:
-- [[Tomoe Gozen]] - Defeated
-- [[Achilles]] - Defeated
-- [[Sun Wukong]] - Defeated
-- [[Hua Mulan]] - Disarmed
-- [[Gericht vaan-Bracht]] - Pushed to his knees
+## Effectiveness
 
-## Philosophy
-The development of the Galisgi represents [[Atsadi]]'s vow to become the world's greatest swordsman. He promised before the [[Lady of the Lake]] to move heaven and earth challenging all the greatest masters of arms the world had known. Nothing would stop him on his path to obtaining [[Excalibur]] and freeing [[Altered/Characters/Other/Aurora]].
+The Galisgi has proven effective against legendary warriors manifested as [[Eidolons]]. Notable victories achieved using this style include defeats of [[Tomoe Gozen]], [[Achilles]], and [[Sun Wukong]], disarming [[Hua Mulan]], and pushing [[Gericht vaan-Bracht]] to his knees.
 
-## Ultimate Goal
-[[Atsadi]] continues to refine the Galisgi in pursuit of his quest to identify and defeat [[The Seven Blades]] - mythical swordsmen of the [[The Lost Tribe|Lost Tribe]]. Only by mastering the Galisgi to this degree can he prove himself worthy of wielding [[Excalibur]], the only weapon capable of breaking [[Altered/Characters/Other/Aurora]]'s crystal prison.
+## Connection to The Seven Blades
 
-## Legacy
-If [[Atsadi]] covers himself in sufficient glory, he hopes his reputation will allow him to endure as an [[Eidolon]] beyond death. The Galisgi style would then become part of his legend, potentially taught by his Eidolon form to future warriors who summon him.
+Mastery of the Galisgi is connected to the quest to identify and defeat [[The Seven Blades]], mythical swordsmen of the [[The Lost Tribe|Lost Tribe]]. Proving worthiness against these legendary opponents through the Galisgi is considered necessary to earn the right to wield [[Excalibur]].
+
+## Notable Practitioners
+
+- **[[Atsadi]]**: Creator of the style; continues to refine it in pursuit of mastering [[Excalibur]]

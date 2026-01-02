@@ -9,15 +9,15 @@ population:
 area:
 founded:
 status: active
-controlling_faction:
+controlling_faction: "[[Ordis]]"
 present_factions:
   - "[[Ordis]]"
 government_type:
 notable_features:
   - Labyrinthine library
-  - Houses all knowledge of the world
+  - Houses collected knowledge of the world
   - Complex ziggurat structure
-  - Scriptoria for recording new discoveries
+  - Scriptoria for recording discoveries
   - Vaulted consultation halls
   - Kelon-powered technology
   - Illuminated by mobile mirror complex
@@ -36,52 +36,27 @@ aliases:
 # The Sanctum
 
 ## Overview
-The Sanctum occupies the upper part of [[The Monolith]]—the white bipyramid that serves as the Bastion of the [[Ordis]]. It is a labyrinthine library housing all the knowledge of the world.
+The Sanctum occupies the upper section of [[The Monolith]], the [[Ordis]] Bastion. It is a labyrinthine library housing the collected knowledge of [[Asgartha]].
 
-## Structure and Layout
-The Sanctum is a complex ziggurat made up of tiers and intertwined platforms, connected by a maze of:
-- Corridors
-- Secret passages
-- Stairs
-- Air vents
-- Alcoves
-
-It is not uncommon to get lost in this edifice, such is its labyrinthine complexity.
-
-## Collections
-Within this vast structure, thousands of shelves line up from floor to ceiling, housing countless quantities of:
-- Books
-- Grimoires
-- Scrolls
-- Rolls
-- Compilations
-
-A cohort of archivists is constantly busy classifying, maintaining, and consulting these materials.
+## Structure
+The Sanctum is a ziggurat of tiers and intertwined platforms, connected by corridors, secret passages, stairs, air vents, and alcoves. Thousands of shelves line the walls from floor to ceiling, containing books, grimoires, scrolls, and compilations. A cohort of archivists maintains and classifies these materials.
 
 ## Functional Areas
 
-### Scriptoria
-In the scriptoria, scribes are tasked with recording new discoveries and recent accounts on paper or parchment, working in almost religious silence. These chambers serve as the sites where knowledge is committed to permanent record.
+**Scriptoria**: Scribes record new discoveries and accounts on paper or parchment.
 
-### Consultation Halls
-In the vaulted halls dedicated to consultation, benches are provided for visitors to peruse the pages of requested works. Librarians explore their registers and indexes to assist visitors in finding specific materials.
+**Consultation Halls**: Vaulted halls with benches where visitors peruse requested works. Librarians assist in locating specific materials through registers and indexes.
 
-### Archives
-The archival sections require constant maintenance, with archivists ascending and descending to access books stored at various heights throughout the vertical structure.
+**Archives**: Vertical storage sections requiring constant maintenance as archivists access books at various heights.
 
-## Technological Integration
-In recent years, technology has increasingly invaded the Sanctum:
+## Technology
+The [[Axiom]] have installed [[Kelon]]-powered presses in isolated rooms to assist scribes. [[Kelon]] lanterns are replacing candles. A mobile mirror complex redistributes external light to dark areas, adjusting position throughout the day. Small automatons ascend and descend shelves, allowing archivists to access high-perched books without ladders.
 
-**Kelon-Powered Presses**: The [[Axiom]] have installed Kelon-powered presses in some isolated rooms to facilitate the work of scribes. Some scribes complain about the hum of these machines disrupting the solemn tranquility of the place.
+## Research
+[[Ordis]] historians and philosophers study past events and trends to understand how conflicts arose, seeking to avoid repeating mistakes and investigate the cause of [[The Confluence]].
 
-**Kelon Lanterns**: Gradually replacing the glow of candles, providing more reliable illumination.
-
-**Mobile Mirror Complex**: A complex system composed of mirrors with a thousand facets redistributes light from outside to dark areas. It moves according to the time of day to adapt to the course of the sun.
-
-**Small Automatons**: Ascend and descend along the shelves, allowing archivists to access high-perched books without resorting to ladders or forklifts.
-
-## Philosophy and Purpose
-The Sanctum is as the [[Ordis]] intended it: a grand monument celebrating knowledge and wisdom, a beacon illuminating humanity with the light of wisdom. It embodies the faction's commitment to preserving the past and learning from history to avoid repeating past mistakes.
-
-## Connection to Ordis Mission
-The Sanctum houses the research efforts of Ordis historians and philosophers who study events and trends to understand how troubles and conflicts have arisen. By examining what [[Asgartha]] has endured, they seek to avoid repeating the mistakes of the past and even begin to sense the possible cause of the Confluence.
+## Relationships
+- **[[The Monolith]]**: Ordis Bastion of which the Sanctum is the upper section
+- **[[Ordis]]**: Faction operating the library
+- **[[Axiom]]**: Faction providing Kelon-powered technology
+- **[[Kelon]]**: Energy source powering presses, lanterns, and automatons

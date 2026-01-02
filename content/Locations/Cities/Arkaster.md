@@ -88,7 +88,7 @@ Mostly historic districts, some dating back even before the city's founding, the
 **Terraferma Districts:**
 - **[[Tesh Kanat]]**: Historic district on [[Kuna]], seat of the [[Old Nobility]], perpetual twilight
 - **[[Kuth Kanat]]**: Historic district on [[Kemeri]], seat of the [[New Exchequer]], home to [[Kadigir]]
-- **[[Reykur]]**: "Forest of Temples," numerous [[Eidolons]] altars, [[Acus]] peak, [[Wright Altiport]]
+- **[[Reykur]]**: "Forest of Temples," numerous [[Eidolons]] altars, [[The Acus]] peak, [[Wright Altiport]]
 - **[[Vejaskira & Jusaka]]**: Working-class districts near [[The Foundry]] and [[Arsenal]]
 - **[[Sonowen]]**: "Dormitorium," home to [[Ordis]] scribes, sacred tombs along [[Nishaanfjord]]
 - **[[Renkairi]]**: New district near [[The Kurung]], receiving [[Sjena]] refugees
@@ -126,8 +126,8 @@ Thanks to [[Aerolith]] technology, the Permukaan have been able to expand signif
 - **[[Nisan]]**: One of the founding islands
 
 ## Key Landmarks
-- **[[Acus]]**: Highest point of the Peninsula, overlooking [[Reykur]]
-- **[[Wright Altiport]]**: Airship and aerostat hub at base of [[Acus]]
+- **[[The Acus]]**: Highest point of the Peninsula, overlooking [[Reykur]]
+- **[[Wright Altiport]]**: Airship and aerostat hub at base of [[The Acus]]
 - **[[Kadigir]]**: [[Yzmir]] Bastion and Alteration School atop [[Kuth Kanat]]
 - **[[The Asterion]]**: Palace on [[Kuna]], seat of political power
 - **[[Kuningasplatz]]**: Political plaza on [[Kuna]]

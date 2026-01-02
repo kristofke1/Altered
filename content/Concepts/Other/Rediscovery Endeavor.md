@@ -37,7 +37,7 @@ Thanks to the [[Exalts]], humanity can now aspire to explore the expanses affect
 The Rediscovery Endeavor consists of two main components:
 
 ### Exalts (Scouts and Vanguards)
-[[Exalts]]â€”pairs of [[Alterers]] bonded with [[Chimerae]] through [[The Musubi]]â€”are sent as scouts and vanguards of the exploration forces. By capitalizing on their abilities, humanity hopes to stabilize the regions still subjected to the Tumult.
+[[Exalts]] - pairs of [[Alterers]] bonded with [[Chimerae]] through [[The Musubi]] - are sent as scouts and vanguards of the exploration forces. By capitalizing on their abilities, humanity hopes to stabilize the regions still subjected to the Tumult.
 
 ### Expeditionary Corps
 Following in the wake of the Exalts, the [[Expeditionary Corps]], composed of thousands of women and men, are tasked with reclaiming the territories thus liberated.
@@ -74,17 +74,17 @@ During late 392 AC, the Expeditionary Corps conducted systematic exploration of 
 
 **Tumult Window**: [[Initiates]] monitoring [[The Tumult]]'s currents predicted a calm period in coming weeks, creating a limited window for movement.
 
-**Jayu Phenomena**: Disturbing reports reached leadership regarding strange phenomena in [[Jayu Region]], including rings of light and beams transforming objects into [[Red Salt|red salt]]. The [[Council of Factions]] deliberated on appropriate force deployment.
+**Jayu Phenomena**: Disturbing reports reached leadership regarding strange phenomena in [[Jayu Desert]], including rings of light and beams transforming objects into [[Red Salt|red salt]]. The [[Council of Factions]] deliberated on appropriate force deployment.
 
 ### 393 AC - Storhvit Deployment (January)
 
 **Vanguard Deployment**: The vanguard of the [[Rediscovery Endeavor|Expeditionary Corps]] was deployed to [[Storhvit]], a winter region beyond [[Caer Oorun]] named by first scouts. Progress was grueling, slow, and painstaking. Fatigue was evident among the [[Initiates|Exalts]]. Unlike [[Caer Oorun]] which benefited from mild [[The Tumult|Tumult]] currents, areas beyond the rehabilitated Province presented significantly harsher conditions.
 
-**Environmental Stabilization**: The mutagenic effects of [[The Tumult]] were mitigated by the persistence of a strong idea near the explored zone: the idea of cold, ice, and winter. This idea emanated from [[Altered/Locations/Regions/Cais Adarra]] mountain peak which glowed with vivid blue light day and night. However, this stabilizing influence was accompanied by harsh weather conditions: snow, frost, biting cold, and limited visibility.
+**Environmental Stabilization**: The mutagenic effects of [[The Tumult]] were mitigated by the persistence of a strong idea near the explored zone: the idea of cold, ice, and winter. This idea emanated from [[Cais Adarra]] mountain peak which glowed with vivid blue light day and night. However, this stabilizing influence was accompanied by harsh weather conditions: snow, frost, biting cold, and limited visibility.
 
-**Biome Identification**: The [[Initiates|Exalts]] identified six distinct biome environments within [[Storhvit]]: [[Tundra]], [[Taiga]], [[Frozen Lake]], [[Canyon]], [[Caverns]], and [[Spur]]. The region was perpetually locked in harsh winter with highly unpredictable weather influenced by [[The Tumult]] generating capricious winds.
+**Biome Identification**: The [[Initiates|Exalts]] identified six distinct biome environments within [[Storvhit]]: [[Tundra]], [[Taiga]], [[Frozen Lake]], [[Canyon]], [[Caverns]], and [[Spur]]. The region was perpetually locked in harsh winter with highly unpredictable weather influenced by [[The Tumult]] generating capricious winds.
 
-**Strategic Objective**: The goal was to reach [[Altered/Locations/Regions/Cais Adarra]] as quickly as possible. Though the cold there would be even harsher, the peak would provide secure haven against [[The Tumult|Tumult]] singularities plaguing the lower regions. Meteorologists observed that [[The Tumult|Tumult]] winds were repelled by the rocky peak, suggesting the mountain was likely an [[Oases|Oasis]] or pocket of stability.
+**Strategic Objective**: The goal was to reach [[Cais Adarra]] as quickly as possible. Though the cold there would be even harsher, the peak would provide secure haven against [[The Tumult|Tumult]] singularities plaguing the lower regions. Meteorologists observed that [[The Tumult|Tumult]] winds were repelled by the rocky peak, suggesting the mountain was likely an [[Oases|Oasis]] or pocket of stability.
 
 **Support Operations**: In coordination with [[Rediscovery Endeavor|Expeditionary Corps]] team leaders, a decision was made to deploy contingents of explorers using [[The Ouroboros]] to assist the [[Initiates|Exalts]] when [[The Tumult|Tumult]] currents were sufficiently calm. The [[Initiates|Exalts]] and select [[Alterers]] would shield troops from [[The Tumult]], while explorers would provide relief from cold and direct support during the journey. [[Axiom]] deployed probes to survey terrain ahead.
 

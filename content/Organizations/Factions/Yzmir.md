@@ -3,7 +3,7 @@ title: "Yzmir"
 type: organization
 category: faction
 source: "faction_yzmir"
-founded: null
+founded: 14 AC
 founder: "[[Aysun]]"
 status: "active"
 dissolved_date: null

@@ -1,29 +1,39 @@
 ---
 title: Tyr
-type: concept
-category: deity
-source: T7_Far_Far_Beneath_In_The_Abysmal_Sea
-related_concepts: ["[[The Oneiroi]]", "[[Athena]]", "[[Odysseus]]", "[[Ordis]]", "[[The Aegis|Aegis]]"]
-associated_factions: ["[[Ordis|Ordis]]"]
-associated_locations: []
-first_mentioned: "392 AC"
-description_summary: Deity of justice and warfare invoked by Sigismar Synd before battle against the Kraken
-tags:
-  - deity
-  - oneiros
-  - justice
-  - warfare
-  - Ordis
+type: character
+category: eidolon
+source: ["[[T7_far_far_beneath_in_the_abysmal_sea]]"]
+birth_date: null
+death_date: null
+status: active
+fate: null
+species: eidolon
+became_oneiros: true
+affiliated_faction: "[[Ordis]]"
+founded_organizations: []
+titles: []
+lineage: null
+key_events: []
+locations_associated: []
+tags: [deity, eidolon, justice, warfare, ordis]
 ---
+
+# Tyr
 
 ## Overview
 
-Tyr is a deity associated with justice and warfare, invoked by warriors and strategists of the Ordis Faction, particularly those serving in the Aegis.
+Tyr is an [[Eidolon]] deity associated with justice and warfare, invoked by warriors and strategists of the [[Ordis]] Faction.
 
-## Invocation
+## Timeline
 
-During the battle against the Kraken in 392 AC, Sigismar Synd (Paladin of the Aegis) prayed to Tyr alongside Athena and Odysseus as the Ouroboros approached the trap they had set. This invocation sought divine favor for the success of his strategic plan.
+### 392 AC - Invocation Before Kraken Battle
 
-## Cultural Significance
+[[Sigismar Synd]], Paladin of [[The Aegis]], prayed to Tyr alongside [[Athena]] and [[Odysseus]] as [[The Ouroboros]] approached the trap set for the [[Kraken]].
 
-Tyr represents martial prowess and righteous warfare, qualities highly valued by the Ordis Faction and especially important to the military forces of the Aegis who must uphold justice through strength.
+## Relationships
+
+- **[[Sigismar Synd]]**: Paladin who invoked Tyr before battle (392 AC)
+- **[[Athena]]**: Deity invoked alongside Tyr (392 AC)
+- **[[Odysseus]]**: Eidolon invoked alongside Tyr (392 AC)
+- **[[The Aegis]]**: Ordis military force whose members invoke Tyr
+- **[[Kraken]]**: Leviathan whose battle prompted Tyr's invocation

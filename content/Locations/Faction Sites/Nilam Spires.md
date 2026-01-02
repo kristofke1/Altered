@@ -39,55 +39,39 @@ tags:
 # Nilam Spires
 
 ## Overview
-
-The Nilam Spires is a [[Yzmir]] structure at [[The Screed]] outpost, constructed from bark fragments transported from the fallen [[The Nilam|World Tree]] using powerful magic. The structure serves as part observatory and part weather station for the [[Expeditionary Corps]].
+The Nilam Spires is a [[Yzmir]] structure at [[The Screed]] outpost, constructed from bark fragments transported from the fallen [[The Nilam|World Tree]]. The structure serves as observatory and weather station for the [[Expeditionary Corps]].
 
 ## Construction
-
-The [[Yzmir]] transported bark fragments from [[The Nilam]] to construct the Nilam Spires, earning the structure its poetic name. The bark panels are stitched together into makeshift walls like a patchwork mosaic—uneven and mismatched, resembling collages patched with [[Alteration]] as a child plays with glue or as a surgeon stitches up a wound. Despite the unrefined appearance, the bark's resistance to [[The Tumult]] was the decisive argument for its use in construction.
+The [[Yzmir]] transported bark fragments from [[The Nilam]] using powerful magic. The bark panels are stitched together into makeshift walls, uneven and mismatched, patched with [[Alteration]]. The bark's resistance to [[The Tumult]] was the decisive factor in its use.
 
 ## Research Functions
 
-### Tumult Studies
+**Tumult Studies**: The facility houses [[Yzmir]] Tumult theorists and climatologists. Through their research, [[Horomancy]] practitioners work to predict mutagenic flow trajectories and identify potential singularities.
 
-The Nilam Spires house the [[Yzmir]]'s foremost [[The Tumult|Tumult]] theorists and climatologists. Studying Tumult currents remains a top priority for the Faction's members, especially to prevent mishaps like those that occurred during the [[Storvhit]] exploration. Through their research, leading minds of the [[Horomancy]] Sphere hope to predict the evolution and trajectory of mutagenic flows and identify potential singularities before they appear.
+**Magical Laboratories**: The Spires contain laboratories where [[Initiates]] pursue esoteric studies.
 
-### Magical Laboratories
+**Dimensional Pocket Laboratory**: At the seventh branch, a portal on the wall leads to a laboratory existing neither in reality nor [[The Empyrean]]. In 393 AC, [[Afanas Korovinovich]] visited this space with [[Fasano]], where [[Kuwat Vasanti]], [[Isikeli]], [[Moyo Chibuye]], and [[Saskia Averina]] studied a [[Silk|Nilam larva]].
 
-Beyond safety concerns, the Spires contain numerous magical laboratories where [[Initiates]] can pursue esoteric studies.
+**Mana Moths Research**: [[The Vivarium]], an artificial habitat crafted from Nilam bark, houses [[Mana Moths]] swarms raised by entomologists under joint supervision of [[Moyo Chibuye]] and [[Saskia Averina]].
 
-### Dimensional Pocket Laboratory
+**Nilam Larva**: In 393 AC, researchers discovered a dormant larva inside [[The Nilam]]'s bark. [[Saskia Averina]] was called to study the specimen, which grew from fist-sized to approximately the size of a medium dog.
 
-At the seventh branch, a dimensional pocket accessible through a puddle-like portal on the wall contains a laboratory existing neither in reality nor the Empyrean. The laboratory houses research specimens including the [[Silk|Nilam larva]] discovered in world-tree bark. In 393 AC, [[Afanas Korovinovich]] visited this laboratory with [[Fasano]] where [[Kuwat Vasanti]], [[Isikeli]], [[Moyo Chibuye]], and [[Saskia Averina]] studied the awakened specimen.
-
-### Mana Moths Research
-
-A special focus has been given to the study of [[Mana Moths]] and their intrinsic duality, hovering at the boundary between reality and illusion. Inside [[The Vivarium]], an artificial habitat crafted from Nilam bark and branches, swarms of Mana Moths are raised by teams of entomologists under the joint supervision of [[Moyo Chibuye]] and [[Saskia Averina]].
-
-### Nilam Larva Discovery
-
-In 393 AC, researchers discovered a still-living larva curled dormant inside [[The Nilam]]'s bark, approximately fist-sized when found. The specimen was transported to laboratories at the Nilam Spires where [[Saskia Averina]] was called to study it. Under care, the larva grew to approximately the size of a medium dog.
-
-### Sap Research
-
-The Nilam Spires established a workshop dedicated to studying [[Sap]] for magical applications. Raw Sap proved unsuitable, but refinement into decoctions provided mental comfort. Researchers discovered that inhaling Sap vapors sharpens focus for [[Mana]] manipulation during magical operations. The facility now produces infusion sachets for [[Yzmir]] mages on expeditions—first inhaled to sharpen the mind, then drunk to relax the body before spellcasting.
+**Sap Research**: A workshop studies [[Sap]] for magical applications. Researchers discovered that inhaling Sap vapors sharpens focus for [[Mana]] manipulation. The facility produces infusion sachets for [[Yzmir]] mages on expeditions.
 
 ## Relationships
-
 - **[[The Screed]]**: Outpost where the Nilam Spires are located
 - **[[The Nilam]]**: Fallen World Tree whose bark was used in construction
 - **[[The Vivarium]]**: Sub-location housing Mana Moth habitat
 - **[[Yzmir]]**: Faction controlling the facility
-- **[[Moyo Chibuye]]**: Co-supervisor of The Vivarium; reported on [[Silk]] at observatory meeting (393 AC)
-- **[[Saskia Averina]]**: Co-supervisor of The Vivarium
+- **[[Moyo Chibuye]]**: Co-supervisor of The Vivarium
+- **[[Saskia Averina]]**: Co-supervisor of The Vivarium; studies Nilam larva
 - **[[Zaj Ke Va]]**: Satrap who leads meetings at the observatory (393 AC)
-- **[[Sylas]]**: [[Yzmir]] mage who proposed flying over [[Tumult Depression]] at observatory meeting (393 AC)
+- **[[Sylas]]**: Yzmir mage present at observatory meeting (393 AC)
 - **[[Mana Moths]]**: Species studied at the facility
-- **[[Horomancy]]**: Magical sphere whose practitioners conduct research at the Spires
-- **[[Sap]]**: Substance researched for magical enhancement applications
-- **[[Mana]]**: Magical energy whose manipulation is enhanced by Sap inhalation
+- **[[Horomancy]]**: Magical sphere practiced by researchers
+- **[[Sap]]**: Substance researched for magical enhancement
 - **[[Silk]]**: Chimera larva housed at the facility (393 AC)
-- **[[Afanas Korovinovich]]**: [[Yzmir]] Exalt who visited dimensional pocket laboratory (393 AC)
-- **[[Fasano]]**: [[Yzmir]] Disciple who accompanied Afanas to laboratory (393 AC)
-- **[[Kuwat Vasanti]]**: [[Eidolons|Eidolon]] present at dimensional pocket laboratory (393 AC)
+- **[[Afanas Korovinovich]]**: Visited dimensional pocket laboratory (393 AC)
+- **[[Fasano]]**: Accompanied Afanas to laboratory (393 AC)
+- **[[Kuwat Vasanti]]**: Present at dimensional pocket laboratory (393 AC)
 - **[[Isikeli]]**: Present at dimensional pocket laboratory (393 AC)

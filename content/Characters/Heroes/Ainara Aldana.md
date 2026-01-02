@@ -41,7 +41,7 @@ Ainara Aldana was Baron of the Tribe of the Lower Banks, one of three Barons who
 
 Aldana led the Tribe of the Lower Banks when the reunited Tumult Nomad tribes faced potential civil war over resources and power. When [[Cilistro Tighe]] mobilized forces, Aldana and [[Balram Kasun]] did the same, preparing for confrontation at [[Kuningasplatz]].
 
-[[Heshkari]]'s coalition encircled the three Baron armies and demanded peaceful resolution. The Barons were on the verge of rejecting the ultimatum when the [[Phoenix]] descended from the [[Acus]], perching on [[Rune]]'s shoulder and crowning him with fire. Aldana bent the knee along with all others present.
+[[Heshkari]]'s coalition encircled the three Baron armies and demanded peaceful resolution. The Barons were on the verge of rejecting the ultimatum when the [[Phoenix]] descended from the [[The Acus]], perching on [[Rune]]'s shoulder and crowning him with fire. Aldana bent the knee along with all others present.
 
 Rune appointed Aldana to the [[Trusted Council]] alongside both his original allies and the other Barons, transforming former opponents into the [[The Runic Knights|Runic Knights]].
 

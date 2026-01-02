@@ -13,7 +13,7 @@ affiliated_faction: "[[Axiom]]"
 alignment:
 purpose: Minor noble house of venerable ancestry
 locations:
-  - "[[Kuth Kanat 1]]"
+  - "[[Kuth Kanat]]"
   - "[[Arkaster]]"
 key_figures: []
 related_organizations:
@@ -35,7 +35,7 @@ House Arundhani is one of the venerable names among the [[New Exchequer]], the c
 Despite being part of the minor Houses, House Arundhani has no reason to feel inferior in terms of ancestry and is recognized as a venerable name.
 
 ## Location
-House Arundhani has settled on the slopes of [[Kuth Kanat 1]], opposite to the [[Altered/Organizations/Nobility/Old Nobility]]'s [[Tesh Kanat 1]] district.
+House Arundhani has settled on the slopes of [[Kuth Kanat]], opposite to the [[Old Nobility]]'s [[Tesh Kanat]] district.
 
 ## Strategic Investment
-By investing in the [[Axiom]], House Arundhani and other minor Houses made a shrewd move. Recently, these families have seen their prestige grow significantly. Today, the influence and wealth of the [[New Exchequer]] rival that of the [[Altered/Organizations/Nobility/Old Nobility]].
+By investing in the [[Axiom]], House Arundhani and other minor Houses made a shrewd move. Recently, these families have seen their prestige grow significantly. Today, the influence and wealth of the [[New Exchequer]] rival that of the [[Old Nobility]].

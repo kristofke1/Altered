@@ -14,13 +14,11 @@ present_factions:
   - "[[Axiom]]"
 government_type:
 notable_features:
-  - Cathedral of glass and metal architecture
+  - Glass and metal architecture
   - Forges and assembly workshops
-  - Endless production lines
+  - Production lines
   - Underground Kelon warehouses
-  - Recycling plant in the depths
-  - Iridescent vapors and crackling sparks throughout
-  - Temperature varies from suffocating heat to cold depths
+  - Recycling plant in depths
 climate:
 characters: []
 tags:
@@ -33,40 +31,22 @@ tags:
 
 # The Foundry
 
-The Foundry is the Bastion of the [[Axiom]] Faction, located within the capital [[Arkaster]]. This massive industrial complex serves as the primary manufacturing center and headquarters for the Axiom.
+## Overview
+The Foundry is the Bastion of the [[Axiom]] faction, located in [[Arkaster]]. This industrial complex serves as the primary manufacturing center and headquarters for the faction.
 
 ## Architecture
+The Foundry is a glass and metal structure combining architectural grandeur with industrial functionality.
 
-The Foundry is described as a cathedral of glass and metal, creating an imposing structure dedicated to craftsmanship and ingenuity. The building combines architectural grandeur with industrial functionality.
-
-## Interior Features
-
-The interior is a factory in perpetual motion, characterized by:
-- Forges and assembly workshops operating continuously
-- Endless production lines running at full throttle
-- Iridescent vapors and crackling sparks throughout
-- Deafening din from gears, cogs, and machinery
-- Vats for chemical product distillation
-- Assembly lines producing technological devices for mass distribution
-
-The atmosphere is suffocating with heat, the air tinted red from flames and molten metals.
+## Main Level
+The interior contains forges and assembly workshops operating continuously, production lines, vats for chemical distillation, and assembly lines producing technological devices for distribution. The air is heated by flames and molten metals.
 
 ## Underground Section
-
-Deep within the Foundry's troglodyte section, the temperature drops drastically. Here, enormous [[Kelon]] warehouses are carved into the rock. The storage caverns feature:
-- Floor-to-ceiling rows of Kelon cylinders
-- White walls in cool dimness
-- Secure storage for the Faction's energy reserves
-
-The recycling plant is also located in the depths of the Bastion, where waste and obsolete appliances are collected for reuse. This area includes forbidden or forgotten sections that some explore despite the risks.
+Deep within the Foundry, the temperature drops. Enormous [[Kelon]] warehouses are carved into the rock, with floor-to-ceiling rows of Kelon cylinders stored in cool caverns. The recycling plant is also located in the depths, where waste and obsolete appliances are collected for reuse.
 
 ## Function
+The Foundry serves as the manufacturing hub for [[Axiom]] technology, storage facility for [[Kelon]] reserves, location for Guild workshops, recycling operations center, and administrative center for the faction.
 
-The Foundry serves multiple purposes:
-- Manufacturing hub for [[Axiom]] technology
-- Storage facility for [[Kelon]] reserves
-- Guild workshops and assembly areas
-- Recycling operations center
-- Administrative center for the Faction
-
-The Foundry represents the heart of Axiom's industrial operations and their commitment to technological progress and innovation.
+## Relationships
+- **[[Arkaster]]**: Capital city where the Foundry is located
+- **[[Axiom]]**: Faction whose Bastion this is
+- **[[Kelon]]**: Energy source stored in underground warehouses

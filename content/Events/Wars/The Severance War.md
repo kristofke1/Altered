@@ -3,8 +3,8 @@ title: "The Severance War"
 type: event
 category: war
 source: "L13_the_severance_war"
-date_start: "Early 3rd century AC"
-date_end: null
+date_start: 252 AC
+date_end: 257 AC
 duration: "5 years"
 locations: ["[[Asgartha]]", "[[Arkaster]]", "[[Caer Arcolano]]"]
 factions: ["[[Yzmir]]", "[[Ordis]]"]

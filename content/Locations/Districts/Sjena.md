@@ -31,7 +31,7 @@ tags: [district, arkaster, permukaan, poor, deteriorating, historic, legendary]
 # Sjena
 
 ## Overview
-Sjena is a Permukaan district of [[Arkaster]], wedged between the island of [[Kuna]] and the rocky foothills of the [[Kemeri]] peninsula. The district is almost perpetually shrouded in shadows, whether cast from the [[Acus]] or [[The Asterion]].
+Sjena is a Permukaan district of [[Arkaster]], wedged between the island of [[Kuna]] and the rocky foothills of the [[Kemeri]] peninsula. The district is almost perpetually shrouded in shadows, whether cast from the [[The Acus]] or [[The Asterion]].
 
 ## Current Condition
 Sjena is a poor district whose foundations are beginning to deteriorate. Entire houses are sinking into the mud or under the water. The streets are almost always submerged. Numerous stray cats live in this maze of beams and abandoned roofs.
@@ -49,7 +49,7 @@ This historic district is no longer as popular. [[Aerolith]] technology has enab
 - **[[Arkaster]]**: City containing the district
 - **[[Kuna]]**: Island adjacent to the district
 - **[[Kemeri]]**: Peninsula whose foothills border the district
-- **[[Acus]]**: Peak casting shadow over the district
+- **[[The Acus]]**: Peak casting shadow over the district
 - **[[The Asterion]]**: Palace casting shadow over the district
 - **[[Fosa]]**: District to which wealthier residents have migrated
 - **[[Renkairi]]**: District to which wealthier residents have migrated

@@ -8,6 +8,15 @@ An encyclopedic documentation of the world, characters, and events of the **Alte
 
 *Explore the last bastion of humanity, meet the [[Exalts]] who fight to survive, and uncover the mysteries of [[The Tumult]].*
 
+Currently this repository contains up-to-date information from:
+ - Beyond the Gates
+ - Trial by Frost
+ - Whispers from the Maze
+
+Not yet included:
+ - Skybound Odyssey
+ - Seeds of Unity
+
 ---
 
 ## Main Sections

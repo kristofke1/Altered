@@ -13,7 +13,7 @@ affiliated_faction: "[[Axiom]]"
 alignment:
 purpose: Minor noble house of venerable ancestry
 locations:
-  - "[[Kuth Kanat 1]]"
+  - "[[Kuth Kanat]]"
   - "[[Arkaster]]"
 key_figures: []
 related_organizations:
@@ -35,7 +35,7 @@ House Dewitt is one of the venerable names among the [[New Exchequer]], the coll
 Despite being part of the minor Houses, House Dewitt has no reason to feel inferior in terms of ancestry and is recognized as a venerable name.
 
 ## Location
-House Dewitt has settled on the slopes of [[Kuth Kanat 1]], opposite to the [[Old Nobility]]'s [[Tesh Kanat 1]] district.
+House Dewitt has settled on the slopes of [[Kuth Kanat]], opposite to the [[Old Nobility]]'s [[Tesh Kanat]] district.
 
 ## Strategic Investment
 By investing in the [[Axiom]], House Dewitt and other minor Houses made a shrewd move. Recently, these families have seen their prestige grow significantly. Today, the influence and wealth of the [[New Exchequer]] rival that of the [[Old Nobility]].

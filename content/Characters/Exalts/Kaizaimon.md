@@ -19,7 +19,7 @@ key_events:
   - "[[The Musubi]]"
   - "[[The Rediscovery Endeavor]]"
 locations_associated:
-  - "[[Cebir, The|Cebir]]"
+  - "[[Cebir]]"
 tags:
   - chimera
   - alter-ego
@@ -31,7 +31,7 @@ tags:
 # Kaizaimon
 
 ## Overview
-Kaizaimon (nicknamed "Kai") is an oni Chimera and Alter Ego bonded to [[Basira al-Arshad]]. He appears as a demonic tattoo that moves across her skin and can manifest as a powerful oni wielding a tetsubÅ (metal club). Kaizaimon was freed from captivity and torture by Basira during the first [[Cebir, The|Cebir]] expedition in 329 AC.
+Kaizaimon (nicknamed "Kai") is an oni Chimera and Alter Ego bonded to [[Basira al-Arshad]]. He appears as a demonic tattoo that moves across her skin and can manifest as a powerful oni wielding a tetsubÅ (metal club). Kaizaimon was freed from captivity and torture by Basira during the first [[Cebir]] expedition in 329 AC.
 
 ## Captivity and Liberation
 During the disastrous Cebir expedition of 329 AC, [[Basira al-Arshad]] discovered Kaizaimon imprisoned and tortured by the attackers who controlled [[Mantichora]] and [[Khimaira]]. When she freed him from his captivity, the Chimera chose to bond with her.
@@ -47,7 +47,7 @@ During Basira's long recovery from trauma, Kaizaimon moved across her skin as an
 When [[Basira al-Arshad|Basira]] became a Seiringar instructor at [[Haven]] in 368 AC, Kaizaimon proved invaluable in training [[The Rediscovery Endeavor|Expeditionary Corps]] recruits. His appearance alone was enough to motivate troops to meet the demanding expectations required for survival in the [[The Tumult|Tumult]].
 
 ## Return to Cebir (392 AC)
-Upon returning to [[Cebir, The|Cebir]] in 392 AC, Kaizaimon did not seem thrilled to revisit the place of his torment and torture. He slid across Basira's skin as a living, shifting tattoo, his face appearing on her forearm with eyes white like milk. He communicated his desire for vengeance against their tormentor.
+Upon returning to [[Cebir]] in 392 AC, Kaizaimon did not seem thrilled to revisit the place of his torment and torture. He slid across Basira's skin as a living, shifting tattoo, his face appearing on her forearm with eyes white like milk. He communicated his desire for vengeance against their tormentor.
 
 When [[Afanas Korovinovich]] summoned the scent of chrysanthemums through [[Alteration]] - a fragrance associated with their tormentor - Kaizaimon burst from Basira like an enraged lion. He manifested in his full oni form, swinging his tetsubÅ with such force that it shattered wooden beams like brittle twigs and sent railings flying in a shower of splintered wood.
 

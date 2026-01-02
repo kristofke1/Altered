@@ -41,11 +41,11 @@ Reykur is home to numerous altars dedicated to the [[Eidolons]]. It is not uncom
 Primarily residential, the district is often deserted during the day but comes to life at nightfall when its inhabitants return from their day's work.
 
 ## Geographic Features
-Reykur is overlooked by a sharp peak, the [[Acus]], which is the highest point of the Peninsula. At the base of this rocky promontory stands the [[Wright Altiport]], from which airships and aerostats service the entire Peninsula.
+Reykur is overlooked by a sharp peak, the [[The Acus]], which is the highest point of the Peninsula. At the base of this rocky promontory stands the [[Wright Altiport]], from which airships and aerostats service the entire Peninsula.
 
 ## Relationships
 - **[[Arkaster]]**: City containing the district
 - **[[Eidolons]]**: Entities to whom the district's altars are dedicated
-- **[[Acus]]**: Sharp peak overlooking the district, highest point of the Peninsula
+- **[[The Acus]]**: Sharp peak overlooking the district, highest point of the Peninsula
 - **[[Wright Altiport]]**: Airship and aerostat hub at base of Acus
 - **[[Sonowen]]**: Neighboring quiet residential district

@@ -59,9 +59,6 @@ In the scriptoria, Scribes are tasked with recording new discoveries and recent 
 ### Technological Adaptation
 Some Scribes work with Kelon-powered presses installed by the [[Axiom]] to facilitate their work, though some complain about the hum of these machines disrupting the solemn tranquility of the place. This represents the ongoing tension between traditional methods and technological advancement within the Ordis.
 
-## Distinction from Other Alterers
-Unlike [[Alterers]] of other factions who manipulate reality through different means, Scribes are defined by their use of the written word. Their practice of [[Heka|The Heka]] sets them apart as practitioners who believe in the fundamental power of language to shape reality itself.
-
 ## Requirements
 To become a Scribe, one must:
 - Be an [[Alterers|Alterer]] capable of [[Alteration]]

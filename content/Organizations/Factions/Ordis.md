@@ -3,8 +3,8 @@ title: "Ordis"
 type: organization
 category: faction
 source: ["faction_ordis", "[[L30_Clear_Skies]]"]
-founded: null
-founder: null
+founded: 21 AC
+founder: "[[Caellach]]"
 status: "active"
 dissolved_date: null
 parent_organization: null
@@ -107,45 +107,3 @@ The Ordis coordinates with the [[Yzmir]] regarding research into the causes of t
 
 Examination of relics, artifacts, and customs has offered an imperfect view of humanity's past greatness. Some certainties have emerged: many mythical lands and nations existed before being erased by [[The Tumult]], and some may have shone across the four corners of Creation. These insights fuel wild speculations and nurture the Ordis' hope of building a unified humanity under one banner.
 
-## Governance Responsibilities - May 393 AC
-
-### Caer Nilam Provincial Governance
-
-[[Temera Singh]] granted temporary governance of [[Storvhit]] (designated [[Caer Nilam]] Province) to Ordis, supported by [[Yzmir]]. Decision made after much deliberation and despite [[Muna]] envoys urging region be turned into natural reserve like [[Katkera]]. In harsh climate of [[Caer Nilam]], oversight from Ordis considered crucial with strict regulations enforced for enclave to remain viable over time.
-
-### Regulatory Responsibilities
-
-Ordis bears responsibility for:
-- Overseeing contingents that must remain to stabilize and reinforce [[Oases|Oasis]]
-- Ensuring longevity of [[Caer Nilam]] Province
-- Maintaining permanent embodiment of [[Jack Frost]] in area to sustain arctic climate
-- Enforcing strict regulations for enclave viability
-- Managing indigenous relations with [[Winter Folk]] and [[Belisenki]]
-
-### Yzmir Support
-
-[[Yzmir]] granted support role in governance as they provide precious cocoons protecting expeditionary forces from hostility of [[Belisenki]]. Ordis/Yzmir partnership reflects combined strengths: Ordis regulatory expertise and Yzmir protective technologies.
-
-### Political Challenges
-
-Task will not be easy with political pressure and public opinion expected to peak in coming months and years regarding governance arrangements. [[Temera Singh]] hoped other Factions would accept ruling without resistance. Governance represents first territorial administration of newly discovered lands by [[Rediscovery Endeavor]].
-
-## Relationships
-
-- **[[Axiom]]**: Partner faction in Covenant
-- **[[Bravos]]**: Partner faction in Covenant
-- **[[Lyra]]**: Partner faction in Covenant whose precepts influence Ordis adaptability
-- **[[Muna]]**: Partner faction in Covenant; diplomatically opposed to [[Caer Nilam]] governance model
-- **[[Yzmir]]**: Partner faction in Covenant; supporting [[Caer Nilam]] governance
-- **[[The Tetrarchy]]**: Leadership council at head of faction hierarchy
-- **[[The Monolith]]**: Bastion located in [[Arkaster]]
-- **[[The Sanctum]]**: Library housing all knowledge of world
-- **[[The Anthill]]**: Government offices and assembly location
-- **[[The Codex]]**: Body of laws maintained by faction
-- **[[The Gestalt]]**: Consciousness-pooling network connecting Ordis members
-- **[[Caer Nilam]]**: Province granted to Ordis governance (May 393 AC)
-- **[[Storvhit]]**: Arctic region under Ordis temporary governance
-- **[[Temera Singh]]**: Grand Admiral who granted governance to Ordis (May 15, 393 AC)
-- **[[Jack Frost]]**: [[Oneiros]] whose embodiment Ordis must maintain
-- **[[Winter Folk]]**: Indigenous population requiring Ordis oversight
-- **[[Belisenki]]**: Indigenous species requiring Ordis oversight

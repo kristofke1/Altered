@@ -38,21 +38,21 @@ During Rune's reign, the [[Phoenix]] died in one of its cyclical deaths, and its
 [[Ceren]] was Rune's Consort and had no idea where he could be when he vanished.
 
 ### Daughter
-[[Aysun]] was Rune's daughter, who continued his lineage and founded the [[Yzmir]] Faction. Alternative theories about Rune's disappearance include a violent altercation with Aysun on the heights of [[Sekent Isle]] the night before his disappearance.
+[[Aysun]] was Rune's daughter, who continued his lineage and founded the [[Yzmir]] Faction. Alternative theories about Rune's disappearance include a violent altercation with Aysun on the heights of [[Altered/Locations/Geographic Features/Sekent|Sekent]] Isle the night before his disappearance.
 
 ## The Rune Knights
 Rune surrounded himself with heroes—the Rune Knights—to govern. These included:
 - [[Caellach]] (later founded the Ordis)
 - [[Heshkari]] (later founded the Bravos)
 - [[Aksoy]] (disappeared with Rune)
-- [[Aldana]] (disappeared with Rune)
+- [[Ainara Aldana]] (disappeared with Rune)
 - [[Heeren]] (disappeared with Rune)
 - [[Tamrat]] (led the investigation into Rune's disappearance)
 
 ## The Vanishing (42 AC)
 
 ### The Disappearance
-After over forty years of reign, Rune vanished without a trace, as if by magic. His quarters were found empty, his rooms abandoned. At the same time, three of the Rune Knights—[[Aksoy]], [[Aldana]], and [[Heeren]]—also disappeared, taking their weapons and armor with them, just like the High King. There was no evidence to suspect any foul play.
+After over forty years of reign, Rune vanished without a trace, as if by magic. His quarters were found empty, his rooms abandoned. At the same time, three of the Rune Knights—[[Aksoy]], [[Ainara Aldana]], and [[Heeren]]—also disappeared, taking their weapons and armor with them, just like the High King. There was no evidence to suspect any foul play.
 
 ### The Investigation
 An inquiry commission was appointed under the authority of [[Tamrat]], one of Rune's close companions. Tamrat discovered that:
@@ -67,7 +67,7 @@ The death of Asgartha's first Kuningas was announced with great pomp. [[Ceren]] 
 
 ### Alternative Theories
 Many other rumors challenge the official version:
-- A violent altercation between Rune and [[Aysun]] on [[Sekent Isle]] the night before his disappearance
+- A violent altercation between Rune and [[Aysun]] on [[Altered/Locations/Geographic Features/Sekent|Sekent]] Isle the night before his disappearance
 - [[Tamrat]] begged forgiveness on his deathbed for the secret he took to the grave
 
 ## The Phoenix Egg Mystery

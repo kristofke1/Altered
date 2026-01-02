@@ -13,7 +13,7 @@ affiliated_faction: "[[Yzmir]]"
 alignment:
 purpose: Noble house, lineage of first Kuningas, devoted to scholarship
 locations:
-  - "[[Tesh Kanat 1]]"
+  - "[[Tesh Kanat]]"
   - "[[Arkaster]]"
 key_figures:
   - "[[Aysun]]"
@@ -44,7 +44,7 @@ The ruun-Aysun have long since abandoned any political ambitions, choosing inste
 The house is closely associated with the [[Yzmir]] Faction, which was founded by Aysun.
 
 ## Location
-House ruun-Aysun is established in the [[Tesh Kanat 1]] district of [[Arkaster]] as part of the Old Nobility.
+House ruun-Aysun is established in the [[Tesh Kanat]] district of [[Arkaster]] as part of the Old Nobility.
 
 ## Relationships
 

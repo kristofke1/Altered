@@ -1,61 +1,53 @@
 ---
 title: Mnemosyne
 type: character
-category: deity
+category: eidolon
 source: ["heroes_lyra", "[[T3_catch_the_drift]]", "[[T24_A_Whisper_in_The_Wind]]"]
-birth_date:
-death_date:
-reign_period:
+birth_date: null
+death_date: null
 status: unknown
-fate:
-species: deity
+fate: null
+species: eidolon
 became_oneiros: false
-affiliated_faction:
+affiliated_faction: null
 founded_organizations: []
-titles:
-  - Goddess of Memory
-  - Mother of the Muses
-lineage:
+titles: ["Goddess of Memory", "Mother of the Muses"]
+lineage: null
 key_events: []
 locations_associated: []
-tags:
-  - deity
-  - goddess
-  - muses
-  - memory
-  - lyra
-  - mnemosyne
-aliases:
-  - The Goddess of Memory
+tags: [deity, goddess, muses, memory, lyra]
+aliases: ["The Goddess of Memory"]
 ---
 
 # Mnemosyne
 
 ## Overview
-Mnemosyne is the goddess of memory and the mother of the Muses. She is believed to hold the memory of the world and to shed light on all that humanity had forgotten. The Muses, also known as [[The Nine Sisters]], serve as tutelary patrons to the nine [[Lyra]] [[Saraband|Sarabands]], and each Matriarch of these Sarabands serves as the voice of one Muse.
 
-## Relationship to The Nine Sisters
-The Matriarchs are each the voice of a Muse, and each Muse is the patroness of a [[Lyra]] Clan. [[The Nine Sisters]] are the daughters of Mnemosyne. Because Mnemosyne is their mother, she theoretically holds authority over [[The Nine Sisters]] and could impose her will upon them.
+Mnemosyne is the goddess of memory and mother of the Muses, also known as [[The Nine Sisters]]. She is believed to hold the memory of the world and to shed light on all that humanity has forgotten. Each of [[The Nine Sisters]] serves as tutelary patron to a [[Lyra]] [[Saraband]], and each Matriarch serves as the voice of one Muse. As their mother, Mnemosyne theoretically holds authority over [[The Nine Sisters]] and could impose her will upon them.
 
-## Knowledge and Memory
-Mnemosyne is believed to possess all memory and knowledge. Since she is the goddess of memory, she technically remembers everything. This makes her the ultimate source of forgotten knowledge and lost history.
+## Quests to Find Mnemosyne
 
-## Cayrat Steinn's Quest
-[[Cayrat Steinn]], the former Shepherd of the [[Kasirga Clan]], set his mind on finding Mnemosyne. He believed that only she could hold the memory of the world and shed light on all that humanity had forgotten. This was his dream and aspiration that he shared with [[Esmeralda]].
+[[Cayrat Steinn]], the former Shepherd of the [[Kasirga Clan]], sought to find Mnemosyne, believing only she could hold the memory of the world. After his death, [[Esmeralda]] continued this quest, understanding that finding Mnemosyne might allow [[Cayrat Steinn]] to persist as an [[Eidolon]] rather than fading into nothingness.
 
-## Esmeralda's Continuity
-When [[Esmeralda]] was chosen to take [[Cayrat Steinn]]'s place as Shepherd, she understood that continuity meant finding Mnemosyne, the goddess of memory. To rediscover the memory of a world that the Age of [[The Tumult|Tumult]] had seen fade away - this was what Cayrat had always wanted. It was a goal she could achieve for him, for both of them.
+[[Nevenka]] suggested to [[Fen]] that if she sought forgotten knowledge about [[The Song of One]], finding Mnemosyne would be the way—she would surely know the words since she remembers everything.
 
-Through finding Mnemosyne, [[Cayrat Steinn]] might be able to free himself from the grasp of nothingness, not be forgotten by his peers, and thus remain with [[Esmeralda]] for all eternity.
+## Timeline
 
-## Fen's Quest
-[[Nevenka]] suggested to [[Fen]] that if she sought forgotten knowledge about [[The Song of One]], perhaps the best way to do it was to find Mnemosyne. She would surely know the words of [[The Song of One]], since technically, she remembered everything.
+### 393 AC - Fen's Strategy
 
-What initially seemed like a simple joke made its way into [[Fen]]'s mind. [[Nevenka]] wasn't wrong. If there was someone to impose her will on [[The Nine Sisters]], it was Mnemosyne, their mother. This could potentially help reunite the [[Lyra]] Clans and lift the [[Kasirga Clan]]'s banishment.
-
-### Fen's Strategy - 393 AC
-
-During hot spring leisure at [[Storvhit]], [[Fen]] confided detailed plan to [[Auraq]]: find [[The Song of One]] to reunite [[The Nine Matriarchs]] as [[Chiara Caceres]] once did, seek Mnemosyne who holds all world's memories and knows Song's words, then call upon her [[Eidolons|Eidolon]] to convince [[The Nine Sisters|Muses]] to sway [[The Nine Matriarchs]] since Mnemosyne is their mother. [[Fen]] maintained determination despite acknowledging plan seemed unrealistic: "I will make things right. I know it's the right thing to do, and the Wind agrees with me." [[Auraq]] recognized sincerity in [[Fen]]'s desire but suspected someone in shadows planted idea about seeking Mnemosyne, noting mention seemed no coincidence alongside [[Kasirga Clan]] exile.
+During leisure at [[Storvhit]] hot springs, [[Fen]] confided her plan to [[Auraq]]: find [[The Song of One]] to reunite [[The Nine Matriarchs]] as [[Chiara Caceres]] once did, seek Mnemosyne who holds all world's memories and knows the Song's words, then call upon her [[Eidolon]] to convince [[The Nine Sisters|the Muses]] to sway the Matriarchs. [[Auraq]] suspected someone had planted the idea about seeking Mnemosyne, noting the mention seemed no coincidence alongside the [[Kasirga Clan]] exile.
 
 ## Current Status
-Mnemosyne's current whereabouts are unknown. She exists somewhere within the world's memory and forgotten places, potentially accessible through the [[Rediscovery Endeavor]]'s exploration beyond [[Asgartha]].
+
+Mnemosyne's whereabouts are unknown. She exists somewhere within the world's memory, potentially accessible through the [[Rediscovery Endeavor]]'s exploration beyond [[Asgartha]].
+
+## Relationships
+
+- **[[The Nine Sisters]]**: Her daughters, the Muses who patron the Lyra Clans
+- **[[Cayrat Steinn]]**: Former Shepherd who sought to find her
+- **[[Esmeralda]]**: Eidolon continuing Cayrat's quest to find Mnemosyne
+- **[[Fen]]**: Lyra Exalt seeking Mnemosyne to learn The Song of One (393 AC)
+- **[[Nevenka]]**: Suggested to Fen that Mnemosyne would know the Song's words
+- **[[Auraq]]**: Heard Fen's plan to seek Mnemosyne (393 AC)
+- **[[The Song of One]]**: Lost song whose words Mnemosyne would remember
+- **[[The Nine Matriarchs]]**: Lyra leaders whom Fen hopes to reunite through Mnemosyne's influence

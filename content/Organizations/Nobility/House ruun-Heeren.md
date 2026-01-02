@@ -15,7 +15,7 @@ affiliated_faction:
 alignment:
 purpose: Noble house descended from Runic Knights
 locations:
-  - "[[Tesh Kanat 1]]"
+  - "[[Tesh Kanat]]"
   - "[[Arkaster]]"
 key_figures:
   - "[[Itzamna ruun-Heeren]]"
@@ -38,7 +38,7 @@ House ruun-Heeren is one of the nine patrician dynasties of the [[Old Nobility]]
 
 ## Location
 
-House ruun-Heeren is established in the [[Tesh Kanat 1]] district of [[Arkaster]].
+House ruun-Heeren is established in the [[Tesh Kanat]] district of [[Arkaster]].
 
 ## Notable Members
 

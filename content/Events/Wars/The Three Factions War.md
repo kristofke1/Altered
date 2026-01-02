@@ -3,8 +3,8 @@ title: The Three Factions War
 type: event
 category: war
 source: L14_the_three_factions_war
-date_start: End of 3rd century AC
-date_end:
+date_start: 288 AC
+date_end: 294 AC
 duration:
 locations:
   - "[[Arkaster]]"
@@ -12,9 +12,9 @@ locations:
   - "[[Nisan]]"
   - "[[Kiragata Wetlands]]"
   - "[[The Fagn]]"
-  - "[[Asterion]]"
-  - "[[Kadigir]]"
-  - "[[Ordis Monolith]]"
+  - "[[The Asterion]]"
+  - "[[The Kadigir]]"
+  - "[[The Monolith]]"
   - "[[Anthea]]"
   - "[[Muir Concordia]]"
 factions:
@@ -57,7 +57,7 @@ tags:
 The Three Factions War was a devastating conflict at the end of the 3rd century AC during [[Manssur]]'s reign. Already ravaged by [[The Severance War]], three of the five existing Factions—[[Yzmir]], [[Ordis]], and [[Bravos]]—engaged in open warfare that nearly destroyed [[Asgartha]]. The conflict was ended by the [[Lyra]]'s intervention and the discovery of the [[Black Leviathan]], a monster fed by the war's negative emotions.
 
 ## Background
-For many years, three of the five existing Factions engaged in a fierce struggle for influence within the corridors of the [[Asterion]]. What began as mere political maneuvers turned into open warfare among the rivals.
+For many years, three of the five existing Factions engaged in a fierce struggle for influence within the corridors of [[The Asterion]]. What began as mere political maneuvers turned into open warfare among the rivals.
 
 ## The Catalyst
 
@@ -68,7 +68,7 @@ An Yzmir Phonomancer named [[Peredur Zan]] became the personal advisor to Basile
 An Ordis Templar named [[Affan Cathal]] decided to take matters into his own hands. With the help of a few sympathizers, he assassinated Zan in the palace corridors before fleeing far from the capital.
 
 ### Yzmir Demands
-In response to this affront, the [[Yzmir]] demanded that the Basileus imprison the Ordis officials stationed in [[Asterion]] who were deemed complicit and turn Cathal over to them. Manssur deployed his personal guard, taking the Ordis diplomats and politicians hostage.
+In response to this affront, the [[Yzmir]] demanded that the Basileus imprison the Ordis officials stationed in [[The Asterion]] who were deemed complicit and turn Cathal over to them. Manssur deployed his personal guard, taking the Ordis diplomats and politicians hostage.
 
 ## Escalation
 
@@ -95,18 +95,18 @@ But during the negotiation, Peredur's daughter, [[Perjin Zan]], in a fit of rage
 ## Total War
 
 ### Bravos Seize Control
-News of this tragedy quickly reached the capital, and the [[Bravos]] encircled the [[Kadigir]] and the [[Asterion]]. Manssur became a hostage of the Bravos, and he was forced to decree that the [[Yzmir]] and the [[Ordis]] had become enemies of the nation.
+News of this tragedy quickly reached the capital, and the [[Bravos]] encircled [[The Kadigir]] and [[The Asterion]]. Manssur became a hostage of the Bravos, and he was forced to decree that the [[Yzmir]] and the [[Ordis]] had become enemies of the nation.
 
 ### Yzmir Defense
 The Mages barricaded themselves within their Bastion, raising nearly impenetrable magical defenses, while the fyrds seized the capital to take control. The [[Yzmir]] Initiates did not remain idle. Some Mage lodges carried out precise strikes across [[Arkaster]], discreetly eliminating Bravos leaders.
 
 ### Ordis Counterattack
-From [[Caecaster]], the [[Ordis]] assembled a massive host to besiege the capital and seize control of all [[Asgartha]]. Their demands were clear: the Bravos needed to release the prisoners and withdraw from the [[Asterion]], and the Yzmir had to surrender.
+From [[Caecaster]], the [[Ordis]] assembled a massive host to besiege the capital and seize control of all [[Asgartha]]. Their demands were clear: the Bravos needed to release the prisoners and withdraw from [[The Asterion]], and the Yzmir had to surrender.
 
 ### The Final Positions
 Each of the three Factions believed their position was justified, their grievances legitimate. All prepared for the final assault:
-- The [[Yzmir]] stood on the heights of the [[Kadigir]]
-- The [[Bravos]] defended the walls of the [[Asterion]]
+- The [[Yzmir]] stood on the heights of [[The Kadigir]]
+- The [[Bravos]] defended the walls of [[The Asterion]]
 - The [[Ordis]], from the island of [[Nisan]], established regiments that landed on its northern coast
 
 The three Factions were united for what would be a battle for the future of [[Asgartha]], each ready to eradicate the others for what they believed was the good of humanity.

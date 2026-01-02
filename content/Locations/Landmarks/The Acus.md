@@ -1,25 +1,33 @@
 ---
-title: "Acus"
+title: Acus
 type: location
 category: landmark
-source: ["L07_ARKASTER"]
+source:
+  - L07_ARKASTER
 parent_location: "[[Arkaster]]"
-sub_locations: ["[[Wright Altiport]]"]
-population: null
-area: null
-founded: null
-status: "active"
-controlling_faction: null
+sub_locations:
+  - "[[Wright Altiport]]"
+population:
+area:
+founded:
+status: active
+controlling_faction:
 present_factions: []
-government_type: null
+government_type:
 notable_features:
-  - "Sharp peak overlooking Reykur district"
-  - "Highest point of the Peninsula"
-  - "Wright Altiport at its base"
-  - "Casts shadow over Sjena district"
-climate: null
+  - Sharp peak overlooking Reykur district
+  - Highest point of the Peninsula
+  - Wright Altiport at its base
+  - Casts shadow over Sjena district
+climate:
 characters: []
-tags: [landmark, peak, arkaster, highest-point]
+tags:
+  - landmark
+  - peak
+  - arkaster
+  - highest-point
+aliases:
+  - Acus
 ---
 
 # Acus

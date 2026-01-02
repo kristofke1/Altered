@@ -5,7 +5,7 @@ category: material
 source: faction_axiom.md
 related_concepts:
   - "[[Kelon]]"
-  - "[[Altered/Concepts/Technology/Aerolith]]"
+  - "[[Aerolith]]"
 associated_factions:
   - "[[Axiom]]"
 associated_locations: []
@@ -28,7 +28,7 @@ The Primordiae are four legendary elemental materials that, according to persist
 According to the legends:
 
 1. **Fire**: [[Kelon]] is said to be the Primordia of Fire
-2. **Air**: [[Altered/Concepts/Technology/Aerolith]] is believed to be the Primordia of Air
+2. **Air**: [[Aerolith]] is believed to be the Primordia of Air
 3. **Water**: The Primordia of Water remains yet to be discovered
 4. **Earth**: The Primordia of Earth remains yet to be discovered
 
@@ -49,7 +49,7 @@ This quest represents both:
 
 ## Confirmed Primordiae
 
-Of the four, only [[Kelon]] has been confirmed to exist and is extensively exploited by the [[Axiom]]. The status of [[Altered/Concepts/Technology/Aerolith]] and the other two Primordiae remains uncertain.
+Of the four, [[Kelon]] and [[Aerolith]] have been confirmed to exist and are extensively exploited by the [[Axiom]]. The Water and Earth Primordiae remain undiscovered.
 
 ## Significance
 

@@ -73,10 +73,6 @@ The secret skalds exist in tension with official Lyra structures:
 - They believe in Lyra values of storytelling and memory but reject Matriarchal monopolization
 - They serve the same Muses but claim different hierarchical relationships
 
-## Historical Context
-
-After the Confluence scattered and transformed Asgarthan society, the Matriarchs consolidated control over storytelling and communion with Muses. This centralization prompted formation of the secret society by skalds who believed Memory's service transcended Matriarchal authority.
-
 ## Warning
 
 Members warn each other not to share stories indiscriminately ("don't just go telling them left, right and center"). Careful audience selection protects the movement while ensuring forbidden knowledge survives. The most important principle remains that stories must never be forgotten, even when remembering them carries risk.

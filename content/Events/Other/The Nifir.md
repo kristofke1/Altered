@@ -3,9 +3,12 @@ title: "The Nifir"
 type: event
 category: epidemic
 source: "L12_the_nifir"
-date_start: null
-date_end: null
-duration: "Nearly 75 years"
+date_start: 148 AC
+date_end: 218 AC
+duration: "70 years (multiple outbreaks)"
+outbreaks:
+  - "148-149 AC (First Outbreak)"
+  - "186-189 AC (Second Outbreak)"
 locations: ["[[Asgartha]]", "[[Suspira]]", "[[Arkaster]]"]
 factions: []
 characters_active: ["[[Themba Hekekia]]"]
@@ -34,7 +37,10 @@ The Nifir was brought back from the salt mines of the island of [[Suspira]]. The
 [[Arkaster]], due to its high population density, was hit particularly hard by the Nifir. This led to frequent quarantines in an effort to contain its spread.
 
 ### Epidemic Waves
-Unfortunately, despite all precautions, the plague came and went in relentless epidemic waves throughout the nearly 75-year period.
+Unfortunately, despite all precautions, the plague came and went in relentless epidemic waves:
+
+- **First Outbreak (148-149 AC)**: The initial epidemic devastated the population. Terrified survivors ordered quarantines to cope with the scourge. The dead numbered in the tens of thousands, with corpses littering the streets for days.
+- **Second Outbreak (186-189 AC)**: A second major outbreak struck, with an equally heavy toll.
 
 ## Discovery of the Cure
 

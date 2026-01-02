@@ -11,7 +11,7 @@ population:
 area:
 founded:
 status: active
-controlling_faction:
+controlling_faction: "[[Ordis]]"
 present_factions:
   - "[[Ordis]]"
 government_type:
@@ -19,7 +19,6 @@ notable_features:
   - White bipyramid structure
   - Bastion of the Ordis
   - Contains library and government offices
-  - Symbol of Ordis philosophy
   - Overlooks Arkaster
 climate:
 characters: []
@@ -36,44 +35,21 @@ aliases:
 # The Monolith
 
 ## Overview
-The Monolith is a white bipyramid that serves as the Bastion of the [[Ordis]] faction. It stands as the physical embodiment of Ordis philosophy—structured, organized, and enduring.
+The Monolith is a white bipyramid that serves as the Bastion of the [[Ordis]] faction in [[Arkaster]]. The structure is divided into two sections: [[The Sanctum]] (upper) houses a labyrinthine library, while [[The Anthill]] (lower) contains administrative and judicial offices.
 
 ## Structure
-The Monolith is divided into two main sections:
 
-**Upper Section**: [[The Sanctum]]
-- A labyrinthine library housing all the knowledge of the world
-- Contains scriptoria, consultation halls, and archives
-- Celebrates knowledge and wisdom
-- Increasingly integrated with Kelon technology
+The upper section, [[The Sanctum]], contains scriptoria, consultation halls, and archives housing the collected knowledge of the world.
 
-**Lower Section**: [[The Anthill]]
-- Administrative and judicial heart of the Ordis
-- Contains myriad cabinets and offices
-- Houses the Oratory, the Assembly, and the Tribunal
-- Where laws and edicts are crafted
+The lower section, [[The Anthill]], serves as the administrative and judicial heart of the [[Ordis]]. It contains the Oratory, the Assembly, and the Tribunal where laws and edicts are crafted.
 
-## Architectural Significance
-The white bipyramid design of the Monolith is reflected in the [[Glyph|Ordis Glyph]]—the small diamond-shaped tattoo worn by all Ordis members. This connection between architecture and personal symbol reinforces the unity between individual and collective in Ordis philosophy.
+## Design
+The white bipyramid design is reflected in the [[Glyph|Ordis Glyph]]—the small diamond-shaped tattoo worn by all [[Ordis]] members. From its position in [[Arkaster]], the Monolith overlooks the expanse of [[Asgartha]], the surrounding sea, and the capital's streets and port.
 
-## Location
-The Monolith is located in [[Arkaster]], positioned to overlook:
-- The entire expanse of [[Asgartha]]
-- The sea surrounding the peninsula
-- The bustling streets and port areas of the capital city
-
-## Symbolic Purpose
-The Monolith represents the Ordis vision of how society should be structured:
-- Permanent and enduring (white stone construction)
-- Hierarchical and organized (pyramidal structure)
-- Balancing knowledge with governance (library above, government below)
-- A beacon of stability in a world threatened by [[The Tumult]]
-
-## Function in Ordis Society
-The Monolith serves as:
-- The central seat of Ordis power
-- The repository of all human knowledge
-- The location where [[The Codex]] is developed and maintained
-- The meeting place for [[The Tetrarchy]]
-- The judicial center where justice is dispensed
-- A symbol of order standing against chaos
+## Relationships
+- **[[The Sanctum]]**: Library occupying the upper section
+- **[[The Anthill]]**: Administrative section occupying the lower portion
+- **[[Arkaster]]**: Capital city where the Monolith is located
+- **[[Ordis]]**: Faction whose Bastion this is
+- **[[The Tetrarchy]]**: Governing council that meets here
+- **[[The Codex]]**: Legal framework developed and maintained here

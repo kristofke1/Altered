@@ -2,67 +2,43 @@
 title: Excalibur
 type: concept
 category: artifact
-source: heroes_bravos
-related_concepts:
-  - "[[Lady of the Lake]]"
-  - "[[Bedivere]]"
-  - "[[Galisgi]]"
-  - "[[Eidolons]]"
+source: ["heroes_bravos", "card_lore"]
+related_concepts: ["[[Nimue]]", "[[Bedivere]]", "[[Galisgi]]", "[[Eidolons]]"]
 associated_factions: []
 associated_locations: []
-first_mentioned: 
-description_summary: Legendary sword guarded by the Lady of the Lake, capable of slicing mountain peaks and breaking crystal prisons
-tags:
-  - artifact
-  - sword
-  - legendary-weapon
-  - arthurian-legend
+first_mentioned: null
+description_summary: "Legendary sword guarded by the Lady of the Lake, capable of slicing mountain peaks and breaking crystal prisons"
+tags: [artifact, sword, legendary-weapon, arthurian-legend]
 ---
 
 # Excalibur
 
 ## Overview
-Excalibur is a mythical sword of legendary power, guarded by the [[Lady of the Lake]]. According to [[Surge]], only the heir of the King of Kings can boast of wielding this blade. The sword possesses extraordinary capabilities that transcend normal weapons.
 
-## Powers
-Excalibur is said to be capable of:
-- Slicing through mountain peaks
-- Cleaving the waters of the sea
-- Cracking crystal prisons created by [[The Tumult|Tumult]] singularities
-
-The sword represents the ultimate cutting power - there is apparently no material or magical barrier it cannot breach.
+Excalibur is a mythical sword of legendary power, guarded by [[Nimue|the Lady of the Lake]]. According to [[Surge]], only the heir of the King of Kings can boast of wielding this blade. The sword is said to be capable of slicing through mountain peaks, cleaving the waters of the sea, and cracking crystal prisons created by [[The Tumult|Tumult]] singularities.
 
 ## The Guardian
-The [[Lady of the Lake]] has been Excalibur's protector since time immemorial. It is her charge, her function, and she cannot absolve herself of this duty. The Lady cannot bring herself to entrust the sword to anyone unworthy.
 
-Only the greatest swordsman in the world can be considered worthy to draw Excalibur from its sheath. This requirement ensures that the blade's immense power is only wielded by those who have proven their martial excellence beyond all doubt.
+[[Nimue|The Lady of the Lake]] has been Excalibur's protector since time immemorial. Only the greatest swordsman in the world can be considered worthy to draw Excalibur from its sheath. When [[Atsadi]] invoked her and begged to be entrusted with the sword, she could not grant his request despite his pleading—she explained that she could not absolve herself of her duty.
 
 ## Aurora's Prison
-[[Surge]] revealed Excalibur's existence to [[Atsadi]] as the solution to an impossible problem: [[Altered/Characters/Other/Aurora]] was trapped in a crystal prison created by a [[The Tumult|Tumult]] singularity. [[Atsadi]] struck her cocoon with his valid hand, but no tool or weapon could break it. He summoned [[Eidolons]] through [[Alteration]] to ask for help, but none could breach the crystal jail.
 
-Only Excalibur, with its ability to slice through mountain peaks and cleave seas, possesses the power necessary to crack the crystal prison and free the imprisoned [[Eidolon]].
+[[Surge]] revealed Excalibur's existence to [[Atsadi]] as the solution to freeing [[Aurora]] from her crystal prison. Atsadi had struck her cocoon with his valid hand, but no tool or weapon could break it. He summoned [[Eidolons]] through [[Alteration]] to ask for help, but none could breach the crystal jail. Only Excalibur possesses the power necessary to crack the prison.
 
 ## Atsadi's Quest
-To obtain Excalibur, [[Atsadi]] made a vow before the [[Lady of the Lake]] to become the world's greatest swordsman. His quest involves:
 
-1. **Training**: Following [[Bedivere]]'s teachings to master one-armed combat
-2. **Development**: Creating the [[Galisgi]] fighting style
-3. **Proving Worth**: Defeating legendary warriors including:
-   - [[Tomoe Gozen]]
-   - [[Achilles]]
-   - [[Sun Wukong]]
-   - [[Hua Mulan]] (disarmed)
-   - [[Gericht vaan-Bracht]] (pushed to his knees)
-4. **Ultimate Challenge**: Identifying and defeating [[The Seven Blades]] of the [[The Lost Tribe|Lost Tribe]]
+To obtain Excalibur, [[Atsadi]] made a vow before [[Nimue|the Lady of the Lake]] to become the world's greatest swordsman. She advised him to seek out [[Bedivere]] because she too had lost an arm and would be most apt to help him surpass his limits. Following Bedivere's teachings, Atsadi developed the [[Galisgi]] fighting style and has defeated legendary warriors including [[Tomoe Gozen]], [[Achilles]], [[Sun Wukong]], and [[Hua Mulan]]. His ultimate challenge is identifying and defeating [[The Seven Blades]] of [[The Lost Tribe]].
 
-## Symbolism
-Excalibur represents several symbolic elements:
-- **Ultimate Authority**: Only the "heir of the King of Kings" can wield it
-- **Martial Excellence**: Proving worthiness requires being the greatest swordsman
-- **Impossible Solutions**: The sword can accomplish what seems impossible
-- **True Love's Power**: [[Atsadi]]'s quest for the sword is motivated by love for [[Altered/Characters/Other/Aurora]]
+## Sealing the Megalith
 
-## Connection to Rune
-The requirement that only "the heir of the King of Kings" can wield Excalibur may connect to [[Rune]], the first High-King of [[Asgartha]] and the first Kuningas. [[Rune]]'s prophecy stated that whoever found him in the [[The Tumult|Tumult]] would be considered his heir and successor.
+Excalibur also serves a protective function. In 386 AC, [[Nimue]] plunged Excalibur into [[The Megalith]]'s mass of [[The Aether|Aether]] to help seal the [[The Tumult|Tumult]] singularity, leaving the blade buried almost to the hilt.
 
-Whether Excalibur specifically relates to this lineage or represents a more universal concept of sovereignty remains unclear, but the parallel suggests a connection between ultimate martial prowess and rightful leadership.
+## Relationships
+
+- **[[Nimue]]**: Guardian of Excalibur since time immemorial
+- **[[Atsadi]]**: One-armed swordsman questing to prove worthiness
+- **[[Aurora]]**: Eidolon trapped in crystal prison that only Excalibur can break
+- **[[Surge]]**: Revealed Excalibur's existence to Atsadi
+- **[[Bedivere]]**: Recommended by Lady of the Lake to train Atsadi
+- **[[The Seven Blades]]**: Ultimate challenge Atsadi must overcome
+- **[[The Megalith]]**: Tumult Singularity partially sealed by Excalibur (386 AC)

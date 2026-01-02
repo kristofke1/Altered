@@ -39,7 +39,7 @@ Heshkari was a champion and one of the founding heroes of [[Asgartha]], later es
 
 When the reunited Tumult Nomad tribes faced potential civil war, [[Rune]] built a coalition around Heshkari, gathering sympathizers who supported unity over power struggles. Heshkari worked with [[Caellach]], [[Tamrat]], [[Aksoy]], and [[Heeren]] as Rune's secret allies.
 
-At [[Kuningasplatz]], Heshkari's forces encircled the three Baron armies ([[Cilistro Tighe]], [[Balram Kasun]], [[Ainara Aldana]]) and imposed an ultimatum to lay down arms. When the [[Phoenix]] descended from the [[Acus]], it perched on [[Rune]]'s shoulder rather than Heshkari. Heshkari was the first to bend the knee, followed by [[Caellach]] and all others.
+At [[Kuningasplatz]], Heshkari's forces encircled the three Baron armies ([[Cilistro Tighe]], [[Balram Kasun]], [[Ainara Aldana]]) and imposed an ultimatum to lay down arms. When the [[Phoenix]] descended from the [[The Acus]], it perched on [[Rune]]'s shoulder rather than Heshkari. Heshkari was the first to bend the knee, followed by [[Caellach]] and all others.
 
 Heshkari served on the [[Trusted Council]] and later founded the [[Bravos]] Faction.
 

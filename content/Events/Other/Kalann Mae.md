@@ -29,10 +29,10 @@ The Kalann Mae is a recurring festival celebrated by the [[Lyra]], occurring onc
 Those who choose to answer the calling gather at a caravanserai to celebrate the Kalann Mae, a festival dedicated to Art in all its forms. Troubadours and contortionists, sculptors and painters compete in talent, becoming intoxicated with fever to unleash unbridled creativity.
 
 ## Creation of Wonders
-All the gathered energy shapes the location of the call, and at the end of the festivities, as a climax, a [[Altered/Concepts/Phenomena/Wonder|Wonder]] blossoms there, grandiose and sumptuous. The [[Altered/Concepts/Phenomena/Wonder|Wonder]] in question is then left behind or entrusted to local populations, and the [[Lyra]] set off again towards new horizons.
+All the gathered energy shapes the location of the call, and at the end of the festivities, as a climax, a [[Wonder]] blossoms there, grandiose and sumptuous. The [[Wonder]] in question is then left behind or entrusted to local populations, and the [[Lyra]] set off again towards new horizons.
 
 ## Examples of Wonders
-Known [[Altered/Concepts/Phenomena/Wonder|Wonders]] created at Kalann Mae include:
+Known [[Wonder|Wonders]] created at Kalann Mae include:
 - The reversed waterfall of Cuyvar
 - The Olive Grove of Sartonis
 - The Alabaster House of Ser-Karran

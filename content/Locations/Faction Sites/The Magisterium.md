@@ -9,10 +9,17 @@ population: null
 area: null
 founded: null
 status: "active"
-controlling_faction: null
+controlling_faction: "[[Yzmir]]"
 present_factions: ["[[Yzmir]]"]
 government_type: "High Council of five Magisters"
-notable_features: ["Ceremonial venue", "High Council chamber", "Located at heart of Kadigir labyrinth", "Water flows upward defying gravity", "Luminescent dark stone with celestial imagery", "All watercourses converge here", "Contains entrance to Well of Tears"]
+notable_features:
+  - Ceremonial venue
+  - High Council chamber
+  - Located at heart of Kadigir labyrinth
+  - Water flows upward defying gravity
+  - Luminescent dark stone with celestial imagery
+  - All watercourses converge here
+  - Contains entrance to Well of Tears
 climate: null
 characters: []
 tags: [government, yzmir, ceremonial, council, magical]
@@ -21,41 +28,22 @@ tags: [government, yzmir, ceremonial, council, magical]
 # The Magisterium
 
 ## Overview
-The Magisterium serves dual purposes: it is both a ceremonial venue where the [[Yzmir]] receive dignitaries from [[Asgartha]] and other Factions, and the meeting place for the High Council that guides the entire Faction.
+The Magisterium is a ceremonial venue within [[The Kadigir]] where the [[Yzmir]] receive dignitaries. It also serves as the meeting place for the High Council that governs the faction.
 
 ## The High Council
-The Magisterium is also the name given to the High Council of the [[Yzmir]], consisting of five Magisters. Each Magister is a prominent representative who presides over one of [[The Spheres|the five Spheres]] of [[The Naali]]:
-- Magister of [[Eidomancy]]
-- Magister of [[Horomancy]]
-- Magister of [[Phonomancy]]
-- Magister of [[Kinemancy]]
-- Magister of [[Gephyromancy]]
-
-Together, these five principals guide the entire Faction's direction and decisions.
+The High Council of the [[Yzmir]], also called the Magisterium, consists of five Magisters. Each Magister presides over one of [[The Spheres|the five Spheres]] of [[The Naali]]: [[Eidomancy]], [[Horomancy]], [[Phonomancy]], [[Kinemancy]], and [[Gephyromancy]].
 
 ## Location
-Although the Magisterium is located in the center of the labyrinth that is [[The Kadigir]], it is paradoxically easy to find. Visitors need only follow the streams and watercourses that traverse the hanging gardens—all of them converge toward the heart of the Yzmir Bastion, regardless of slope or orientation.
+The Magisterium sits at the center of [[The Kadigir]] labyrinth. All streams and watercourses in the hanging gardens converge toward it, regardless of slope or orientation, providing a navigational guide through the complex.
 
-## Architecture and Features
-When one enters the vast chambers and halls of the Magisterium, lined with elegant and architecturally complex ogival alcoves, water dominates the space in impossible ways:
-- Water ascends along the walls
-- Slides along channels
-- Seeps into small rivulets
-- Gathers in graceful basins
-- Water is everywhere—moving, stagnant, sometimes even defying physical laws
-
-### The Luminescent Stone
-The dark stone used to create the Magisterium is luminescent. Looking up, one can see the vaults and ceilings of the temple covered with:
-- Stars
-- Nebulae
-- Celestial bodies
-- Constellations
-
-### The Celestial Effect
-As clear water flows to its destination and visitors follow it along furrows and ramps, small droplets break away from the torrents and begin to float toward the ceiling, gleaming like stars. These particles then seem to embed themselves in the stone vault, joining the other celestial bodies that appear to be set within it.
+## Features
+The chambers are lined with ogival alcoves. Water moves throughout the space in ways that defy physical laws—ascending walls, sliding along channels, and gathering in basins. The dark stone construction is luminescent, with vaults and ceilings displaying stars, nebulae, and constellations. Droplets break from water streams, float upward, and appear to embed themselves in the stone vault among the celestial imagery.
 
 ## Connection to the Well of Tears
-By following the clear water all the way to the end, gliding over the furrows and ramps, visitors can reach the sinkhole where all the waters pour out: a chasm called [[The Well of Tears]], where the water roars before disappearing into the unfathomable depths of the earth.
+Following the watercourses to their terminus leads to a chasm called [[The Well of Tears]], where all water pours into unfathomable depths.
 
-## Diplomatic Function
-As a ceremonial venue, the Magisterium provides an appropriate setting for receiving dignitaries. Its impressive architectural features and magical properties demonstrate the power and sophistication of the [[Yzmir]] to visitors from other factions and [[Asgartha|Asgarthan]] leadership.
+## Relationships
+- **[[The Kadigir]]**: Yzmir Bastion containing the Magisterium
+- **[[Yzmir]]**: Faction governing from this location
+- **[[The Spheres]]**: Five magical disciplines, each represented by a Magister
+- **[[The Well of Tears]]**: Chasm accessible through the Magisterium

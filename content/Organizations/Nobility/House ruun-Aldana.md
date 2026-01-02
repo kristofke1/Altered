@@ -15,7 +15,7 @@ affiliated_faction:
 alignment:
 purpose: Noble house descended from Runic Knights
 locations:
-  - "[[Tesh Kanat 1]]"
+  - "[[Tesh Kanat]]"
   - "[[Arkaster]]"
 key_figures: []
 related_organizations:
@@ -36,7 +36,7 @@ House ruun-Aldana is one of the nine patrician dynasties of the [[Old Nobility]]
 
 ## Location
 
-House ruun-Aldana is established in the [[Tesh Kanat 1]] district of [[Arkaster]].
+House ruun-Aldana is established in the [[Tesh Kanat]] district of [[Arkaster]].
 
 ## Relationships
 

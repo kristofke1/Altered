@@ -39,7 +39,7 @@ Balram Kasun was Baron of the Tribe of the East, one of three Barons who initial
 
 Kasun led the Tribe of the East when the reunited Tumult Nomad tribes faced potential civil war. When [[Cilistro Tighe]] mobilized forces, Kasun and [[Ainara Aldana]] did the same, preparing to clash at [[Kuningasplatz]].
 
-[[Heshkari]]'s forces encircled the three Baron armies and imposed an ultimatum to lay down arms. The Barons viewed Heshkari as another rival and were on the verge of rejecting the ultimatum when the [[Phoenix]] descended from the [[Acus]] and perched on [[Rune]]'s shoulder, crowning him with fire. Kasun bent the knee along with all others present.
+[[Heshkari]]'s forces encircled the three Baron armies and imposed an ultimatum to lay down arms. The Barons viewed Heshkari as another rival and were on the verge of rejecting the ultimatum when the [[Phoenix]] descended from the [[The Acus]] and perched on [[Rune]]'s shoulder, crowning him with fire. Kasun bent the knee along with all others present.
 
 Rune appointed Kasun to the [[Trusted Council]] alongside both his original allies and the other Barons, forming the [[The Runic Knights|Runic Knights]].
 

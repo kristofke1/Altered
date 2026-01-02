@@ -2,32 +2,38 @@
 title: Rati
 type: organization
 category: guild
-source: ["[[L37_Oblivion]]"]
-parent_organization: "[[Yzmir]]"
-sub_organizations: []
+source:
+  - "L37_Oblivion"
 founded: null
-dissolved: null
+founder: null
 status: active
-headquarters: null
-leader: null
-notable_members: []
+dissolved_date: null
+parent_organization: null
+parent_faction: "[[Yzmir]]"
 affiliated_faction: "[[Yzmir]]"
-purpose: "Medical surgery and psychic healing"
+alignment: null
+purpose: Medical surgery and psychic healing
+locations: []
+key_figures: []
+related_organizations:
+  - "[[The Cloister]]"
 tags:
+  - guild
   - yzmir
   - medical
   - surgeons
   - grafts
-  - 393-ac
+aliases:
+  - Rati
 ---
 
 # Rati
 
 ## Overview
 
-The Rati are surgeons affiliated with the [[Yzmir]] faction. They specialize in medical procedures involving psychic and magical treatments.
+The Rati are surgeons affiliated with the [[Yzmir]] faction, specializing in medical procedures involving psychic and magical treatments.
 
-## Activities
+## Timeline
 
 ### 393 AC - Memory Graft Development
 
@@ -35,7 +41,7 @@ Working alongside healers from [[The Cloister]], the Rati surgeons developed a t
 
 ## Relationships
 
-- **[[Yzmir]]**: Parent faction
-- **[[The Cloister]]**: Medical facility where Rati surgeons work alongside healers
 - **[[Grafts]]**: Technology applied in memory graft treatments
 - **[[Oblivion]]**: Affliction treated using Rati surgical techniques
+- **[[The Cloister]]**: Medical facility where Rati surgeons work alongside healers
+- **[[Yzmir]]**: Parent faction

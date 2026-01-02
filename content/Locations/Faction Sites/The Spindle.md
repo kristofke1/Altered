@@ -10,18 +10,17 @@ population:
 area: Circumference exceeds 5,000 feet, height reaches 5,000 meters
 founded:
 status: active - sick
-controlling_faction:
+controlling_faction: "[[Muna]]"
 present_factions:
   - "[[Muna]]"
 government_type:
 notable_features:
   - World tree
-  - Ecosystem in its own right
+  - Ecosystem containing diverse life
   - Pink leaves
   - Heart of the Skein network
   - Sacred pilgrimage destination
-  - Canopy touches clouds
-  - Currently suffering from mysterious disease
+  - Currently suffering from disease
 climate:
 characters: []
 tags:
@@ -37,36 +36,39 @@ aliases:
 # The Spindle
 
 ## Overview
-The Spindle is a world tree located in the [[Katkera]] forest on the [[Kirighai]] peninsula. It serves as the most sacred site within Muna territory and functions as an ecosystem in its own right.
+The Spindle is a world tree in the [[Katkera]] forest on the [[Kirighai]] peninsula. It is the most sacred site within [[Muna]] territory and functions as an ecosystem in its own right.
 
 ## Physical Description
-The Spindle is a tree like no other. Its canopy blooms high above the tops of other trees, even those of the gigantic sequoias. Its trunk rises high towards the sky to the point of touching the clouds, like a vertical axis connecting the heavens and the earth.
-
-**Dimensions:**
-- Circumference: Exceeds 5,000 feet
-- Height: Reaches approximately 5,000 meters
-
-The tree is visible for miles around with its branches covered in pink leaves swaying in the wind. It could be compared to a beacon erected within the forested expanses.
+The Spindle's canopy rises above all other trees, including the giant sequoias. Its trunk reaches approximately 5,000 meters in height, with a circumference exceeding 5,000 feet. The branches are covered in pink leaves. The tree is visible for miles around.
 
 ## Spiritual Significance
-There is no place more sacred within the [[Katkera]]. When the [[Muna]] access [[The Skein]], they can see that the dendrites of the Mana network gather at this location, creating a pulsating node of energy. The Spindle is literally the heart of the forest, and all beings living there are connected to it in one way or another.
+When the [[Muna]] access [[The Skein]], dendrites of the Mana network visibly gather at this location, creating a pulsating node of energy. The Spindle is the heart of the forest, with all beings living there connected to it.
 
 ## Interior Ecosystem
-Inside the trunk, thousands of natural niches and alcoves buzz with life. There are birds, rodents, bears, and wolves, but also hundreds of sentient plants and insects. Water trickles down the ancient wood from above, forming small waterfalls and creating sheets and pools on the ground. Streams run between mounds and hills, clear and bright despite the dimness.
+Inside the trunk, thousands of natural niches and alcoves contain birds, rodents, bears, wolves, sentient plants, and insects. Water trickles down the ancient wood from above, forming waterfalls and pools. Streams run between mounds and hills. The interior contains stone effigies and steles dedicated to various [[Eidolons]], with offerings of flower garlands and trinkets.
 
-The interior contains stone effigies and steles dedicated to various [[Eidolons]], with offerings of flower garlands and trinkets placed around them.
-
-## The Bark Refuge
-At the heart of the Spindle sits [[Bark Refuge]], the sanctuary where [[The Musubi]] bonding ceremonies take place and where initiates complete their journey by weaving their [[Namkha Knot]].
+## Bark Refuge
+At the heart of the Spindle sits [[Bark Refuge]], the sanctuary where [[The Musubi]] bonding ceremonies take place and initiates complete their journey by weaving their [[Namkha Knot]].
 
 ## Current Crisis
-The Spindle has been sick for many years. Some of its branches are slowly dying, and its leaves are inexplicably wilting. White veins running across the surface of the leaves are the first symptoms of this disease, which is inexorably spreading to all its branches and trunk.
-
-The Muna are deeply concerned about this decline and are seeking to save the tree at all costs, as its health is tied to the stability of the entire ecosystem and the strength of [[The Skein]] in the region.
+The Spindle has been sick for many years. Branches are dying and leaves are wilting. White veins across leaf surfaces are the first symptoms of the disease spreading through branches and trunk. The [[Muna]] are seeking to save the tree, as its health is tied to the stability of the ecosystem and the strength of [[The Skein]].
 
 ## Protection from Exploitation
-
-The Spindle's fate is contrasted with that of the world-tree at [[Cais Adarra]], which the ancient inhabitants of the [[City of Scholars]] drained of its Sap until the tree died, causing their civilization's collapse. [[Arjun]] has stated that if anyone attempted to drain The Spindle in similar fashion, the [[Muna]] would resist with all their strength.
+The Spindle's situation contrasts with the world-tree at [[Cais Adarra]], which ancient inhabitants of the [[City of Scholars]] drained of [[Sap]] until it died, causing their civilization's collapse. [[Arjun]] has stated that if anyone attempted to drain The Spindle similarly, the [[Muna]] would resist with all their strength.
 
 ## Role in Initiation
-The Spindle serves as the destination and climax of the [[Nine-Stage Pilgrimage]]. Aspirants must climb to its top to collect vines or stems, then descend to gather roots, using these materials to weave their [[Namkha Knot]] as the sign of their belonging to the Muna.
+The Spindle is the destination of the [[Nine-Stage Pilgrimage]]. Aspirants climb to collect vines or stems, then descend to gather roots, using these materials to weave their [[Namkha Knot]] as the sign of belonging to the [[Muna]].
+
+## Relationships
+- **[[Katkera]]**: Forest where the Spindle grows
+- **[[Kirighai]]**: Peninsula containing Katkera
+- **[[Muna]]**: Faction for whom this is the most sacred site
+- **[[The Skein]]**: Mana network of which the Spindle is the heart
+- **[[Bark Refuge]]**: Sanctuary at the Spindle's heart
+- **[[The Musubi]]**: Bonding ceremonies conducted at Bark Refuge
+- **[[Namkha Knot]]**: Woven by initiates using Spindle materials
+- **[[Nine-Stage Pilgrimage]]**: Initiation journey ending at the Spindle
+- **[[Arjun]]**: Muna leader who vowed to protect the Spindle
+- **[[Cais Adarra]]**: Location whose world-tree was drained, serving as a warning
+- **[[City of Scholars]]**: Civilization that collapsed after killing their world-tree
+- **[[Sap]]**: Substance whose extraction killed the Cais Adarra tree

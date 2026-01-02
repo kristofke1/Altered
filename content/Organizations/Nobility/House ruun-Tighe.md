@@ -13,7 +13,7 @@ affiliated_faction:
 alignment:
 purpose: Noble house descended from Rune Knights
 locations:
-  - "[[Tesh Kanat 1]]"
+  - "[[Tesh Kanat]]"
   - "[[Arkaster]]"
 key_figures:
   - "[[Adrijan ruun-Tighe]]"
@@ -32,7 +32,7 @@ tags:
 House ruun-Tighe is one of the ancient families descended from the [[The Runic Knights|Rune Knights]]. As part of the [[Old Nobility]], this house has always been closely associated with power, regardless of the ruling regime or political system of the time.
 
 ## Location
-House ruun-Tighe is established in the [[Tesh Kanat 1]] district of [[Arkaster]].
+House ruun-Tighe is established in the [[Tesh Kanat]] district of [[Arkaster]].
 
 ## Political Influence
 The house has maintained close association with power throughout [[Asgartha]]'s history, regardless of the ruling regime or political system.

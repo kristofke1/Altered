@@ -38,7 +38,7 @@ The Alabaster House of Ser-Karran is a [[Wonder]] created by the [[Lyra]] at a [
 During a [[Kalann Mae]], [[Lyra]] troubadours and contortionists, sculptors and painters competed in talent, becoming intoxicated with fever to unleash unbridled creativity. All the gathered energy shaped the location of the call, and at the end of the festivities, as a climax, this [[Wonder]] blossomed there, grandiose and sumptuous.
 
 ## Characteristics
-The Wonder manifests as a house constructed of alabaster, created through the power of [[The Ignescence]] and [[Alteration]].
+The Wonder manifests as a house constructed of alabaster, created through the power of [[Ignescence|The Ignescence]] and [[Alteration]].
 
 ## Aftermath
 The [[Wonder]] was left behind or entrusted to local populations after the [[Lyra]] set off again towards new horizons, as is customary with all [[Wonder|Wonders]] created at [[Kalann Mae]].

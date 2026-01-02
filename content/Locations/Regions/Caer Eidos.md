@@ -32,7 +32,7 @@ The Province consists of three islands whose junction forms the site of [[Arkast
 
 ### Topography
 
-The isthmus of Caer Eidos is traversed by fjords and narrow canals. Its topography takes the form of a compact cluster of islets and stacks standing like needles, spines, and sharp teeth. The highest point is [[The Acus]], located adjacent to [[Arkaster]], with its summit reaching 1,535 ft (468 m).
+The isthmus of Caer Eidos is traversed by fjords and narrow canals. Its topography takes the form of a compact cluster of islets and stacks standing like needles, spines, and sharp teeth. The highest point is [[The Acus|The Acus]], located adjacent to [[Arkaster]], with its summit reaching 1,535 ft (468 m).
 
 ### Coastline
 

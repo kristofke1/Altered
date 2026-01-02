@@ -3,7 +3,7 @@ title: Axiom
 type: organization
 category: faction
 source: faction_axiom.md
-founded:
+founded: 343 AC
 founder:
 status: active
 dissolved_date:

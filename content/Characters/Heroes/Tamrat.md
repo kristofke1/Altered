@@ -51,14 +51,16 @@ On his deathbed, Tamrat reportedly begged forgiveness for a secret he took to th
 
 ## Relationships
 
-- **[[Rune]]**: Sovereign whom Tamrat served as Runic Knight; investigated his disappearance
-- **[[Heshkari]]**: Fellow founding ally and Runic Knight
-- **[[Caellach]]**: Fellow founding ally and Runic Knight
-- **[[Aksoy]]**: Fellow founding ally and Runic Knight; subject of Tamrat's investigation (42 AC)
-- **[[Heeren]]**: Fellow founding ally and Runic Knight; subject of Tamrat's investigation (42 AC)
 - **[[Ainara Aldana]]**: Fellow Runic Knight; subject of Tamrat's investigation (42 AC)
+- **[[Aksoy]]**: Fellow founding ally and Runic Knight; subject of Tamrat's investigation (42 AC)
+- **[[Aysun]]**: Rune's daughter; Tamrat revealed his findings to her and they talked at length before he presented the official story to Ceren (42 AC)
+- **[[Caellach]]**: Fellow founding ally and Runic Knight
+- **[[Carnelian ruun-Tamrat]]**: Descendant who ruled as Basileus 355-361 AC
+- **[[Ceren]]**: Rune's Consort; Tamrat delivered the official explanation of Rune's fate to her (42 AC)
+- **[[Heeren]]**: Fellow founding ally and Runic Knight; subject of Tamrat's investigation (42 AC)
+- **[[Heshkari]]**: Fellow founding ally and Runic Knight
+- **[[House ruun-Tamrat]]**: Noble house descended from Tamrat's lineage
+- **[[Nuur Tamrat]]**: Notable descendant, legendary warrior who defeated [[Annoba]]
+- **[[Rune]]**: Sovereign whom Tamrat served as Runic Knight; investigated his disappearance (42 AC)
 - **[[The Runic Knights]]**: Order Tamrat helped found
 - **[[Trusted Council]]**: Governing body Tamrat served on
-- **[[House ruun-Tamrat]]**: Noble house descended from Tamrat's lineage
-- **[[Carnelian ruun-Tamrat]]**: Descendant who ruled as Basileus 355-361 AC
-- **[[Nuur Tamrat]]**: Notable descendant, legendary warrior who defeated [[Annoba]]

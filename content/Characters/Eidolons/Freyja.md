@@ -1,34 +1,34 @@
 ---
 title: Freyja
-type: concept
-category: deity
-source: T4_Namkha
-related_concepts:
-  - "[[The Oneiroi]]"
-  - "[[Muna]]"
-  - "[[The Spindle]]"
-associated_factions:
-  - "[[Muna|Muna]]"
-associated_locations:
-  - "[[The Spindle]]"
-  - "[[Bark Refuge]]"
-first_mentioned: 381 AC
-description_summary: Nature deity honored by Muna with stylized statues and offerings at the Spindle Tree sanctuary
-tags:
-  - deity
-  - oneiros
-  - nature
-  - Muna
+type: character
+category: eidolon
+source: ["[[T4_Namkha]]"]
+birth_date: null
+death_date: null
+status: active
+fate: null
+species: eidolon
+became_oneiros: true
+affiliated_faction: "[[Muna]]"
+founded_organizations: []
+titles: []
+lineage: null
+key_events: []
+locations_associated: ["[[The Spindle]]", "[[Bark Refuge]]"]
+tags: [deity, eidolon, nature, muna]
 ---
+
+# Freyja
 
 ## Overview
 
-Freyja is a nature deity revered by the Muna Faction. Stylized statues of Freyja can be found within the Bark Refuge sanctuary inside the Spindle Tree, where offerings of flower garlands and trinkets are placed.
+Freyja is a nature deity revered by the [[Muna]] Faction. Stylized statues of Freyja can be found within the [[Bark Refuge]] sanctuary inside [[The Spindle|the Spindle Tree]], where offerings of flower garlands and trinkets are placed.
 
-## Worship
+The [[Muna]] honor Freyja alongside other nature deities including [[Inari]], [[Cernunnos]], [[Yong-Su Tenzing|Yong-Su]], and [[Tlaloc]].
 
-The Muna honor Freyja alongside other nature deities including Inari, Cernunnos, Yong-Su, and Tlaloc. These deities represent various aspects of the natural world and the Skein that connects all living things.
+## Relationships
 
-## Cultural Significance
-
-Freyja's presence in the sacred Spindle Tree sanctuary demonstrates the deity's importance in Muna spiritual practices and their reverence for the forces that govern nature and harmony.
+- **[[Muna]]**: Faction that worships Freyja
+- **[[The Spindle]]**: Location where Freyja statues are found
+- **[[Bark Refuge]]**: Sanctuary containing Freyja statues
+- **[[Inari]]**, **[[Cernunnos]]**, **[[Yong-Su Tenzing|Yong-Su]]**, **[[Tlaloc]]**: Fellow nature deities honored by Muna

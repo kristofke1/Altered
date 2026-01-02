@@ -1,68 +1,42 @@
 ---
 title: Yezdan Nand
 type: character
-category: scholar
+category: historical
 source: card_lore
-birth_date: 
+birth_date: null
 death_date: ~372 AC or earlier
-reign_period: 
 status: deceased
-fate: Died before or around 372 AC
+fate: null
 species: human
 became_oneiros: false
-affiliated_faction: 
+affiliated_faction: null
 founded_organizations: []
-titles:
-  - "Author"
-lineage: 
+titles: ["Author", "Scholar"]
+lineage: null
 key_events: []
 locations_associated: []
-tags:
-  - scholar
-  - author
-  - storyteller
-  - philosopher
+tags: [scholar, author, philosopher]
 ---
 
 # Yezdan Nand
 
 ## Overview
-Yezdan Nand was a scholar and author who wrote *Humanitas Fabularum* (Humanity of Stories), a philosophical work examining the nature of stories, their evolution, and their role in post-Confluence Asgarthan society.
 
-## Published Works
+Yezdan Nand was a scholar and author who wrote *Humanitas Fabularum* (Humanity of Stories), a work examining the nature of stories, their evolution, and their role in post-[[The Confluence|Confluence]] [[Asgartha|Asgarthan]] society. The preface was written in 372 AC.
 
-### Humanitas Fabularum (372 AC)
-Yezdan Nand's major known work, *Humanitas Fabularum*, explores the transformative nature of stories and their resilience through catastrophic events. The preface, written in 372 AC, contains his philosophical reflections on storytelling.
+## Humanitas Fabularum
 
-## Philosophy of Stories
+Yezdan Nand argued that stories are intrinsically changeable, comparing them to shapeshifters that transform through being told—through additions, removals, different morals, and altered endings. He believed stories need to live and breathe: some die while others adapt, and some return after apparent extinction.
 
-### Stories as Shapeshifters
-Yezdan Nand argued that the true nature of stories is to be intrinsically changeable. He compared stories to chameleons and shapeshifters that transform through being told - through additions, removals, different morals, and endings either cruel or diluted. According to his philosophy:
-- Stories, like ideas, need to live and breathe
-- Some stories die while others adapt
-- Stories can even come back to life after apparent extinction
-- This pattern held true in ancient times before the Confluence and continues in the present
+He used Little Red Riding Hood as his primary example:
+- **Original version**: The story ended in the wolf's belly
+- **First revision**: Other authors added a huntsman who freed her
+- **Post-Confluence interpretation**: Survivors reimagined the story as humanity torn apart by [[The Tumult]] embodied as the wolf
+- **Contemporary version (by 372 AC)**: Red recovered from her injuries and took up arms against the wolf
 
-### Story Evolution Through Crisis
-Yezdan Nand used Little Red Riding Hood as his primary example of story evolution:
+Yezdan Nand concluded that [[The Confluence]] caused a terrible extinction of stories, but even the end of the world had not stopped stories from spreading. Writing twenty years after [[The Confluence]], he observed [[Asgartha|Asgarthans]] slowly beginning to tell stories again.
 
-**Original Version:** Little Red Riding Hood's life ended in the wolf's belly.
+## Relationships
 
-**First Revision:** Other authors added a huntsman who freed her from the wolf's belly, allowing her to survive.
-
-**Post-Confluence Interpretation:** Survivors of the Confluence reimagined the story as a reflection of humanity itself torn apart by an invisible monster - the Tumult embodied as the wolf.
-
-**Contemporary Version (by 372 AC):** Recent storytellers depicted Red as having recovered from her injuries and taken up arms to stop the Big Bad Wolf's devastation. The moral became clear: Asgarthans are like Red - they have been at the Tumult's mercy but must realize this is not inevitable.
-
-### Stories as Weapons Against the Tumult
-Yezdan Nand concluded that using imagination, Asgarthans can defeat the Tumult by either calling on the huntsman or simply rewriting the story itself.
-
-### The Terrible Extinction
-Yezdan Nand acknowledged that the Confluence caused a "terrible extinction" of stories, but emphasized that even the end of the world had not stopped stories from spreading. This resilience of narrative despite catastrophe formed a central theme in his work.
-
-## Historical Context
-Writing in 372 AC (twenty years after the Confluence), Yezdan Nand observed how Asgarthans were "slowly start telling them again" - suggesting a gradual cultural recovery and rebuilding of storytelling traditions after the catastrophic disruption of the Confluence.
-
-His work appeared during the early period of Asgarthan rebuilding when survivors were actively reinterpreting old stories through the lens of their Confluence trauma and Tumult experiences.
-
-
+- **[[The Confluence]]**: Cataclysmic event whose impact on storytelling he documented
+- **[[The Tumult]]**: Phenomenon he identified as represented by the wolf in post-Confluence stories
