@@ -44,16 +44,6 @@ When one enters the vast chambers and halls of the Magisterium, lined with elega
 - Gathers in graceful basins
 - Water is everywhere—moving, stagnant, sometimes even defying physical laws
 
-### The Luminescent Stone
-The dark stone used to create the Magisterium is luminescent. Looking up, one can see the vaults and ceilings of the temple covered with:
-- Stars
-- Nebulae
-- Celestial bodies
-- Constellations
-
-### The Celestial Effect
-As clear water flows to its destination and visitors follow it along furrows and ramps, small droplets break away from the torrents and begin to float toward the ceiling, gleaming like stars. These particles then seem to embed themselves in the stone vault, joining the other celestial bodies that appear to be set within it.
-
 ## Connection to the Well of Tears
 By following the clear water all the way to the end, gliding over the furrows and ramps, visitors can reach the sinkhole where all the waters pour out: a chasm called [[The Well of Tears]], where the water roars before disappearing into the unfathomable depths of the earth.
 
