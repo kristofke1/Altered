@@ -7,10 +7,12 @@ import OverflowListFactory from "./OverflowList"
 
 interface BacklinksOptions {
   hideWhenEmpty: boolean
+  collapseByDefault: boolean
 }
 
 const defaultOptions: BacklinksOptions = {
   hideWhenEmpty: true,
+  collapseByDefault: false,
 }
 
 export default ((opts?: Partial<BacklinksOptions>) => {
@@ -25,31 +27,36 @@ export default ((opts?: Partial<BacklinksOptions>) => {
   }: QuartzComponentProps) => {
     const slug = simplifySlug(fileData.slug!)
     const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug))
+
     if (options.hideWhenEmpty && backlinkFiles.length == 0) {
       return null
     }
+
     return (
       <div class={classNames(displayClass, "backlinks")}>
-        <h3>{i18n(cfg.locale).components.backlinks.title}</h3>
-        <OverflowList>
-          {backlinkFiles.length > 0 ? (
-            backlinkFiles.map((f) => (
-              <li>
-                <a href={resolveRelative(fileData.slug!, f.slug!)} class="internal">
-                  {f.frontmatter?.title}
-                </a>
-              </li>
-            ))
-          ) : (
-            <li>{i18n(cfg.locale).components.backlinks.noBacklinksFound}</li>
-          )}
-        </OverflowList>
+        <details open={!options.collapseByDefault}>
+          <summary>
+            <h3>{i18n(cfg.locale).components.backlinks.title}</h3>
+          </summary>
+          <OverflowList>
+            {backlinkFiles.length > 0 ? (
+              backlinkFiles.map((f) => (
+                <li>
+                  <a href={resolveRelative(fileData.slug!, f.slug!)} class="internal">
+                    {f.frontmatter?.title}
+                  </a>
+                </li>
+              ))
+            ) : (
+              <li>{i18n(cfg.locale).components.backlinks.noBacklinksFound}</li>
+            )}
+          </OverflowList>
+        </details>
       </div>
     )
   }
 
   Backlinks.css = style
   Backlinks.afterDOMLoaded = overflowListAfterDOMLoaded
-
   return Backlinks
 }) satisfies QuartzComponentConstructor
