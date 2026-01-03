@@ -17,7 +17,7 @@ titles:
   - Chronicler (former)
 lineage: null
 key_events:
-  - Elected Basilissa of Ventauri Clan
+  - Elected Basilissa
 locations_associated: []
 tags:
   - lyra
@@ -33,16 +33,16 @@ aliases:
 
 ## Overview
 
-Somayeh Bahman is a body-hopping parasite and member of [[The Perjurers]] ancient conspiracy. She infiltrates the [[Lyra]] faction, formerly serving as a chronicler before being elected Basilissa of the Ventauri Clan in 393 AC.
+Somayeh Bahman is a body-hopping parasite and member of [[The Perjurers]] ancient conspiracy. She infiltrates the [[Lyra]] faction, serving as a Chronicler
 
 ## Timeline
 
 ### 393 AC - Elected Basilissa
 
-Somayeh Bahman was elected Basilissa of the Ventauri Clan, elevating her position within the [[Lyra]] faction.
+Somayeh Bahman was elected Basilissa
 
 ## Relationships
 
 - **[[Lyra]]**: Faction Somayeh infiltrates as cover
 - **[[The Perjurers]]**: Ancient conspiracy of body-hopping parasites Somayeh belongs to
-- **Ventauri Clan**: [[Lyra]] clan where Somayeh was elected Basilissa (393 AC)
+- **Ventauri Clan**: [[Lyra]] clan where Somayeh was part of. 
