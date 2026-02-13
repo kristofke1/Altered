@@ -4,11 +4,11 @@ title: Altered TCG Lore Wiki
 
 # Welcome to the Altered TCG Lore Repository
 
-An encyclopedic documentation of the world, characters, and events of the **[Altered Trading Card Game](https://www.playaltered.com/)** universe — a game by Equinox in which players summon [[Exalts]] and their [[Eidolons|companions]] to battle across a rich fantasy world shaped by the forces of imagination.
+An encyclopedic documentation of the world, characters, and events of the **[Altered Trading Card Game](https://www.altered.gg/)** universe — a game by Equinox in which players summon [[Exalts]] and their [[Eidolons|companions]] to battle across a rich fantasy world shaped by the forces of imagination.
 
 *Explore [[Asgartha]], the last bastion of humanity. Meet the Exalts who venture beyond its walls. Uncover the mysteries of [[The Tumult]].*
 
-> **Last updated:** 13th February 2026 · Covers content through the *Skybound Odyssey* story arc. Improvements made on various entries.
+> **Last updated:** 13th February 2026 · Covers content through the current *Skybound Odyssey* story arc. Includes over 140 new entries and numerous quality edits.
 
 ---
 
