@@ -2,21 +2,40 @@
 title: Tocsin
 type: character
 category: alter_ego
-source: ["heroes_ordis", "card_lore", "[[L23_Butterfly_Effect]]"]
-birth_date: 
-death_date: 
-reign_period: 
+source:
+  - heroes_ordis
+  - card_lore
+  - "[[L23_Butterfly_Effect]]"
+birth_date:
+death_date:
+reign_period:
 status: living
-fate: 
+fate:
 species: chimera
 became_oneiros: false
 affiliated_faction: "[[Ordis]]"
 founded_organizations: []
-titles: ["Alter Ego", "Exalt"]
-lineage: 
-key_events: ["[[Musubi]]", "[[Rediscovery Endeavor]]", "[[Battle against the Kraken]]"]
-locations_associated: ["[[The Rampart]]", "[[Arkaster]]", "[[Caer Oorun]]", "[[Storvhit]]"]
-tags: [alter-ego, chimera, golem, ordis, aegis, exalt, stone-creature]
+titles:
+  - Alter Ego
+  - Exalt
+lineage:
+key_events:
+  - "[[Musubi]]"
+  - "[[Rediscovery Endeavor]]"
+  - "[[Battle against the Kraken]]"
+locations_associated:
+  - "[[The Rampart]]"
+  - "[[Arkaster]]"
+  - "[[Caer Oorun]]"
+  - "[[Storhvit]]"
+tags:
+  - alter-ego
+  - chimera
+  - golem
+  - ordis
+  - aegis
+  - exalt
+  - stone-creature
 ---
 
 # Tocsin
@@ -89,11 +108,11 @@ Tocsin recites rallying verses before battle to warm up and lift the spirits of 
 
 ## Timeline
 
-### ~393 AC - Rallying Call at Earthen Fort
+### 393 AC, January-March - Rallying Call at Earthen Fort
 
 Before [[Belisenki]] assault at an earthen fort grown using [[Alteration]], Tocsin sounded the great horn and recited rallying verses to lift the spirits of approximately 50 soldiers manning the ramparts while [[Gulrang Oduro]] stood beside the Golem watching defenders approach through the mist.
 
-### ~393 AC - Belisenki Defense at Tundra Foothills
+### 393 AC, January-March - Belisenki Defense at Tundra Foothills
 
 During all-night [[Belisenki]] assault on [[Ordis]] positions, Tocsin sounded horn blasts whose vibrations pushed back attackers, though [[Belisenki]] swarmed onto the Golem's back and arms forming a pulsating mass of butterfly wings.
 
@@ -102,4 +121,4 @@ During all-night [[Belisenki]] assault on [[Ordis]] positions, Tocsin sounded ho
 - **[[Gulrang Oduro]]**: [[Ordis]] Exalt bonded through [[The Musubi]], first saved her during griffin battle at [[The Rampart]]
 - **[[Kojo Oduro]]**: [[Gulrang Oduro]]'s brother, met when introduced to family
 - **[[The Aegis]]**: [[Ordis]] military branch Tocsin serves alongside Gulrang
-- **[[Belisenki]]**: Hostile species Tocsin fought during [[Storvhit]] operations (~393 AC)
+- **[[Belisenki]]**: Hostile species Tocsin fought during [[Storhvit]] operations (~393 AC)

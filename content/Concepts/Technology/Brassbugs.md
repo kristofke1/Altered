@@ -2,13 +2,28 @@
 title: Brassbugs
 type: concept
 category: technology
-source: ["card_lore", "heroes_axiom", "[[T37_The_sap]]"]
-related_concepts: ["[[Kelon]]", "[[Automata]]", "[[The Foundry]]"]
-associated_factions: ["[[Axiom]]"]
-associated_locations: ["[[The Foundry]]", "[[Storvhit]]"]
-first_mentioned: null
-description_summary: "Small robotic insect-like creatures used by the Axiom for welding, cutting, and repair work"
-tags: [technology, robotics, axiom, foundry, maintenance]
+source:
+  - card_lore
+  - heroes_axiom
+  - "[[T37_The_sap]]"
+  - AXIOM_minor_narrators_lore
+related_concepts:
+  - "[[Kelon]]"
+  - "[[Automata]]"
+  - "[[The Foundry]]"
+associated_factions:
+  - "[[Axiom]]"
+associated_locations:
+  - "[[The Foundry]]"
+  - "[[Storhvit]]"
+first_mentioned:
+description_summary: Small robotic insect-like creatures used by the Axiom for welding, cutting, and repair work
+tags:
+  - technology
+  - robotics
+  - axiom
+  - foundry
+  - maintenance
 ---
 
 # Brassbugs
@@ -63,7 +78,7 @@ Technicians at the [[City of Scholars]] outpost discovered that [[Sap]] serves a
 
 ### Field Repairs
 
-Brassbugs accompany [[Axiom]] expeditions to perform field repairs. At [[Storvhit]], Brassbugs welded new chest plates onto [[Sierra]]'s damaged [[Automata|Automaton]] using salvaged parts from an armored Scrambler.
+Brassbugs accompany [[Axiom]] expeditions to perform field repairs. At [[Storhvit]], Brassbugs welded new chest plates onto [[Sierra]]'s damaged [[Automata|Automaton]] using salvaged parts from an armored Scrambler.
 
 ### Foundry Operations
 
@@ -90,6 +105,14 @@ Brassbugs can be deployed from [[The Ouroboros]] for search and rescue missions.
 ### 389 AC - Workshop Assistance to Sierra
 
 A Brassbug assisted [[Sierra]] in her workshop while she designed racing blade prosthetics, analyzing her blueprints and providing tools from its dorsal compartments while swaying to [[Ankita Struna]]'s music playing through headphones Sierra placed on its head.
+
+### 393 AC - Brassbug Nursery Discovery
+
+[[Subhash Kadis]] discovered a Brassbug Nursery in a crater, where the creatures had developed self-replication capability independent of their Queen using a Kelonic generator to power incubators, with newborns emerging equipped with propulsion systems.
+
+### 393 AC - Dropship Deployment
+
+A Brassbug dropship capsule deployed Brassbugs in single file to assist [[Subhash Kadis]] with drill repairs on a floating [[Aerolith]] rock.
 
 ### 393 AC - Kintsugi Repair by Subhash
 

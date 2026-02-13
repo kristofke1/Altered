@@ -2,7 +2,7 @@
 title: Emerson Swanson
 type: character
 category: supporting
-source: ["[[L32_The_Arkaster_Echo]]", "[[L36_Arkaster_Echo_-_Shockwave]]"]
+source: ["[[L32_The_Arkaster_Echo]]", "[[L36_Arkaster_Echo_-_Shockwave]]", "[[L39_Arkaster_Echo_Elections]]"]
 birth_date: null
 death_date: null
 reign_period: null
@@ -21,11 +21,9 @@ tags: [journalist, reporter, arkaster-echo]
 
 # Emerson Swanson
 
-## Overview
-
 Emerson Swanson is a reporter for [[Arkaster Echo]].
 
-## Reporting Work
+## Timeline
 
 ### 393 AC, May 28 - "Baby Steps" Article
 
@@ -35,6 +33,10 @@ Emerson authored article titled "Baby Steps" for [[Arkaster Echo]] reporting on 
 
 Emerson authored article titled "Shockwave at the Asterion" for [[Arkaster Echo]] reporting on the joint announcement by [[Anuncia ruun-Aysun]] and [[Amaro Arundhani]] at [[The Asterion]] formalizing their political union and candidacy as a couple for Basileus and Basilissa in the upcoming election.
 
+### 393 AC, October 15 - "Break-In at the Well of Tears" Article
+
+Emerson authored article for [[Arkaster Echo]] Issue #289 reporting on the discovery of [[Kennus]], a lost cat from [[Kuth Kanat]] district, inside [[The Well of Tears]] beside the Lady of the Lake ([[Nimue]]).
+
 ## Relationships
 
 - **[[Arkaster Echo]]**: Newspaper for which Emerson reports
@@ -43,3 +45,4 @@ Emerson authored article titled "Shockwave at the Asterion" for [[Arkaster Echo]
 - **[[Noya|Noya Kagama]]**: Senator whose defense of Endeavor Emerson reported (393 AC)
 - **[[Amaro Arundhani]]**: Senator whose statements Emerson reported (393 AC)
 - **[[Anuncia ruun-Aysun]]**: Senator whose Radio Guild interruption Emerson reported (393 AC)
+- **[[Kennus]]**: Lost cat whose discovery Emerson reported (393 AC)

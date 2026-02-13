@@ -2,26 +2,37 @@
 title: Nina
 type: character
 category: soldier
-source: ["card_lore", "[[The Gig]]"]
-birth_date: null
-death_date: null
-reign_period: null
+source:
+  - card_lore
+  - "[[The Gig]]"
+birth_date:
+death_date:
+reign_period:
 status: living
-fate: null
+fate:
 species: human
 became_oneiros: false
 affiliated_faction: "[[Ordis]]"
 founded_organizations: []
-titles: ["Aide-de-camp", "Warrant Officer"]
-lineage: null
+titles:
+  - Aide-de-camp
+  - Warrant Officer
+lineage:
 key_events: []
-locations_associated: ["[[Storvhit]]", "[[Cais Adarra]]", "[[The Screed]]"]
-tags: [ordis, aide-de-camp, soldier, warrant-officer]
+locations_associated:
+  - "[[Storhvit]]"
+  - "[[Cais Adarra]]"
+  - "[[The Screed]]"
+tags:
+  - ordis
+  - aide-de-camp
+  - soldier
+  - warrant-officer
 ---
 
 # Nina
 
-Nina is an [[Ordis]] warrant officer who serves as aide-de-camp to [[Sigismar Synd]] during operations in the [[Storvhit]] region. She wields a dual lance as her weapon.
+Nina is an [[Ordis]] warrant officer who serves as aide-de-camp to [[Sigismar Synd]] during operations in the [[Storhvit]] region. She wields a dual lance as her weapon.
 
 ## Military Service
 

@@ -61,32 +61,4 @@ The harvesters experience the unique sensory environment—the gurgle of streams
 The deeper reaches of Hypogea contain uncharted areas that remain unexplored. When [[Lindiwe]] helped the [[Yzmir]] hunt for [[Maw]], the search party traveled to these uncharted areas, taking many days to reach the deepest sections where the chimera worm waited.
 
 ## The Discovery of Maw
-It was in Hypogea that [[Lindiwe]], then a blind child, first encountered [[Maw]]. Drawn to a murmuring coming from the oozing rock, she discovered the chimera worm embedded in the wall. The creature's body felt like mother-of-pearl rather than the usual apatite of the cave walls.
-
-When [[Maw]] emerged from the wall, [[Lindiwe]] fell into a puddle of [[Arcolano Milk]], losing consciousness. The creature protected her while she lay in the substance, not allowing [[Nesiwe]] or the other harvesters to approach. This incident led to Lindiwe's unique ability to see through [[Eidomancy]] and her eventual bonding with [[Maw]].
-
-Later, when the [[Yzmir]] conducted a hunt for [[Maw]], the expedition lasted many days and took the party to uncharted areas of Hypogea. The worm was waiting for them in the deep reaches, having called to [[Lindiwe]] throughout their journey.
-
-## Atmosphere and Experience
-Visitors and workers in Hypogea experience:
-- The perpetual night and darkness
-- Sounds that reverberate and spread uniquely
-- The unreal silence broken only by water and footsteps
-- Refreshing humidity after the desert heat
-- Mineral scents in the air
-- Subdued, soft atmosphere
-- Temperature changes from chilly depths to warmer areas
-- The sense of being in an immense ecosystem underground
-
-For [[Lindiwe]], who was born blind, Hypogea was a place she loved to visit. She could hear the gurgle of streams, taste the refreshing humidity, and experience the atmosphere in ways that did not require sight. The sounds would reverberate, muffle, and spread within the ecosystem, creating a rich sensory environment for her.
-
-## Significance
-Hypogea represents an important economic and ecological feature of [[Caer Arcolano]]. The underground ecosystem:
-- Provides [[Arcolano Milk]], a valuable substance for [[Alterers]]
-- Houses unique life forms like [[Maw]]
-- Creates employment for harvesters
-- Offers a dramatically different environment from the surface
-- Contains both explored and mysterious uncharted regions
-- Played a crucial role in [[Lindiwe]]'s transformation and eventual recruitment by the [[Yzmir]]
-
-The existence of creatures like [[Maw]] embedded in the rock walls, combined with the presence of [[Arcolano Milk]], suggests that Hypogea may have connections to [[The Aether|Aether]] or [[The Tumult]], making it a location of interest for magical study and potential danger.
+It was in Hypogea that [[Lindiwe]], then a blind child, first encountered [[Maw]]. Drawn to a murmuring coming from the oozing rock, she discovered the chimera worm embedded in the wall.

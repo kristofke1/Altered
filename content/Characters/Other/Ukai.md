@@ -1,48 +1,38 @@
 ---
 title: Ukai
 type: character
-category: animal_companion
-source: heroes_muna
-birth_date: 
-death_date: 
-reign_period: 
+category: companion
+source:
+  - "heroes_muna"
+birth_date: null
+death_date: null
 status: living
-fate: 
+fate: null
 species: cormorant
 became_oneiros: false
-affiliated_faction: 
+affiliated_faction: null
 founded_organizations: []
 titles: []
-lineage: 
+lineage: null
 key_events: []
-locations_associated: ["[[Amorgand]]", "[[Katkera]]"]
-tags: [cormorant, fishing-bird, companion]
+locations_associated:
+  - "[[Katkera]]"
+tags:
+  - cormorant
+  - animal
 ---
 
 # Ukai
 
-Ukai is a domestic cormorant who lives with Yonago and assists him in fishing. The bird serves as a working companion and helped provide food for Yonago and Rin throughout her childhood.
+## Overview
 
-## Role in Fishing
+Ukai is a domestic cormorant belonging to [[Yonago]], the fisherman who raised [[Rin]]. The bird assists Yonago in fishing, and it is thanks to Ukai that the household eats their fill every day.
 
-Ukai is a domestic cormorant who works with Yonago to catch fish. It is thanks to Ukai that Yonago and Rin eat their fill every day. The bird accompanies Yonago on his fishing expeditions, using the traditional cormorant fishing method where the bird catches fish for the fisherman.
+## Background
 
-When Yonago goes out for a day of fishing, he takes Ukai with him, leaving Rin at home during the day when she was young.
+When Rin set off alone to find [[Orchid]] in the forest, she stroked Ukai's head so he would go back to sleep, allowing her to depart without alerting Yonago. Years later, when Rin returned from her Muna training, Ukai croaked and flapped his wings at the sight of her approaching the shore with Orchid.
 
-## Relationship with Rin
+## Relationships
 
-Throughout Rin's childhood, she was always careful to give some fish to Ukai when preparing their catch. She understood the bird's importance to their household and made sure he was fed.
-
-On the day Rin set off alone to find Orchid in the forest, she woke up before Yonago and stroked Ukai's head so he would go back to sleep. The bird accepted her gentle touch and remained quiet, allowing her to depart without alerting Yonago.
-
-## Reunion Scene
-
-After years of separation when Rin trained with the Muna, Ukai was present when she returned. As Yonago was laying out his nets, he saw Rin approaching from the shore with Orchid. At the sight of Rin, even Ukai croaked and flapped his wings, showing recognition and response to her return.
-
-The bird's reaction was notable enough that it emphasized the significance of Rin's homecoming after her long absence. Ukai had not forgotten her despite the years apart.
-
-## Daily Life
-
-Ukai lives in or near Yonago's cabin and accompanies him on the raft or barge during fishing expeditions. The bird sleeps near the living quarters and can be found resting when not actively working.
-
-As a working cormorant, Ukai represents the practical relationship between humans and animals in Yonago's fishing lifestyle, distinct from the deeper spiritual bonds formed through Musubi but no less important to daily survival and sustenance.
+- **[[Yonago]]**: Owner; Ukai assists him in fishing
+- **[[Rin]]**: Grew up in the same household; Rin was careful to give fish to Ukai when preparing their catch

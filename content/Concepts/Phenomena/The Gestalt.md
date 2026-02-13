@@ -76,7 +76,7 @@ The connection was severed when the tesseracts destroyed the cube, but not befor
 - **[[Ordis]]**: Faction whose members form the network
 - **[[Coalescence]]**: Process by which minds link to form the Gestalt
 - **[[Glyph|Ordis Glyph]]**: Tattoo required to interface with the network
-- **[[The Heka]]**: Abilities enhanced through pooled Gestalt power
+- **[[Heka]]**: Abilities enhanced through pooled Gestalt power
 - **[[Belisenki]]**: Species whose potential integration was debated (393 AC)
 - **[[Nosk]]**: Communications officer who broadcast [[BLISS!]] concert through the Gestalt (393 AC)
 - **[[BLISS!]]**: Band whose concert was broadcast to [[Coalescence]] audiences through the network (393 AC)

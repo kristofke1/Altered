@@ -2,7 +2,7 @@
 title: Fiore dei Liberi
 type: character
 category: eidolon
-source: ["card_lore", "[[T33_The_Duel]]"]
+source: ["card_lore", "[[T33_The_Duel]]", "[[L40_Story_So_Far_2]]"]
 birth_date: null
 death_date: null
 reign_period: null
@@ -39,11 +39,11 @@ Fiore dei Liberi was an Italian master of arms and fencing whose expertise made 
 
 ## Awakening and Duel with Atsadi
 
-### 393 AC - Manifestation
+### 393 AC, June - Manifestation
 
 When [[Atsadi]] and [[Kojo Oduro]] entered the cylindrical memory chamber in the [[City of Scholars]], Fiore's [[Eidolons|Eidolon]] form awakened from centuries of slumber. He introduced himself formally: "Fiore dei Liberi, son of Benedetto dei Liberi. Diplomat, free noble, mercenary, and master of the dueling arts. Knight of the Seven Blades."
 
-### 393 AC - The Duel
+### 393 AC, June - The Duel
 
 Fiore recognized Atsadi as the one promised by [[The Drifter]] and eagerly accepted his challenge. He requested time to warm up and test the rapier Atsadi's imagination had provided, noting that "Maupin" (referring to [[Julie d'Aubigny]]) usually fought with such blades.
 
@@ -51,7 +51,7 @@ The duel took place in the pit of the memory chamber. Fiore demonstrated flawles
 
 Despite his technical superiority, Fiore was defeated when Atsadi revealed his true nature as an [[Alterers|Alterer]], erupting in flames. The battle devastated the chamber—cracking the floor, shattering stone steles, and fissuring walls. Had Fiore been mortal, the final blow would have been fatal.
 
-### 393 AC - Aftermath
+### 393 AC, June - Aftermath
 
 After his defeat, Fiore examined the gaping tear in his coat with courteous calm. He honored the terms of their wager by revealing two names of fellow [[The Seven Blades|Seven Blades]] members: [[Julie d'Aubigny]] and [[Joseph Bologne]]. He then faded away, but not before removing his hat and giving a pedantic bow.
 

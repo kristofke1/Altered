@@ -1,30 +1,49 @@
 ---
-title: "Kuna"
+title: Kuna
 type: location
 category: island
-source: ["T3_catch_the_drift", "T17_Those_who_stay_behind", "L07_ARKASTER"]
+source:
+  - T3_catch_the_drift
+  - T17_Those_who_stay_behind
+  - L07_ARKASTER
 parent_location: "[[Arkaster]]"
-sub_locations: ["[[Tesh Kanat]]", "[[The Asterion]]", "[[Kuningasplatz]]"]
-population: null
-area: null
-founded: null
-status: "active"
-controlling_faction: null
-present_factions: ["[[The Aegis]]", "[[The Damocles]]", "[[Old Nobility]]"]
-government_type: "Administrative and political center"
+sub_locations:
+  - "[[Tesh Kanat]]"
+  - "[[The Asterion]]"
+  - "[[Kuningasplatz]]"
+population:
+area:
+founded:
+status: active
+controlling_faction:
+present_factions:
+  - "[[The Aegis]]"
+  - "[[The Damocles]]"
+  - "[[Old Nobility]]"
+government_type: Administrative and political center
 notable_features:
-  - "Massive rock rising high above lagoon level"
-  - "Convinced Tumult Nomads to settle here"
-  - "Administrative and political center of the Peninsula"
-  - "Kuningasplatz and Asterion spires on western end"
-  - "Basileus palace dominates the bay"
-  - "Under joint protection of Aegis and Damocles"
-  - "Tesh Kanat district on cliffside"
-  - "ruun-Aysun family villa retreat"
-  - "Underground tunnels and caverns"
-climate: "Cold during Season of Mists with frost and fog"
-characters: ["[[Sigismar Synd]]", "[[Anuncia ruun-Aysun]]", "[[Asor]]", "[[Dorota]]"]
-tags: [island, political-center, arkaster, old-nobility, aegis, damocles]
+  - Massive rock rising high above lagoon level
+  - Convinced Tumult Nomads to settle here
+  - Administrative and political center of the Peninsula
+  - Kuningasplatz and Asterion spires on western end
+  - Basileus palace dominates the bay
+  - Under joint protection of Aegis and Damocles
+  - Tesh Kanat district on cliffside
+  - ruun-Aysun family villa retreat
+  - Underground tunnels and caverns
+climate: Cold during Season of Mists with frost and fog
+characters:
+  - "[[Sigismar Synd]]"
+  - "[[Anuncia ruun-Aysun]]"
+  - "[[Asor]]"
+  - "[[Dorota]]"
+tags:
+  - island
+  - political-center
+  - arkaster
+  - old-nobility
+  - aegis
+  - damocles
 ---
 
 # Kuna

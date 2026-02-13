@@ -3,20 +3,27 @@ title: Eros
 type: character
 category: eidolon
 source: card_lore
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: eidolon
-fate: null
+fate:
 species: eidolon
 became_oneiros: true
-affiliated_faction: null
+affiliated_faction:
 founded_organizations: []
 titles: []
-lineage: null
+lineage:
 key_events: []
-locations_associated: ["[[Storvhit]]"]
-tags: [eidolon, fire, flame, greek-god, love, bravos]
+locations_associated:
+  - "[[Storhvit]]"
+tags:
+  - eidolon
+  - fire
+  - flame
+  - greek-god
+  - love
+  - bravos
 ---
 
 # Eros
@@ -41,7 +48,7 @@ Eros responds to emotional invocation based on love and connection. When summone
 
 ### 393 AC - Against Belisenki
 
-During [[Storvhit]] expedition, [[Atsadi]] was surrounded by approximately twenty [[Belisenki]] in mountain pass. [[Atsadi]] drew on love he felt for [[Aurora]] to give him courage, calling upon love that had guided each of his steps. Eros landed like meteorite on [[Atsadi]]'s right side while intense light shone above, dazzling and comforting him.
+During [[Storhvit]] expedition, [[Atsadi]] was surrounded by approximately twenty [[Belisenki]] in mountain pass. [[Atsadi]] drew on love he felt for [[Aurora]] to give him courage, calling upon love that had guided each of his steps. Eros landed like meteorite on [[Atsadi]]'s right side while intense light shone above, dazzling and comforting him.
 
 The [[Belisenki]] ice creatures froze momentarily, blinded by the light. Two then three flaming beings landed creating barrier between [[Atsadi]] and the [[Belisenki]]. The creatures hesitated as Eros laughed with wings unfurling. [[Atsadi]] stepped back to focus on next attack, letting Eros make first move while summoning blazing fire.
 

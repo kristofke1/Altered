@@ -5,20 +5,20 @@ category: eidolon
 source:
   - "[[L19_The_Storvhit]]"
   - card_lore
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: eidolon
-fate: null
+fate:
 species: eidolon
 became_oneiros: true
-affiliated_faction: null
+affiliated_faction:
 founded_organizations: []
 titles: []
-lineage: null
+lineage:
 key_events: []
 locations_associated:
-  - "[[Storvhit]]"
+  - "[[Storhvit]]"
 tags:
   - eidolon
   - cold
@@ -49,7 +49,7 @@ Snow Queen can explore disciples' minds, observing the mental constructs they bu
 
 ## Eidolon Adaptation
 
-Snow Queen was among [[Eidolons]] recommended for diversified summoning to alleviate burden of [[Storvhit]]'s endemic cold during [[Rediscovery Endeavor]] operations. Along with [[Jack Frost]] and [[Skaði|Skadi]], Snow Queen represented lesser-used [[Eidolons]] being explored or rediscovered for adaptation to arctic environments.
+Snow Queen was among [[Eidolons]] recommended for diversified summoning to alleviate burden of [[Storhvit]]'s endemic cold during [[Rediscovery Endeavor]] operations. Along with [[Jack Frost]] and [[Skaði|Skadi]], Snow Queen represented lesser-used [[Eidolons]] being explored or rediscovered for adaptation to arctic environments.
 
 ## Timeline
 
@@ -61,7 +61,7 @@ Snow Queen trained [[Lindiwe]] alongside other disciples in techniques for captu
 
 - **[[Lindiwe]]**: Disciple trained in idea-capturing techniques (~393 AC)
 - **[[Maw]]**: Parasitic entity hiding within Lindiwe's mind during training, avoiding Snow Queen's detection
-- **[[Jack Frost]]**: Fellow cold-associated [[Eidolons|Eidolon]] recommended for [[Storvhit]] operations
-- **[[Skaði|Skadi]]**: Fellow winter [[Eidolons|Eidolon]] recommended for [[Storvhit]] operations
-- **[[Storvhit]]**: Arctic region where Snow Queen operates
+- **[[Jack Frost]]**: Fellow cold-associated [[Eidolons|Eidolon]] recommended for [[Storhvit]] operations
+- **[[Skaði|Skadi]]**: Fellow winter [[Eidolons|Eidolon]] recommended for [[Storhvit]] operations
+- **[[Storhvit]]**: Arctic region where Snow Queen operates
 - **[[The Empyrean]]**: Realm from which ideas are captured during training

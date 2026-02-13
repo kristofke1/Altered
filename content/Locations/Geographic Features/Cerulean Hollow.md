@@ -2,18 +2,20 @@
 title: Cerulean Hollow
 type: location
 category: geographic_feature
-source: ["L24_Mana_Moths", "L23_Butterfly_Effect"]
-parent_location: "[[Storvhit]]"
+source:
+  - L24_Mana_Moths
+  - L23_Butterfly_Effect
+parent_location: "[[Storhvit]]"
 sub_locations: []
-population: null
-area: null
-founded: null
+population:
+area:
+founded:
 status: active
-controlling_faction: null
+controlling_faction:
 present_factions:
   - "[[Yzmir]]"
   - "[[Muna]]"
-government_type: null
+government_type:
 notable_features:
   - Winding tunnels
   - Secluded grotto
@@ -35,7 +37,7 @@ aliases: []
 
 ## Overview
 
-Cerulean Hollow is a network of winding tunnels and cavities within [[Storvhit]], discovered during the [[Rediscovery Endeavor]] in 393 AC. The location serves as the primary habitat for [[Mana Moths]], ethereal moth species composed of pure [[Mana]].
+Cerulean Hollow is a network of winding tunnels and cavities within [[Storhvit]], discovered during the [[Rediscovery Endeavor]] in 393 AC. The location serves as the primary habitat for [[Mana Moths]], ethereal moth species composed of pure [[Mana]].
 
 ## Discovery
 
@@ -67,7 +69,7 @@ The discovery of [[Belisenki]] molts in the same areas as [[Mana Moths]] colonie
 
 ## Relationships
 
-- **[[Storvhit]]**: Parent region containing Cerulean Hollow
+- **[[Storhvit]]**: Parent region containing Cerulean Hollow
 - **[[Mana Moths]]**: Ethereal species inhabiting the grotto
 - **[[Belisenki]]**: Symbiotic species found in same areas
 - **[[Saskia Averina]]**: [[Muna]] Naturalist who studied the location (March 393 AC)

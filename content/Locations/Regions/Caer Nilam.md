@@ -2,118 +2,64 @@
 title: Caer Nilam
 type: location
 category: province
-source: ["[[L26_The_Nilam]]", "[[L30_Clear_Skies]]", "[[T36_Escherian]]"]
-year_established: 393 AC (projected)
+source: ["[[L19_The_Storvhit]]", "[[L26_The_Nilam]]", "[[L30_Clear_Skies]]", "[[L31_Story_so_far]]"]
+year_established: "393 AC"
 year_destroyed: null
 status: established
 affiliated_faction: "[[Asgartha]]"
 founded_by: "[[Rediscovery Endeavor]]"
-key_events: ["Provincial designation (April 2, 393 AC)", "Tenth Refuge proposal", "Governance granted to Ordis with Yzmir support (May 15, 393 AC)", "Jack Frost patronage establishment (May 15, 393 AC)"]
-locations_associated: ["[[Storvhit]]", "[[Cais Adarra]]", "[[The Nilam]]", "[[Asgartha]]"]
-tags: [province, caer, nilam, storvhit, asgarthan-protectorate, expansion]
+key_events: ["Provincial designation (May 393 AC)", "Governance granted to Ordis with Yzmir support (May 15, 393 AC)", "Jack Frost patronage establishment (May 15, 393 AC)"]
+locations_associated: ["[[Storhvit]]", "[[Cais Adarra]]", "[[The Nilam]]", "[[Caer Oorun]]"]
+tags: [province, caer, nilam, storhvit, asgarthan-protectorate, expansion]
 ---
 
 # Caer Nilam
 
 ## Overview
 
-Caer Nilam is proposed Province designation for explored [[Storvhit]] region, named honoring fallen world-tree [[The Nilam]] at [[Cais Adarra]]. Represents first territorial addition brought forth by [[Rediscovery Endeavor]] following recent reconquest of [[Caer Oorun]], designated April 2, 393 AC.
+Caer Nilam is an [[Asgartha|Asgarthan]] Province encompassing the [[Storhvit|Storhvit]] region, designated in May 393 AC following the liberation of [[Kuraokami]] from [[The Nilam]]. It is the first new Province added to Asgarthan territories through the [[Rediscovery Endeavor]], after the earlier reconquest of [[Caer Oorun]]. The Province is named after [[The Nilam]], the dead world-tree discovered at [[Cais Adarra]].
 
-## Provincial Status Development
+## Geography
 
-### Incorporation Process
+Caer Nilam encompasses the [[Storhvit|Storhvit]] region, a perpetually frozen expanse centered on [[Cais Adarra]] mountain. The region contains six distinct biomes identified by [[Exalts]] scouts: tundra, taiga, frozen lake, canyon, caverns, and mountain spur. Geographic features include fractured mountains, cerulean moraines, glaciers, and crystallized root networks extending from [[The Nilam]]. The climate was revealed to be entirely artificial, sustained first by [[Kuraokami]]'s imprisoned essence and later by [[Jack Frost]]'s permanent embodiment.
 
-[[The Asterion]] desires incorporation of [[Storvhit]] region into Asgarthan Protectorate for political and economic reasons. Once area stabilized, [[Storvhit]] becomes eligible for potential settlement strategy. Explored territory gains official Province status under Caer Nilam designation. Development serves as undeniable proof [[Rediscovery Endeavor]] benefits [[Asgartha]]n civilization, significantly strengthening initiative's standing among Asgarthan population.
+## Provincial Designation
 
-### Resource Management
+[[The Asterion]] claimed the [[Storhvit|Storhvit]] as autonomous Asgarthan territory shortly after [[Kuraokami]]'s liberation in May 393 AC. The designation followed the Asgarthan "Caer" naming convention used for provinces. Cartographers established official territorial boundaries using [[The Nilam]]'s location, and heraldists designed the Province's emblem incorporating imagery of the bluish crystallized world-tree.
 
-[[Muna]] mediators will remain stationed tempering ambitions of [[Companies|Corporations]], Guilds, and other Factions seeking to exploit region's resources. Permanent diplomatic presence required managing competing interests. Provincial incorporation balances economic development with indigenous population concerns including [[Winter Folk]] and [[Belisenki]] species.
+## Governance
 
-## Regional Symbolism
+[[Temera Singh]] granted temporary governance of the Province to the [[Ordis]], supported by the [[Yzmir]], on May 15, 393 AC. The [[Yzmir]] were included specifically because they provide the protective cocoons that shield expeditionary personnel from [[Belisenki]] hostility. The [[Muna]] had advocated for designating the region a natural reserve similar to [[Katkera]], but this proposal was not adopted. The appointed Governor bears responsibility for maintaining the permanent embodiment of [[Jack Frost]] in the area to sustain the arctic climate, as well as enforcing strict regulations to keep the enclave viable.
 
-### Naming Convention
+## Climate Maintenance
 
-Province named Caer Nilam honoring fallen world-tree [[The Nilam]] discovered at [[Cais Adarra]] heart. Naming follows Asgarthan convention of "Caer" designation for provinces similar to [[Caer Oorun]]. Choice recognizes scientific and symbolic importance of colossal dead world-tree to region.
+[[Kuraokami]]'s departure from [[Cais Adarra]] caused temperatures to rise and glaciers to melt at an alarming rate, threatening the survival of both the [[Winter Folk]] and [[Belisenki]]. [[Jack Frost]] was selected as the replacement tutelary [[The Oneiroi|Oneiros]] because his immanent nature best embodied the kind of winter necessary for the biome's survival. Other candidates considered included the Snow Queen, Baron Kelvin, and Dong Da Shen, while the Snow Maiden and the Yeti were ruled out as they needed cold to exist but could not generate it.
 
-### Heraldic Design
+## Indigenous Relations
 
-Cartographers marked atlases with [[The Nilam]]'s location establishing official territorial boundaries. Heraldists used [[The Nilam]]'s image designing region's emblem. Regional symbol incorporates bluish crystallized world-tree imagery representing both discovery and memorial to ancient entity.
+The Province contains two indigenous populations requiring diplomatic engagement: the [[Winter Folk]] and the [[Belisenki]]. [[Muna]] mediators were positioned as the primary diplomatic interface, tasked with managing relationships and tempering the ambitions of [[Companies|Corporations]], Guilds, and other Factions seeking to exploit the region's resources. The [[Muna]] also proposed establishing a permanent embassy designated as the Tenth Refuge (Refuge of Snow) to maintain ongoing dialogue with these populations.
 
-## Diplomatic Infrastructure
+## Historical Connection to the City of Scholars
 
-### Tenth Refuge Proposal
-
-[[Muna]] arborists proposed establishing permanent embassy designated as Tenth Refuge - Refuge of Snow. Purpose: maintaining dialogue with [[Winter Folk]] and [[Belisenki]] populations during provincial development. [[Temera Singh]] inclined to grant contingent ensuring safety while awaiting reinforcements from [[Asgartha]]. Refuge represents first permanent Asgarthan diplomatic presence in Terra Incognita.
-
-### Indigenous Relations
-
-Provincial status contingent on successful diplomatic engagement with indigenous populations. [[Belisenki]] territorial protection behaviors require ongoing mediation. [[Winter Folk]] established presence necessitates cultural sensitivity during settlement planning. [[Muna]] mediators positioned as primary diplomatic interface managing relationships.
-
-## Governance Decision - May 15, 393 AC
-
-### Asterion Territorial Claim
-
-[[The Asterion]] quickly claimed [[Storvhit]] as autonomous territory of [[Asgartha]], using Caer Nilam designation. Talk of appointing Governor to turn region into new Province with heavy responsibility overseeing contingents that must remain to stabilize, reinforce, and ensure longevity of [[Oases|Oasis]].
-
-### Muna Natural Reserve Proposal
-
-Despite [[Muna]] envoys urging region be turned into natural reserve like [[Katkera]], [[Temera Singh]] made alternative decision after much deliberation.
-
-### Temporary Governance Grant
-
-[[Temera Singh]] decided to grant temporary governance of [[Storvhit]] to [[Ordis]], supported by [[Yzmir]]. [[Yzmir]] granted support role as they provide precious cocoons protecting expeditionary forces from hostility of [[Belisenki]]. In harsh climate of Caer Nilam, oversight from [[Ordis]] considered crucial with strict regulations enforced for enclave to remain viable over time. Admiral hoped other Factions would accept ruling without resistance.
-
-### Climate Maintenance Priority
-
-Governor bears heavy responsibility maintaining permanent embodiment of [[Jack Frost]] in area to sustain arctic climate following [[Kuraokami]]'s liberation. Political pressure and public opinion expected to peak in coming months and years regarding governance arrangements.
-
-## Historical Significance
-
-### Expansion Milestone
-
-Caer Nilam represents first new Province added to [[Asgartha]]n territories through [[Rediscovery Endeavor]] since [[Caer Oorun]] reconquest. Achievement demonstrates practical benefits of exploration initiative beyond theoretical goals. Success strengthens political support for continued territorial expansion into Terra Incognita.
-
-### Precedent Setting
-
-Provincial designation establishes template for future territorial acquisitions. Process involves: initial exploration, diplomatic engagement with indigenous populations, resource assessment, [[The Asterion]] political approval, and formal Province designation. Caer Nilam serves as model for integrating discovered territories into Asgarthan Protectorate.
-
-## Historical Connection to City of Scholars
-
-Substance residues and relics found in Caer Nilam suggest the [[City of Scholars]] inhabitants established a colony or outpost in the region before the cold overtook it. When the climate was milder, the ancient civilization likely traveled to this area, leaving traces of the [[Sap]] they exploited from their world-tree.
-
-## Geographic Context
-
-Province encompasses [[Storvhit]] region including:
-- [[Cais Adarra]] mountain containing [[The Nilam]]
-- [[Belisenki]] breeding grounds and territories
-- [[Winter Folk]] inhabited areas
-- Various biomes explored during 393 AC expedition
-- Dead world-trees in gorges and ravines
-
-Region characterized by extreme cold, harsh conditions, and significant [[Mana]] concentrations. Geographic features include fractured mountains, cerulean moraines, frozen lakes, glaciers, and crystallized root networks.
-
-## Economic Considerations
-
-Initial hope for significant Kelon deposits at [[Cais Adarra]] proven unfounded - mountain harbors [[The Nilam]] rather than kelonic veins. Resource exploitation limited by need for diplomatic balance with indigenous populations. [[Companies|Corporations]] and Guilds require oversight preventing unchecked extraction. Economic development must proceed cautiously respecting established territorial claims and ecological systems.
+Substance residues and relics found in the region suggest that the inhabitants of the [[City of Scholars]] established a presence in the area before glaciation overtook it. Traces of the [[Sap]] they exploited from their world-tree indicate the ancient civilization traveled to this region when the climate was milder.
 
 ## Relationships
 
-- **[[Storvhit]]**: Region designated for Caer Nilam Province status
-- **[[The Nilam]]**: World-tree province named to honor
-- **[[Cais Adarra]]**: Central mountain location within Province
-- **[[Rediscovery Endeavor]]**: Initiative establishing Province through exploration
-- **[[The Asterion]]**: Political body claiming provincial incorporation and autonomous territorial status
-- **[[Caer Oorun]]**: Previous territorial reconquest preceding Caer Nilam designation
-- **[[Temera Singh]]**: Grand Admiral documenting provincial designation (April 2, 393 AC) and governance decision (May 15, 393 AC)
-- **[[Muna]]**: Faction proposing Tenth Refuge, providing mediators, and advocating for natural reserve status
+- **[[Asgartha]]**: Parent political entity incorporating the Province
+- **[[Belisenki]]**: Indigenous species requiring ongoing mediation during provincial development
+- **[[Cais Adarra]]**: Central mountain containing [[The Nilam]]
+- **[[Caer Oorun]]**: Preceding territorial reconquest before Caer Nilam designation
+- **[[City of Scholars]]**: Ancient civilization that may have maintained an outpost in the region before glaciation
+- **[[Jack Frost]]**: Tutelary [[The Oneiroi|Oneiros]] whose permanent embodiment sustains the arctic climate (May 393 AC)
+- **[[Katkera]]**: Natural reserve proposed by [[Muna]] as alternative governance model
+- **[[Kuraokami]]**: Dragon whose imprisonment created the region's artificial climate; liberation necessitated [[Jack Frost]]'s appointment
+- **[[Muna]]**: Faction providing mediators and proposing Tenth Refuge embassy
+- **[[Ordis]]**: Faction granted temporary governance of the Province (May 15, 393 AC)
+- **[[Rediscovery Endeavor]]**: Initiative through which the Province was established
+- **[[Sap]]**: Substance whose residues in the region suggest [[City of Scholars]] presence
+- **[[Storhvit]]**: Region encompassed by the Province
+- **[[Temera Singh]]**: Grand Admiral who made governance decision (May 15, 393 AC)
+- **[[The Asterion]]**: Political body that claimed the territory for Asgarthan incorporation
+- **[[The Nilam]]**: Dead world-tree after which the Province is named
 - **[[Winter Folk]]**: Indigenous population requiring diplomatic engagement
-- **[[Belisenki]]**: Species requiring ongoing mediation
-- **[[Asgartha]]**: Parent political entity incorporating Province into Protectorate
-- **[[Ordis]]**: Faction granted temporary governance of Province (May 15, 393 AC)
-- **[[Yzmir]]**: Faction providing support for governance through protective cocoons against [[Belisenki]] (May 15, 393 AC)
-- **[[Jack Frost]]**: [[Oneiros]] whose permanent embodiment must be maintained for climate stability (May 15, 393 AC)
-- **[[Kuraokami]]**: Primordial dragon whose liberation necessitated [[Jack Frost]] patronage establishment (393 AC)
-- **[[Katkera]]**: Natural reserve proposed by [[Muna]] as model for [[Storvhit]] governance
-- **Tenth Refuge (Refuge of Snow)**: Proposed permanent embassy within Province
-- **[[City of Scholars]]**: Ancient civilization that may have established outpost in region before glaciation
-- **[[Sap]]**: Substance whose residues in region suggest City of Scholars presence
+- **[[Yzmir]]**: Faction supporting governance through provision of protective cocoons (May 15, 393 AC)

@@ -2,7 +2,7 @@
 title: "Hadera"
 type: location
 category: city
-source: ["L4_Asgartha", "L06_Geography_E"]
+source: ["L4_Asgartha", "L06_Geography_E", "heroes_ordis_zhen"]
 parent_location: "[[Caer Esvander]]"
 sub_locations: []
 population: 231000
@@ -20,7 +20,7 @@ notable_features:
   - "Some islets sink and fall to Undersea level"
   - "Fleet of levitating barges for Aerolith cargo"
 climate: null
-characters: []
+characters: ["[[Zhen]]", "[[Bai Shan-shu]]", "[[Madelyn Moss]]"]
 tags: [city, esvander, chief-town, aerolith, mining, floating]
 ---
 
@@ -41,9 +41,16 @@ Hadera hosts a fleet of levitating barges that dredge [[Aerolith]] cargo to the 
 ## Way of Life
 Like everywhere else in [[Caer Esvander]], the inhabitants of Hadera have a way of life connected to their aerial habitat.
 
+## Notable Residents
+
+[[Zhen]], [[Ordis]] Rear Admiral and [[Exalts|Exalt]], was born in Hadera in 330 AC. Her parents [[Bai Shan-shu]] and [[Madelyn Moss]] settled in the city after leaving [[The Cebir]] in 329 AC. Zhen spent her childhood in Hadera, exploring the chaotic heights around the city and visiting small floating isles where her father practiced paragliding.
+
 ## Relationships
 - **[[Caer Esvander]]**: Province of which Hadera is chief town
 - **[[Aerolith]]**: Primary resource extracted from quarries
 - **[[Caer Alcada]]**: Neighboring Province also elevated by Aerolith
 - **[[Undersea]]**: Sea below to which depleted islets sink
 - **[[Asgartha]]**: Peninsula supplied by Hadera's Aerolith barges
+- **[[Zhen]]**: [[Ordis]] Exalt born in Hadera (330 AC)
+- **[[Bai Shan-shu]]**: [[Ordis]] officer who lived in Hadera with his family
+- **[[Madelyn Moss]]**: Scientist who lived in Hadera with her family

@@ -35,7 +35,7 @@ Mnemosyne is the goddess of memory and mother of the Muses, also known as [[The 
 
 ### 393 AC - Fen's Strategy
 
-During leisure at [[Storvhit]] hot springs, [[Fen]] confided her plan to [[Auraq]]: find [[The Song of One]] to reunite [[The Nine Matriarchs]] as [[Chiara Caceres]] once did, seek Mnemosyne who holds all world's memories and knows the Song's words, then call upon her [[Eidolon]] to convince [[The Nine Sisters|the Muses]] to sway the Matriarchs. [[Auraq]] suspected someone had planted the idea about seeking Mnemosyne, noting the mention seemed no coincidence alongside the [[Kasirga Clan]] exile.
+During leisure at [[Storhvit]] hot springs, [[Fen]] confided her plan to [[Auraq]]: find [[The Song of One]] to reunite [[The Nine Matriarchs]] as [[Chiara Caceres]] once did, seek Mnemosyne who holds all world's memories and knows the Song's words, then call upon her [[Eidolon]] to convince [[The Nine Sisters|the Muses]] to sway the Matriarchs. [[Auraq]] suspected someone had planted the idea about seeking Mnemosyne, noting the mention seemed no coincidence alongside the [[Kasirga Clan]] exile.
 
 ## Current Status
 
@@ -44,6 +44,7 @@ Mnemosyne's whereabouts are unknown. She exists somewhere within the world's mem
 ## Relationships
 
 - **[[The Nine Sisters]]**: Her daughters, the Muses who patron the Lyra Clans
+- **[[Lyra Skald Secret Society]]**: Clandestine organization claiming to serve Mnemosyne directly rather than the Matriarchs
 - **[[Cayrat Steinn]]**: Former Shepherd who sought to find her
 - **[[Esmeralda]]**: Eidolon continuing Cayrat's quest to find Mnemosyne
 - **[[Fen]]**: Lyra Exalt seeking Mnemosyne to learn The Song of One (393 AC)

@@ -21,7 +21,7 @@ Cathal belongs to the Jusaka Blaze, serving alongside friends including Carmela,
 Cathal attended ceremony where [[Kojo Oduro]] received [[Carnelian Crown]] from Basileus [[Avkan ruun-Heshkari]], teasing Kojo with sly, mocking grin from stands.
 
 ### 393 AC - Amarok Chase at Storvhit
-During [[Storvhit]] expedition, someone ordered Cathal to run when [[Amarok]] wolf [[Eidolons|Eidolon]] appeared, causing giant creature to lose interest in [[Belisenki]] and chase Cathal through pines before Cathal leapt onto wolf's fur.
+During [[Storhvit]] expedition, someone ordered Cathal to run when [[Amarok]] wolf [[Eidolons|Eidolon]] appeared, causing giant creature to lose interest in [[Belisenki]] and chase Cathal through pines before Cathal leapt onto wolf's fur.
 
 ## Carnelian Crown Ceremony
 

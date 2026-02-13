@@ -1,21 +1,35 @@
 ---
-title: "Cornucoopia"
+title: Cornucoopia
 type: organization
 category: service
-source: ["L6_asgarthan_services", "heroes_ordis", "card_lore"]
-founded: "294 AC"
+source:
+  - L6_asgarthan_services
+  - heroes_ordis
+  - card_lore
+founded: 294 AC
 founder: "[[Hermagoras Whittle]]"
-status: "active"
-dissolved_date: null
-parent_organization: null
-parent_faction: null
-affiliated_faction: null
-alignment: null
-purpose: "Ensuring population's access to essential goods, groceries, and street food"
-locations: ["[[Arkaster]]", "[[Storvhit]]"]
-key_figures: ["[[Hermagoras Whittle]]", "[[Yawo]]"]
-related_organizations: ["[[Athanor]]", "[[Rediscovery Endeavor]]"]
-tags: [service, groceries, commerce, food, expedition-support]
+status: active
+dissolved_date:
+parent_organization:
+parent_faction:
+affiliated_faction:
+alignment:
+purpose: Ensuring population's access to essential goods, groceries, and street food
+locations:
+  - "[[Arkaster]]"
+  - "[[Storhvit]]"
+key_figures:
+  - "[[Hermagoras Whittle]]"
+  - "[[Yawo]]"
+related_organizations:
+  - "[[Athanor]]"
+  - "[[Rediscovery Endeavor]]"
+tags:
+  - service
+  - groceries
+  - commerce
+  - food
+  - expedition-support
 ---
 
 # Cornucoopia

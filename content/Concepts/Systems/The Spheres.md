@@ -2,7 +2,9 @@
 title: "The Spheres"
 type: concept
 category: magic
-source: "faction_yzmir"
+source:
+  - "faction_yzmir"
+  - "[[T51_Limbo]]"
 related_concepts: ["[[The Naali]]", "[[Alteration]]", "[[Eidomancy]]", "[[Horomancy]]", "[[Phonomancy]]", "[[Kinemancy]]", "[[Gephyromancy]]"]
 associated_factions: ["[[Yzmir]]"]
 associated_locations: ["[[The Kadigir]]", "[[The Magisterium]]"]
@@ -46,6 +48,10 @@ While there are [[Alterers]] capable of mastering all five Spheres, others prefe
 **Masters**: Rare individuals who achieve competency across all five paths
 
 Most commonly, Alterers practice two or three disciplines, as it is challenging to devote oneself to the study of all these fields simultaneously.
+
+## The Sixth Sphere
+
+Beyond the five known Spheres exists a Sixth Sphere that has been "banished"—its practice forbidden and its knowledge suppressed. According to [[Sylas]], some individuals still possess access to this power, which is capable of triggering a second [[The Confluence|Confluence]]. The nature and methods of the Sixth Sphere remain unknown, but its potential for world-scale devastation makes it a subject of concern for entities like [[Maw]], whose nature compels them to hunt those who could cause such catastrophes.
 
 ## Purpose and Philosophy
 The division into five Spheres allows the [[Yzmir]] to systematically explore and master all aspects of [[The Aether|Aether]] manipulation. Each Sphere provides a different lens through which to understand and interact with the fabric of ideas that underlies reality.

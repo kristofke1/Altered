@@ -28,19 +28,19 @@ The Undergrowth is a mezzanine-level cavern within the [[City of Scholars]], loc
 
 ## Geography
 
-The Undergrowth stretches across the entire area of [[The Screed]] above it. At this depth, the cavern still benefits from partial sunlight filtering through numerous gaps in the rocky ceiling. Collapsed zones reveal how vital [[Aerolith]] was in shaping the geological structure of the crater, allowing formation of a protective dome above the Undergrowth without complete structural collapse. Sunlight filters through narrow fissures and wider breaches at slanting angles, casting a soft, tranquil glow across the environment.
+The Undergrowth stretches across the entire area of [[The Screed]] above it. At this depth, the cavern still benefits from partial sunlight filtering through gaps in the rocky ceiling, with light entering through narrow fissures and wider breaches at slanting angles. Collapsed zones reveal how vital [[Aerolith]] was in shaping the geological structure of the crater, allowing formation of a protective dome without complete structural collapse.
 
 ## Ecosystem
 
-Over time, rainfall accumulated in the Undergrowth, forming numerous ponds, natural reservoirs, and waterlogged lowlands. Despite reduced light, vegetation has adapted to compensate for limited photosynthesis. Massive roots and branches snake upward toward light sources, forming domes, arches, bridges, and intricate tangles beneath the canopy. Covered in thick mosses, unruly vines, and wild grasses, they entwine and lift stone blocks from the ground, suspending them in midair.
+Over time, rainfall accumulated in the Undergrowth, forming numerous ponds, natural reservoirs, and waterlogged lowlands. Despite reduced light, vegetation has adapted—massive roots and branches snake upward toward light sources, forming domes, arches, bridges, and intricate tangles. Covered in thick mosses (including pink varieties), unruly vines, and wild grasses, they entwine and lift stone blocks from the ground, suspending them in midair. Multicolored canopies and shadowy groves create a complex web of levels and terraces.
 
 ## Archaeological Features
 
-Archaeologists surveying this tier believe it once housed temples and cloisters adorned with fountains and statues. The steady return of nature has buried these remnants beneath a dense, living mantle of greenery. [[Axiom]] botanists and [[Muna]] druids are expected to provide exhaustive catalogs of the flora and fauna.
+Archaeologists surveying this tier believe it once housed temples and cloisters adorned with fountains and statues. The steady return of nature has buried these remnants beneath a dense, living mantle of greenery. Deep blue blocks with geometric patterns veined with gold are embedded within the vegetation—cubes and slabs of all sizes, smooth and dark. [[Axiom]] botanists and [[Muna]] druids are expected to provide exhaustive catalogs of the flora and fauna.
 
-## First Descent Observations - 393 AC
+## Skein Disruption
 
-During initial descent via freight elevator, [[Teija]] observed the Undergrowth as a partially buried jungle with tangled roots and gigantic stems forming arches that absorb filtered light from above. The environment features pink mosses, multicolored canopies, and shadowy groves creating a complex web of levels and terraces. Deep blue blocks with geometric patterns veined with what appears to be gold are embedded within dense vegetation—cubes and slabs of all sizes, smooth and dark. [[The Skein]] is disrupted at this depth, causing interference and ripples in perception.
+[[The Skein]] is disrupted at this depth, causing interference and ripples in perception for those attuned to it.
 
 ## Relationships
 

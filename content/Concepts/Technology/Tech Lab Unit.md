@@ -2,10 +2,10 @@
 title: Tech Lab Unit
 type: concept
 category: technology
-source: ["card_lore"]
+source: ["card_lore", "[[T45_Onslaught]]"]
 related_concepts: ["[[Sap]]", "[[Kelon]]", "[[Aerolith]]"]
 associated_factions: ["[[Axiom]]"]
-associated_locations: ["[[The Screed]]", "[[City of Scholars]]"]
+associated_locations: ["[[The Screed]]", "[[City of Scholars]]", "[[Pelagonian Quadrant]]"]
 first_mentioned: "393 AC"
 description_summary: "Mobile laboratory units used by Axiom researchers at the City of Scholars"
 tags: [technology, laboratory, research, axiom, mobile]
@@ -33,11 +33,17 @@ Researchers use the units around the clock. While most set their schedules to ma
 
 The units receive deliveries of research materials including [[Sap]] samples from the depths and [[Aerolith]] specimens brought by prospectors.
 
+## Pelagonian Quadrant Deployment
+
+Tech Lab Units were also deployed to the [[Pelagonian Quadrant]] as part of [[Axiom]] mining operations. During [[Halua]]'s attack on October 23, 393 AC, the mobile lab in the quarry was gutted and torn apart, with scientists fleeing through the wreckage.
+
 ## Relationships
 
 - **[[Axiom]]**: Faction that constructed and operates the units
 - **[[The Screed]]**: Surface location where units are stationed
 - **[[City of Scholars]]**: Underground site connected by cables and conduits
+- **[[Pelagonian Quadrant]]**: Mining region where units were deployed (destroyed October 393 AC)
 - **[[Sap]]**: Primary resource studied in the units
 - **[[Treyst]]**: Researcher who operates one unit for prosthetics research (393 AC)
 - **[[Basem Falani]]**: Researcher who has authority over one unit (393 AC)
+- **[[Halua]]**: Leviathan whose attack destroyed a unit in the Pelagonian Quadrant (October 23, 393 AC)

@@ -2,26 +2,26 @@
 title: The Asterion
 type: location
 category: building
-source: heroes_ordis
+source: ["heroes_ordis", "[[T43_Eidocracy]]"]
 parent_location: "[[Arkaster]]"
 sub_locations: []
 population: null
 area: null
 founded: null
 status: active
-controlling_faction: "[[Ordis]]"
+controlling_faction: null
 present_factions: []
 government_type: executive
-notable_features: ["Seat of Asgarthan government", "Basileus's palace", "Diplomatic corridors", "Political offices"]
+notable_features: ["Seat of Asgarthan government", "Basileus's palace", "Diplomatic corridors", "Political offices", "Basileus's bedchamber with historical portraits"]
 climate: null
-characters: ["[[Basileus]]", "[[Sigismar Synd]]'s father"]
+characters: ["[[Avkan ruun-Heshkari]]", "[[Somayeh Bahman]]"]
 tags: [government, politics, palace, administrative, arkaster]
 ---
 
 # The Asterion
 
 ## Overview
-The Asterion is the government complex in [[Arkaster]] that serves as the seat of [[Asgartha]]'s executive power. It houses the [[Basileus]]'s palace and the administrative offices where the government's daily operations are conducted.
+The Asterion is the government complex in [[Arkaster]] that serves as the seat of [[Asgartha]]'s executive power. It houses the [[Basileus]]'s palace and the administrative offices where the government's daily operations are conducted. Much of The Asterion was damaged during the [[305 AC Tsunami]], which also killed Basileus [[Itzamna ruun-Heeren]] and much of the government.
 
 ## Name Origin Theories
 
@@ -32,19 +32,24 @@ The Asterion is where [[Chambellans]] and other political officials work to mana
 
 The highest echelons of the Asterion hold significant power over the [[Ordis]] faction's internal affairs. When Sigismar contested his father's intervention in his military career, his father had appealed to these highest echelons, and the Faction's hands and feet were tied in the matter.
 
+## Basileus's Chambers
+
+The Basileus's private quarters include a bedchamber containing portraits of [[Ayxas]] and [[Aysar]], the twin sons of [[Aysun]]. [[Avkan ruun-Heshkari]] kept these portraits as reminders of the temptation and corruption any ruler might succumb to during their reign—Ayxas representing tyranny, Aysar representing humility. A tapestry depicting [[Chiara Caceres]] presiding over the March of the Sahankas hangs in the chambers, alongside other tapestries commemorating major turning points in Asgarthan history.
+
 ## Role in the Rediscovery Endeavor
 The Asterion played a central role in organizing the [[Rediscovery Endeavor]]. [[Avkan ruun-Heshkari]]'s rise to power culminated in his position within the Asterion's leadership structure, and his opponents formed a cabal to thwart his plans from within these very halls.
 
 [[Waru Toowoom]] gradually extended his influence within the Asterion's political circles after being recruited by emissaries representing opposition figures. He was invited into the palaces of some governors and met prestigious dignitaries, taking a central position among Avkan's opponents while operating from the Asterion's sphere of influence.
 
-## Security and Oversight
-[[Venka]] serves in security oversight at the Asterion, demonstrating that the complex requires protection and monitoring beyond its political functions. The building represents not just a center of political power but also a potential target requiring vigilant defense.
-
 ## Relationships
 
-- **[[Arkaster]]**: City where The Asterion is located
-- **[[Basileus]]**: Ruler whose palace is housed within The Asterion
-- **[[Ordis]]**: Faction that controls The Asterion
-- **[[Teija]]**: [[Muna]] Exalt who discussed the building's name origin with [[Abiram Okech]] (393 AC)
 - **[[Abiram Okech]]**: Historian who discussed Asterion mythology (393 AC)
-- **[[Minotaur]]**: [[Eidolons|Eidolon]] connected to the Asterion name through mythology
+- **[[Arkaster]]**: City where The Asterion is located
+- **[[Avkan ruun-Heshkari]]**: Basileus who resided at The Asterion (361-393 AC)
+- **[[Aysar]]**: Former prince whose portrait hangs in Basileus's bedchamber
+- **[[Ayxas]]**: Former ruler whose portrait hangs in Basileus's bedchamber
+- **[[Chiara Caceres]]**: Hero depicted in tapestry within the chambers
+- **[[Itzamna ruun-Heeren]]**: Basileus who perished when The Asterion was damaged by tsunami (305 AC)
+- **[[Somayeh Bahman]]**: Basilissa who took residence following investiture (393 AC)
+- **[[Teija]]**: Muna Exalt who discussed the building's name origin (393 AC)
+- **[[Waru Toowoom]]**: Ordis Exalt who operated within Asterion's political circles as part of opposition cabal

@@ -3,20 +3,25 @@ title: Leshy
 type: character
 category: eidolon
 source: card_lore
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: eidolon
-fate: null
+fate:
 species: eidolon
 became_oneiros: true
-affiliated_faction: null
+affiliated_faction:
 founded_organizations: []
 titles: []
-lineage: null
+lineage:
 key_events: []
-locations_associated: ["[[Storvhit]]"]
-tags: [eidolon, forest, nature, slavic-legend]
+locations_associated:
+  - "[[Storhvit]]"
+tags:
+  - eidolon
+  - forest
+  - nature
+  - slavic-legend
 aliases: []
 ---
 

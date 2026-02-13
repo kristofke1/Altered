@@ -40,7 +40,7 @@ Amaro and [[Anuncia ruun-Aysun]] formally announced their political union and ca
 - **[[Anuncia ruun-Aysun]]**: Political rival turned secret ally and intimate partner; strategic marriage alliance planned
 - **[[Waru Toowoom]]**: Political mentor who trained Amaro
 - **[[Avkan ruun-Heshkari]]**: Basileus who secretly nurtured Amaro's rise
-- **[[Abenet]]**: Anuncia's advisor who analyzed Amaro's political skills
+- **[[Abenet ruun-Aksoy]]**: Anuncia's advisor who analyzed Amaro's political skills
 - **[[Girsang]]**: Wealthy politician Amaro considered supporting
 - **[[Muttunbaal]]**: Influential politician Amaro considered supporting
 - **[[Noya|Noya Kagama]]**: Senator whose defense of Endeavor Amaro responded to (393 AC)

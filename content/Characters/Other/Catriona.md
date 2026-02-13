@@ -3,28 +3,37 @@ title: Catriona
 type: character
 category: veteran
 source: card_lore
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: living
-fate: null
+fate:
 species: human
 became_oneiros: false
 affiliated_faction: "[[Bravos]]"
 founded_organizations: []
-titles: ["Bravos Rescuer"]
-aliases: ["Cat"]
-lineage: null
+titles:
+  - Bravos Rescuer
+aliases:
+  - Cat
+lineage:
 key_events: []
-locations_associated: ["[[Storvhit]]"]
-tags: [bravos, rescuer, healer, kind, generous, expeditionary-corps]
+locations_associated:
+  - "[[Storhvit]]"
+tags:
+  - bravos
+  - rescuer
+  - healer
+  - kind
+  - generous
+  - expeditionary-corps
 ---
 
 # Catriona
 
 ## Overview
 
-Catriona, nicknamed "Cat," is a [[Bravos]] Rescuer serving with the [[Rediscovery Endeavor|Expeditionary Corps]]. She radiates kindness and generosity, specializing in medical care and warming victims during rescue operations. Catriona is younger sister of [[Aoife]] and serves alongside [[Basira al-Arshad]] and [[Chaghagan]] during the [[Storvhit]] expedition.
+Catriona, nicknamed "Cat," is a [[Bravos]] Rescuer serving with the [[Rediscovery Endeavor|Expeditionary Corps]]. She radiates kindness and generosity, specializing in medical care and warming victims during rescue operations. Catriona is younger sister of [[Aoife]] and serves alongside [[Basira al-Arshad]] and [[Chaghagan]] during the [[Storhvit]] expedition.
 
 ## Personality
 
@@ -38,7 +47,7 @@ Catriona is younger sister of [[Aoife]], an experienced adventurer. The two sist
 
 ### 393 AC - Storvhit Avalanche Response
 
-During [[Storvhit]] expedition avalanche response, multiple victims were pulled from snow by rescue team. [[Basira al-Arshad]] observed Catriona summoning the idea of heat itself to warm up an [[Ordis]] recruit who had been buried.
+During [[Storhvit]] expedition avalanche response, multiple victims were pulled from snow by rescue team. [[Basira al-Arshad]] observed Catriona summoning the idea of heat itself to warm up an [[Ordis]] recruit who had been buried.
 
 Basira felt warm air current caress her face as Catriona worked, making her dream of hot place to relax muscles like she'd seen [[Lyra]] doing just day before. Basira felt exhausted from extra effort required barely few hours after returning from previous expedition, not even having had time to rest or finish bowl of soup. However, she didn't regret answering the call considering all the people they were saving, which obviously justified the extra soreness they'd feel after ordeal.
 
@@ -52,7 +61,7 @@ With [[Chaghagan]], solid and taciturn as rock, and Catriona, dedicated and alwa
 
 ## Relationships
 
-- **[[Basira al-Arshad]]**: Worked with during [[Storvhit]] avalanche rescue, observed warming victims (393 AC)
+- **[[Basira al-Arshad]]**: Worked with during [[Storhvit]] avalanche rescue, observed warming victims (393 AC)
 - **[[Aoife]]**: Older sister, experienced adventurer with contrasting risk-taking personality
 - **[[Chaghagan]]**: Fellow rescuer during avalanche response, complements his solid presence with her caring nature
 - **[[Ordis]] recruit**: Warmed with heat summoning after being pulled from avalanche

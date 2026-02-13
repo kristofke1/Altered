@@ -3,20 +3,20 @@ title: Simbi
 type: character
 category: eidolon
 source: card_lore
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: eidolon
-fate: null
+fate:
 species: eidolon
 became_oneiros: true
 affiliated_faction: "[[Muna]]"
 founded_organizations: []
 titles: []
-lineage: null
+lineage:
 key_events: []
 locations_associated:
-  - "[[Storvhit]]"
+  - "[[Storhvit]]"
 tags:
   - eidolon
   - mana
@@ -48,11 +48,11 @@ After providing its Mana orb, Simbi dissipates. The Eidolon appears to function 
 
 ### ~393 AC - Aiding Nauraa Against Belisenki
 
-[[Teija]] manifested Simbi during [[Nauraa]]'s flight through [[Storvhit]] forest while pursued by [[Belisenki]] hordes, and Simbi crafted a Mana orb that Nauraa swallowed without slowing to continue his escape toward the forest edge.
+[[Teija]] manifested Simbi during [[Nauraa]]'s flight through [[Storhvit]] forest while pursued by [[Belisenki]] hordes, and Simbi crafted a Mana orb that Nauraa swallowed without slowing to continue his escape toward the forest edge.
 
 ## Relationships
 
 - **[[Teija]]**: Summoner who manifests Simbi (~393 AC)
 - **[[Nauraa]]**: Received Mana orb from Simbi during Belisenki pursuit (~393 AC)
-- **[[Storvhit]]**: Location where Simbi was manifested
+- **[[Storhvit]]**: Location where Simbi was manifested
 - **[[Belisenki]]**: Hostile species Simbi helped escape from

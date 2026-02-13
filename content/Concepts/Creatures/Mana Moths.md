@@ -2,129 +2,106 @@
 title: Mana Moths
 type: concept
 category: fauna
-source: ["[[L24_Mana_Moths]]", "[[L23_Butterfly_Effect]]", "[[T25_Symbiosis]]", "[[T26_Dead_Roots]]", "[[The Gig]]"]
-related_concepts: ["[[Mana]]", "[[Eidolons]]", "[[Belisenki]]", "[[Hakupopo]]", "[[Mushs]]"]
-associated_factions: ["[[Muna]]", "[[Yzmir]]"]
-associated_locations: ["[[Storvhit]]", "[[Cerulean Hollow]]"]
-first_mentioned: "393 AC"
-description_summary: "Ethereal moth species composed of pure Mana with brief lifespan, symbiotic relationship with Belisenki"
-tags: [fauna, mana, ethereal, lifecycle, symbiosis, storvhit, belisenki]
+source:
+  - "[[L24_Mana_Moths]]"
+  - "[[L23_Butterfly_Effect]]"
+  - "[[T25_Symbiosis]]"
+  - "[[T26_Dead_Roots]]"
+  - "[[The Gig]]"
+  - "[[T47_Bonds]]"
+related_concepts:
+  - "[[Mana]]"
+  - "[[Eidolons]]"
+  - "[[Belisenki]]"
+  - "[[Hakupopo]]"
+  - "[[Mushs]]"
+associated_factions:
+  - "[[Muna]]"
+  - "[[Yzmir]]"
+associated_locations:
+  - "[[Storhvit]]"
+  - "[[Cerulean Hollow]]"
+first_mentioned: 393 AC
+description_summary: Ethereal moth species composed of pure Mana with brief lifespan, symbiotic relationship with Belisenki
+tags:
+  - fauna
+  - mana
+  - ethereal
+  - lifecycle
+  - symbiosis
+  - storvhit
+  - belisenki
 ---
 
 # Mana Moths
 
 ## Overview
 
-Mana Moths are ethereal moth species discovered at [[Cerulean Hollow]] within [[Storvhit]] by [[Yzmir]] mage in 393 AC. Species composed of pure thought like [[Eidolons]] rather than corporeal matter, continuously releasing incredibly pure [[Mana]] throughout brief existence until complete disembodiment (death).
+Mana Moths are a non-corporeal moth species discovered at [[Cerulean Hollow]] within [[Storhvit]] in 393 AC. Composed of pure thought rather than physical matter — comparable to [[Eidolons]] — the moths continuously emit highly pure [[Mana]] throughout their brief adult existence until fully dissipating, an event equivalent to death for the species. Researchers assigned the name "Mana Moths" in the absence of a more precise taxonomic classification. The species occupies a central role in the [[Storhvit]] ecosystem through its symbiotic relationship with [[Belisenki]] and its position within the local food chain.
 
-## Physical Nature
+## Biology
 
-### Non-Corporeal Composition
+### Lifecycle
 
-Mana Moths are not corporeal creatures but appear to be creatures of pure thought, much like [[Eidolons]]. Throughout brief existence, moths continuously release incredibly pure form of [[Mana]] into surroundings. Exude [[Mana]] constantly until entirely disembodied - event equivalent to death for species.
+Mana Moths pass through two distinct phases of existence: a physical early stage and an ethereal adult stage.
 
-### Mana Concentration Effect
+The cycle begins when two adult moths collide in an explosive merger before fully dissipating. The remnant conceptual essence of each individual combines in unpredictable proportions, producing physical eggs that scatter from the blast. These translucent eggs settle into snow, where they are invisible to the naked eye. Larvae emerge and converge toward trees or rocky surfaces serving as nesting grounds. Upon reaching a branch or stone alcove, caterpillars weave cocoons of ice using ambient cold and undergo metamorphosis. During this process, the physical form dissolves into nutrient-rich fluid, but unlike typical caterpillars, Mana Moths shed their physical shell entirely and emerge as conceptual entities.
 
-Cavity housing Mana Moths exhibits exceptionally high concentration of ambient [[Mana]] - comparable almost to that found in [[Mushs|mush]] nursery. Moths' very being refines [[Mana]], not condensing it into droplets like [[Mushs]] do, but into air saturated with energy.
+Adult moths exist for only a few hours, during which they continuously release [[Mana]] into their surroundings. The [[Mana]] anchoring them to the physical world steadily dissipates, leaving a narrow window for reproduction. Before fully disappearing, moths seek a partner, and the resulting collision begins the cycle anew.
 
-## Lifecycle Stages
+### Abandoned Chrysalides
 
-### Stage 1: Physical Larvae (Eggs and Caterpillars)
+The physical cocoons left behind after metamorphosis serve as a concentrated nutrient source for [[Storhvit]] endemic fauna. Animals consuming chrysalides also absorb the moths' pheromones, which causes [[Belisenki]] to perceive them as Mana Moths and extend protection rather than aggression.
 
-**Egg Formation:**
-When two Mana Moths meet before disappearance complete, explosion occurs - vestigial idea of one merges with that of other in unpredictable proportions. From collision, physical eggs formed and scattered by blast, creating myriad facets and combinations derived from two previous individuals.
+### Mana Concentration
 
-**Egg Development:**
-Translucent eggs settle into snow, invisible to naked eye. Nestled within white down, larvae slowly emerge. Hatching observable under microscope.
+Cavities housing Mana Moths exhibit exceptionally high ambient [[Mana]] concentration, comparable to that found in a [[Mushs|mush]] nursery. The moths' presence refines [[Mana]] not into condensed droplets as [[Mushs]] produce, but into energy-saturated air.
 
-**Caterpillar Stage:**
-In caterpillar stage, larvae converge toward trees or rocky surfaces that will later serve as nesting grounds. Once reaching branch or stone alcove, caterpillars use ambient cold to weave cocoon of ice, within which they undergo metamorphosis into nymph.
+## Ecology
 
-### Stage 2: Metamorphosis
+### Belisenki Symbiosis
 
-Physical form dissolves into nutrient-rich fluid. Instead of self-digesting like typical caterpillars to form butterflies, Mana Moths shed physical shell entirely, becoming mere conceptual entity.
+[[Belisenki]] and Mana Moths share a symbiotic relationship. [[Belisenki]] embody the concept of cold, an ability requiring [[Mana]] manipulation. Researchers hypothesized that [[Belisenki]] absorb [[Mana]] diffused by the moths to anchor the idea of cold within themselves, and in exchange offer territorial protection to the moths. The discovery of [[Belisenki]] molts in the same areas as Mana Moth colonies supports this theory.
 
-**Abandoned Chrysalides:**
-Physical chrysalides left behind serve as concentrated nutrient source. Vast majority of [[Storvhit]] endemic fauna feed on abandoned chrysalides. By ingesting them, animals also absorb Moths' pheromones.
+### Hakupopo Predation
 
-### Stage 3: Ethereal Adult Moths
+[[Hakupopo]] prey on Mana Moth caterpillars during the vulnerable overland stage between hatching sites and nesting grounds, using snow camouflage to ambush larvae traversing open terrain. This predation pressure drives the species toward enclosed, sheltered habitats such as [[Cerulean Hollow]], where the reproductive cycle is better protected.
 
-**Brief Existence:**
-During few fleeting hours of existence, Moths flit about embodying idea of themselves. This idea gradually fades as [[Mana]] that anchors them to world dissipates. State is by nature transient - [[Mana]] sustaining them continuously drained away, leaving only brief window to complete reproduction.
+### Chrysalis Deterrent Mechanism
 
-**Reproductive Behavior:**
-Before disappearance complete, Moths instinctively seek out partner. Meeting results in explosive merger creating next generation's eggs.
+Analysis of droppings from [[Storhvit]] endemic fauna confirmed that most local animals feed on abandoned chrysalides and absorb the moths' pheromones in the process. A Belasenka perceiving a chrysalis-fed animal — whether penguin or polar bear — treats it as a Mana Moth and offers protection. [[Saskia Averina]] proposed that humans consuming chrysalides could similarly evade [[Belisenki]] aggression or gain their guardianship, and reported this hypothesis to high command for testing. Chrysalis consumption subsequently became essential practice for traversing or settling in [[Caer Nilam]]. [[Saskia Averina]] later confirmed to [[Sylas]] that the mechanism performed as [[The Perjurers]] intended — [[Sylas]] had offered her the [[Storhvit]] as a testing ground, and the entire ecosystem had been engineered by the [[Sylas|Chrysanthemum Cloaked Warlock]]. Saskia noted she was not officially credited with the discovery, maintaining her cover.
 
-## Ecological Relationships
+### World-Tree Association
 
-### Symbiotic Relationship with Belisenki
+Massive swarms of Mana Moths congregate around a dead world-tree deep within a [[Storhvit]] gorge. The world-tree's heart glows sapphire, and crystallized roots and branches fill the surrounding canyon with blue light. The scale of the swarm at this location indicates it as a population center for the species.
 
-[[Belisenki]] and Mana Moths exhibit symbiotic relationship. [[Belisenki]] embody very concept of cold - ability impossible without capacity to manipulate [[Mana]]. Most probable hypothesis: [[Belisenki]] absorb [[Mana]] diffused by Moths to anchor idea of cold within themselves. In exchange, [[Belisenki]] offer protection to ethereal butterflies, much like ants tend to aphids in return for access to honeydew.
+## Timeline
 
-Discovery of [[Belisenki]] molts in same areas as Mana Moth colonies supports symbiotic relationship theory.
+### March 19, 393 AC — Discovery at Cerulean Hollow
 
-### Predation by Hakupopo
+A [[Yzmir]] mage exploring the winding tunnels of [[Cerulean Hollow]] discovered a secluded grotto housing swarms of ethereal moths. [[Saskia Averina]] and other scholars were invited to study the creatures. Saskia documented the full lifecycle, the Belisenki symbiosis, and the pheromone protection mechanism, and proposed that chrysalis consumption could allow the [[Rediscovery Endeavor|Expeditionary Corps]] to pass through Belisenki territory unharmed.
 
-[[Hakupopo]] are among Mana Moths' natural predators. [[Hakupopo]] blend into snow to gobble up caterpillars as they traverse snowy expanse. This predation pressure explains why Mana Moths tend to evolve in enclosed, sheltered spaces like [[Cerulean Hollow]], ensuring survival of reproductive cycle.
+### 393 AC, March — Chrysalides Field Test at Storvhit
 
-### Pheromone Protection Mechanism
+During a [[Belisenki]] night assault on an [[Ordis]] convoy at [[Storhvit]], [[Akesha Adhikari]] arrived through a portal carrying empty chrysalides — small curved translucent objects of ice or crystal with traces of blue liquid inside. Soldiers including [[Gulrang Oduro]] and [[Kojo Oduro]] consumed the chrysalides, which contained a bitter syrupy essence. The [[Belisenki]] swarm ceased attacking within moments and departed, no longer perceiving the expedition members as intruders. The field test confirmed Saskia's hypothesis and provided the Expeditionary Corps with a non-violent solution to Belisenki territorial aggression.
 
-Analysis of droppings from [[Storvhit]] endemic fauna revealed: vast majority of local animals feed on abandoned chrysalides. Animals absorb Moths' pheromones when consuming chrysalides. [[Belisenki]] (Belasenka singular) perceives penguin or polar bear that has consumed chrysalis as if it were Mana Moth and instinctively offers it protection.
+### 393 AC — Greenhouse Research at Storvhit
 
-**Potential Application:**
-Theory proposed: if humans consumed nectar-laden cocoons, they could evade [[Belisenki]]'s vigilance or even place themselves under [[Belisenki]] guardianship.
+[[Saskia Averina]] and [[Moyo Chibuye]] conducted research at a greenhouse facility in [[Storhvit]]'s arctic section, arranging chrysalides on branches and observing the hatching process. [[Akesha Adhikari]] witnessed a moth emerge from a cocoon under a glass dome while emitting [[Mana]] that caused a twig to sprout flowers. Saskia explained the self-digestion fluids at the cocoon's base and described moths as creatures of pure idea with insufficient Mana to become fully tangible. The reproductive collision was demonstrated, scattering microscopic larvae onto snow. Saskia also investigated whether scattered larvae developed into distinct individuals or remained identical copies.
 
-## Discovery and Study
+### 393 AC — Dead World-Tree Swarm Discovery
 
-### Initial Discovery - March 393 AC
-
-[[Yzmir]] mage exploring winding tunnels of [[Cerulean Hollow]] happened upon secluded grotto by pure chance. Hidden cavity far from open air housed swarms of ethereal Moths. [[Saskia Averina]] invited along with other scholars to lend expertise on creatures and astonishing properties.
-
-### Scientific Analysis
-
-**Taxonomic Classification:**
-Lacking better taxonomic classification, researchers named insects "Mana Moths."
-
-**Observed Traits:**
-- First identified trait: non-corporeal nature
-- Continuous [[Mana]] release throughout existence
-- Pure thought composition similar to [[Eidolons]]
-- Two distinct existence stages: physical (early life) and ethereal (post-chrysalis)
-
-**Microscopic Observation:**
-[[Saskia Averina]] observed hatching under microscope, described as fascinating sight.
-
-### Proposed Military Application
-
-[[Saskia Averina]] reported findings to high command requesting hypothesis testing as soon as possible. [[Rediscovery Endeavor|Expeditionary Corps]] facing relentless assaults since establishing mountain base at [[Storvhit]]. If future expeditions can pass unnoticed by [[Belisenki]] through chrysalis consumption, theory confirmed successful.
-
-### Field Test Confirmation - 393 AC
-
-[[Akesha Adhikari]] deployed chrysalides during [[Belisenki]] night assault on [[Ordis]] convoy at [[Storvhit]], distributing empty cocoons to soldiers including [[Gulrang Oduro]] and [[Kojo Oduro]]. Chrysalides described as small curved translucent objects made of ice/crystal with traces of blue liquid containing bitter syrupy essence. After consumption, [[Belisenki]] swarm ceased attacking within moments, with individual Belasenka showing no aggression and departing as if humans no longer perceived as intruders. Field test confirmed [[Saskia Averina]]'s hypothesis: absorbed pheromones made [[Belisenki]] perceive expedition members as [[Mana Moths]] deserving protection rather than territorial threats. Successful demonstration provided [[Rediscovery Endeavor|Expeditionary Corps]] with non-violent solution to territorial conflict through biological deception. [[Akesha Adhikari]] explained cryptically solution would "make sure we're no longer intruders," validating proposed military application.
-
-### Greenhouse Research Observations - 393 AC
-
-[[Saskia Averina]] and [[Moyo Chibuye]] conducted detailed research at greenhouse facility in arctic section, arranging dozens of chrysalides on branches like tiny bells on reed stem. [[Akesha Adhikari]] observed hatching process under glass dome, witnessing moth emerge from side of cocoon while emitting [[Mana]] continuously causing twig to sprout budding flowers. [[Saskia Averina]] explained self-digestion fluids at cocoon bottom represent caterpillar's transformation process, and described moths as creatures of pure idea with insufficient [[Mana]] to become fully tangible. Reproductive cycle demonstrated: two moths explosively merge annihilating both while scattering microscopic larvae settling onto snow for camouflage. [[Saskia Averina]] studied whether larvae evolved into distinct individuals or remained identical copies, investigating [[Mana Moths]]' central role in [[Storvhit]] ecosystem. Observations confirmed moth trapped under glass dome repeatedly bumped against barrier despite being incorporeal, prompting discussion about intangible prisons.
-
-### Dead World-Tree Swarm Discovery - 393 AC
-
-[[Arjun]] and [[Rin]] discovered massive swarms of [[Mana Moths]] surrounding dead world-tree deep within [[Storvhit]] gorge, appearing initially like dense foliage before revealing true nature. Swarms whirled and danced like waves, currents, and rivers of wings creating vast murmuration patterns around cyclopean trunk. [[Mana Moths]] encircled world-tree whose heart glowed sapphire color, with network of crystallized roots and branches filling gorge with fractal azure light. Discovery revealed [[Mana Moths]] congregate around ancient world-trees even after death, suggesting deep ecological relationship with these entities. Massive scale of swarm indicated [[Storvhit]]'s [[Mana Moths]] population centers on dead world-tree location. Observation confirmed [[Saskia Averina]]'s hypothesis that [[Mana Moths]] play central role in [[Storvhit]] ecosystem, with dead tree serving as focal point for species activity.
-
-## Habitat Requirements
-
-Mana Moths tend to evolve in enclosed, sheltered spaces ensuring survival of reproductive cycle. [[Cerulean Hollow]] represents ideal habitat: secluded grotto hidden from sight, far from open air, protected from predators like [[Hakupopo]].
+[[Arjun]] and [[Rin]] discovered massive Mana Moth swarms surrounding a dead world-tree deep within a [[Storhvit]] gorge. The swarms initially resembled dense foliage before revealing themselves as vast murmurations encircling the tree's trunk. The discovery confirmed that Mana Moths congregate around world-trees even after death, supporting Saskia Averina's hypothesis about the species' central role in the Storvhit ecosystem.
 
 ## Relationships
 
-- **[[Belisenki]]**: Symbiotic partners absorbing Mana to anchor cold concept, offering protection in return
-- **[[Hakupopo]]**: Natural predators feeding on caterpillars in snow
-- **[[Saskia Averina]]**: [[Muna]] Naturalist who studied and documented species (March 19, 393 AC)
-- **[[Cerulean Hollow]]**: Discovery location at [[Storvhit]]
-- **[[Yzmir]]**: Faction whose mage discovered species
-- **[[Storvhit]] Endemic Fauna**: Feed on abandoned chrysalides, gain pheromone protection from [[Belisenki]]
-- **[[Akesha Adhikari]]**: [[Yzmir]] mage who deployed chrysalides during field test (393 AC)
+- **[[Akesha Adhikari]]**: [[Yzmir]] mage who deployed chrysalides during field test and observed greenhouse research (393 AC)
+- **[[Arjun]]**: [[Muna]] Exalt who discovered swarms around dead world-tree (393 AC)
+- **[[Belisenki]]**: Symbiotic partners absorbing Mana to sustain cold embodiment, offering territorial protection in return
 - **[[Gulrang Oduro]]**: [[Ordis]] captain who consumed chrysalis during field test (393 AC)
+- **[[Hakupopo]]**: Natural predators feeding on caterpillars during overland stage
 - **[[Kojo Oduro]]**: [[Bravos]] Exalt present during field test (393 AC)
-- **[[Moyo Chibuye]]**: [[Muna]] exobiological researcher collaborating on study (393 AC)
-- **[[Rin]]**: [[Muna]] Exalt who discovered massive swarms around dead world-tree (393 AC)
-- **[[Arjun]]**: [[Muna]] Exalt who discovered massive swarms around dead world-tree (393 AC)
+- **[[Moyo Chibuye]]**: [[Yzmir]] exobiological researcher collaborating on species study (393 AC)
+- **[[Rin]]**: [[Muna]] Exalt who discovered swarms around dead world-tree (393 AC)
+- **[[Saskia Averina]]**: [[Muna]] Naturalist who documented species and steered chrysalis application as part of [[The Perjurers|Perjurer]] operation (393 AC)
+- **[[Sylas]]**: [[Yzmir]] Battlemage and [[The Perjurers|Perjurer]] who engineered the [[Storhvit]] ecosystem and offered it to Saskia as testing ground

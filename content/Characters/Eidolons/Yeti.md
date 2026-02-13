@@ -48,7 +48,7 @@ Reassured by discovery, [[Arjun]] left Yeti to bring warmth to chilly woods and 
 
 ## Comparison to Other Cold-Related Eidolons
 
-Yeti was considered as potential candidate for [[Storvhit]] [[Oneiros]] role but ruled out because Yeti needed cold to exist but could not generate it. This contrasts with [[Jack Frost]] and [[Kuraokami]], who possess ability to generate and sustain cold rather than merely requiring it.
+Yeti was considered as potential candidate for [[Storhvit]] [[Oneiros]] role but ruled out because Yeti needed cold to exist but could not generate it. This contrasts with [[Jack Frost]] and [[Kuraokami]], who possess ability to generate and sustain cold rather than merely requiring it.
 
 ## Relationships
 

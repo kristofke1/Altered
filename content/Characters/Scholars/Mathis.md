@@ -6,13 +6,14 @@ source:
   - "[[Until_The_Latter_Fire_Shall_Heat_The_Deep]]"
 faction: "[[Yzmir]]"
 status: deceased
+key_events: ["[[Battle of Madan Bay]]"]
 ---
 
-Mathis was one of ten elite Battle Mages of the Kadigir who participated in the coordinated assault against the Kraken in 392 AC and disappeared into the roaring waters when the meteor strike was intercepted.
+Mathis was one of ten elite Battle Mages of [[The Kadigir]] who participated in the [[Battle of Madan Bay]] in 392 AC and disappeared into the roaring waters when the meteor strike was intercepted.
 
-## Battle Against the Kraken
+## Battle of Madan Bay
 
-In 392 AC, Mathis was among the most powerful Initiates of the Kadigir deployed in the military operation to destroy the Kraken. Mathis joined nine other illustrious Battle Mages in forming a circle hovering around the imprisoned Leviathan, concentrating their Mana to call down a star from the sky.
+In 392 AC, Mathis was among the most powerful [[Initiates]] of [[The Kadigir]] deployed in the [[Battle of Madan Bay]]. Mathis joined nine other illustrious Battle Mages in forming a circle hovering around the imprisoned Leviathan, concentrating their Mana to call down a star from the sky.
 
 The Mages traced complex Signs in the air to shield themselves with protective Sigils and imbued Senka with power to ascend toward the heavens and create a meteor strike. However, an unseen assailant from the horizon struck the comet mid-descent, causing it to disintegrate into blazing fragments.
 
@@ -30,5 +31,5 @@ Mathis's fate following the disappearance into the turbulent waters remains unce
 - **[[Curcio]]** - Fellow Battle Mage who teleported to safety
 - **[[Matera]]** - Afanas's disciple who participated in the assault
 - **[[Senka]]** - Eidolon imbued with power to create the meteor strike
-- **[[Kraken]]** - Leviathan targeted in the 392 AC assault
-- **[[The Kadigir]]** - Yzmir facility where the elite Battle Mages trained
+- **[[Kraken]]** - Leviathan targeted in the [[Battle of Madan Bay]] (392 AC)
+- **[[The Kadigir]]** - [[Yzmir]] facility where the elite Battle Mages trained

@@ -2,13 +2,26 @@
 title: Floral Tent
 type: concept
 category: alteration
-source: ["card_lore", "[[T26_Dead_Roots]]"]
-related_concepts: ["[[Alteration]]", "[[The Skein]]", "[[Mana]]"]
-associated_factions: ["[[Muna]]"]
-associated_locations: ["[[Storvhit]]"]
-first_mentioned: "393 AC"
-description_summary: "Magical shelter grown through Alteration using plant matter to provide protection from extreme weather"
-tags: [alteration, shelter, muna, plants, survival, magic]
+source:
+  - card_lore
+  - "[[T26_Dead_Roots]]"
+related_concepts:
+  - "[[Alteration]]"
+  - "[[The Skein]]"
+  - "[[Mana]]"
+associated_factions:
+  - "[[Muna]]"
+associated_locations:
+  - "[[Storhvit]]"
+first_mentioned: 393 AC
+description_summary: Magical shelter grown through Alteration using plant matter to provide protection from extreme weather
+tags:
+  - alteration
+  - shelter
+  - muna
+  - plants
+  - survival
+  - magic
 ---
 
 # Floral Tent
@@ -33,15 +46,15 @@ Floral tents are grown rather than constructed, using [[Alteration]] to create l
 
 ## Growing Process
 
-Creating floral tent requires [[Alteration]] magic to grow living shelter quickly enough to provide emergency protection. [[Arjun]] successfully grew floral tent shelter during [[Storvhit]] blizzard within rocky gorge pass, fortunate to get shelter to grow despite violent weather.
+Creating floral tent requires [[Alteration]] magic to grow living shelter quickly enough to provide emergency protection. [[Arjun]] successfully grew floral tent shelter during [[Storhvit]] blizzard within rocky gorge pass, fortunate to get shelter to grow despite violent weather.
 
-Multiple floral tents can be grown simultaneously across dispersed locations. During [[Storvhit]] expedition, mushs sent out by explorers returned communicating through mycelium that other floral tents were able to grow, providing shelter for all other explorers scattered by storm.
+Multiple floral tents can be grown simultaneously across dispersed locations. During [[Storhvit]] expedition, mushs sent out by explorers returned communicating through mycelium that other floral tents were able to grow, providing shelter for all other explorers scattered by storm.
 
 ## Use During Rediscovery Endeavor
 
 ### 393 AC - Sheltering Rin at Storvhit
 
-During blizzard at [[Storvhit]], [[Rin]] fell from height through storm. [[Arjun]] took nearly hour to reach [[Rin]] through blizzard, long enough for her body temperature to drop noticeably. [[Arjun]] and [[Orchid]] rescued [[Rin]] from powder snow.
+During blizzard at [[Storhvit]], [[Rin]] fell from height through storm. [[Arjun]] took nearly hour to reach [[Rin]] through blizzard, long enough for her body temperature to drop noticeably. [[Arjun]] and [[Orchid]] rescued [[Rin]] from powder snow.
 
 [[Arjun]] grew floral tent shelter within rocky gorge pass. All around them, petals of floral tent were buffeted by swirling winds. [[Arjun]] placed hand on [[Rin]]'s forehead in tent finding no sign of fever. Crown of leaves was well-positioned in line with wind to deflect lot of force. [[Arjun]] provided warmth through conjured fire using [[Alteration]] while [[Orchid]] hunted for food.
 
@@ -53,13 +66,9 @@ Mushroom regained composure and communicated through mycelium that other floral 
 
 When taking down floral tent before striking camp, [[Rin]] found seeds in bottom of [[Arjun]]'s pots. [[Rin]] and [[Arjun]] decided to share seeds, as [[Arjun]] had done with [[Teija]].
 
-## Relationships to Other Concepts
-
-Floral tents represent practical application of [[Alteration]] magic for survival purposes. Unlike permanent structures, these shelters are temporary constructs that can be grown rapidly in emergency situations. They demonstrate [[Muna]] faction's deep connection to plant life and ability to work with nature rather than against it.
-
 ## Associated Individuals
 
-- **[[Arjun]]**: Created floral tent to shelter [[Rin]] during [[Storvhit]] blizzard (393 AC)
+- **[[Arjun]]**: Created floral tent to shelter [[Rin]] during [[Storhvit]] blizzard (393 AC)
 - **[[Rin]]**: Sheltered in floral tent while recovering from hypothermia (393 AC)
 - **[[Spike]]**: Present in floral tent during storm, wrapped in blanket (393 AC)
 - **[[Orchid]]**: Assisted with rescue before [[Arjun]] provided floral tent shelter (393 AC)

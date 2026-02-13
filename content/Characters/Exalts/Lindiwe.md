@@ -9,28 +9,31 @@ source:
   - "[[Bureaucracy]]"
   - "[[Nest]]"
   - "[[T36_Escherian]]"
-birth_date: null
-death_date: null
-reign_period: null
+  - "[[T51_Limbo]]"
+birth_date:
+death_date:
+reign_period:
 status: living
-fate: "Possessed by Maw controlling her body, mentally imprisoned"
+fate: Possessed by Maw controlling her body, mentally imprisoned
 species: human
 became_oneiros: false
 affiliated_faction: "[[Yzmir]]"
 founded_organizations: []
-titles: ["Initiate"]
-lineage: null
+titles:
+  - Initiate
+lineage:
 key_events:
   - "[[White Lie]]"
   - "[[Bureaucracy]]"
   - "[[Nest]]"
+  - "[[Battle of Madan Bay]]"
 locations_associated:
   - "[[Caecaster]]"
   - "[[Hypogea]]"
   - "[[The Kadigir]]"
   - "[[The Black Wave]]"
   - "[[The Ouroboros]]"
-  - "[[Storvhit]]"
+  - "[[Storhvit]]"
   - "[[City of Scholars]]"
 tags:
   - hero
@@ -56,7 +59,7 @@ Prior to this complete possession, Lindiwe had built a reputation as an expert i
 
 ## Early Life and Discovery of Eidomantic Sight
 
-Lindiwe grew up in [[Caecaster]], born blind into a world of sounds, smells, textures, and temperatures. Her mother [[Nesiwe]] worked in [[Hypogea]], the underground world beneath [[Caecaster]], harvesting [[Arcolano Milk]], a psychotropic substance [[Alterers]] used to enhance abilities. One day in [[Hypogea]], Lin was drawn to murmuring from the oozing rock and discovered a worm embedded in the wall with sharp fangs. A voice thundered in her head with impressions and emotions, then darkness enveloped her. She fell into a puddle of [[Arcolano Milk]] and saw flashes of light for the first time. The worm protected her body from others while she was unconscious. When she deliberately drank [[Arcolano Milk]] again, she confirmed she could see—[[Yzmir]] [[Initiates]] revealed she perceived through [[Eidomancy]], welcoming ideas directly into her mind rather than using her eyes. The [[Yzmir]] offered to train her if she helped them track the chimera worm.
+Lindiwe grew up among red mesas where warm desert wind shaped her earliest memories. She was born blind into a world of sounds, smells, textures, and temperatures, later living in [[Caecaster]]. Her mother [[Nesiwe]] worked in [[Hypogea]], the underground world beneath [[Caecaster]], harvesting [[Arcolano Milk]], a psychotropic substance [[Alterers]] used to enhance abilities. One day in [[Hypogea]], Lin was drawn to murmuring from the oozing rock and discovered a worm embedded in the wall with sharp fangs. A voice thundered in her head with impressions and emotions, then darkness enveloped her. She fell into a puddle of [[Arcolano Milk]] and saw flashes of light for the first time. The worm protected her body from others while she was unconscious. When she deliberately drank [[Arcolano Milk]] again, she confirmed she could see—[[Yzmir]] [[Initiates]] revealed she perceived through [[Eidomancy]], welcoming ideas directly into her mind rather than using her eyes. The [[Yzmir]] offered to train her if she helped them track the chimera worm.
 
 ## The Bond with Maw
 
@@ -78,7 +81,7 @@ Lindiwe fed a moon jellyfish to [[Maw]], who digested the ideas within it to ext
 
 ### 381 AC - Evading Spy at Svarog Village
 
-A spy followed Lindiwe through Svarog Village. She conjured the idea of "Break" on a cart's axle, used the commotion to alter her appearance, and escaped.
+Lindiwe evaded a spy in Svarog Village by conjuring "Break" on a cart's axle and using the commotion to alter her appearance and escape.
 
 ### 385 AC - Treating Young Initiate with Baku
 
@@ -88,9 +91,9 @@ Lindiwe assisted [[Baku]] in treating [[Kumari Adhikari]], a young girl sufferin
 
 [[Saskia Averina]], a [[Muna]] member, visited [[Baba Yaga]]'s isba while Lindiwe was there.
 
-### 392 AC - Watching Kraken Battle via Seer
+### 392 AC, September - Watching Battle of Madan Bay via Seer
 
-Through a Seer's crystal ball, Lindiwe watched [[Kraken]] battle and imprinted its image in memory.
+Through a Seer's crystal ball, Lindiwe watched the [[Battle of Madan Bay]] and imprinted the [[Kraken]]'s image in memory.
 
 ### 392 AC - Kraken Summoning Authorization Vote
 
@@ -100,21 +103,21 @@ Through a Seer's crystal ball, Lindiwe watched [[Kraken]] battle and imprinted i
 
 [[Waru Toowoom]] confiscated esoteric works Lindiwe requested aboard [[The Ouroboros]] as part of his campaign to obstruct [[Rediscovery Endeavor]] operations.
 
-### 392 AC - Murder of Matera During Kraken Battle
+### 392 AC, September - Murder of Matera During Battle of Madan Bay
 
-Lindiwe watched [[Matera]] fall to [[Kraken]] through a crystal ball, then tore apart [[Matera]]'s essence and projected the [[Mana]] to [[Afanas Korovinovich]].
+Lindiwe watched [[Matera]] fall to [[Kraken]] through a crystal ball during the [[Battle of Madan Bay]], then tore apart [[Matera]]'s essence and projected the [[Mana]] to [[Afanas Korovinovich]].
 
 ### 392 AC - Confronting Arjun Over Indus Tribe Territory
 
 Lindiwe prevented [[Arjun]] from claiming scrubland that was the Indus Tribe's last camp site, protected by the Treaty of Aysun.
 
-### 392 AC - Insight in Maw
+### 392 AC - Insight into Maw's Nature
 
-[[Maw]] evolved from appearing as a simple organism to an entity with complex cognition capable of human manipulation, driven to consume [[Mana]] and Aether endlessly. [[Maw]] referenced "others like me," suggesting other parasitic worm entities. [[Maw]] maintains total control while actual Lindiwe remains trapped, unable to call for help.
+[[Maw]] revealed complex cognition capable of human manipulation and referenced "others like me," suggesting other parasitic worm entities exist.
 
 ### 393 AC, January-April - Brief Freedom in Taiga
 
-[[Maw]] granted Lindiwe a brief period of control over her own body in the taiga of [[Storvhit]], during which she touched snow, breathed in birch scent, and used her gathered [[Mana]] to hatch a [[Mana Moths|Mana moth]] chrysalis.
+[[Maw]] granted Lindiwe a brief period of control over her own body in the taiga of [[Storhvit]], during which she touched snow, breathed in birch scent, and used her gathered [[Mana]] to hatch a [[Mana Moths|Mana moth]] chrysalis.
 
 ### 393 AC, February-April - Climbing Cais Adarra
 
@@ -152,6 +155,12 @@ Lindiwe encountered [[Moyo Chibuye]], a [[Yzmir]] xenobiology specialist carryin
 
 [[Maw]] controlled Lindiwe during the evacuation of [[Axiom]] engineers through portals, then observed [[The Hunger]] emerge from a wall—a dark mass with slitted eye, carnivorous maw ringed with razor-sharp teeth, prehensile tongue, and hooked fingers. Maw analyzed the entity's compulsive feeding on [[Sap]], recognizing a similar appetite but different nature.
 
+### 393 AC - Confrontation with Sylas
+
+[[Maw]] returned to its shell shaking rings defensively. Lindiwe summoned [[Shiva]] for protection from [[Kali]], but the masked mage approached showing no fear. Lindiwe saw chains linking him to Kali—he had used enslavement rather than permission to summon the goddess, filling her with disgust at both his actions and her own situation under [[Maw]]. She faced a dilemma: remain with her jailer or side with this masked individual for potential freedom.
+
+The mage revealed himself as [[Sylas]] (the Chrysanthemum Cloaked Warlock), proposing an alliance against [[Wanjiru]]'s followers in [[The Qorgan]]. He revealed knowledge of Maw's true nature and purpose. When Sylas addressed Lindiwe directly, she briefly seized control—remembering her mother, the red mesas, and desert wind—and attempted to force [[Shiva]]'s third eye open to destroy the warlock. [[Maw]] regained control, commanding her to "stay in your place" and "return to the limbo," stating their shared role is "to pierce illusions and to dispel them."
+
 ## Relationships
 
 - **[[Maw]]**: Giant parasitic worm that controls Lindiwe's body through psychic connection; spontaneously bonded without Musubi ceremony; keeps Lindiwe imprisoned mentally while operating as infiltrator within Yzmir
@@ -169,14 +178,18 @@ Lindiwe encountered [[Moyo Chibuye]], a [[Yzmir]] xenobiology specialist carryin
 - **[[Egon]]**: Magistrate who voted for Kraken authorization (392 AC)
 - **[[Chambulla]]**: Magistra who cast deciding vote for Kraken (392 AC)
 - **[[Saskia Averina]]**: Muna who visited Baba Yaga's isba (391 AC); encountered by [[Maw]] aboard Ouroboros (392 AC)
-- **[[Matera]]**: Murdered by Lindiwe during Kraken battle; Lindiwe tore apart her essence (392 AC)
+- **[[Matera]]**: Murdered by Lindiwe during [[Battle of Madan Bay]]; Lindiwe tore apart her essence (392 AC)
 - **[[Afanas Korovinovich]]**: Received Mana projected from Matera's murder (392 AC)
 - **[[Waru Toowoom]]**: Confiscated esoteric works Lindiwe requested aboard Ouroboros (392 AC)
 - **[[Kumari Adhikari]]**: Patient with Remanence that Lindiwe helped treat with Baku (385 AC)
-- **Seer**: Crystal ball user who allowed Lindiwe to remotely watch Kraken battle (392 AC)
+- **Seer**: Crystal ball user who allowed Lindiwe to remotely watch [[Battle of Madan Bay]] (392 AC)
 - **[[Snow Queen]]**: [[Eidolons|Eidolon]] who trained Lindiwe in mental stasis techniques (393 AC, January-April)
 - **[[Pamola]]**: [[Eidolons|Eidolon]] who appeared during mountain climb at [[Cais Adarra]] (393 AC, February-April)
 - **[[The Nilam]]**: Dead world-tree Lindiwe examined through Irises (393 AC, April)
 - **[[Moyo Chibuye]]**: [[Yzmir]] xenobiology specialist Lindiwe encountered but could not warn about [[Maw]] (393 AC)
 - **[[The Hunger]]**: Entity [[Maw]] observed feeding on [[Sap]], recognizing similar appetite (393 AC)
 - **[[Tisdhera Clan]]**: Lyra clan whose wounded performer Lindiwe rescued (393 AC)
+- **[[Sylas]]**: Chrysanthemum Cloaked Warlock who confronted [[Maw]] through Lindiwe, proposing alliance (393 AC)
+- **[[Shiva]]**: Multi-armed [[Eidolons|Eidolon]] summoned for protection during [[Sylas]] confrontation; Lindiwe attempted to use destructive third eye against the warlock (393 AC)
+- **[[Kali]]**: [[Eidolons|Eidolon]] enslaved by [[Sylas]] through chains during confrontation (393 AC)
+- **[[The Qorgan]]**: [[Wanjiru]]'s organization that [[Sylas]] warned is tracking [[Maw]] (393 AC)

@@ -3,20 +3,30 @@ title: Shahram
 type: character
 category: eidolon
 source: card_lore
-birth_date: null
+birth_date:
 death_date: 383 AC
-reign_period: null
+reign_period:
 status: eidolon
 fate: Became Eidolon after death as veteran Seiringar
 species: human (mortal life), eidolon (posthumous)
 became_oneiros: true
 affiliated_faction: "[[Bravos]]"
 founded_organizations: []
-titles: ["Haven Seiringar", "Old Veteran"]
-lineage: null
+titles:
+  - Haven Seiringar
+  - Old Veteran
+lineage:
 key_events: []
-locations_associated: ["[[Haven]]", "[[Storvhit]]"]
-tags: [eidolon, bravos, veteran, seiringar, morale, instructor]
+locations_associated:
+  - "[[Haven]]"
+  - "[[Storhvit]]"
+tags:
+  - eidolon
+  - bravos
+  - veteran
+  - seiringar
+  - morale
+  - instructor
 ---
 
 # Shahram
@@ -59,7 +69,7 @@ Met with grumbles and protests, Shahram proceeds to recount his extraordinary ex
 
 ### 393 AC - Morale Boost
 
-During [[Storvhit]] expedition, [[Basira al-Arshad]] remembered Shahram and his booming voice decades later. Watching troops huddled around fire trying to keep warm, she sensed they could use bit of his swagger. Instinctively, his [[Eidolons|Eidolon]] was there among them.
+During [[Storhvit]] expedition, [[Basira al-Arshad]] remembered Shahram and his booming voice decades later. Watching troops huddled around fire trying to keep warm, she sensed they could use bit of his swagger. Instinctively, his [[Eidolons|Eidolon]] was there among them.
 
 Shahram's spirit laughed at sullen attitudes, looked defiantly at the group, stuck out chest, and dished out heavy slaps on backs of listless adventurers. He boasted about exploits tattooed on bulging biceps, recounting storming of Vedren and defeat of Mezzaren with bombast and detail.
 
@@ -71,7 +81,7 @@ Shahram embodies [[Bravos]] principle that warriors should never give in to desp
 
 ## Relationships
 
-- **[[Basira al-Arshad]]**: Mentored her after traumatic survival, comforted her in airship cockpit decades before 393 AC; Basira summoned his [[Eidolons|Eidolon]] at [[Storvhit]] as tribute (393 AC)
+- **[[Basira al-Arshad]]**: Mentored her after traumatic survival, comforted her in airship cockpit decades before 393 AC; Basira summoned his [[Eidolons|Eidolon]] at [[Storhvit]] as tribute (393 AC)
 - **[[Haven]]**: Location where Shahram served as Seiringar during mortal life
 - **[[Bravos]]**: Faction Shahram served, embodying their warrior philosophy
 - **[[Rediscovery Endeavor]]**: Not chosen to join Corps, which crushed his spirits in final years

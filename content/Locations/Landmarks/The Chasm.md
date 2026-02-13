@@ -42,7 +42,7 @@ Trainees are expected to reach varying distances on their attempts. Making it on
 
 ### 389 AC - Kojo and Sunniva Training
 
-During a training session in 389 AC, Kojo Oduro and Sunniva Vavcarezza climbed the Chasm together. They reached the halfway point at a small ledge where they paused to catch their breath. The fjord already seemed far below while the peak remained distant above.
+During a training session in 389 AC, Kojo Oduro and Sunniva Vaccarezza climbed the Chasm together. They reached the halfway point at a small ledge where they paused to catch their breath. The fjord already seemed far below while the peak remained distant above.
 
 The climbing itself was described as nice despite the physical challenge. Sunniva demonstrated superior performance—she had previously made it almost three-quarters of the way through the Chasm's mechanisms during an earlier attempt, while Kojo had only managed one-third. This disparity in performance was typical, as Sunniva ranked top in multiple training areas while Kojo often languished in the middle or bottom of rankings.
 
@@ -58,5 +58,5 @@ The Yzmir Sigils that slow falls represent a critical safety feature. Without th
 
 ## Relationships
 
-- **[[Sunniva Vavcarezza]]**: Trained at the Chasm, reached three-quarters completion (389 AC)
+- **[[Sunniva Vaccarezza]]**: Trained at the Chasm, reached three-quarters completion (389 AC)
 - **[[Kojo Oduro]]**: Trained at the Chasm, reached one-third completion (389 AC)

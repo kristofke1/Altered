@@ -2,98 +2,79 @@
 title: Winter Folk
 type: concept
 category: phenomenon
-source: ["[[T22_Winter_Folk]]", "[[L30_Clear_Skies]]"]
-related_concepts: ["[[The Skein]]", "[[Chimerae]]", "[[Magpengs]]", "[[Ice Shrimp]]", "[[Hakupopo]]"]
-associated_factions: ["[[Muna]]", "[[Axiom]]"]
-associated_locations: ["[[Storvhit]]"]
-first_mentioned: "393 AC"
-description_summary: "Collective term for endemic arctic wildlife exhibiting pseudo-societal consciousness and interspecies cooperation at Storvhit"
-tags: [fauna, arctic, ecosystem, consciousness, storvhit, muna, cooperative-behavior]
+source:
+  - "[[T22_Winter_Folk]]"
+  - "[[L30_Clear_Skies]]"
+  - card_lore
+related_concepts:
+  - "[[Chimerae]]"
+  - "[[Magpengs]]"
+  - "[[Ice Shrimp]]"
+  - "[[Hakupopo]]"
+  - "[[Living Snowman]]"
+  - "[[Mana Moths]]"
+  - "[[Belisenki]]"
+associated_factions:
+  - "[[Muna]]"
+  - "[[Axiom]]"
+associated_locations:
+  - "[[Storhvit]]"
+first_mentioned: 393 AC
+description_summary: Collective term for endemic arctic wildlife at Storvhit exhibiting pseudo-societal consciousness and interspecies cooperation
+tags:
+  - fauna
+  - arctic
+  - ecosystem
+  - consciousness
+  - storvhit
+  - muna
+  - cooperative-behavior
 ---
 
 # Winter Folk
 
 ## Overview
 
-Winter Folk is collective term coined by observers for endemic arctic wildlife at [[Storvhit]] exhibiting pseudo-societal consciousness and interspecies social hierarchy. Term documented in field journal by [[Saskia Averina]], Muna Naturalist, on January 29, 393 AC.
+Winter Folk is the collective term for endemic arctic wildlife at [[Storhvit]] exhibiting pseudo-societal consciousness and interspecies social hierarchy. The term was coined by [[Saskia Averina]], [[Muna]] Naturalist, in a field journal entry dated January 29, 393 AC. Following [[Kuraokami]]'s liberation in May 393 AC, Winter Folk protection became a central priority in the governance of [[Caer Nilam]] Province, with [[Jack Frost]] selected as replacement patronage to maintain the arctic climate.
 
 ## Behavioral Characteristics
 
-### Pseudo-Societal Consciousness
+In human presence, predators at [[Storhvit]] defend species that would typically be their prey against intrusion, forming an interspecies cooperative response. A normal system of predation exists within the ecosystem — snow leopards prey on puffins and penguins, orcas hunt seals, guillemots dive after [[Ice Shrimp]] — but wildlife unites when humans approach. Polar bears and snowy owls assume protector roles, while penguins and pinnipeds cooperate to assist one another.
 
-Arctic fauna exhibit unspoken agreement and harmony mirroring pact underlying Asgarthan society. This peculiar behavior hints at emergence of interspecies social hierarchy.
-
-### Coordinated Defense Response
-
-In human presence, certain predators begin to defend what would typically be their prey against intrusions. System of predation exists within ecosystem (snow leopards prey on puffins/penguins, orcas hunt seals, guillemots dive after ice shrimp), but wildlife unites against human intrusion.
-
-### Social Structure
-
-**Protector Roles:**
-- Polar bears naturally assume protective roles
-- Snowy owls act as guardians
-
-**Cooperative Species:**
-- Penguins cooperate to assist one another
-- Pinnipeds (seals, walruses) work together
+The vast majority of Storvhit's endemic fauna feed on abandoned [[Mana Moths]] chrysalides, absorbing pheromones that cause [[Belisenki]] to perceive them as moths deserving of protection. This biological mechanism provides Winter Folk species with guardianship from the Belisenki, linking the interspecies cooperation to the broader Mana Moths–Belisenki symbiosis.
 
 ## Species Composition
 
-Endemic wildlife includes:
-- Walruses
-- Narwhals
-- Polar bears
-- Arctic foxes
-- Reindeer
-- Caribou
-- Snow leopards
-- Puffins
-- Penguins
-- Orcas
-- Seals
-- Guillemots
+Documented conventional species include walruses, narwhals, polar bears, arctic foxes, reindeer, caribou, snow leopards, puffins, penguins, orcas, seals, and guillemots. Endemic or hybrid species documented alongside conventional fauna include [[Magpengs]] (magpie-penguin hybrids), [[Ice Shrimp]] (shrimp capable of both flight and swimming via an [[Aerolith]] vein beneath their carapace), [[Hakupopo]] (sentient fluffy spheres that drift with snowfall), and [[Living Snowman]] (a sentient [[Chimerae|Chimera]] resembling a small animate snowman).
 
-Additional documented species: [[Magpengs]] (hybrid creatures), [[Ice Shrimp]] (flying/swimming shrimp), [[Hakupopo]] (sentient snow spheres), [[Living Snowman]] (sentient snowman [[Chimerae|Chimera]]).
+## Origin Theories
 
-## Migration Theories
+Two theories exist regarding the presence of arctic fauna at Storvhit. Old legends suggest these animals were once confined to the edges of the globe, which would place [[Asgartha]] near arctic regions. An alternative theory posits that, like [[Tumult Nomads]], the fauna migrated following the idea of winter and eventually settled permanently.
 
-### Theory 1: Arctic Origin
-Old legends suggest these animals were once confined to edges of globe. This might imply [[Asgartha]] is located near arctic regions.
+## Timeline
 
-### Theory 2: Migration Following Idea
-Another theory posits that, like [[Tumult Nomads]], fauna migrated following "idea of winter" and eventually settled permanently at [[Storvhit]].
+### January 29, 393 AC — Winter Folk Documented
 
-## Questions and Observations
+[[Saskia Averina]] documented the phenomenon in a field journal entry, recording interspecies cooperative behavior and coining the term "Winter Folk." [[Muna]] and [[Axiom]] naturalists were deployed to study the fauna and flora of the [[Storhvit]] region.
 
-Observers question whether interspecies social hierarchy system was driven by necessity or represents something else entirely. Behavior appears to have developed as adaptation to harsh arctic environment and possibly in response to human presence.
+### May 393 AC — Climate Crisis and Governance
 
-## Post-Kuraokami Liberation - May 393 AC
-
-### Climate Crisis Response
-
-Following [[Kuraokami]]'s liberation from [[The Nilam]], [[Storvhit]] climate destabilized with temperatures rising and snow, glaciers, and ice caps melting at alarming rate. Swift action required to safeguard Winter Folk and take drastic measures preventing unique ecosystem from deteriorating further. [[Rediscovery Endeavor|Expeditionary Corps]] recognized Winter Folk as priority for protection given artificial nature of [[Storvhit]] climate previously maintained by imprisoned dragon.
-
-### Governance and Protection
-
-Temporary governance of [[Storvhit]] (designated [[Caer Nilam]] Province) granted to [[Ordis]] supported by [[Yzmir]], with strict regulations required for enclave viability. Winter Folk protection became key consideration in [[Caer Nilam]] governance arrangements. [[Jack Frost]] selected as replacement patronage to maintain arctic climate necessary for Winter Folk survival.
-
-## Scientific Study
-
-[[Muna]] and [[Axiom]] naturalists deployed to study fauna and flora of [[Storvhit]] region. Observations document overall behavioral patterns and ecological adaptations of arctic species exhibiting cooperative consciousness.
+Following [[Kuraokami]]'s liberation from [[The Nilam]], temperatures at [[Storhvit]] rose with snow, glaciers, and ice caps melting. The [[Rediscovery Endeavor|Expeditionary Corps]] prioritized safeguarding the Winter Folk, and [[Jack Frost]] was selected as replacement patronage to maintain the arctic climate. Temporary governance of the region (designated [[Caer Nilam]] Province) was granted to [[Ordis]] with [[Yzmir]] support, with Winter Folk protection a key consideration in governance arrangements.
 
 ## Relationships
 
-- **[[Storvhit]]**: Arctic region where Winter Folk reside
-- **[[Saskia Averina]]**: [[Muna]] Naturalist who documented Winter Folk phenomenon (January 29, 393 AC)
-- **[[Muna]]**: Faction studying Winter Folk, advocated for natural reserve status for [[Storvhit]]
-- **[[Axiom]]**: Faction studying Winter Folk ecology
-- **[[Magpengs]]**: Hybrid species documented as part of Winter Folk
-- **[[Ice Shrimp]]**: Flying/swimming species documented as part of Winter Folk
+- **[[Axiom]]**: Faction co-deployed with [[Muna]] to study Winter Folk ecology (393 AC)
+- **[[Belisenki]]**: Guardian species whose pheromone-based protection extends to Winter Folk fauna through chrysalis consumption
+- **[[Caer Nilam]]**: Provincial designation for [[Storhvit]] where Winter Folk protection became governance priority (393 AC)
 - **[[Hakupopo]]**: Sentient snow sphere species documented as part of Winter Folk
-- **[[Kuraokami]]**: Dragon whose imprisoned presence maintained artificial [[Storvhit]] climate supporting Winter Folk (liberated 393 AC)
-- **[[Jack Frost]]**: [[Oneiros]] selected to maintain climate for Winter Folk survival following [[Kuraokami]]'s liberation (393 AC)
-- **[[Caer Nilam]]**: Province designation for [[Storvhit]] where Winter Folk protection became governance priority
-- **[[Temera Singh]]**: Grand Admiral who documented need to safeguard Winter Folk (May 15, 393 AC)
-- **[[Rediscovery Endeavor]]**: Exploration initiative requiring climate stabilization to protect Winter Folk
-- **[[Ordis]]**: Faction granted governance with responsibility for Winter Folk protection
-- **[[Yzmir]]**: Faction supporting governance to protect Winter Folk
+- **[[Ice Shrimp]]**: Flying and swimming species documented as part of Winter Folk
+- **[[Jack Frost]]**: [[Oneiros]] selected as replacement patronage to maintain arctic climate for Winter Folk survival (393 AC)
+- **[[Kuraokami]]**: Dragon [[Oneiros]] whose imprisoned presence maintained artificial climate supporting Winter Folk (~303–393 AC)
+- **[[Living Snowman]]**: Sentient [[Chimerae|Chimera]] documented at [[Storhvit]]
+- **[[Magpengs]]**: Magpie-penguin hybrid species documented as part of Winter Folk
+- **[[Mana Moths]]**: Species whose abandoned chrysalides provide Winter Folk fauna with Belisenki pheromone protection
+- **[[Muna]]**: Faction studying Winter Folk, advocated natural reserve status for [[Storhvit]]
+- **[[Ordis]]**: Faction granted governance with responsibility for Winter Folk protection (393 AC)
+- **[[Saskia Averina]]**: [[Muna]] Naturalist who documented and named the Winter Folk phenomenon (January 29, 393 AC)
+- **[[Storhvit]]**: Arctic region where Winter Folk reside
+- **[[Temera Singh]]**: Grand Admiral who documented need to safeguard Winter Folk and established governance (May 393 AC)

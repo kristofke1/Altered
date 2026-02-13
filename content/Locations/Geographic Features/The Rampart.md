@@ -1,31 +1,50 @@
 ---
-title: "The Rampart"
+title: The Rampart
 type: location
 category: fortification
-source: ["L4_Asgartha", "heroes_ordis", "L04_Geography_C"]
+source:
+  - L4_Asgartha
+  - heroes_ordis
+  - L04_Geography_C
 parent_location: "[[Vagheria]]"
-sub_locations: ["[[Solstice Gate]]", "[[Bysanthe]]"]
-population: null
-area: null
-founded: "120 AC"
-status: "active"
+sub_locations:
+  - "[[Solstice Gate]]"
+  - "[[Bysanthe]]"
+population:
+area:
+founded: 120 AC
+status: active
 controlling_faction: "[[Ordis]]"
-present_factions: ["[[Ordis]]", "[[The Aegis]]", "[[Bravos]]", "[[Yzmir]]"]
+present_factions:
+  - "[[Ordis]]"
+  - "[[The Aegis]]"
+  - "[[Bravos]]"
+  - "[[Yzmir]]"
 government_type: military
 notable_features:
-  - "Magical wall protecting Asgartha from Tumult and Kraken"
-  - "Crafted in 120 AC"
-  - "Extended for hundreds of kilometers in 313 AC after 305 AC tsunami"
-  - "Consists of two parallel walls along entire length"
-  - "Magical turbines blow Tumult currents outward between walls"
-  - "Sixteen strongholds along the wall"
-  - "Floating towers housing Kelon cores power the turbines"
-  - "Solstice Gate is sole terrestrial entry point (sealed)"
-  - "Bysanthe citadel oversees northern waterway"
-  - "Built using Vagheria's rugged terrain as foundation"
-climate: null
-characters: ["[[Sigismar Synd]]", "[[Gulrang Oduro]]", "[[Temera Singh]]"]
-tags: [boundary, fortress, military, defensive, tumult-defense, magical-wall, kelon]
+  - Magical wall protecting Asgartha from Tumult and Kraken
+  - Crafted in 120 AC
+  - Extended for hundreds of kilometers in 313 AC after 305 AC tsunami
+  - Consists of two parallel walls along entire length
+  - Magical turbines blow Tumult currents outward between walls
+  - Sixteen strongholds along the wall
+  - Floating towers housing Kelon cores power the turbines
+  - Solstice Gate is sole terrestrial entry point (sealed)
+  - Bysanthe citadel oversees northern waterway
+  - Built using Vagheria's rugged terrain as foundation
+climate:
+characters:
+  - "[[Sigismar Synd]]"
+  - "[[Gulrang Oduro]]"
+  - "[[Temera Singh]]"
+tags:
+  - boundary
+  - fortress
+  - military
+  - defensive
+  - tumult-defense
+  - magical-wall
+  - kelon
 ---
 
 # The Rampart

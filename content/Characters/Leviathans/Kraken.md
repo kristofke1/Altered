@@ -16,7 +16,7 @@ birth_date: null
 death_date: 392 AC
 reign_period: null
 status: destroyed
-fate: "Vaporized by Kojo Oduro during 392 AC battle at Caer Oorun"
+fate: "Vaporized by Kojo Oduro during [[Battle of Madan Bay]] at Caer Oorun (392 AC)"
 species: "Eidolon summoning (theorized) or Leviathan"
 became_oneiros: false
 affiliated_faction: null
@@ -24,7 +24,7 @@ founded_organizations: []
 titles: []
 lineage: null
 key_events:
-  - "[[Battle against the Kraken]]"
+  - "[[Battle of Madan Bay]]"
   - "[[The Fratricidal War]]"
 locations_associated:
   - "[[Caer Oorun]]"
@@ -42,7 +42,7 @@ aliases:
 
 ## Overview
 
-The Kraken was a giant squid creature responsible for the devastation and loss of the Province of [[Caer Oorun]]. Emerged ~146 AC, forcing evacuation of the entire province. Created by [[Sylas]] as a puppet for [[The Perjurers]] conspiracy. Defeated in 392 AC by the [[Expeditionary Corps]].
+The Kraken was a giant squid creature responsible for the devastation and loss of the Province of [[Caer Oorun]]. Emerged ~146 AC, forcing evacuation of the entire province. Created by [[Sylas]] as a puppet for [[The Perjurers]] conspiracy. Defeated at the [[Battle of Madan Bay]] in 392 AC by the [[Expeditionary Corps]].
 
 ## Physical Description
 
@@ -73,7 +73,7 @@ Kraken attacked frigate carrying [[Afanas Korovinovich]]'s family en route from 
 
 [[Bravos]] expedition to reclaim [[Cebir]] failed. [[Afanas Korovinovich]] began suspecting a sorcerer had established a lair within the abandoned fortress.
 
-### 392 AC - Battle and Defeat
+### 392 AC, September - Battle of Madan Bay
 
 [[Expeditionary Corps]] mounted coordinated assault using all six Factions. [[The Ouroboros]] served as bait to lure Kraken. [[Muna]] created massive plant cages from seed bags in the bay while [[Yzmir]] Mages attempted to call down a meteor strike.
 
@@ -104,11 +104,11 @@ At [[Cais Adarra]], [[Wanjiru]] proposed to [[Afanas Korovinovich]] that Kraken 
 - **[[Saskia Averina]]**: Fellow Perjurer whose experiments Kraken's presence enabled
 - **[[Afanas Korovinovich]]**: Led [[Yzmir]] forces against Kraken (392 AC), lost family to Kraken (305 AC)
 - **[[Korovin]]**: [[Bravos]] harpooner killed by Kraken (305 AC)
-- **[[Kojo Oduro]]**: Delivered killing blow that vaporized Kraken (392 AC), received [[Carnelian Crown]]
-- **[[Kaibara]]**: Whale Leviathan that engaged Kraken during battle (392 AC)
-- **[[Matera]]**: Sacrificed herself protecting [[Afanas Korovinovich]] during battle (392 AC)
-- **[[Asta]]**: Battle Mage killed during 392 AC assault
-- **[[Elewa]]**: Battle Mage killed during 392 AC assault
+- **[[Kojo Oduro]]**: Delivered killing blow at [[Battle of Madan Bay]] (392 AC), received [[Carnelian Crown]]
+- **[[Kaibara]]**: Whale Leviathan that engaged Kraken during [[Battle of Madan Bay]] (392 AC)
+- **[[Matera]]**: Sacrificed herself protecting [[Afanas Korovinovich]] during [[Battle of Madan Bay]] (392 AC)
+- **[[Asta]]**: Battle Mage killed during [[Battle of Madan Bay]] (392 AC)
+- **[[Elewa]]**: Battle Mage killed during [[Battle of Madan Bay]] (392 AC)
 - **[[Suha]]**: Investigated origins, discovered literary source and absence of remains (392 AC)
 - **[[Wanjiru]]**: Proposed [[Eidolons|Eidolon]] theory (393 AC)
 - **[[Malefane]]**: [[Yzmir]] Magister who voted to add Kraken to summoning arsenal (392 AC)

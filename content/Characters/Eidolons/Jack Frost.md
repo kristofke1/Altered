@@ -2,21 +2,36 @@
 title: Jack Frost
 type: character
 category: oneiros
-source: ["[[L19_The_Storvhit]]", "[[L30_Clear_Skies]]", "[[L33_The_Outpost]]"]
-birth_date: null
-death_date: null
-reign_period: null
+source:
+  - "[[L19_The_Storvhit]]"
+  - "[[L30_Clear_Skies]]"
+  - "[[L33_The_Outpost]]"
+birth_date:
+death_date:
+reign_period:
 status: active
-fate: null
+fate:
 species: oneiros
 became_oneiros: true
-affiliated_faction: null
+affiliated_faction:
 founded_organizations: []
 titles: []
-lineage: null
-key_events: ["Appointment as Storvhit patronage (393 AC)", "Permanent embodiment at Caer Nilam (393 AC)"]
-locations_associated: ["[[Storvhit]]", "[[Caer Nilam]]", "[[The Screed]]"]
-tags: [oneiros, winter, cold, frost, patronage, caer-nilam, eidolon]
+lineage:
+key_events:
+  - Appointment as Storvhit patronage (393 AC)
+  - Permanent embodiment at Caer Nilam (393 AC)
+locations_associated:
+  - "[[Storhvit]]"
+  - "[[Caer Nilam]]"
+  - "[[The Screed]]"
+tags:
+  - oneiros
+  - winter
+  - cold
+  - frost
+  - patronage
+  - caer-nilam
+  - eidolon
 aliases: []
 ---
 
@@ -24,17 +39,17 @@ aliases: []
 
 ## Overview
 
-Jack Frost is [[Oneiros]] embodying winter and frost concepts. Selected as replacement patronage for [[Storvhit]] following [[Kuraokami]]'s liberation in 393 AC. Appointed to maintain arctic climate of [[Caer Nilam]] Province through permanent embodiment in region.
+Jack Frost is [[Oneiros]] embodying winter and frost concepts. Selected as replacement patronage for [[Storhvit]] following [[Kuraokami]]'s liberation in 393 AC. Appointed to maintain arctic climate of [[Caer Nilam]] Province through permanent embodiment in region.
 
 ## Nature and Concepts
 
-Jack Frost possesses immanent nature that best embodies kind of winter necessary for [[Storvhit]] biome survival. Unlike other [[Oneiros]] candidates (Snow Queen, Baron Kelvin, Dong Da Shen, Santa Claus), Jack Frost's approach to role was not human-centered. Entity capable of generating and sustaining cold rather than merely needing cold to exist (unlike Snow Maiden or Yeti who were ruled out).
+Jack Frost possesses immanent nature that best embodies kind of winter necessary for [[Storhvit]] biome survival. Unlike other [[Oneiros]] candidates (Snow Queen, Baron Kelvin, Dong Da Shen, Santa Claus), Jack Frost's approach to role was not human-centered. Entity capable of generating and sustaining cold rather than merely needing cold to exist (unlike Snow Maiden or Yeti who were ruled out).
 
 ## Selection as Storvhit Patronage - 393 AC
 
 ### Replacement Priority
 
-After [[Kuraokami]]'s liberation caused [[Storvhit]] temperatures to rise with snow, glaciers, and ice caps melting at alarming rate, replacing dragon became undeniable priority. [[Winter Folk]] required safeguarding and drastic measures needed to prevent unique ecosystem deterioration.
+After [[Kuraokami]]'s liberation caused [[Storhvit]] temperatures to rise with snow, glaciers, and ice caps melting at alarming rate, replacing dragon became undeniable priority. [[Winter Folk]] required safeguarding and drastic measures needed to prevent unique ecosystem deterioration.
 
 ### Candidate Evaluation
 
@@ -66,11 +81,11 @@ Task of maintaining Jack Frost's embodiment will not be easy, especially with po
 
 ### Climate Maintenance
 
-Jack Frost's presence provides artificial climate maintenance for [[Storvhit]] region, replacing function previously served by imprisoned [[Kuraokami]]. Ensures continued survival of [[Winter Folk]], [[Belisenki]], and unique arctic ecosystem established during Kuraokami's imprisonment period.
+Jack Frost's presence provides artificial climate maintenance for [[Storhvit]] region, replacing function previously served by imprisoned [[Kuraokami]]. Ensures continued survival of [[Winter Folk]], [[Belisenki]], and unique arctic ecosystem established during Kuraokami's imprisonment period.
 
 ## Eidolon Adaptation - Early 393 AC
 
-Before selection as permanent patronage, Jack Frost was among [[Eidolons]] recommended for diversified summoning to alleviate burden of [[Storvhit]]'s endemic cold during [[Rediscovery Endeavor]] operations. Along with Snow Queen and [[Skadi]], Jack Frost represented lesser-used [[Eidolons]] being explored or rediscovered for adaptation to arctic environment where abilities would prove invaluable.
+Before selection as permanent patronage, Jack Frost was among [[Eidolons]] recommended for diversified summoning to alleviate burden of [[Storhvit]]'s endemic cold during [[Rediscovery Endeavor]] operations. Along with Snow Queen and [[Skadi]], Jack Frost represented lesser-used [[Eidolons]] being explored or rediscovered for adaptation to arctic environment where abilities would prove invaluable.
 
 ## Performance at The Screed - 393 AC
 
@@ -79,8 +94,8 @@ Jack Frost performed ice sculptures at [[The Stage]], the [[Lyra]] mobile perfor
 ## Relationships
 
 - **[[Kuraokami]]**: Primordial dragon [[Oneiros]] whose liberation necessitated Jack Frost's appointment as replacement patronage (393 AC)
-- **[[Storvhit]]**: Arctic region requiring climate maintenance
-- **[[Caer Nilam]]**: Province designation for [[Storvhit]] region where Jack Frost maintains permanent embodiment (393 AC)
+- **[[Storhvit]]**: Arctic region requiring climate maintenance
+- **[[Caer Nilam]]**: Province designation for [[Storhvit]] region where Jack Frost maintains permanent embodiment (393 AC)
 - **[[Winter Folk]]**: Indigenous arctic wildlife requiring cold climate protection
 - **[[Belisenki]]**: Giant moth-like species requiring cold climate protection
 - **[[Temera Singh]]**: Grand Admiral who documented patronage selection decision (May 15, 393 AC)

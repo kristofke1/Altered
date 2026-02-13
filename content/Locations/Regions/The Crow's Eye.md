@@ -2,16 +2,22 @@
 title: The Crow's Eye
 type: location
 category: ruin
-source: ["[[L34_the_city_of_scholars]]", "[[T31_The_Crows_Eye]]", "[[T32_Down_the_rabbit_hole]]"]
+source:
+  - "[[L34_the_city_of_scholars]]"
+  - "[[T31_The_Crows_Eye]]"
+  - "[[T32_Down_the_rabbit_hole]]"
+  - "[[L33_The_Outpost]]"
+  - "[[T50_Knit]]"
 parent_location: "[[City of Scholars]]"
-sub_locations: ["[[The Undergrowth]]"]
+sub_locations:
+  - "[[The Undergrowth]]"
 population: abandoned
-area: null
-founded: null
+area:
+founded:
 status: abandoned
-controlling_faction: null
+controlling_faction:
 present_factions: []
-government_type: null
+government_type:
 notable_features:
   - Diameter exceeding 100 meters
   - Central shaft descending leagues into darkness
@@ -22,9 +28,22 @@ notable_features:
   - Aerolith blocks in abandoned hangars
   - Former Aerolith transport well
   - Freight elevators on massive steel scaffolds
-climate: null
-characters: ["[[Temera Singh]]", "[[Jin-Hee Jeanty]]", "[[Jubal Okech]]", "[[Leocardius Sree]]", "[[Dimuri]]", "[[Teija]]", "[[Nauraa]]", "[[Sigismar Synd]]"]
-tags: [ruin, underground-city, rediscovery-endeavor, city-of-scholars, pre-confluence]
+climate:
+characters:
+  - "[[Temera Singh]]"
+  - "[[Jin-Hee Jeanty]]"
+  - "[[Jubal Okech]]"
+  - "[[Leocardius Sree]]"
+  - "[[Dimuri]]"
+  - "[[Teija]]"
+  - "[[Nauraa]]"
+  - "[[Sigismar Synd]]"
+tags:
+  - ruin
+  - underground-city
+  - rediscovery-endeavor
+  - city-of-scholars
+  - pre-confluence
 aliases:
   - Crow's Eye
   - City of Scholars
@@ -47,6 +66,12 @@ Small animals have settled in the upper levels, drawn by the calmer, more shelte
 ## Aerolith Transport
 
 [[Ordis]] scholars expressed surprise at the presence of large, finely cut blocks of [[Aerolith]] in abandoned hangars. They concluded the Crow's Eye likely served as a central well for transporting Aerolith from mines deeper underground up to the surface at the height of the city's glory.
+
+## Cable and Chain Remnants
+
+[[Axiom]] engineers discovered massive rivets and cable networks—at least fifty in total, each as thick as a support tower—crisscrossing and coiling throughout the city. Additional gigantic cables were found scattered in the surrounding plains and forests, now covered in humus and moss. The collapse of these cables caused significant damage, leveling buildings and felling large swaths of trees.
+
+Frescos discovered in the [[Pelagonian Quadrant]] depict the inhabitants' escape via a tower-city built to house a [[The Nilam|Nilam]] seedling. According to the frescos, the upper portion of this tower severed from its base and levitated into the sky using [[Aerolith]], with the refugees scattering across the resulting archipelago of floating islands. The broken cables correspond to the mooring system depicted in the frescos that secured the ascending tower.
 
 ## Historical Significance
 
@@ -80,3 +105,5 @@ Freight elevators have been arranged intermittently around the pit, mounted on m
 - **[[The Screed]]**: Surface location containing the Crow's Eye
 - **[[The Tumult]]**: Phenomenon whose source the expedition seeks; potential Singularity at bottom
 - **[[The Undergrowth]]**: First underground level accessed via the chasm
+- **[[Halua]]**: [[Leviathans|Leviathan]] born from the Nilam seedling the refugees carried; the broken cables may be remnants of the tower that held the seedling
+- **[[Pelagonian Quadrant]]**: Location where frescos depicting the refugees' escape and tower were discovered

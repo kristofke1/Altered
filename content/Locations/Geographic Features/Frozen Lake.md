@@ -36,13 +36,7 @@ tags:
 
 ## Overview
 
-The Frozen Lake is one of six distinct biome environments within the [[Storhvit]] region. It is a sprawling ice sheet in a circular formation centered on [[Altered/Locations/Regions/Cais Adarra]] mountain.
-
-## Physical Description
-
-The lake is a sprawling ice sheet, riddled with bubbles and fissures containing liquid water. This circular formation, centered on [[Altered/Locations/Regions/Cais Adarra]], constantly creaks and groans as its ice plates shift and collide beneath the surface.
-
-Elevated like a frozen plateau, the lake is often capped by crystal snow mounds. Movement here is perilous, as thinner ice patches require careful navigation.
+The Frozen Lake is one of six distinct biome environments within the [[Storhvit]] region. It is a sprawling ice sheet in a circular formation centered on [[Cais Adarra]] mountain, riddled with bubbles and fissures containing liquid water. The ice constantly creaks and groans as plates shift and collide beneath the surface. Elevated like a frozen plateau and often capped by crystal snow mounds, movement here is perilous as thinner ice patches require careful navigation.
 
 ## Ecosystem
 
@@ -63,5 +57,5 @@ Beneath the ice, the ecosystem teems with bioluminescent life forms:
 ## Relationships
 
 - **[[Storhvit]]**: Parent region containing the Frozen Lake biome
-- **[[Altered/Locations/Regions/Cais Adarra]]**: Mountain at center of the circular lake formation
+- **[[Cais Adarra]]**: Mountain at center of the circular lake formation
 - **[[Canyon]]**: Narrow pass that splits the lake in two

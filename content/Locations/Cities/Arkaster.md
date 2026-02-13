@@ -3,9 +3,9 @@ title: Arkaster
 type: location
 category: city
 source:
-  - "L4_Asgartha"
-  - "L17_Correspondence"
-  - "L02_Geography_A"
+  - "[[L4_Asgartha]]"
+  - "[[L17_Correspondence]]"
+  - "[[L02_Geography_A]]"
   - "L05_Geography_D"
   - "L07_ARKASTER"
 parent_location: "[[Caer Eidos]]"
@@ -56,8 +56,9 @@ notable_features:
   - "Permukaan spans 200 islets, 237 canals, 658 bridges"
   - "Aerolith technology enables 7-8 story buildings on water"
 climate: null
-characters:
+key_characters:
   - "[[Avkan ruun-Heshkari]]"
+  - "[[Somayeh Bahman]]"
   - "[[Nanha Niski]]"
 tags:
   - city
@@ -146,7 +147,7 @@ Early Asgarthans exploited the high cliffs surrounding the city to construct num
 The majority of Asgartha falls under the jurisdiction of Arkaster. While the Asgarthan Protectorate is divided into five autonomous Provinces (Caers), the territories of [[Vagheria]] and [[Suspira]] are directly under the control of Arkaster.
 
 ## Government
-Arkaster serves as the seat of the deliberative republic, led by a [[Basileus]]. Currently this is [[Avkan ruun-Heshkari]].
+Arkaster serves as the seat of the deliberative republic, led by a [[Basileus]] or [[Basilissa]]. Following the 393 AC elections, [[Somayeh Bahman]] succeeded [[Avkan ruun-Heshkari]] as Basilissa.
 
 ## Historical Events
 
@@ -170,5 +171,6 @@ Archaeological discoveries in [[Irundu]] revealed that Arkaster stands on the si
 - **[[Suspira]]**: Territory directly controlled by Arkaster
 - **[[Verbera]]**: Strategic interface city administered by Arkaster
 - **[[Irundu]]**: Region containing ruins architecturally connected to ancient Arkaster
-- **[[Avkan ruun-Heshkari]]**: Current Basileus
+- **[[Avkan ruun-Heshkari]]**: Former Basileus, succeeded by Somayeh Bahman (393 AC)
 - **[[Nanha Niski]]**: Chief-architect of post-305 AC reconstruction
+- **[[Somayeh Bahman]]**: Current Basilissa, elected 393 AC

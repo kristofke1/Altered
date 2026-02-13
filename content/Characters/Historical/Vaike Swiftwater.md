@@ -2,20 +2,39 @@
 title: Vaike Swiftwater
 type: character
 category: historical
-source: ["[[L27_Vaike_Swiftwater]]", "card_lore"]
+source:
+  - "[[L27_Vaike_Swiftwater]]"
+  - card_lore
 birth_date: 259 AC
 death_date: 333 AC
 status: deceased
-fate: "Persists as Oneiros"
+fate: Persists as Oneiros
 species: human
 became_oneiros: true
 affiliated_faction: "[[Axiom]]"
 founded_organizations: []
-titles: ["Engineer", "Pioneer", "Inventor"]
-lineage: "Swiftwater"
-key_events: ["Industrial Revolution catalyst", "Kelon energy development", "Guilds unification under Axiom"]
-locations_associated: ["[[Sadracca]]", "[[Arkaster]]", "[[Avesta]]", "[[Storvhit]]"]
-tags: [engineer, inventor, oneiros, kelon, industrial-revolution, axiom-founder, historical]
+titles:
+  - Engineer
+  - Pioneer
+  - Inventor
+lineage: Swiftwater
+key_events:
+  - Industrial Revolution catalyst
+  - Kelon energy development
+  - Guilds unification under Axiom
+locations_associated:
+  - "[[Sadracca]]"
+  - "[[Arkaster]]"
+  - "[[Avesta]]"
+  - "[[Storhvit]]"
+tags:
+  - engineer
+  - inventor
+  - oneiros
+  - kelon
+  - industrial-revolution
+  - axiom-founder
+  - historical
 ---
 
 # Vaike Swiftwater
@@ -64,7 +83,7 @@ Sixty years after death (as of 393 AC), Vaike's [[Eidolon]] still manifests to t
 
 ### ~393 AC - Storvhit Expedition
 
-Vaike's [[Eidolon]] led a party through a snowy pass at [[Storvhit]], using a heat cannon to melt thick snow and helping [[Treyst]] convert a kelonic heater into a heat gun for the expedition.
+Vaike's [[Eidolon]] led a party through a snowy pass at [[Storhvit]], using a heat cannon to melt thick snow and helping [[Treyst]] convert a kelonic heater into a heat gun for the expedition.
 
 ## Future Concerns
 
@@ -77,7 +96,7 @@ With [[Kelon]] supplies running low, the energy infrastructure dependent on kelo
 - **[[Anuar Binbasaki]]**: Inventor who introduced Vaike to Kelon (266 AC) and later collaborated on research (292 AC)
 - **[[Edire Niski]]**: Artificers' Guild member who invited Vaike to lead infrastructure transition (305 AC)
 - **[[Nanha Niski]]**: Architect tasked with capital rebuilding (305 AC)
-- **[[Treyst]]**: [[Axiom]] Exalt whom Vaike's Eidolon assisted at [[Storvhit]] (~393 AC)
+- **[[Treyst]]**: [[Axiom]] Exalt whom Vaike's Eidolon assisted at [[Storhvit]] (~393 AC)
 - **[[Sadracca]]**: Birthplace in the shipyards
 - **[[Arkaster]]**: City where she led kelonic infrastructure transition
 - **[[Avesta]]**: Location of energy conference

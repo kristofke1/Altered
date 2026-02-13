@@ -3,7 +3,7 @@ title: Nevenka
 type: character
 category: hero
 source: ["heroes_lyra", "[[Catch The Drift]]", "[[Solstice]]", "[[Chrysanthemum]]", "[[The Gig]]", "[[Ignorance is Bliss]]", "card_lore"]
-birth_date: null
+birth_date: 369 AC
 death_date: null
 reign_period: null
 status: living
@@ -15,7 +15,7 @@ founded_organizations: []
 titles: ["Exalt", "Alterer"]
 lineage: "[[Ossonoya Clan]]"
 key_events: []
-locations_associated: ["[[Mist]]", "[[Arkaster]]"]
+locations_associated: ["[[Mist]]", "[[Arkaster]]", "[[Cloud Realm]]"]
 tags: [lyra, hero, exalt, alterer, ossonoya-clan, graffiti-artist]
 aliases: ["Nev"]
 ---
@@ -24,7 +24,7 @@ aliases: ["Nev"]
 
 ## Overview
 
-Nevenka, commonly called "Nev," is a [[Lyra]] [[Alterers|Alterer]] and Exalt from the [[Ossonoya Clan]]. She is a graffiti artist described as the "queen of fibs, the empress of hoaxes, the goddess in the making of fabrication, mystification, and inaccuracy." Her companion is [[Blotch]], a paint dragon [[Chimerae|Chimera]]. [[Esmeralda]] described Nevenka as a troublemaker capable of the best and the worst. Described as unpredictable and rebellious, she is unconcerned with taboos and lives for excess and transgression. She experiences persistent voices that she cannot silence. She enjoys chewing gum, creamy pea soup, graffiti and street art, and cotton candy.
+Nevenka (commonly called "Nev"), born 369 AC, is a [[Lyra]] [[Alterers|Alterer]] and Exalt from the [[Ossonoya Clan]]. She is a graffiti artist described as the "queen of fibs, the empress of hoaxes, the goddess in the making of fabrication, mystification, and inaccuracy." Her companion is [[Blotch]], a paint dragon [[Chimerae|Chimera]]. [[Esmeralda]] described Nevenka as a troublemaker capable of the best and the worst. Described as unpredictable and rebellious, she is unconcerned with taboos and lives for excess and transgression. She experiences persistent voices that she cannot silence. She enjoys chewing gum, creamy pea soup, graffiti and street art, and cotton candy.
 
 ## Early Life and Meeting Blotch
 
@@ -99,18 +99,30 @@ Nevenka spray-painted X markers in the [[City of Scholars]] to help [[Tamati]] n
 ### 393 AC, June-August - Revealing the City's Nature
 Nevenka brought [[Fen]] into the [[City of Scholars]] corridors to search for her lost memories. Using [[Ignescence]], Nevenka activated black polyhedron memory stones, causing shimmering bubbles to emerge and burst into golden dust forming ghostly afterimages of past inhabitants—children listening to singers, washerwomen at work, mothers humming lullabies. Nevenka revealed insight about the City: it is sentient and immortal, eternally in pain, and steals memories and imagination to dream and think of something else—like a drug to soothe itself, though Aether provides no true nourishment, making the comfort meaningless.
 
+### 393 AC - Stepping on Sticky Mushroom
+Nevenka stepped on a sticky, colorful mushroom during its mating season in the [[Cloud Realm]], while a [[Muna]] companion explained the organism's reproductive behavior.
+
+### 393 AC - Summoning Daikokuten
+Nevenka stole an effigy of [[Daikokuten]] from [[Afanas Korovinovich]] and smashed it to summon the deity of fortune, following the fukunusubi tradition of stealing an idol to claim its blessing.
+
+### 393 AC - Gambling with Eris
+Nevenka organized a dice game on a [[Cloud Realm]] flying island and summoned [[Eris]] as her partner, and the goddess of discord won the entire pot before the pair split the winnings while the other players descended into argument.
+
 ## Relationships
 
 - **[[Blotch]]**: Paint dragon [[Chimerae|Chimera]] companion and Alter Ego, whose full name is Kutrabalamashablotchara
 - **[[Fen]]**: [[Lyra]] friend also expelled from Clan, met in [[Arkaster]], explored [[The Ouroboros]] together (391 AC)
 - **[[Esmeralda]]**: [[Lyra]] Shepherdess who described Nevenka as troublemaker capable of best and worst
 - **[[Loki]]**: [[Eidolons|Eidolon]] best friend who understands chaos, plays pranks together (391 AC)
+- **[[Afanas Korovinovich]]**: [[Yzmir]] Exalt from whom Nevenka stole a [[Daikokuten]] effigy (393 AC)
 - **[[Amahle Kalu]]**: Pariah [[Eidolons|Eidolon]] whose philosophical teachings influenced Nevenka
 - **[[Asmodeus]]**: [[Eidolons|Eidolon]] who bargained with Nevenka after she was caught cheating with loaded dice (391 AC)
+- **[[Daikokuten]]**: Japanese deity of fortune [[Eidolons|Eidolon]] Nevenka summoned by smashing stolen effigy following fukunusubi tradition (393 AC)
+- **[[Eris]]**: Goddess of discord [[Eidolons|Eidolon]] Nevenka summoned as gambling partner on a [[Cloud Realm]] flying island (393 AC)
 - **[[Sierra]]**: [[Axiom]] Exalt who competed against Nevenka in contest (392 AC)
 - **[[Mnemosyne]]**: Goddess of memory Nevenka suggested [[Fen]] find
 - **[[Santa Claus]]**: [[Eidolons|Eidolon]] whose sleigh Nevenka covets after encounter at [[The Talaria]] warehouse (393 AC, January-April)
-- **[[Nosk]]**: [[Ordis]] communications officer and drinking buddy at [[Storvhit]] (393 AC)
+- **[[Nosk]]**: [[Ordis]] communications officer and drinking buddy at [[Storhvit]] (393 AC)
 - **[[Kuzma]]**: Cousin
 - **Mother**: Bedridden former stage diva
 - **Father**: Absent most of time since Nevenka's birth

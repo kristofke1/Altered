@@ -30,7 +30,7 @@ Standard Kelon is confirmed to exist and is extensively exploited by [[Axiom]]. 
 
 ### Kelonic Cylinder Conversion
 
-In 393 AC, [[Axiom]] energy specialists at the [[City of Scholars]] successfully converted Kelonic cylinders to store [[Sap]], the golden substance extracted from ancient reservoirs. This conversion produced more or less stable energy yield, though process efficiency still required improvement. The adaptation significantly eased strain on Kelon reserves, which were depleted after crossing [[Storvhit]].
+In 393 AC, [[Axiom]] energy specialists at the [[City of Scholars]] successfully converted Kelonic cylinders to store [[Sap]], the golden substance extracted from ancient reservoirs. This conversion produced more or less stable energy yield, though process efficiency still required improvement. The adaptation significantly eased strain on Kelon reserves, which were depleted after crossing [[Storhvit]].
 
 ### Sun Kelon
 
@@ -80,7 +80,7 @@ If [[Axiom]] failed to invest in preparing for future, entire Faction risked bei
 - **[[Sierra]]**: Participated in 393 AC expedition to claim Kelon reserves
 - **[[Yzmir]]**: Faction competing for Kelon-rich territories
 - **[[The Tumult]]**: Regions containing valuable Kelon reserves, Singularities possibly powered by Kelon
-- **[[Storvhit]]**: Mountain in region being surveyed for Kelon
+- **[[Storhvit]]**: Mountain in region being surveyed for Kelon
 - **[[Tumult Jammer]]**: Technology required to safely access Kelon deposits in Tumult zones
 - **[[Juraj]]**: Master-Archivist who presented Singularity Kelon fragment to Basem Falani (367 AC)
 - **[[Basem Falani]]**: Master of Lapidaries' Guild shown inert Kelon from Glow Singularity (367 AC)

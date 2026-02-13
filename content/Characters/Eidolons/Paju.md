@@ -2,7 +2,7 @@
 title: Paju
 type: character
 category: eidolon
-source: heroes_axiom.md
+source: ["heroes_axiom", "[[T45_Onslaught]]", "AXIOM_minor_narrators_lore"]
 birth_date: null
 death_date: null
 status: deceased
@@ -13,8 +13,8 @@ affiliated_faction: "[[Axiom]]"
 founded_organizations: []
 titles: ["Pilot"]
 lineage: null
-key_events: []
-locations_associated: ["[[Kurung]]", "[[The Foundry]]", "[[Arkaster]]"]
+key_events: ["[[Halua Attack on Pelagonian Quarry]]"]
+locations_associated: ["[[Kurung]]", "[[The Foundry]]", "[[Arkaster]]", "[[Pelagonian Quadrant]]"]
 tags: [eidolon, pilot, axiom, deceased, fulcrum]
 ---
 
@@ -68,10 +68,25 @@ When Treyst activated the machine, it did not work as expected. A Tumult Singula
 
 In a corner of the room after this failed experiment, Paju's Eidolon smiled. Through Rossum, the Chimera that resulted from the accident, Treyst had found a new reason to live and a new reason to fight.
 
-## Personality
+## Timeline
 
-Paju was characterized by constant enthusiasm. Every day was an adventure for him. His enthusiasm was what allowed both him and Treyst to hold on during their exhausting training and achieve their goal of flying.
+### 393 AC, June-September - Eidolon Manifestation by Treyst
+
+[[Treyst]] manifested Paju's [[Eidolons|Eidolon]] in [[Rossum]]'s workshop, where Paju described flight experiences before the manifestation ended.
+
+### 393 AC, June-September - FarFetch 2.0 Housing
+
+[[Treyst]] and [[Rossum]] built [[FarFetch 2.0]], a modified maintenance rig with Kelonic convectors, to allow Paju's [[Eidolons|Eidolon]] to explore autonomously.
+
+### 393 AC, October 23 - Sacrifice at Pelagonian Quarry
+
+During [[Halua]]'s attack on the [[Axiom]] quarry in the [[Pelagonian Quadrant]], Paju piloted a white-shelled mech equipped with robotic tendrils. When a construction crane collapsed toward [[Isaree Thongsuk]], Paju's mechanical arm slammed into her, hurling her to safety. The mech's tendrils latched onto the crane's frame, holding it back long enough for Isaree to escape before the structure crashed down on the machine.
 
 ## Relationships
 
 - **[[Treyst]]**: Best friend and navigator, bonded by pact to leave orphanage together
+- **[[Rossum]]**: Chimera accidentally created when Treyst attempted to pair Paju's Eidolon with an Automaton
+- **[[Isaree Thongsuk]]**: Exalt whom Paju saved during Halua attack (October 23, 393 AC)
+- **[[Halua]]**: Leviathan whose attack led to Paju's sacrifice (October 23, 393 AC)
+- **[[Pelagonian Quadrant]]**: Location of Paju's sacrifice (October 23, 393 AC)
+- **[[FarFetch 2.0]]**: Modified maintenance rig built to house Paju's Eidolon (393 AC)

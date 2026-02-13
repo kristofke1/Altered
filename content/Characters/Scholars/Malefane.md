@@ -31,15 +31,11 @@ As Magister of [[Eidomancy]], Malefane presides over one of [[The Spheres|five S
 
 ### 392 AC - Kraken Summoning Vote
 
-Following the defeat of the [[Kraken]], the [[Yzmir]] Magisters debated whether the creature should be added to the Faction's summoning arsenal or list of prohibitions. Malefane voted in favor of adding the [[Kraken]] to [[Yzmir]] Initiates' summoning capabilities. The vote passed 3-2, with Malefane joining [[Egon]] and [[Chambulla]] in favor, while [[Nasir]] and [[Tarjani]] opposed or advised caution.
+Following the defeat of the [[Kraken]], the [[Yzmir]] Magisters debated whether the creature should be added to the Faction's summoning arsenal or list of prohibitions. Malefane hammered his arguments home to counter [[Nasir]]'s appeals, voting against inclusion. The vote passed 3-2, with Nasir, [[Egon]], and [[Chambulla]] voting in favor, while Malefane and [[Tarjani]] opposed.
 
 ## Relationships
 
-- **[[Yzmir]]**: Faction Malefane leads as one of five Magisters
-- **[[The Magisterium]]**: High Council where Malefane sits
-- **[[Eidomancy]]**: Sphere of magic Malefane presides over
-- **[[The Kadigir]]**: [[Yzmir]] bastion containing Eidomancy Temple
-- **[[Egon]]**: Fellow Magister who voted with Malefane on Kraken (392 AC)
-- **[[Chambulla]]**: Magistra who cast deciding vote with Malefane on Kraken (392 AC)
-- **[[Nasir]]**: Magister who voted against Malefane on Kraken (392 AC)
-- **[[Tarjani]]**: Magistra who advised caution on Kraken vote (392 AC)
+- **[[Chambulla]]**: Fellow Magistra (Horomancy) who cast the deciding vote in favor of Kraken inclusion (392 AC)
+- **[[Egon]]**: Fellow Magister (Kinemancy) who voted in favor of Kraken inclusion (392 AC)
+- **[[Nasir]]**: Fellow Magister (Gephyromancy) whose appeals Malefane countered; voted in favor (392 AC)
+- **[[Tarjani]]**: Fellow Magistra (Phonomancy) who voted against Kraken inclusion with Malefane (392 AC)

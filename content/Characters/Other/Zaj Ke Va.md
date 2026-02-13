@@ -5,15 +5,12 @@ category: leader
 source: ["[[T42_the_deep_tumult]]"]
 birth_date: null
 death_date: null
-reign_period: null
 status: living
 fate: null
 species: human
 became_oneiros: false
 affiliated_faction: "[[Yzmir]]"
-founded_organizations: []
 titles: ["Satrap"]
-lineage: null
 key_events: []
 locations_associated: ["[[Nilam Spires]]"]
 tags: [yzmir, satrap, leader, magisters-representative, nilam-spires]
@@ -23,7 +20,7 @@ tags: [yzmir, satrap, leader, magisters-representative, nilam-spires]
 
 ## Overview
 
-Zaj Ke Va is a [[Yzmir]] Satrap serving as the [[Magisterium|Magisters']] representative at [[Nilam Spires]] during the [[Rediscovery Endeavor]]. The Satrap oversees strategic discussions regarding [[The Tumult]] research and expedition challenges.
+Zaj Ke Va is a [[Yzmir]] Satrap serving as [[The Magisterium]]'s representative at [[Nilam Spires]] during the [[Rediscovery Endeavor]]. The Satrap oversees strategic discussions regarding [[The Tumult]] research and expedition challenges.
 
 ## Role at Nilam Spires
 
@@ -40,5 +37,4 @@ Zaj Ke Va also questioned [[Moyo Chibuye]] about the [[Silk]] larva, inquiring w
 - **[[Sylas]]**: [[Yzmir]] mage whose proposal to fly over the Tumult the Satrap agreed to study (393 AC)
 - **[[Moyo Chibuye]]**: [[Yzmir]] Initiate questioned about [[Silk]] larva (393 AC)
 - **[[Silk]]**: Chimera larva the Satrap inquired about as potential Alter Ego candidate
-- **[[Nilam Spires]]**: Observatory where the Satrap leads meetings
-- **[[Magisterium]]**: Organization the Satrap represents
+- **[[The Magisterium]]**: Organization the Satrap represents at [[Nilam Spires]]

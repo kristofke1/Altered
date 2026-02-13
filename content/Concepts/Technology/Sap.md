@@ -2,11 +2,11 @@
 title: Sap
 type: concept
 category: material
-source: ["[[L33_The_Outpost]]", "[[L34_the_city_of_scholars]]", "[[T36_Escherian]]", "[[T37_The_sap]]"]
+source: ["[[L33_The_Outpost]]", "[[L34_the_city_of_scholars]]", "[[T36_Escherian]]", "[[T37_The_sap]]", "[[L40_Story_So_Far_2]]", "[[T47_Bonds]]"]
 related_concepts: ["[[Kelon]]", "[[Mana]]", "[[The Spindle]]", "[[The Nilam]]"]
 associated_factions: ["[[Axiom]]", "[[Muna]]", "[[Bravos]]", "[[Lyra]]", "[[Yzmir]]", "[[Ordis]]"]
 associated_locations: ["[[City of Scholars]]", "[[Cais Adarra]]", "[[The Farm]]", "[[The Mess]]"]
-first_mentioned: "393 AC"
+first_mentioned: "393 AC, April (discovered), July (named)"
 description_summary: "Golden substance extracted from City of Scholars reserves, theorized to be the preserved sap of an ancient world-tree"
 tags: [material, energy, substance, world-tree, city-of-scholars]
 ---
@@ -15,7 +15,7 @@ tags: [material, energy, substance, world-tree, city-of-scholars]
 
 ## Overview
 
-The Sap is a golden substance discovered in sealed silos and cisterns throughout the [[City of Scholars]]. [[Arjun]] theorized that it is the preserved sap of a world-tree that once stood between twin peaks depicted in the city's frescos, which the ancient inhabitants channeled and exploited until the tree died.
+The Sap is a golden substance discovered in April 393 AC within sealed silos and cisterns throughout the [[City of Scholars]]. In July 393 AC, it was formally named "Sap" due to its theorized origin from intensive exploitation of [[The Nilam]]. [[Arjun]] theorized that it is the preserved sap of a world-tree that once stood between twin peaks depicted in the city's frescos, which the ancient inhabitants channeled and exploited until the tree died.
 
 ## Origin Theory
 
@@ -23,7 +23,7 @@ During excavation work in 393 AC, [[Arjun]] observed a fresco depicting a great 
 
 ## Physical Properties
 
-The Sap appears as a golden, translucent, sticky liquid that can be stored in tanks, cisterns, and converted containers. [[Axiom]] energy specialists successfully converted Kelonic cylinders to store the substance, extracting a more or less stable energy yield. While process efficiency still requires improvement, this significantly eased strain on [[Kelon]] reserves depleted after crossing the [[Storvhit]].
+The Sap appears as a golden, translucent, sticky liquid that can be stored in tanks, cisterns, and converted containers. [[Axiom]] energy specialists successfully converted Kelonic cylinders to store the substance, extracting a more or less stable energy yield. While process efficiency still requires improvement, this significantly eased strain on [[Kelon]] reserves depleted after crossing the [[Storhvit]].
 
 ### Solid Form
 
@@ -65,6 +65,10 @@ The college of chemists discovered the Sap's invigorating and stimulating proper
 
 The [[Ordis]] urges caution regarding Sap ingestion, advising against consumption until official botanical results are published. Botanists are close to confirming its harmlessness according to preliminary reports, though no cases of food poisoning have been confirmed. Health inspectors have been dispatched to [[The Mess]] to investigate. An audience member at [[Altered/Characters/Other/Tang Lang]]'s lecture questioned whether Sap might be a drug given its psychoactive properties; the professor could only respond that further research was pending.
 
+### Perjurer Concerns (393 AC)
+
+[[Saskia Averina]] was officially tasked with delivering a definitive report on Sap safety. Her research revealed concerning effects visible in blood samples from individuals who had consumed or inhaled the substance. [[Sylas]], viewing these findings through his [[Irises]], declared the Sap represented a "snag" in [[The Perjurers]]' plans and that they would need to "cut out the weed before it spreads."
+
 ## Historical Context
 
 Wall frescos throughout the [[City of Scholars]] depict the Sap flowing from a massive world-tree and being used in every facet of society: poured into artificial beings, consumed, inhaled, shared, gifted, distributed, stored, and used in cultivation. The ancient inhabitants built their entire civilization around this resource.
@@ -96,7 +100,7 @@ Substance residues found in [[Caer Nilam]] suggest the City of Scholars' inhabit
 - **[[The Nilam]]**: Dead world-tree at [[Cais Adarra]], similar to City of Scholars' tree
 - **[[The Spindle]]**: Living world-tree in [[Asgartha]] that [[Muna]] protect from similar fate
 - **[[Treyst]]**: [[Axiom]] engineer involved in Sap extraction operations (393 AC)
-- **[[Altered/Characters/Other/Tang Lang]]**: Professor who delivered comprehensive lecture on Sap applications (393 AC)
+- **[[Tang Lang]]**: Professor who delivered comprehensive lecture on Sap applications (393 AC)
 - **[[The Refinery]]**: [[Axiom]] facility converted to process Sap
 - **[[Mesektet]]**: Ship whose turbines are being studied for Kelon-Sap conversion
 - **[[Brassbugs]]**: Machines repaired using Sap as maintenance oil
@@ -104,3 +108,6 @@ Substance residues found in [[Caer Nilam]] suggest the City of Scholars' inhabit
 - **[[The Crow's Eye]]**: Location of vertical gardens with Bumblebeet pollinators
 - **[[Yzmir]]**: Faction consuming Sap for psychoactive effects
 - **[[Gephyromancy]]**: [[Yzmir]] Sphere using Sap for permanent Sigil tattooing
+- **[[Saskia Averina]]**: [[Muna]] Naturalist tasked with Sap safety research; discovered concerning blood effects (393 AC)
+- **[[Sylas]]**: [[Yzmir]] mage who viewed Sap effects as threat to [[The Perjurers]]' plans (393 AC)
+- **[[The Perjurers]]**: Conspiracy concerned about Sap's effects on their operations (393 AC)

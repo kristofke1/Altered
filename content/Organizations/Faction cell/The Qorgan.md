@@ -2,7 +2,7 @@
 title: "The Qorgan"
 type: organization
 category: faction_cell
-source: "L13_the_severance_war"
+source: ["L13_the_severance_war", "[[T30_Murky_Truths]]", "[[T47_Bonds]]"]
 founded: "Post-Severance War (early 3rd century AC)"
 founder: "[[Wanjiru]]"
 status: "active"
@@ -36,6 +36,26 @@ The Qorgan operates as a counter-intelligence organization within the [[Yzmir]] 
 
 ## Operations
 
+### Perjurer Investigation (243-393 AC)
+
+[[Wanjiru]] conducted a secret investigation into [[The Perjurers]] for approximately 150 years. By May 393 AC, the investigation produced evidence of infiltration across all six Factions. The Qorgan assigned codenames to suspected operatives based on their methods:
+
+- **The Anathema**: Operates among [[Yzmir]]
+- **The Censor**: Operates within [[Ordis]]
+- **The Sicarius**: Linked to unsolved murders and assassinations
+- **The Eugenist**: [[Saskia Averina]] (confirmed)
+- **The Iconoclast**: [[Amahle Kalu]] (confirmed)
+
+The Qorgan twice believed they had eliminated the Eugenist, and acknowledged uncertainty about whether some codenames referred to the same person or if additional Perjurers existed.
+
+### Kojo Oduro Surveillance (393 AC)
+
+The Qorgan monitors [[Kojo Oduro]] due to concerns about his actions during the [[Battle of Madan Bay]], where he appeared to strip reality of its essence—crossing a line beyond the [[Bravos]]' normal fire affinity. [[Afanas Korovinovich]] expressed impatience with Qorgan resources being spent on this surveillance rather than pursuing the Perjurers directly.
+
+### Storvhit Origin Investigation (393 AC)
+
+A Qorgan agent among the [[Muna]] investigates the [[Storhvit]]'s artificial origin.
+
 ### Ariadne Surveillance Network (393 AC)
 
 [[Yanna]] operates a surveillance system at [[The Screed]] using [[Ariadne]], the [[Eidolons|Eidolon]] who serves as central knot for expedition threads into the [[City of Scholars]]. A hidden [[Glyph|Rhombus of the Gestalt]] placed under Ariadne's tunic allows monitoring of expedition movements through a secret [[The Gestalt|Gestalt]] frequency whenever [[Ordis]] members are present. Secret laws were passed by carefully selected individuals to ensure maximum [[The Aegis|Aegis]] support for expedition teams, increasing Gestalt coverage for Qorgan surveillance.
@@ -50,4 +70,6 @@ The Qorgan operates as a counter-intelligence organization within the [[Yzmir]] 
 - **[[Suha]]**: [[Yzmir]] Initiate recruited after investigation test (392 AC); serves as [[Wanjiru]]'s incarnation vessel
 - **[[Chinam]]**: [[Yzmir]] Initiate who provided intelligence to [[Afanas Korovinovich|Afanas]] about [[Axiom]] [[Sap]] stockpile (393 AC)
 - **[[Ariadne]]**: [[Eidolons|Eidolon]] used for expedition surveillance via hidden Rhombus (393 AC)
+- **[[Kojo Oduro]]**: [[Bravos]] Exalt under surveillance due to [[Battle of Madan Bay]] actions (393 AC)
+- **[[Storhvit]]**: Location whose artificial origin is under investigation by Qorgan agent among [[Muna]] (393 AC)
 - **[[The Perjurers]]**: Subject of ongoing 150-year investigation; conspiracy working since [[Amahle Kalu|Kalu's Revolt]] to stall [[Asgartha]]'s expansion

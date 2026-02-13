@@ -56,5 +56,5 @@ The memory represented simpler times before Kumari's accident at [[The Well of T
 
 - **[[Akesha Adhikari]]**: Visited as child, recreated pastries from memory (392 AC)
 - **[[Kumari Adhikari]]**: Visited as child, expressed longing for pastries during illness (392 AC)
-- **[[Kuth Kanat 1]]**: Likely district location based on Adhikari family residence
+- **[[Kuth Kanat]]**: Likely district location based on Adhikari family residence
 - **[[Arkaster]]**: Capital city where street is located

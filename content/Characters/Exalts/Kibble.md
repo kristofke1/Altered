@@ -84,5 +84,5 @@ Kibble nestled against [[Auraq]]'s neck during consultation with [[Man in the Ma
 - **[[Atsadi]]**: [[Bravos]] Exalt who fought alongside Auraq during shadow attack (393 AC)
 - **[[Teija]]**: [[Muna]] Exalt who fought alongside Auraq during shadow attack (393 AC)
 - **[[Nauraa]]**: [[Teija]]'s giant fox Alter Ego, also targeted during shadow attack (393 AC)
-- **[[Fen]]**: [[Lyra]] Exalt whom Kibble grew fond of during [[Storvhit]] expedition (393 AC)
+- **[[Fen]]**: [[Lyra]] Exalt whom Kibble grew fond of during [[Storhvit]] expedition (393 AC)
 - **[[Man in the Maze]]**: [[Eidolons|Eidolon]] present during Auraq's consultation about Fen (393 AC)

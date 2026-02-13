@@ -2,7 +2,7 @@
 title: Oblivion
 type: concept
 category: affliction
-source: ["[[L37_Oblivion]]", "[[T40_The_Hunger]]", "[[T41_forget_me_not]]"]
+source: ["[[L37_Oblivion]]", "[[T40_The_Hunger]]", "[[T41_forget_me_not]]", "[[L40_Story_So_Far_2]]"]
 related_concepts:
   - "[[Grafts]]"
   - "[[Eidolons]]"
@@ -32,7 +32,7 @@ Oblivion is an affliction discovered in 393 AC affecting members of the [[Redisc
 
 ## Origin and Source
 
-The affliction originates from [[The Hunger]], a primordial entity that dwelt in [[The Maze]] beneath the [[City of Scholars]]. The creature fed on memories by entering the dreams of nearby victims, devouring recollections while they slept. This feeding manifested as Oblivion in those who ventured near its domain.
+The affliction originates from [[The Hunger]], a primordial entity that dwelt in [[The Maze]] beneath the [[City of Scholars]]. The creature fed on memories by entering the dreams of nearby victims, devouring recollections while they slept. This feeding manifested as Oblivion in those who ventured near its domain. The affliction was first recognized in August 393 AC when increasing numbers of explorers reported memory loss.
 
 Initial cases appeared in explorers who descended into the underground labyrinth via [[The Crow's Eye]], where The Hunger's influence was strongest. A malevolent presence lingered near the outer limits of the last mapped levels, accompanied by visceral fear and profound unease—sensations produced by proximity to the creature.
 
@@ -58,7 +58,7 @@ Healers from [[The Cloister]], working with [[Rati]] surgeons, developed a treat
 
 ## Resolution
 
-In 393 AC, the Exalts confronted The Hunger in The Maze. After [[Fen]] and [[Teija]] attempted to reach [[Sofia]]—the child consciousness trapped within the creature—[[Treyst]] triggered explosive charges that destroyed The Maze and The Hunger with it. The threat responsible for Oblivion was eliminated, though existing cases still required ongoing treatment.
+In September 393 AC, the Exalts confronted The Hunger in The Maze. After [[Fen]] and [[Teija]] attempted to reach [[Sofia]]—the child consciousness trapped within the creature—[[Treyst]] triggered explosive charges that destroyed The Maze and The Hunger with it. The threat responsible for Oblivion was eliminated, though existing cases still required ongoing treatment.
 
 ## Relationships
 

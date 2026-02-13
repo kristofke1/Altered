@@ -2,21 +2,38 @@
 title: Sunisa
 type: character
 category: soldier
-source: ["card_lore", "[[T23_Twin_Suns]]"]
-birth_date: null
-death_date: null
-reign_period: null
+source:
+  - card_lore
+  - "[[T23_Twin_Suns]]"
+birth_date:
+death_date:
+reign_period:
 status: living
-fate: null
+fate:
 species: human
 became_oneiros: false
 affiliated_faction: "[[Ordis]]"
 founded_organizations: []
-titles: ["Ensign", "Aide-de-camp", "Warrant Officer"]
-lineage: null
+titles:
+  - Ensign
+  - Aide-de-camp
+  - Warrant Officer
+lineage:
 key_events: []
-locations_associated: ["[[Wright Altiport]]", "[[Hadera]]", "[[Arkaster]]", "[[Svarograd]]", "[[Storvhit]]", "[[Cais Adarra]]"]
-tags: [ordis, aegis, soldier, aide-de-camp, ensign, warrant-officer]
+locations_associated:
+  - "[[Wright Altiport]]"
+  - "[[Hadera]]"
+  - "[[Arkaster]]"
+  - "[[Svarograd]]"
+  - "[[Storhvit]]"
+  - "[[Cais Adarra]]"
+tags:
+  - ordis
+  - aegis
+  - soldier
+  - aide-de-camp
+  - ensign
+  - warrant-officer
 ---
 
 # Sunisa
@@ -57,11 +74,11 @@ Sunisa led troops up the eastern flank of [[Cais Adarra]] through intense blizza
 
 ### 393 AC, February - Assignment to Yzmir Expedition at Storvhit
 
-Sunisa received orders assigning her to [[Afanas Korovinovich]]'s [[Yzmir]] expedition at [[Storvhit]] despite serving as [[Sigismar Synd]]'s aide-de-camp. When questioned about the unusual cross-faction assignment, she responded that it was not her place to question orders. She understood the expedition objective was to pull a device from [[The Aether]] to detect ideas in the region—a Tumult Observatory—though she was not well-versed in magic. During downtime, she maintained camp duties and wrote reports on large parchment.
+Sunisa received orders assigning her to [[Afanas Korovinovich]]'s [[Yzmir]] expedition at [[Storhvit]] despite serving as [[Sigismar Synd]]'s aide-de-camp. When questioned about the unusual cross-faction assignment, she responded that it was not her place to question orders. She understood the expedition objective was to pull a device from [[The Aether]] to detect ideas in the region—a Tumult Observatory—though she was not well-versed in magic. During downtime, she maintained camp duties and wrote reports on large parchment.
 
 ### 393 AC, February - Shared Camp with Bravos Expedition
 
-Running into [[Atsadi]]'s rival [[Bravos]] expedition was accidental, but given harsh weather, both [[Alterers]] agreed to set up shared camp for the night. At the fire, Sunisa spoke with [[Bravos]] scout [[Sunniva Vavcarezza]], noting the similarity of their names. When asked about her background, Sunisa explained her family's geographic origins, her father's technomancer profession, the [[Hadera]] strikes, and her motivation for joining [[Ordis]]. She accepted half an energy bar from [[Sunniva Vavcarezza|Sunniva]] during their conversation.
+Running into [[Atsadi]]'s rival [[Bravos]] expedition was accidental, but given harsh weather, both [[Alterers]] agreed to set up shared camp for the night. At the fire, Sunisa spoke with [[Bravos]] scout [[Sunniva Vaccarezza]], noting the similarity of their names. When asked about her background, Sunisa explained her family's geographic origins, her father's technomancer profession, the [[Hadera]] strikes, and her motivation for joining [[Ordis]]. She accepted half an energy bar from [[Sunniva Vaccarezza|Sunniva]] during their conversation.
 
 ### 393 AC, February - Belisenki Attack at Storvhit
 
@@ -75,7 +92,7 @@ Sunisa watched [[Sigismar Synd]] film a recruitment video with [[Nosk]] operatin
 
 ### 393 AC - Demobilization and Recovery
 
-Sunisa spent one month on involuntary demobilization after injuries from the avalanche and [[Afanas Korovinovich]]'s tornado-like shockwave, handling administrative requests at [[Town Square]] while her leg remained stiff, spending time at [[The Mess]] with [[Sunniva Vavcarezza]] and [[Catalina]]'s group before receiving a certificate of fitness to return to active duty.
+Sunisa spent one month on involuntary demobilization after injuries from the avalanche and [[Afanas Korovinovich]]'s tornado-like shockwave, handling administrative requests at [[Town Square]] while her leg remained stiff, spending time at [[The Mess]] with [[Sunniva Vaccarezza]] and [[Catalina]]'s group before receiving a certificate of fitness to return to active duty.
 
 ## Relationships
 
@@ -87,8 +104,8 @@ Sunisa spent one month on involuntary demobilization after injuries from the ava
 - **[[Osoyo]]**: Fellow recruit assessed for officer potential alongside Sunisa (391 AC)
 - **[[Temera Singh]]**: Admiral whom [[Sigismar Synd]] petitioned to secure Sunisa as aide-de-camp (391 AC)
 - **[[Bayly]]**: Commodore whose transporters were requisitioned (391 AC)
-- **[[Afanas Korovinovich]]**: [[Yzmir]] [[Exalts|Exalt]] whose expedition she was assigned to at [[Storvhit]] (393 AC); his [[Alteration]] shockwave caught her in blast radius
-- **[[Sunniva Vavcarezza]]**: [[Bravos]] scout encountered during shared expedition camp at [[Storvhit]]; noted similarity of their names (393 AC)
+- **[[Afanas Korovinovich]]**: [[Yzmir]] [[Exalts|Exalt]] whose expedition she was assigned to at [[Storhvit]] (393 AC); his [[Alteration]] shockwave caught her in blast radius
+- **[[Sunniva Vaccarezza]]**: [[Bravos]] scout encountered during shared expedition camp at [[Storhvit]]; noted similarity of their names (393 AC)
 - **[[Atsadi]]**: [[Bravos]] [[Exalts|Exalt]] whose expedition shared camp with Sunisa's group (393 AC)
 - **[[Belisenki]]**: Giant moth-like creatures that attacked expedition camp (393 AC)
 - **[[Catalina]]**: [[Lyra]] acquaintance from [[Kasirga Clan]] whom Sunisa spent time with at [[The Mess]] during recovery (393 AC)

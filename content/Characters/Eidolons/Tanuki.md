@@ -16,7 +16,7 @@ titles: []
 lineage:
 key_events: []
 locations_associated:
-  - "[[Storvhit]]"
+  - "[[Storhvit]]"
 tags:
   - eidolon
   - trickster
@@ -56,7 +56,7 @@ During [[Ehuang]]'s aerial ribbons act, [[Auraq]] summoned Tanuki as the villain
 
 ### ~393 AC - Geyser Hot Springs
 
-Tanuki was observed squabbling with a [[Magpengs|Magpeng]] over who would next use the geyser launch pad at the hot springs created by [[Atsadi]] at [[Storvhit]].
+Tanuki was observed squabbling with a [[Magpengs|Magpeng]] over who would next use the geyser launch pad at the hot springs created by [[Atsadi]] at [[Storhvit]].
 
 ## Relationships
 

@@ -2,19 +2,18 @@
 title: Quintessence
 type: concept
 category: magic
-source: L2_anatomy_of_imagination
+source: ["L2_anatomy_of_imagination", "L46_Metaphysics_of_the_Aether"]
 related_concepts:
   - "[[The Aether]]"
   - "[[Mana]]"
   - "[[The Tumult]]"
   - "[[Alteration]]"
-  - "[[Oases]]"
   - "[[The Empyrean]]"
 associated_factions:
   - "[[Muna]]"
 associated_locations: []
-first_mentioned:
-description_summary: The substance of reality onto which Aether imbues itself to make ideas physically incarnate
+first_mentioned: null
+description_summary: "The substance of reality onto which Aether imbues itself to make ideas physically incarnate"
 tags:
   - quintessence
   - cosmology
@@ -28,24 +27,31 @@ aliases:
 
 ## Overview
 
-Quintessence is the substance of reality, complementary to [[The Aether]] which is the substance of [[The Empyrean]]. It is only when Aether imbues itself onto Quintessence that the idea it carries becomes physically incarnate in reality.
+Quintessence is the substance of reality, complementary to [[The Aether]] which is the substance of [[The Empyrean]]. It is only when Aether imbues itself onto Quintessence that the idea it carries becomes physically incarnate in reality. [[Mana]] serves as the binding energy between the two (see [[Mana#Nature]]).
 
 ## Cosmological Role
 
 The relationship between the fundamental substances is:
 
-- **[[The Aether|Aether]]**: The immaterial idea, the concept of a thing (like a plan or a scheme)
+- **[[The Aether|Aether]]**: The immaterial idea, the concept of a thing
 - **Quintessence**: The material substance that allows ideas to become tangible and exist within the world
-- **[[Mana]]**: The energy that binds Aether and Quintessence together in a coherent whole
+- **[[Mana]]**: The energy that binds Aether and Quintessence together
 
 ## Interaction with The Tumult
 
-When [[The Tumult]] blows over the world, Aether is sometimes torn from Quintessence like paint peeled off a canvas. This violent process disperses orphaned ideas into the world while leaving behind a blank canvas that other nomadic ideas can cover. The tearing also leaves behind droplets of bluish-glowing energy: [[Mana]].
+When [[The Tumult]] disrupts reality, Aether is torn from Quintessence, dispersing orphaned ideas into the world and leaving behind residual [[Mana]] (see [[Mana#Nature]]). The stripped Quintessence can then be covered by other drifting ideas. The [[Muna]] work to counteract this process by shaping Mana to ensure that Aether and Quintessence blend durably, creating more resilient and permanent changes to reality (see [[Mana#Faction Use]]).
 
-## Stability and Saturation
+## Philosophical Framework
 
-The more a place is saturated with [[Mana]], the more resistant its Quintessence becomes to the flows of the Tumult. The ideas contained within take root deep in the texture of reality. Ultimately, a place saturated with Mana can become an [[Oases|Oasis]], capable of repelling the Tumult.
+The terminology of Aether, Quintessence, and Empyrean was codified by [[Aurica]] (3–82 AC), who reconciled Plato's Theory of Forms with Aristotle's hylomorphism to define the structure of the world. Her framework remains the foundation of Asgarthan metaphysics. [[Fenn|Ascanios Fenn]] (58–144 AC) critiqued her model, arguing that reality is volatile and shaped by human consensus — that fragmented visions of the world would lead it to ruin. [[Issur]] (140–187 AC) postulated that the world tends toward equilibrium, with the eventual fusion of the Empyrean and reality as its inevitable destiny.
 
-## Muna Philosophy
+## Relationships
 
-The [[Muna]] focus their [[Alteration]] practice on [[Mana]] rather than Aether because they aim for long-term, durable transformations. By shaping Mana, they ensure that Aether and Quintessence intermingle and blend durably, creating more resilient and permanent changes to reality.
+- **[[The Aether]]**: Complementary substance of the Empyrean; imbues itself onto Quintessence
+- **[[Mana]]**: Binding energy between Aether and Quintessence
+- **[[The Tumult]]**: Force that tears Aether from Quintessence
+- **[[The Empyrean]]**: Realm of imagination whose substance is Aether
+- **[[Muna]]**: Faction that works to durably blend Aether and Quintessence
+- **[[Aurica]]**: Philosopher who codified the Aether-Quintessence framework (3–82 AC)
+- **[[Fenn|Ascanios Fenn]]**: Critic of Aurica's model who warned of reality's fragility (58–144 AC)
+- **[[Issur]]**: Philosopher who postulated the world tends toward Empyrean-reality fusion (140–187 AC)

@@ -4,29 +4,32 @@ type: character
 category: perjurer
 source:
   - "heroes_yzmir"
-  - "card_lore"
-  - "T9_Chrysanthemum"
-  - "T8_until_the_latter_fire_shall_heat_the_deep"
-  - "T19_Parasites"
-  - "T30_Murky_Truths"
-  - "T42_the_deep_tumult"
+  - "[[T9_Chrysanthemum]]"
+  - "[[T8_until_the_latter_fire_shall_heat_the_deep]]"
+  - "[[T19_Parasites]]"
+  - "[[T30_Murky_Truths]]"
+  - "[[T42_the_deep_tumult]]"
+  - "[[T47_Bonds]]"
+  - "[[T51_Limbo]]"
 birth_date: null
 death_date: null
 status: active
-fate: "Body-hopping parasite, member of The Perjurers conspiracy"
-species: "parasite (possessing human hosts)"
+fate: "Member of [[The Perjurers]] conspiracy"
+species: perjurer
 became_oneiros: false
 affiliated_faction: "[[Yzmir]]"
 founded_organizations: []
 titles:
   - Battlemage
   - Mentor
+  - The Anathema (Qorgan codename)
 lineage: null
 key_events:
   - Imprisonment of Kuraokami
   - 305 AC Tsunami
   - Creation of Belisenki
   - Cais Adarra Glaciation
+  - "[[Battle of Madan Bay]]"
 locations_associated:
   - "[[Cebir]]"
   - "[[The Kadigir]]"
@@ -36,8 +39,6 @@ tags:
   - yzmir
   - battlemage
   - perjurer
-  - body-hopper
-  - parasite
   - conspiracy
   - kraken
 aliases:
@@ -49,162 +50,101 @@ aliases:
 
 ## Overview
 
-Sylas is a body-hopping parasite and member of [[The Perjurers]], an ancient conspiracy working to destabilize [[Asgartha]]. He currently inhabits a host body known as "Sylas" and previously inhabited a body known as "Qaasin." The "Chrysanthemum Cloaked Warlock" that [[Afanas Korovinovich]] hunts is also Sylas—an identity he assumed to stage Qaasin's death. As Qaasin, he served as [[Yzmir]] Battlemage who rescued and mentored young Afanas, maintaining deception for decades.
+Sylas is a member of [[The Perjurers]], an ancient conspiracy working to destabilize [[Asgartha]]. He has inhabited multiple host bodies across centuries: previously "Qaasin," currently "Sylas." The "Chrysanthemum Cloaked Warlock" that [[Afanas Korovinovich]] hunts is also Sylas—an identity he used to stage Qaasin's death. Sylas prefers hosts with natural permeability to [[The Aether]], aligning with his [[Yzmir]] operations.
 
-## True Nature - The Perjurer
+## Appearance
 
-Sylas is a member of the ancient conspiracy called [[The Perjurers]], body-hopping parasites who possess human hosts across centuries. His previous host body was called "Qaasin" (pre-356 AC). He faked Qaasin's death in 356 AC by using the identity "Chrysanthemum Cloaked Warlock" as an intermediary persona, allowing him to stage his mentor's murder and assume new identity as "Sylas" while continuing operations. Afanas believed his mentor dead and spent decades hunting the warlock who "killed" him.
+Sylas wears an enamel mask that conceals eyes glowing with an unnatural hue. When he removes the mask, his glowing eyes reveal his parasitic nature. Through [[Irises]], he can perceive parasites on other beings—he observed translucent venomous slugs, multicolored leeches, and invasive crustaceans moving on and beneath [[Saskia Averina]]'s skin.
 
-Afanas remained unaware of his mentor's true nature for decades, never suspecting that Qaasin, the Chrysanthemum Cloaked Warlock, and Sylas were all stages in the same entity's existence—a body-hopping parasite manipulating him across his entire life.
+## Background
 
-### Host Preferences
+### The Qaasin Identity
 
-Sylas prefers hosts with natural permeability to [[The Aether]]. This preference aligns with his [[Yzmir]] operations and magical capabilities.
+As Qaasin, Sylas operated as a [[Yzmir]] Battlemage. He rescued young [[Afanas Korovinovich]] after routing the [[Kraken]] that had attacked Afanas's ship near [[Cebir]], retrieving the unconscious boy from icy waters. Afanas's entire family perished in the shipwreck. Beside Afanas's bed, a night bird with shadow-like plumage and a lunar-pale mask remained—a creature Afanas had saved from a steel prison in the waters. The bird, like Afanas, had lost an eye. Afanas named it [[Senka]].
 
-### Workshop and Appearance
+Qaasin mentored Afanas throughout his convalescence, teaching meditations, mantras, and demonstrating [[Yzmir]] Spheres. When conditions at [[Cebir]] proved too dangerous, Qaasin brought his young protégé to [[The Kadigir]]. Though Afanas was already ten—old to begin initiation—he specialized in [[Kinemancy]], becoming a combat mage.
 
-Sylas maintains a workshop containing thaumaturgical tools, forbidden relics, and bound tomes. He wears an enamel mask that conceals eyes glowing with an unnatural hue. In his workshop, he coaxes chrysanthemums into bloom.
+### Faked Death (356 AC)
 
-When he removes his mask, his glowing eyes reveal his parasitic nature. Through [[Irises]], he can see parasites moving on and beneath [[Saskia Averina]]'s opaline skin: translucent venomous slugs, multicolored leeches, and invasive crustaceans.
+Afanas investigated the Chrysanthemum Cloaked Warlock for years until Qaasin warned him the warlock would take measures. After Afanas and [[Senka]] leaped through a vortex to an estuary, Afanas found Qaasin's lifeless body—skin cold and pale. This staged death allowed the parasite to abandon the Qaasin host and assume the Sylas identity. The loss of both family (to [[Kraken]]) and mentor (to the warlock) fueled Afanas's decades-long hunt, not knowing all three identities belonged to the same entity.
 
-## Qaasin Identity - Rescue of Afanas
+### The Perjurers Conspiracy
 
-The old man introduced himself as Qaasin when Afanas regained consciousness. This Yzmir mage had routed the Kraken before retrieving the young aspirant's unconscious body from icy waters.
+Sylas belongs to [[The Perjurers]]. After [[Amahle Kalu]]'s betrayal of the conspiracy, Sylas was tasked with destabilizing the Asgarthan regime. For nearly a century, he worked to undermine stability and prevent outward expansion.
 
-Unfortunately the rest of the crew as well as Afanas's entire family had not survived the shipwreck. Qaasin delivered the devastating news that all others had perished.
+[[Saskia Averina]] considers Sylas "something like an older brother." He watched over her at [[Cebir]] during her early development as a Perjurer, offered her [[Storhvit]] as a testing ground for her schemes, and provided her with [[Chimerae|Chimeras]] for experiments. Sylas created the [[Kraken]] as a puppet for conspiracy purposes, allowing Saskia to carry out experiments unhindered. By 392 AC, the Kraken had "outlived its purpose." Sylas sabotaged the [[Expeditionary Corps]]' assault during the [[Battle of Madan Bay]], destroying a [[Yzmir]] meteor strike to free the Kraken from containment, killing Battle Mages [[Asta]] and [[Elewa]].
 
-Beside the bed, a splendid night bird never left Afanas's bedside. Its plumage seemed made of the very substance of shadows and its head was covered with a mask of lunar pallor. When Afanas asked about it, Qaasin revealed it was a creature Afanas had saved from the waters by freeing it from a steel prison.
+Sylas claimed a female target in [[Yzmir]] domain as his to deal with, warning Saskia to stay away. The target's identity remains unspecified.
 
-Just like Afanas, the bird had lost an eye where the mask had been split. Just like him, it seemed to have been battered by life. Afanas named it Senka and set about caring for it.
+Saskia also referenced an "incident with the Strix" where Sylas had failed to deliver a creature to her, for which he later atoned. Given that [[Senka]] was found imprisoned in a steel coffin aboard the ship the [[Kraken]] destroyed during [[Afanas Korovinovich|Afanas]]'s family voyage to [[Cebir]] (~327 AC), and that Senka spontaneously bonded with Afanas during the shipwreck, the Strix may be [[Senka]] — a delivery that failed because the creature chose its own partner.
 
-## Role as Mentor
+## Chrysanthemum Cloaked Warlock Campaign (~303-393 AC)
 
-Qaasin watched over Afanas throughout his convalescence. He taught meditations and mantras, and demonstrated [[Yzmir]] Spheres to convince Afanas to embrace the path of magical arts.
+### Imprisonment of Kuraokami (~303 AC)
 
-## Bringing Afanas to Kadigir
-
-When time came for the Asgarthans to leave Cebir after realizing conditions were too dangerous to hope to survive there, Qaasin took his young protégé with him to rally the Kadigir.
-
-At ten years old, Afanas was already old to begin initiation. But through perseverance and determination, he caught up and even exceeded the expectations of instructors. Afanas specialized in Kinemancy until he became a relentless combat mage.
-
-## Chrysanthemum Cloaked Warlock Operations (~303-393 AC)
-
-### ~303 AC - Imprisonment of Kuraokami
-
-Sylas as the Chrysanthemum Cloaked Warlock summoned [[Kuraokami]]'s [[Eidolons|Eidolon]] to the base of an already-dead world-tree at [[Cais Adarra]] under the pretense of regenerating the tree. Using "unholy artifice"—possibly lost [[Yzmir]] knowledge buried in [[The Mandates]]—he lured the dragon into the trunk and turned the bark into prison walls.
-
-The method excised [[Kuraokami]] completely from the collective unconscious, similar to how a Mirror trapped an [[Oneiros]], making the dragon's summoning impossible. The technique represented advanced understanding of Eidomantic principles and manipulation of [[The Skein]].
+As the Chrysanthemum Cloaked Warlock, Sylas summoned [[Kuraokami]]'s [[Eidolons|Eidolon]] to [[Cais Adarra]] under the pretense of regenerating an already-dead world-tree. Using "unholy artifice"—possibly lost [[Yzmir]] knowledge buried in [[The Mandates]]—he lured the dragon into the trunk and turned the bark into prison walls. The method excised [[Kuraokami]] completely from the collective unconscious, making the dragon's summoning impossible.
 
 ### Triple-Walled Prison System
 
-The Chrysanthemum Cloaked Warlock constructed a three-layered containment system:
+The warlock constructed a three-layered containment system:
 
 **First Wall (Matter):** [[The Nilam]] itself—dead world-tree transformed into a physical prison with opalescent bark unbreakable from within.
 
-**Second Wall (Climate):** Engineered sudden glaciation using [[Kuraokami]]'s siphoned essence, transforming [[Cais Adarra]] from mild climate to polar wasteland. A pre-glaciation human settlement of several hundred people abandoned the site. As [[Kuraokami]] stated: "Cold did not reside here—I brought it with me." The warlock weaponized the dragon's natural cold manifestation as deterrent.
+**Second Wall (Climate):** Engineered sudden glaciation using [[Kuraokami]]'s siphoned essence, transforming [[Cais Adarra]] from mild climate to polar wasteland. A pre-glaciation settlement of several hundred people abandoned the site. The warlock weaponized the dragon's natural cold manifestation as deterrent.
 
-**Third Wall (Species):** Created and deployed [[Belisenki]] as guardians—giant moth-like species "suited to cold, would do anything to keep outsiders away." The entire ecosystem was deliberately constructed, with the species programmed to defend the mountain from human intrusion.
+**Third Wall (Species):** Created and deployed [[Belisenki]] as guardians—giant moth-like species suited to cold, programmed to defend the mountain from human intrusion.
 
-### 305 AC - Tsunami Weapon
+### 305 AC Tsunami
 
-While [[Kuraokami]] remained imprisoned, the Chrysanthemum Cloaked Warlock continuously siphoned the dragon's essence over years. In 305 AC—only 2 years after imprisonment began—he twisted the accumulated power to forge a "terrible catastrophe."
-
-He created a wave that "swept away everything in its path, surge that devoured mountains," devastating [[Arkaster]] capital. The tsunami killed [[Itzamna ruun-Heeren|Basileus Itzamna ruun-Heeren]], much of the government, and thousands of civilians. [[Aroro Niski]] sacrificed herself defending the capital, her theory about a deliberate attack later validated by [[Kuraokami]]'s testimony (393 AC).
-
-The attack resulted in civilization-threatening disaster, thousands killed including the Basileus and leadership, weaponization of the imprisoned dragon's essence, all within a 2-year timeline from imprisonment to attack.
-
-### Duration and Discovery
-
-Operations spanned approximately 90 years (~303-393 AC):
-- ~303 AC: Imprisoned [[Kuraokami]]
-- 305 AC: Unleashed tsunami weapon
-- 303-393 AC: Maintained triple-walled prison system
-- 393 AC: Prison shattered by [[Exalts]], truth revealed
-
-This 90-year campaign against [[Asgartha]] occurred while Sylas simultaneously operated as [[Yzmir]] Battlemage, maintained [[The Perjurers]] activities, and orchestrated [[Kraken]] puppet operations.
-
-## Faked Death and Identity Change
-
-### 356 AC - Staged Death of Qaasin Identity
-
-Afanas investigated the Chrysanthemum Cloaked Warlock, gathering clues over years. Qaasin warned Afanas that if he continued the hunt, the warlock would take measures.
-
-Afanas and Senka leaped through a vortex traveling a thousand cable lengths to an estuary. No sign of the warlock remained. Afanas found Qaasin's lifeless body sprawled nearby—skin cold and pale.
-
-This staged death allowed the parasite to abandon the Qaasin host body and assume a new identity as Sylas. The deception succeeded—Afanas never suspected his mentor was a body-hopping parasite who continued operations under a different name.
-
-### Impact on Afanas
-
-The staged death of the Qaasin identity intensified Afanas's hunt for the Chrysanthemum Cloaked Warlock. He had lost both family and mentor to the same dark mage (unknowingly the same entity).
-
-A 36-year gap exists between Qaasin's staged death (356 AC) and Afanas's known activities in the Kraken battle (392 AC).
-
-## Perjurer Conspiracy Activities
-
-### The Kraken Operation
-
-Sylas created the [[Kraken]] as a puppet for [[The Perjurers]] conspiracy purposes. The puppet allowed [[Saskia Averina]] to carry out experiments unhindered. By 392 AC, the Kraken had "outlived its purpose."
-
-During Kraken operations, there was an "incident with the Strix" where Sylas failed to deliver something promised to Saskia. He later atoned for this failure.
-
-### Destabilization Mission
-
-After [[Amahle Kalu]]'s betrayal of [[The Perjurers]], Sylas was tasked with destabilizing the Asgarthan regime. For nearly a century, he worked to undermine stability and prevent outward expansion.
-
-By 392 AC, Sylas claimed to be setting a trap for the [[Rediscovery Endeavor]] that would "snap shut" with all attention turned outward. He assured [[Saskia Averina]] to have patience.
-
-### Protected Target
-
-Sylas claimed a female target in [[Yzmir]] domain as his to deal with, warning Saskia to stay away and consider the target off-limits. The target's identity remains unspecified.
+While [[Kuraokami]] remained imprisoned, the warlock continuously siphoned the dragon's essence. In 305 AC, he twisted the accumulated power to create a wave that devastated [[Arkaster]] capital, killing [[Itzamna ruun-Heeren|Basileus Itzamna ruun-Heeren]], much of the government, and thousands of civilians. [[Aroro Niski]] sacrificed herself defending the capital. The prison was maintained for 90 years until [[Exalts]] shattered it in 393 AC.
 
 ## Timeline
 
 ### 392 AC - Meeting with Saskia Averina
 
-[[Saskia Averina]] visited Sylas's workshop, discussing [[The Perjurers]]' plans. Sylas revealed he had not heard from other Perjurers in decades. Saskia indicated the "day of reckoning" was approaching and they would need to infiltrate the Expeditionary Corps.
-
-Sylas confirmed he intended to join the Corps to ensure Asgarthan actions wouldn't undermine conspiracy interests.
+[[Saskia Averina]] visited Sylas to discuss [[The Perjurers]]' plans. Sylas revealed he had not heard from other Perjurers in decades. Saskia indicated the "day of reckoning" was approaching and they would need to infiltrate the Expeditionary Corps. Sylas confirmed he intended to join the Corps to ensure Asgarthan actions would not undermine conspiracy interests.
 
 ### 393 AC - Proposal to Fly Over Tumult Depression
 
-At a meeting in [[Nilam Spires]] observatory led by Satrap [[Zaj Ke Va]], Sylas proposed a solution to the [[Tumult Depression]] blocking the Expeditionary Corps' path southwest. While forecasters argued crossing was impossible due to mutagenic pressure 16 times stronger than any studied Singularity, Sylas suggested flying over the cyclone rather than around or through it.
+At a meeting in [[Nilam Spires]] observatory led by Satrap [[Zaj Ke Va]], Sylas proposed flying over the [[Tumult Depression]] rather than around or through it. He noted the availability of four vessels: two [[Lyra]] Sahankas ([[The Ouroboros]] and [[The Wayfarer]]) and two [[Ordis]] flagships ([[Mesektet]] and [[Mandjet]]). He urged the assembly to advise Admiral [[Temera Singh]] to request reinforcements while [[Avkan ruun-Heshkari|Avkan]] remained in power before elections. The Satrap agreed to study the proposal.
 
-Sylas noted the availability of four vessels: two [[Lyra]] Sahankas ([[The Ouroboros]] and [[The Wayfarer]]) and two [[Ordis]] flagships ([[Mesektet]], recently recovered with minor damage, and [[Mandjet]], with repairs nearly complete). He urged the assembly to advise Admiral [[Temera Singh]] to request reinforcements—troops, supplies, and resources—while [[Avkan ruun-Heshkari|Avkan]] remained in power before elections, warning that "the future is uncertain."
-
-To persuade the Satrap, Sylas argued that flying over the cyclone's eye would provide [[Yzmir]] a "front-row seat to deepen understanding of the Tumult." The Satrap agreed to study the proposal further.
-
-After the meeting, Sylas approached [[Moyo Chibuye]] cryptically, implying with a knowing smile that Moyo would "find out soon enough" what their bond with [[Silk]] meant—hinting at a potential [[The Musubi|Musubi]] ceremony.
+After the meeting, Sylas approached [[Moyo Chibuye]] cryptically, implying Moyo would "find out soon enough" what their bond with [[Silk]] meant—hinting at a potential [[The Musubi|Musubi]] ceremony.
 
 ### 393 AC - Observing Sap-Enhanced Sigil Session
 
-Sylas observed a [[Gephyromancy]] Sigil engraver at [[Nilam Spires]] experimenting with [[Sap]] in the tattooing process. He watched the engraver create emulsions from oil, pigments, and ideas from [[The Empyrean]], incorporate Sap which turned the liquid purple, and apply permanent Sigils to his own flesh that glowed blue phosphorescent and grafted onto his being unlike traditional fading Sigils. Sylas sensed the process as unnatural and dangerous.
+Sylas observed a [[Gephyromancy]] Sigil engraver at [[Nilam Spires]] experimenting with [[Sap]] in the tattooing process, applying permanent Sigils that glowed blue phosphorescent and grafted onto his being unlike traditional fading Sigils. Sylas assessed the process as unnatural and dangerous.
+
+### 393 AC - Sap Concerns Meeting with Saskia
+
+[[Saskia Averina]] summoned Sylas to discuss her [[Sap]] safety research. Examining blood samples through his glowing [[Irises]], Sylas perceived the same concerning effects Saskia had discovered—a "snag" in [[The Perjurers]]' plans. He declared they would need to "cut out the weed before it spreads."
+
+### 393 AC - Confronting Maw
+
+Sylas confronted [[Maw]] (inhabiting [[Lindiwe]]) to propose an alliance against [[Wanjiru]]'s followers in [[The Qorgan]], revealing he knew Maw was researching the [[The Spheres|Sixth Sphere]]—a banished power capable of triggering a second [[The Confluence|Confluence]]. Sylas disclosed knowledge of Maw's true nature as a "Worm" in "larval state" that feeds on hosts before shedding to colonize new ones. When Maw defensively manifested [[Shiva]]'s destructive third eye through Lindiwe, Sylas armored himself in protective shields. Maw rejected immediate alliance, retreating behind mental barriers.
 
 ## Relationships
 
-- **[[Afanas Korovinovich]]**: Young boy rescued after Kraken attack as Qaasin, mentored and brought to Kadigir, remained unaware of true nature for decades
-- **[[Amahle Kalu]]**: Betrayed The Perjurers, after which Sylas tasked with destabilizing Asgarthan regime
-- **[[Aroro Niski]]**: Defender of Arkaster who sacrificed herself during the 305 AC tsunami Sylas created
+- **[[Afanas Korovinovich]]**: Rescued as child, mentored as Qaasin, manipulated for decades; hunts Sylas as "Chrysanthemum Cloaked Warlock" unaware of true identity
+- **[[Amahle Kalu]]**: Betrayed The Perjurers; her defection led to Sylas's destabilization mission
+- **[[Aroro Niski]]**: Defender of Arkaster who sacrificed herself during Sylas's 305 AC tsunami
 - **[[Belisenki]]**: Guardian species Sylas created as third wall of Kuraokami's prison
-- **[[Cais Adarra]]**: Location of Kuraokami's imprisonment
-- **[[Cebir]]**: Abandoned region where rescue of Afanas occurred
-- **[[Gephyromancy]]**: [[Yzmir]] Sphere whose Sap-enhanced Sigil experiments Sylas observed (393 AC)
-- **[[Itzamna ruun-Heeren]]**: Basileus killed in the 305 AC tsunami Sylas orchestrated
+- **[[Itzamna ruun-Heeren]]**: Basileus killed in Sylas's 305 AC tsunami
+- **[[Kali]]**: Goddess [[Eidolons|Eidolon]] bound to Sylas by psychic chains, wielding knives with red spectral light
 - **[[Kelsang]]**: Fellow Perjurer expected to remain at Monolith
-- **[[Kinemancy]]**: Sphere Afanas specialized in following Qaasin's teachings
-- **[[Korovin]]**: Afanas's father killed in Kraken attack that led to rescue
-- **[[Kraken]]**: Leviathan Qaasin routed to save Afanas, later created as puppet for Perjurer conspiracy
-- **[[Kuraokami]]**: Dragon Eidolon imprisoned by Sylas (~303 AC), whose essence powered the 305 AC tsunami
-- **[[Moyo Chibuye]]**: [[Yzmir]] Initiate whom Sylas cryptically approached after meeting (393 AC)
-- **[[Nilam Spires]]**: Observatory where Sylas presented proposal (393 AC)
-- **[[Rediscovery Endeavor]]**: Target of conspiracy's trap, Sylas planning to join Expeditionary Corps
-- **[[Sap]]**: Substance used in Sigil experiments Sylas observed, which he sensed as unnatural and dangerous (393 AC)
-- **[[Saskia Averina]]**: Fellow Perjurer called "Eugenist," conducted experiments aided by Kraken puppet, visited workshop (392 AC)
-- **[[Senka]]**: Night bird Afanas saved from steel prison, observed by Qaasin during convalescence
+- **[[Korovin]]**: Afanas's father, killed in Kraken attack
+- **[[Kraken]]**: Created by Sylas as puppet for Perjurer conspiracy; routed by Qaasin to rescue Afanas
+- **[[Kuraokami]]**: Dragon Eidolon imprisoned by Sylas (~303 AC), essence used for 305 AC tsunami
+- **[[Lindiwe]]**: [[Yzmir]] Initiate possessed by [[Maw]] whom Sylas confronted (393 AC)
+- **[[Maw]]**: Parasitic entity Sylas proposed alliance with against [[The Qorgan]] (393 AC)
+- **[[Moyo Chibuye]]**: [[Yzmir]] Initiate whom Sylas cryptically approached regarding [[Silk]] bond (393 AC)
+- **[[Saskia Averina]]**: Fellow Perjurer; mentored at [[Cebir]]; conducted experiments aided by Kraken puppet
+- **[[Senka]]**: Night bird Afanas saved; observed by Qaasin during convalescence
+- **[[Shiva]]**: Multi-armed [[Eidolons|Eidolon]] Maw manifested defensively during confrontation (393 AC)
 - **[[Silk]]**: Chimera larva whose bond with Moyo Sylas alluded to (393 AC)
-- **[[The Kadigir]]**: Yzmir Bastion where Qaasin brought Afanas for training
-- **[[The Mandates]]**: Source of forbidden knowledge Sylas may have used
+- **[[Temera Singh]]**: Admiral whom Sylas urged assembly to advise regarding reinforcements (393 AC)
 - **[[The Nilam]]**: Dead world-tree serving as first wall of Kuraokami's prison
-- **[[The Perjurers]]**: Ancient conspiracy of body-hopping parasites Sylas belongs to
-- **[[The Skein]]**: Collective unconscious Sylas manipulated to imprison Kuraokami
-- **[[Tumult Depression]]**: Obstacle Sylas proposed flying over (393 AC)
-- **[[Zaj Ke Va]]**: Satrap who agreed to study Sylas's proposal to fly over Tumult (393 AC)
+- **[[The Perjurers]]**: Ancient conspiracy Sylas belongs to
+- **[[The Qorgan]]**: [[Wanjiru]]'s organization; Sylas proposed alliance with [[Maw]] against them
+- **[[The Spheres|Sixth Sphere]]**: Banished power Sylas revealed some still possess
+- **[[Wanjiru]]**: [[Eidolons|Eidolon]] whose followers in [[The Qorgan]] oppose both Sylas and [[Maw]]
+- **[[Zaj Ke Va]]**: Satrap who agreed to study Sylas's Tumult crossing proposal (393 AC)

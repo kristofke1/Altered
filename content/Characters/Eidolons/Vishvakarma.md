@@ -3,20 +3,27 @@ title: Vishvakarma
 type: character
 category: eidolon
 source: card_lore
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: eidolon
-fate: null
+fate:
 species: eidolon
 became_oneiros: true
 affiliated_faction: "[[Axiom]]"
 founded_organizations: []
 titles: []
-lineage: null
+lineage:
 key_events: []
-locations_associated: ["[[Storvhit]]"]
-tags: [eidolon, axiom, repair, vehicle, craftsman, hindu]
+locations_associated:
+  - "[[Storhvit]]"
+tags:
+  - eidolon
+  - axiom
+  - repair
+  - vehicle
+  - craftsman
+  - hindu
 aliases: []
 ---
 
@@ -42,16 +49,16 @@ Vishvakarma can fashion additional equipment for vehicles, such as front-mounted
 
 ### 393 AC - Reprocessor Repair at Storvhit
 
-[[Sierra]] summoned Vishvakarma at [[Storvhit]] to repair a damaged Reprocessor armored vehicle after ice stalactites and scree fell upon it while passing under an icy ledge, with the deity sitting cross-legged as his tools appeared and he scanned assembly plans before working in a shower of sparks.
+[[Sierra]] summoned Vishvakarma at [[Storhvit]] to repair a damaged Reprocessor armored vehicle after ice stalactites and scree fell upon it while passing under an icy ledge, with the deity sitting cross-legged as his tools appeared and he scanned assembly plans before working in a shower of sparks.
 
 ### 393 AC - Snowplow Fabrication
 
-Vishvakarma fashioned a front snowplow for the Reprocessor to help the armored vehicle navigate [[Storvhit]]'s snowy slopes.
+Vishvakarma fashioned a front snowplow for the Reprocessor to help the armored vehicle navigate [[Storhvit]]'s snowy slopes.
 
 ## Relationships
 
 - **[[Sierra]]**: [[Axiom]] Exalt who summons Vishvakarma for vehicle repairs
 - **[[Axiom]]**: Faction associated with Vishvakarma's mechanical expertise
-- **[[Storvhit]]**: Arctic location where Vishvakarma performed field repairs (393 AC)
+- **[[Storhvit]]**: Arctic location where Vishvakarma performed field repairs (393 AC)
 - **[[The Foundry]]**: Axiom facility where vehicle repair expertise is valued
 - **[[Kelon]]**: Energy source used to power Vishvakarma's manifestation

@@ -2,160 +2,131 @@
 title: Cais Adarra
 type: location
 category: mountain
-source: ["L19_The_Storvhit", "[[L21_Belisenki]]", "[[L22_Kuraokami]]", "[[L28_Letter_to_Efren]]", "[[T36_Escherian]]"]
+source:
+  - "[[L19_The_Storvhit]]"
+  - "[[L21_Belisenki]]"
+  - "[[L22_Kuraokami]]"
+  - "[[L26_The_Nilam]]"
+  - "[[L28_Letter_to_Efren]]"
+  - "[[L30_Clear_Skies]]"
+  - "[[T29_White_Out]]"
+  - "[[T30_Murky_Truths]]"
+  - "[[T36_Escherian]]"
 parent_location: "[[Storhvit]]"
 sub_locations:
   - "[[Frozen Lake]]"
   - "[[Spur]]"
-population: null
-area: null
-founded: null
+population:
+area:
+founded:
 status: active
-controlling_faction: null
-present_factions: []
-government_type: null
+controlling_faction: "[[Ordis]]"
+present_factions:
+  - "[[Ordis]]"
+  - "[[Yzmir]]"
+  - "[[Muna]]"
+government_type:
 notable_features:
-  - "Split from base to summit"
-  - "Unceasing blue glow from rift"
-  - "Largest Kelon deposit discovered to date"
-  - "Circular glacier encircling mountain"
-  - "Oasis or pocket of stability"
-  - "Tumult winds repelled by rocky peak"
-  - "Jagged snow-covered buttresses"
-  - "Always visible when skies clear"
-  - "Defended by Belisenki colony"
-  - "Suspected main Belisenki colony location deep within mountain"
-  - "Pre-glaciation mild climate (~100 years ago)"
-  - "Sudden glaciation transformation"
-  - "Archaeological site with pre-Confluence human settlement"
-climate: Harsh cold
+  - Split from base to summit with blue-glowing rift
+  - Circular glacier encircling mountain
+  - Tumult winds repelled by rocky peak
+  - Always visible across Storvhit when skies clear
+  - Contains The Nilam dead world-tree
+  - Site of Kuraokami's ~90-year imprisonment
+  - Pre-glaciation human settlement (post-Confluence)
+climate: Harsh cold (engineered glaciation)
 characters: []
 tags:
   - mountain
   - oasis
-  - kelon-deposit
-  - storhvit
+  - storvhit
   - geographic-feature
   - stability-zone
+  - caer-nilam
 ---
 
 # Cais Adarra
 
 ## Overview
 
-Cais Adarra is a mountain in the [[Storhvit]] region named by the [[Rediscovery Endeavor]] exploration forces. The mountain towers majestically over the entire region and is split from base to summit with an unceasing blue glow emanating from the rift. It is likely an [[Oases|Oasis]] or pocket of stability that repels [[The Tumult|Tumult]] winds.
+Cais Adarra is a mountain in the [[Storhvit]] region, named by [[Rediscovery Endeavor]] exploration forces. It functions as an [[Oases|Oasis]] and contains [[The Nilam]], a dead world-tree within which the [[Oneiros]] [[Kuraokami]] was imprisoned for approximately 90 years by the [[Sylas|Chrysanthemum Cloaked Warlock]].
 
-## Physical Description
+## Geography
 
-Cais Adarra towers majestically over the entire [[Storhvit]] region. It is always visible no matter where one is in the region, as long as the skies are clear. The mountain's jagged, snow-covered buttresses reach skyward like thorns piercing the heavens.
+Cais Adarra dominates the [[Storhvit]] region and is visible from anywhere within it when skies are clear. The mountain has jagged, snow-covered buttresses and appears split from base to summit, with an unceasing blue glow from the rift illuminating the surrounding landscape day and night. A circular glacier encircles the mountain with sharp demarcation from surrounding zones, and meteorologists observed that [[The Tumult|Tumult]] winds are repelled by the rocky peak, confirming its status as an [[Oases|Oasis]].
 
-The mountain appears split from base to summit, as if a colossal axe had cleaved it in two. From this rift, an unceasing blue glow illuminates the surrounding landscape day and night.
+The [[Frozen Lake]] is a sprawling circular ice sheet centered on Cais Adarra, and the [[Spur]] is a steep jagged slope with sharp rock formations and sheer cliffs forming the final approach to the summit. Within the mountain, [[The Nilam]]'s trunk reaches skyward in the shadows of the fractured peak with branches and roots piercing surrounding rock.
+
+The [[Prospector Guild|Prospectors' Guild]] initially assessed the blue glow as indicating the largest [[Kelon]] deposit discovered to date. This proved unfounded; the mountain harbors [[The Nilam]] rather than kelonic veins.
 
 ## Oasis Properties
 
-Meteorologists have observed that [[The Tumult|Tumult]] winds are repelled by the rocky peak, suggesting the mountain is likely an [[Oases|Oasis]] or at least a pocket of stability. The circular glacier encircling Cais Adarra provides another clue pointing to an [[Oases|Oasis]] centered on the idea of cold. The surrounding zones are affected by the mountain's geographical proximity, but the sharp demarcation leaves little doubt about its status as a stability zone.
+The mountain emanates a strong idea of cold, ice, and winter that mitigates the mutagenic effects of [[The Tumult]] across the [[Storhvit]] region, and the [[Rediscovery Endeavor|Expeditionary Corps]] designated it as primary strategic objective for this reason. This stabilizing influence was revealed after [[Kuraokami]]'s liberation to have been entirely artificial, generated by the imprisoned dragon's presence rather than by any natural property of the mountain itself.
 
-## Kelon Deposit
+## Pre-Glaciation History
 
-According to the [[Prospectors' Guild]], the blue glow from the mountain's rift might indicate the presence of the largest [[Kelon]] deposit discovered to date.
+Soil analysis conducted by [[Sierra]] in 393 AC revealed that Cais Adarra and the wider [[Storhvit]] enjoyed a much milder climate barely a century earlier, comparable to the [[Tilted Steppes]] of [[Caer Oorun]]. The transformation from mild to polar conditions occurred within a few decades. Geological study confirmed the shift was sudden, and [[Kuraokami]] later confirmed the glaciation was deliberately engineered by the [[Sylas|Chrysanthemum Cloaked Warlock]].
 
-## Stabilizing Influence
+Excavations around [[The Nilam]] revealed a pre-glaciation human settlement including rusted tools, troglodyte dwellings, fabric remnants, and pottery fragments. The colony housed an estimated several hundred people with technological capabilities surpassing the [[Axiom]] Industrial Revolution by hundreds of years. Dated at least two hundred years prior to 393 AC, the settlement postdates [[The Confluence]], providing proof that other human communities survived within [[The Tumult]] after the founding of [[Asgartha]]. The colony was abandoned before the onset of glaciation.
 
-The mountain emanates a strong idea of cold, ice, and winter that mitigates the mutagenic effects of [[The Tumult]] in the [[Storhvit]] region. This persistence of concept creates relative stability for [[Rediscovery Endeavor|Expeditionary Corps]] forces.
+A fresco discovered within the [[City of Scholars]] depicts Cais Adarra before glaciation: a great tree covered in leaves nestled between twin peaks, with roots connecting to a multi-tiered city below. [[Arjun]] identified the substance found in [[City of Scholars]] cisterns as [[Sap]] from this world-tree, theorizing the city's inhabitants channeled the tree's sap until it died.
 
-## Strategic Importance
+## Kuraokami's Imprisonment
 
-The goal of [[Rediscovery Endeavor|Expeditionary Corps]] forces is to reach Cais Adarra as quickly as possible. Though the cold there may be even harsher than in lower regions, the peak will provide a secure haven against [[The Tumult|Tumult]] singularities plaguing the lower areas.
+Around 303 AC, the [[Sylas|Chrysanthemum Cloaked Warlock]] summoned [[Kuraokami]]'s [[Eidolons|Eidolon]] to the already-dead [[The Nilam|Nilam]] under pretense of regenerating the tree, then trapped the dragon within the trunk using a method that excised it completely from the collective unconscious. The CCW constructed a triple-walled prison: [[The Nilam]]'s fossilized bark as a physical barrier, engineered glaciation using the dragon's siphoned essence to deter approach, and the [[Belisenki]] species created as guardians of the site. In 305 AC, the CCW weaponized [[Kuraokami]]'s accumulated essence to create the tsunami that devastated [[Arkaster]].
 
-## Belisenki Defense (393 AC)
+[[Fen]] first established communication with the imprisoned entity using Wind affinity, learning that a human was responsible for its confinement. [[Temera Singh]] documented the strategic dilemma: [[The Concord]] required aiding imprisoned [[Oneiros]], but freeing [[Kuraokami]] risked destroying the Oasis and harming species that had settled in the biome.
 
-### Territorial Protection
+In May 393 AC, multiple [[Exalts]] launched a synchronized assault on [[The Nilam]], with [[Sigismar Synd]]'s kelonic spear strike shattering the trunk. [[Kuraokami]] emerged and departed, after which [[Afanas Korovinovich]] summoned the dragon as [[Eidolons|Eidolon]] and received confirmation of the imprisonment details and triple-walled prison system.
 
-By February 393 AC, [[Belisenki]] (also called "White Shadows") actively defended Cais Adarra from [[Rediscovery Endeavor]] approach. [[Muna]] attempted negotiation using [[The Skein]], but every diplomatic effort ended in failure. [[Belisenki]] appear to be protecting the mountain, preventing anyone from approaching.
+## Post-Liberation
 
-### Aggression Gradient
+Following [[Kuraokami]]'s liberation, [[Storhvit]] temperatures rose and glaciers began melting, confirming the climate had been entirely artificial. [[Jack Frost]] was selected as replacement patronage to sustain the arctic conditions necessary for [[Winter Folk]] and [[Belisenki]] survival. [[The Asterion]] designated the region as [[Caer Nilam]] Province, with [[Temera Singh]] granting temporary governance to [[Ordis]] supported by [[Yzmir]]. [[Muna]] established the Tenth Refuge (Refuge of Snow) for diplomatic engagement with indigenous populations.
 
-[[Belisenki]] relatively scarce in tundra and taiga regions, but closer [[Rediscovery Endeavor|Expeditionary Corps]] forces approached Cais Adarra, more aggressive and dangerous creatures became. This geographic distribution pattern suggests mountain serves as territorial center for [[Belisenki]] population.
+## Belisenki Conflict
 
-### Suspected Colony Location
+By February 393 AC, [[Belisenki]] actively defended Cais Adarra from [[Rediscovery Endeavor]] approach. The species was relatively scarce in lower regions but grew increasingly aggressive closer to the mountain, with the main colony theorized to lie deep within Cais Adarra itself. Attacks escalated from sporadic ambushes on hunting parties to daily clashes by late February, employing coordinated tactics including convoy ambushes, vehicle sabotage, and white camouflage against snowy terrain.
 
-[[Axiom]] zoologists and expedition leadership theorized [[Belisenki]] main colony lies deep within Cais Adarra mountain itself. If theories correct, eusocial species divided into castes with some individuals focusing on food gathering while others care for eggs.
+[[Muna]] diplomatic efforts through [[The Skein]] failed, and [[Ordis]] considered but declined using [[Coalescence]] to link minds with [[Belisenki]]. With [[Yzmir]] augurs sensing an approaching [[The Tumult|Tumult]] wave, the [[Rediscovery Endeavor|Expeditionary Corps]] pressed forward despite opposition. The conflict was ultimately resolved through the [[Mana Moths]] chrysalis deterrent mechanism: consumption of chrysalides caused [[Belisenki]] to cease perceiving humans as intruders.
 
-### Guerrilla Warfare Campaign
+## Timeline
 
-[[Belisenki]] employed coordinated defensive tactics against approaching forces:
-- Ambushes on convoys and hunting parties
-- Sabotage of vehicles and installations
-- Persistent harassment campaigns
-- Expert use of white camouflage against snowy cliffs and trees
+### January 15, 393 AC — Expeditionary Corps Arrival
+[[Temera Singh]] documented Cais Adarra in initial log as the [[Rediscovery Endeavor|Expeditionary Corps]] deployed to [[Storhvit]], identifying the mountain as primary strategic objective and potential [[Oases|Oasis]].
 
-First recorded attack occurred when hunting party ventured into tundra in search of game. [[Belisenki]] appeared without warning, forcing trappers to retreat and abandon supplies and equipment. Since initial encounter, incidents increased with growing damage to expedition operations.
+### February 393 AC — Belisenki Conflict Escalation
+[[Belisenki]] attacks on approaching forces escalated from sporadic ambushes to daily clashes, with [[Muna]] diplomatic efforts through [[The Skein]] unsuccessful. [[Temera Singh]] documented the dilemma of pressing forward despite opposition due to approaching [[The Tumult|Tumult]] wave.
 
-By late February 393 AC, what were sporadic skirmishes escalated into daily clashes. Already harsh environment compounded by constant fear of attack.
+### 393 AC — Fen Communicates with Kuraokami
+[[Fen]] conversed with imprisoned entity using Wind affinity, learning [[Kuraokami]]'s identity as primordial dragon [[Oneiros]] and that a human was responsible for its confinement.
 
-### Strategic Dilemma
+### 393 AC — Archaeological Discoveries
+[[Sierra]] conducted soil analysis revealing pre-glaciation mild climate and excavated pre-[[The Confluence|Confluence]] human settlement around [[The Nilam]] with advanced technology.
 
-[[Yzmir]] augurs sensed coming of powerful wave of [[The Tumult]]. [[Rediscovery Endeavor|Expeditionary Corps]] forces must find shelter, have no choice but to press forward and attempt to reach safety of Oasis at Cais Adarra despite [[Belisenki]] opposition.
+### April 2, 393 AC — The Nilam Discovery
+[[Temera Singh]] documented that Cais Adarra contains [[The Nilam]], a colossal dead world-tree rather than [[Kelon]] deposits. [[Muna]] proposed establishing Tenth Refuge; [[The Asterion]] claimed region as [[Caer Nilam]] Province.
 
-[[Temera Singh]], Grand Admiral, noted in February 21, 393 AC logbook: "Under different circumstances, we might turn back and leave them in peace, but the Yzmir augurs sense the coming of a powerful wave of Tumult. We must find shelter and have no choice but to press forward and attempt to reach the safety of the Oasis. If only we could make them understand that we mean no harm."
+### May 393 AC — Kuraokami Liberation
+[[Exalts]] shattered [[The Nilam]] in synchronized assault, freeing [[Kuraokami]]. [[Afanas Korovinovich]] summoned dragon afterward, receiving confirmation of [[Sylas|Chrysanthemum Cloaked Warlock]]'s triple-walled prison and 305 AC tsunami weapon.
 
-### Failed Communication Attempts
-
-[[Muna]] diplomatic efforts through [[The Skein]] unsuccessful. [[Ordis]] debated whether by calling upon [[Coalescence]] they could link minds to [[Belisenki]] and establish communication or understanding. However, [[Ordis]] hierarchy reluctant to welcome alien psyche into [[The Gestalt]] - understandable and prudent hesitation according to expedition leadership.
-
-## Climate History and Archaeological Discoveries - 393 AC
-
-### Pre-Glaciation Climate
-
-Extensive soil analysis conducted by [[Sierra]] in 393 AC showed Cais Adarra and by extension entire [[Altered/Locations/Geographic Features/Storvhit]] enjoyed much milder climate barely century ago. Climate was similar to current weather conditions in [[Tilted Steppes]] of [[Caer Oorun]], suggesting once-lush temperate environment before sudden transformation to polar conditions.
-
-### Sudden Glaciation Event
-
-Transformation from mild to polar climate occurred rapidly—only few decades required for once-lush land to become arctic. Deeper study of sediments and geological formations suggests shift was sudden rather than gradual. Analysis indicates [[Alteration]] may have been used to shape arctic landscapes, possibly intentionally transforming region into perpetually frozen expanse.
-
-### Archaeological Evidence
-
-Excavations around [[The Nilam]] world-tree revealed signs of human settlement from before glaciation including rusted tools, troglodyte dwellings, fabric remnants, and pottery fragments. Evidence indicates human society once established in shadow of world-tree with colony estimated to have housed several hundred people.
-
-Settlement dated at least two hundred years prior to 393 AC, meaning presence postdates [[The Confluence]]. Provides proof that other human communities survived within [[The Tumult]] well after founding of [[Asgartha]]. Colony appeared abandoned before onset of glacial era despite advanced technological capabilities surpassing [[Axiom]] Industrial Revolution by hundreds of years.
-
-Questions remain whether inhabitants were descendants of [[The Lost Tribe]] or other [[Tumult Nomads]], and whether descendants still wander world after forced migration.
-
-## Kuraokami Imprisonment - March 393 AC
-
-[[Kuraokami]], primordial dragon [[Oneiros]] embodying concepts of rain and snow, imprisoned at heart of Cais Adarra mountain. Entity unable to manifest as [[Eidolons|Eidolon]] within reality for unknown reasons. [[Fen]] successfully conversed with [[Kuraokami]] using Wind affinity, learning it claims human responsible for confinement seeking to harness its power. Kuraokami's continued presence transformed [[Altered/Locations/Geographic Features/Storvhit]] region into perpetually frozen expanse, creating somewhat stable [[Oases|Oasis]]. [[Belisenki]] serve as de facto jailers, benefiting from imprisonment to thrive within biome that dragon unwillingly helped create. [[Temera Singh]] documented strategic dilemma: freeing [[Kuraokami]] would likely destroy Oasis and harm settled species, but preventing [[Oneiros]] manifestation constitutes slow death.
-
-## Geographic Features
-
-### Circular Glacier
-
-A circular glacier encircles Cais Adarra, providing evidence of the mountain's role as an [[Oases|Oasis]] centered on the idea of cold.
-
-### The Frozen Lake
-
-The [[Frozen Lake]] is a sprawling circular ice sheet centered on Cais Adarra, constantly creaking and groaning as ice plates shift and collide beneath the surface.
-
-### The Spur
-
-The [[Spur]] is the final challenge before reaching the summit, a steep jagged slope with sharp rock formations and sheer cliffs.
-
-## Depiction in City of Scholars
-
-A fresco discovered deep within the [[City of Scholars]] depicts Cais Adarra as it existed before glaciation. The artwork shows a great tree covered in leaves, nestled between the twin peaks, with roots connecting to a multi-tiered city below the mountain. This visual record suggests the [[City of Scholars]]' inhabitants knew of or had contact with the Cais Adarra region when it supported the world-tree.
+### May 15, 393 AC — Caer Nilam Governance
+[[Temera Singh]] granted temporary governance to [[Ordis]] supported by [[Yzmir]], selected [[Jack Frost]] as replacement patronage following climate destabilization from [[Kuraokami]]'s departure.
 
 ## Relationships
 
-- **[[City of Scholars]]**: Ancient city whose frescos depict Cais Adarra and its world-tree
-- **[[Storhvit]]**: Parent region containing Cais Adarra
-- **[[Frozen Lake]]**: Circular formation centered on the mountain
-- **[[Spur]]**: Slope leading to summit
-- **[[Prospectors' Guild]]**: Identified potential Kelon deposit
-- **[[Rediscovery Endeavor]]**: Organization seeking to reach the mountain
-- **[[Temera Singh]]**: Grand Admiral who documented mountain in January 15, 393 AC log and February 21, 393 AC logbook entry on Belisenki defense
-- **[[Belisenki]]**: Eusocial moth-like species defending mountain from human approach (393 AC), suspected main colony deep within mountain
-- **[[Kuraokami]]**: Imprisoned [[Oneiros]] at heart of mountain, unable to manifest as [[Eidolons|Eidolon]] (393 AC)
-- **[[Fen]]**: [[Lyra]] [[Alterers|Alterer]] who conversed with [[Kuraokami]] using Wind affinity (393 AC)- **[[The Nilam]]**: Dead world-tree at heart of mountain, site of pre-glaciation human settlement
+- **[[Afanas Korovinovich]]**: [[Yzmir]] [[Exalts|Exalt]] who summoned [[Kuraokami]] after liberation and received imprisonment details (May 393 AC)
+- **[[Arjun]]**: [[Muna]] [[Exalts|Exalt]] who identified [[City of Scholars]] fresco depicting Cais Adarra and theorized [[Sap]] origin (393 AC)
+- **[[Belisenki]]**: Eusocial species created by CCW as prison guardians, defended mountain from human approach (393 AC)
+- **[[City of Scholars]]**: Ancient city whose fresco depicts Cais Adarra's world-tree before glaciation
+- **[[Fen]]**: [[Lyra]] [[Alterers|Alterer]] who communicated with imprisoned [[Kuraokami]] using Wind affinity (393 AC)
+- **[[Frozen Lake]]**: Circular ice sheet formation centered on the mountain
+- **[[Jack Frost]]**: [[Oneiros]] selected as replacement patronage to maintain arctic climate after [[Kuraokami]]'s departure (393 AC)
+- **[[Kuraokami]]**: Dragon [[Oneiros]] imprisoned within [[The Nilam]] for ~90 years (~303–393 AC)
+- **[[Rediscovery Endeavor]]**: Organization whose [[Expeditionary Corps]] reached and explored the mountain (393 AC)
 - **[[Sierra]]**: [[Axiom]] engineer who conducted soil analysis and archaeological excavations (393 AC)
-- **[[Tilted Steppes]]**: Region with climate similar to Cais Adarra's pre-glaciation conditions
-- **[[Caer Oorun]]**: Location of [[Tilted Steppes]] used for climate comparison
-- **Pre-glaciation colony**: Ancient human settlement of several hundred people with advanced technology
+- **[[Sigismar Synd]]**: [[Ordis]] [[Exalts|Exalt]] who delivered final strike shattering [[The Nilam]] (May 393 AC)
+- **[[Spur]]**: Steep slope forming final approach to summit
+- **[[Storhvit]]**: Parent region containing Cais Adarra
+- **[[Sylas|Chrysanthemum Cloaked Warlock]]**: Imprisoned [[Kuraokami]], engineered glaciation, created [[Belisenki]] as prison guardians (~303 AC)
+- **[[Temera Singh]]**: Grand Admiral who documented mountain, Belisenki conflict, Nilam discovery, and governance decisions (393 AC)
+- **[[The Nilam]]**: Dead world-tree within mountain, served as [[Kuraokami]]'s prison

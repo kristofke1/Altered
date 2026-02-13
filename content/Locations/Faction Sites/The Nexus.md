@@ -31,6 +31,10 @@ tags:
 
 The Nexus is a sphere of concentrated [[Kelon]] that serves as the energy core of [[The Athanor]]. It floats in the air at the center of the facility, powering all the equipment.
 
+## Description
+
+The Nexus pulses with energy, a concentrated sphere of [[Kelon]] suspended in mid-air. This impressive feat of [[Axiom]] engineering provides power to the entire [[The Athanor]] complex.
+
 ## Function
 
 The Nexus serves as:

@@ -58,7 +58,7 @@ The proclamation followed twenty-four years of preparation for the [[Rediscovery
 The [[Expeditionary Corps]] was formed with the following objectives:
 - Venture beyond the Known World
 - Find other [[Oases]]
-- Locate other [[Oneiroi]]
+- Locate other [[The Oneiroi|Oneiros]]
 - Potentially discover other human survivors
 - Possibly find the source of [[The Tumult]] to end it
 
@@ -73,12 +73,12 @@ The [[Expeditionary Corps]] was formed with the following objectives:
 
 ### 393 AC
 
-- **January**: Expeditionary Corps reaches [[Storvhit]]; [[Belisenki]] attacks begin
+- **January**: Expeditionary Corps reaches [[Storhvit]]; [[Belisenki]] attacks begin
 - **February**: Exploration of Storvhit and [[Cais Adarra]] mountain range
 - **March**: Tumult hurricane threatens forces; discovery of [[Mana Moths]]
 - **April**: Discovery of [[The Nilam]], a dead world-tree imprisoning [[Kuraokami]]
 - **May**: [[Kuraokami]] freed; Storvhit renamed [[Caer Nilam]]; [[City of Scholars]] located
 
-## Significance
+## Legacy
 
 The Age of Rediscovery represents a turning point for humanity—the transition from survival within protected borders to active exploration and expansion. The era marks renewed hope for understanding and potentially ending [[The Tumult]].

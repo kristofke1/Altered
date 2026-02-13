@@ -3,19 +3,29 @@ title: Ice Shrimp
 type: concept
 category: fauna
 source: "[[T22_Winter_Folk]]"
-related_concepts: ["[[Winter Folk]]", "[[Aerolithe]]"]
+related_concepts:
+  - "[[Winter Folk]]"
+  - "[[Aerolithe]]"
 associated_factions: []
-associated_locations: ["[[Storvhit]]"]
-first_mentioned: "393 AC"
-description_summary: "Amphibious shrimp species with Aerolithe veins enabling flight and swimming capabilities"
-tags: [fauna, arctic, aerolithe, hybrid, storvhit, winter-folk, flying-creature]
+associated_locations:
+  - "[[Storhvit]]"
+first_mentioned: 393 AC
+description_summary: Amphibious shrimp species with Aerolithe veins enabling flight and swimming capabilities
+tags:
+  - fauna
+  - arctic
+  - aerolithe
+  - hybrid
+  - storvhit
+  - winter-folk
+  - flying-creature
 ---
 
 # Ice Shrimp
 
 ## Overview
 
-Ice shrimp are amphibious crustacean species documented at [[Storvhit]] by [[Saskia Averina]] in field journal dated January 29, 393 AC. Species equally at home in air and underwater, distinguished by integration of [[Aerolithe]] material in biological structure enabling flight capability.
+Ice shrimp are amphibious crustacean species documented at [[Storhvit]] by [[Saskia Averina]] in field journal dated January 29, 393 AC. Species equally at home in air and underwater, distinguished by integration of [[Aerolithe]] material in biological structure enabling flight capability.
 
 ## Physical Characteristics
 
@@ -53,7 +63,7 @@ Flight enabled by [[Aerolithe]] vein integration running length of body. Aerolit
 ## Ecological Role
 
 ### Food Source
-Ice shrimp serve as prey for many predator species in [[Storvhit]] ecosystem:
+Ice shrimp serve as prey for many predator species in [[Storhvit]] ecosystem:
 - Birds feed on ice shrimp
 - Terrestrial creatures consume ice shrimp
 - Represents important food source for [[Winter Folk]] predator species
@@ -69,7 +79,7 @@ Represents documented example of biological integration of [[Aerolithe]] materia
 ### Evolutionary Questions
 Unclear whether [[Aerolithe]] integration represents:
 - Natural evolutionary adaptation
-- Result of [[Storvhit]] environmental factors
+- Result of [[Storhvit]] environmental factors
 - Influence of [[The Tumult]] or other phenomena
 
 ## Culinary Properties
@@ -78,4 +88,4 @@ When cooked, flesh takes on opaline tint while maintaining blue shimmer colorati
 
 ## Classification
 
-Part of [[Winter Folk]] endemic arctic wildlife at [[Storvhit]]. Documented alongside other adapted species including [[Magpengs]] and [[Hakupopo]].
+Part of [[Winter Folk]] endemic arctic wildlife at [[Storhvit]]. Documented alongside other adapted species including [[Magpengs]] and [[Hakupopo]].

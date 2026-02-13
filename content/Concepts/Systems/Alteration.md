@@ -2,12 +2,18 @@
 title: Alteration
 type: concept
 category: magic
-source: L1_Lexicon
+source:
+  - "L1_Lexicon"
+  - "L2_anatomy_of_imagination"
+  - "[[T10 - Mise en Abyss]]"
 related_concepts:
   - "[[Mana]]"
   - "[[Eidolons]]"
   - "[[Alterers]]"
   - "[[The Tumult]]"
+  - "[[The Aether]]"
+  - "[[Quintessence]]"
+  - "[[Oblivion]]"
 associated_factions:
   - "[[Axiom]]"
   - "[[Bravos]]"
@@ -18,7 +24,7 @@ associated_factions:
 associated_locations:
   - "[[Asgartha]]"
 first_mentioned: After ~367 AC
-description_summary: Technique using Mana to materialize imagination and memories into reality
+description_summary: "Technique using Mana to materialize imagination and memories into reality through thought and will"
 tags:
   - alteration
   - magic
@@ -30,19 +36,19 @@ tags:
 
 ## Overview
 
-By using [[Mana]], the very energy of [[The Tumult]], humanity discovered that it could materialize its imagination and memories.
+Alteration is the ability to materialize imagination and memories into reality using [[Mana]]. Unlike [[The Tumult]], which causes [[The Aether|Aether]] to adhere erratically to beings and things, Alteration channels ideas through the filter of thought and will.
 
 ## Accessibility
 
-Although all human beings are capable of this, certain individuals, known as [[Alterers]], have made it their specialty.
+All human beings possess the capacity for Alteration — a baker capable of minor Alteration could manipulate the idea of fire to bake bread, or a carpenter could tap into the Aether to create otherwise impossible shapes. However, certain individuals known as [[Alterers]] have made this skill their specialty through innate talent or relentless effort. While Alterers do not necessarily belong to a [[Factions|Faction]], many join the ranks of these groups according to the philosophy that resonates with them most, seeking to channel their abilities within a broader framework.
 
 ## Mechanics
 
-While most things created through Alteration are ephemeral, allocating large amounts of [[Mana]] to them can make them more resilient, allowing them to be more strongly anchored in reality.
+Through Alteration, it is possible to materialize physical objects, constructs, and [[Eidolons]]. While most things created through Alteration are ephemeral, allocating large amounts of [[Mana]] can make them more resilient and more strongly anchored in reality.
 
-## Applications
+## Knowledge Dependency
 
-Through the use of Alteration, it is possible to materialize physical objects and constructs, as well as [[Eidolons]]—beings drawn from memories, myths, tales, or human history.
+Alteration's effectiveness depends on the richness of the practitioner's imagination. During [[The Great Wandering]], the loss of humanity's stories — books, annals, and tales abandoned by the Tumult Nomads — severely limited early Alterers. Oral traditions preserved through campfires and bedtime stories sustained the first summonings of [[Eidolons]]. One goal of the [[Rediscovery Endeavor]] is to reclaim forgotten cultures and lost stories, thereby strengthening Asgarthan Alteration capabilities.
 
 ## Societal Impact
 
@@ -54,7 +60,18 @@ Each faction has developed its own distinctive approach to Alteration:
 
 - **[[Axiom]]**: Focus on practical, technological applications
 - **[[Bravos]]**: Practice [[The Avgrunn]], absorbing Aether to strengthen themselves
-- **[[Lyra]]**: Practice [[The Ignescence]], drawing Mana from within or harvesting performance energy
+- **[[Lyra]]**: Practice [[Ignescence|The Ignescence]], drawing Mana from within or harvesting performance energy
 - **[[Muna]]**: Practice [[The Anam]], shaping Mana for long-term transformations
 - **[[Ordis]]**: Practice [[Heka]], using written glyphs to rewrite natural laws
 - **[[Yzmir]]**: Practice [[The Naali]], channeling Aether through [[The Spheres]]
+
+## Relationships
+
+- **[[Mana]]**: Energy that powers Alteration
+- **[[The Aether]]**: Immaterial substance channeled through Alteration
+- **[[Quintessence]]**: Physical substance that Aether is bound to via Mana
+- **[[Eidolons]]**: Conscious beings that can be summoned through Alteration
+- **[[Alterers]]**: Individuals who specialize in Alteration
+- **[[The Tumult]]**: Chaotic counterpart to controlled Alteration
+- **[[Oblivion]]**: Affliction that can impair Alterers' ability to use Alteration
+- **[[Rediscovery Endeavor]]**: Initiative partly aimed at recovering lost knowledge to strengthen Alteration

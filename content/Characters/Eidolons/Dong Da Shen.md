@@ -3,20 +3,28 @@ title: Dong Da Shen
 type: character
 category: eidolon
 source: card_lore
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: eidolon
-fate: null
+fate:
 species: eidolon
 became_oneiros: true
 affiliated_faction: "[[Ordis]]"
 founded_organizations: []
-titles: ["God of Cold"]
-lineage: null
+titles:
+  - God of Cold
+lineage:
 key_events: []
-locations_associated: ["[[Storvhit]]"]
-tags: [eidolon, god, cold, winter, chinese, ordis]
+locations_associated:
+  - "[[Storhvit]]"
+tags:
+  - eidolon
+  - god
+  - cold
+  - winter
+  - chinese
+  - ordis
 ---
 
 # Dong Da Shen
@@ -35,7 +43,7 @@ Dong Da Shen holds a document described as a statement of criminal charges and w
 
 ### ~393 AC - Belisenki Dispersal at Storvhit
 
-[[Waru Toowoom]] summoned Dong Da Shen during [[Belisenki]] pursuit at [[Storvhit]] by tracing [[Heka]] symbols in the wind, causing the paper scroll to unfurl with blazing ideograms and the [[Belisenki]] to disperse and return to the shelter of trees.
+[[Waru Toowoom]] summoned Dong Da Shen during [[Belisenki]] pursuit at [[Storhvit]] by tracing [[Heka]] symbols in the wind, causing the paper scroll to unfurl with blazing ideograms and the [[Belisenki]] to disperse and return to the shelter of trees.
 
 ## Relationships
 

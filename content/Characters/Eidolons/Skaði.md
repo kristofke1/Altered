@@ -5,19 +5,20 @@ category: eidolon
 source:
   - "[[T20_Beyond_The_Horizon]]"
   - card_lore
-birth_date: null
-death_date: null
+birth_date:
+death_date:
 status: eidolon
-fate: null
+fate:
 species: eidolon
 became_oneiros: true
-affiliated_faction: null
+affiliated_faction:
 founded_organizations: []
-titles: ["Goddess"]
-lineage: null
+titles:
+  - Goddess
+lineage:
 key_events: []
 locations_associated:
-  - "[[Storvhit]]"
+  - "[[Storhvit]]"
 tags:
   - eidolon
   - goddess
@@ -62,11 +63,11 @@ Skaði possesses specialized technical boots with multiple hidden features:
 
 ### 393 AC - Tsunami Escape with Sierra
 
-When tsunami from [[Storvhit]] crested ridge behind [[Sierra]], she summoned Skaði mid-leap from vantage point. The goddess caught her with hair streaming in wind and carried her down snow-covered foothills toward armored vehicle at base. Sierra dismissed Skaði after reaching lower elevation to employ different abilities.
+When tsunami from [[Storhvit]] crested ridge behind [[Sierra]], she summoned Skaði mid-leap from vantage point. The goddess caught her with hair streaming in wind and carried her down snow-covered foothills toward armored vehicle at base. Sierra dismissed Skaði after reaching lower elevation to employ different abilities.
 
 ### ~393 AC - Skiing Training with Kojo
 
-Skaði trained [[Kojo Oduro]] in skiing at [[Storvhit]], demonstrating moves while he struggled to keep up during descent through fir trees. She laughed and gave thumbs up when he avoided crashes, patiently waited after he fell into snowdrifts, and teased him about his technique. The training session included demonstration of her technical boots' features after Kojo was caught examining her equipment.
+Skaði trained [[Kojo Oduro]] in skiing at [[Storhvit]], demonstrating moves while he struggled to keep up during descent through fir trees. She laughed and gave thumbs up when he avoided crashes, patiently waited after he fell into snowdrifts, and teased him about his technique. The training session included demonstration of her technical boots' features after Kojo was caught examining her equipment.
 
 ## Name Origin
 
@@ -76,5 +77,5 @@ Name "Skaði" derives from Norse mythology where Skaði is jötunn (giant) and g
 
 - **[[Sierra]]**: Summoner who calls upon Skaði for aerial rescue and transport (393 AC tsunami)
 - **[[Kojo Oduro]]**: Trained with Skaði in skiing at Storvhit (~393 AC)
-- **[[Storvhit]]**: Arctic region where Skaði operates and trains expedition members
+- **[[Storhvit]]**: Arctic region where Skaði operates and trains expedition members
 - **[[Oddball]]**: Sierra's Alter Ego who warned of tsunami prompting Skaði's summoning

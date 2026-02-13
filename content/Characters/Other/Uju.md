@@ -1,32 +1,50 @@
 ---
 title: Uju
-type: Character
-category: Person
-source: 
-  - "[[Carnelian_Crown]]"
-faction: "[[Jusaka Blaze]]"
+type: character
+category: civilian
+source:
+  - "heroes_bravos"
+  - "T11_carnelian_crown"
+birth_date: null
+death_date: null
 status: living
+fate: null
+species: human
+became_oneiros: false
+affiliated_faction: "[[Bravos]]"
+affiliated_organization: "[[Jusaka Blaze]]"
+founded_organizations: []
+titles: []
+lineage: null
+key_events:
+  - "[[Carnelian Crown]]"
+locations_associated:
+  - "[[Arkaster]]"
+tags:
+  - bravos
+  - altrun
+  - jusaka-blaze
 ---
 
-Uju is a member of the Jusaka Blaze who attended Kojo Oduro's Carnelian Crown ceremony in 392 AC and provided vocal support during the event.
+# Uju
 
-## Jusaka Blaze Membership
+## Overview
 
-Uju belongs to the Jusaka Blaze, serving alongside friends including Carmela, Cathal, and Gault. As part of this group, Uju shared a close bond with Kojo Oduro before his rise to prominence as the Kraken Slayer.
+Uju is a member of the [[Jusaka Blaze]] [[Altrun]] team in [[Arkaster]], alongside [[Carmela]], [[Cathal]], and [[Gault]].
 
-## Carnelian Crown Ceremony
+## Background
 
-In 392 AC, Uju attended the ceremony where Kojo received the Carnelian Crown from Basileus Avkan ruun-Heshkari. During the momentous occasion, as Kojo climbed the stairs to receive Asgartha's highest honor, Uju provided exuberant moral support from the stands.
+When [[Kojo Oduro]] first approached the Jusaka Blaze at the Speedster's Den tavern, Uju insisted on giving him a chance to join the team despite initial skepticism from other members. As Kojo struggled through his early training, Uju gave him a new pair of shoes to help him improve.
 
-Uju whistled at the top of her lungs, creating an audible display of support and celebration. This enthusiastic vocalization occurred alongside other demonstrations of friendship from Jusaka Blaze members - Carmela proudly raising her fist, Cathal teasing with a sly grin, and Gault offering warm encouragement with a hand placed on his heart.
+## Timeline
 
-The presence of his Jusaka Blaze friends, including Uju's loud whistling, helped buoy Kojo's confidence as he approached the Basileus, questioning whether he was truly worthy of receiving the highest honor in Asgartha.
+### 392 AC - Carnelian Crown Ceremony
+
+Uju attended the ceremony where [[Kojo Oduro]] received the [[Carnelian Crown]] from Basileus [[Avkan ruun-Heshkari]], whistling at the top of her lungs from the stands alongside the other Jusaka Blaze members.
 
 ## Relationships
 
-- **[[Kojo Oduro]]**: Jusaka Blaze teammate; insisted he be given a chance to join; gave him new pair of shoes; defended him to Gulrang; attended Carnelian Crown ceremony
+- **[[Kojo Oduro]]**: Jusaka Blaze teammate; Uju insisted he be given a chance to join and gave him new shoes during training; attended his Carnelian Crown ceremony (392 AC)
 - **[[Carmela]]**: Fellow Jusaka Blaze teammate and team captain
 - **[[Cathal]]**: Fellow Jusaka Blaze teammate
 - **[[Gault]]**: Fellow Jusaka Blaze teammate
-- **[[Booda]]** - Kojo's Alter Ego fire cheetah present at the ceremony
-- **[[Jusaka Blaze]]** - Group to which Uju belongs

@@ -2,20 +2,31 @@
 title: Magpengs
 type: concept
 category: fauna
-source: ["[[T22_Winter_Folk]]", "card_lore"]
-related_concepts: ["[[Winter Folk]]", "[[Chimerae]]"]
+source:
+  - "[[T22_Winter_Folk]]"
+  - card_lore
+related_concepts:
+  - "[[Winter Folk]]"
+  - "[[Chimerae]]"
 associated_factions: []
-associated_locations: ["[[Storvhit]]"]
-first_mentioned: "393 AC"
-description_summary: "Hybrid creature combining magpie and penguin traits with enhanced mobility and thieving behavior"
-tags: [hybrid, fauna, arctic, storvhit, thief, winter-folk]
+associated_locations:
+  - "[[Storhvit]]"
+first_mentioned: 393 AC
+description_summary: Hybrid creature combining magpie and penguin traits with enhanced mobility and thieving behavior
+tags:
+  - hybrid
+  - fauna
+  - arctic
+  - storvhit
+  - thief
+  - winter-folk
 ---
 
 # Magpengs
 
 ## Overview
 
-Magpeng is hybrid animal cross between magpie and penguin, documented at [[Storvhit]] by [[Saskia Averina]] in field journal dated January 29, 393 AC. Creature inherited traits from both species with unique combination of physical characteristics and behavioral patterns.
+Magpeng is hybrid animal cross between magpie and penguin, documented at [[Storhvit]] by [[Saskia Averina]] in field journal dated January 29, 393 AC. Creature inherited traits from both species with unique combination of physical characteristics and behavioral patterns.
 
 ## Physical Characteristics
 
@@ -59,7 +70,7 @@ Creates hoards of stolen shiny objects, maintaining piles of pilfered trinkets s
 
 ## Habitat and Ecology
 
-Documented at [[Storvhit]] as part of [[Winter Folk]] endemic arctic wildlife. Thrives in harsh climate that poses challenge for beings accustomed to gentler biotopes.
+Documented at [[Storhvit]] as part of [[Winter Folk]] endemic arctic wildlife. Thrives in harsh climate that poses challenge for beings accustomed to gentler biotopes.
 
 ## Timeline
 
@@ -73,7 +84,7 @@ Represents hybrid species combining traits of:
 - **Magpie** (Pica): Thieving behavior, fascination with shiny objects
 - **Penguin** (Spheniscidae): Basic body structure, aquatic adaptation, flightlessness
 
-Unclear whether natural hybrid evolution or result of other factors affecting [[Storvhit]] fauna.
+Unclear whether natural hybrid evolution or result of other factors affecting [[Storhvit]] fauna.
 
 ## Relationships
 

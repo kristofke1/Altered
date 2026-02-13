@@ -4,6 +4,7 @@ type: event
 category: era
 source:
   - "[[L1_Lexicon]]"
+  - "[[T51_Limbo]]"
 date_start: "~-108 AC"
 date_end: "~-108 AC"
 duration: null
@@ -40,3 +41,7 @@ In the aftermath, new life forms emerged and new landscapes unfolded—a blend o
 ## Legacy
 
 The Confluence left behind [[The Tumult]], a lasting but poorly understood phenomenon that continues to mutate the world. It also led to the discovery of [[Mana]] and the emergence of [[Oases]] as safe zones for human survival. The period following the Confluence became known as [[The Great Wandering]].
+
+## Potential Recurrence
+
+According to [[Sylas]], a second Confluence could be triggered by those who still possess access to the [[The Spheres|Sixth Sphere]]—a banished power that some practitioners have preserved despite its prohibition.

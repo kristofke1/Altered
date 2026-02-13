@@ -2,11 +2,11 @@
 title: The Hunger
 type: character
 category: entity
-source: ["[[T40_The_Hunger]]", "[[T41_forget_me_not]]"]
+source: ["[[T40_The_Hunger]]", "[[T41_forget_me_not]]", "[[L40_Story_So_Far_2]]"]
 birth_date: null
 death_date: null
 status: destroyed
-fate: "Destroyed in 393 AC during Exalt intervention in The Maze"
+fate: "Destroyed in September 393 AC during Exalt intervention in The Maze"
 species: entity
 became_oneiros: false
 affiliated_faction: null
@@ -45,11 +45,11 @@ Within the monstrous shell, [[Sofia]] persisted as a dormant child's consciousne
 
 ## Timeline
 
-### 393 AC - Section 57 Massacre
+### 393 AC, June-August - Section 57 Massacre
 
 [[The Aegis]] deployed [[Section 57]] of the [[Expeditionary Corps]] deep into the [[City of Scholars]] to establish contact with the [[Mesektet]] at the [[Scholars' Vault]]. During their expedition, The Hunger attacked the unit repeatedly. The creature dropped a black veil that blinded the soldiers before feeding on them, disrupting [[The Gestalt]] and causing chaos. Spectral entities with clawed hands emerged from corridor walls, leaving burn-like wounds on victims. The Hunger killed the unit's sergeant and officer by swallowing them, then spat out their lifeless bodies and consumed their Sap supply. The sole chronicler, [[Alfie Phillips]], documented events in a journal before perishing near the Scholars' Vault. No survivors from Section 57 were recovered.
 
-### 393 AC - Confrontation with Exalts
+### 393 AC, September - Confrontation with Exalts
 
 The Exalts organized an intervention after recognizing The Hunger as the source of the [[Oblivion]] epidemic. [[Axiom]] machines pierced an old cistern to flood an arena with Sap as bait. While The Hunger fed, [[Fen]] and [[Teija]] attempted psychic contact to reach the child within, protected by [[Nauraa]]. The [[Muna]] and [[Lyra]] factions had argued for saving the entity, while [[Axiom]], [[Yzmir]], and [[Bravos]] favored destruction. [[Ordis]] held the deciding vote, with the compromise allowing the rescue attempt before resorting to force.
 

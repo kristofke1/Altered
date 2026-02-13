@@ -19,10 +19,10 @@ lineage: Adhikari
 key_events: []
 locations_associated:
   - "[[Arkaster]]"
-  - "[[Kuth Kanat 1]]"
   - "[[The Kadigir]]"
   - "[[The Well of Tears]]"
   - "[[The Cloister]]"
+  - "[[Altered/Locations/Districts/Kuth Kanat|Kuth Kanat]]"
 tags:
   - supporting-character
   - adhikari
@@ -37,7 +37,7 @@ tags:
 Kumari Adhikari is the younger sister of [[Akesha Adhikari]], born three years after her. She suffers from [[Remanence]], a dangerous affliction caused by ingesting pure [[The Aether|Ether]] from [[The Well of Tears]] during a childhood accident. Now subject to visions and bouts of gentle madness, she remains interned within [[The Cloister]] at [[The Kadigir]] to ensure her condition does not worsen.
 
 ## Early Life
-Kumari was born into the opulence of a splendid troglodyte palazzo nestled in the heart of the aristocratic district of [[Kuth Kanat 1]]. Her parents, occupied with diplomatic duties, were rarely present. When Kumari was born, her older sister [[Akesha Adhikari|Kesh]] took it upon herself to watch over her, dedicating herself body and soul to the young child. Besides their stern governessâ€”whom they enjoyed trickingâ€”it was Kesh who became like a second mother to Kumari.
+Kumari was born into the opulence of a splendid troglodyte palazzo nestled in the heart of the aristocratic district of [[Altered/Locations/Districts/Kuth Kanat|Kuth Kanat]]. Her parents, occupied with diplomatic duties, were rarely present. When Kumari was born, her older sister [[Akesha Adhikari|Kesh]] took it upon herself to watch over her, dedicating herself body and soul to the young child. Besides their stern governessâ€”whom they enjoyed trickingâ€”it was Kesh who became like a second mother to Kumari.
 
 ## Childhood Adventures with Akesha
 The isolation of their noble upbringing did not last forever for the sisters. Sometimes, they would sneak out of the palazzo and climb [[The Kadigir]]'s enclosure wall, exploring the magical gardens of the [[Yzmir]] Bastion. The two girls frequented the gardens, trying to dodge the [[Initiates|Disciples and Initiates]] who walked its winding paths daily. Even though they were discovered several times and admonished accordingly, they gradually became the darlings of [[The Magisterium]]'s teaching staff. To the chagrin of their tutors, Akesha and Kumari were always ready for mischief, basking in the sun and fresh air rather than locking themselves in the dusty depths of their study halls.
@@ -77,7 +77,7 @@ Kumari wanted to explore the world, and Kesh was her means of doing so. When Ake
 
 ### March 26, 393 AC - Letter from Akesha
 
-Kumari received letter at [[The Cloister]] (room 65) from [[Akesha Adhikari]] dated March 26, 393 AC, sent from [[Storvhit]] during expedition ascent toward [[Altered/Locations/Regions/Cais Adarra]]. Letter described harsh conditions of climb, expedition progress through taiga and tundra, and [[Akesha Adhikari]]'s collaboration with [[Saskia Averina]] who might help find cure for [[Remanence]]. [[Akesha Adhikari]] expressed constant thoughts of Kumari and cherished memories of garden walks at [[Arkaster]]. Letter represented final correspondence before resupply team departed and [[The Ouroboros]] retreated ahead of approaching [[The Tumult|Tumult]] hurricane.
+Kumari received letter at [[The Cloister]] (room 65) from [[Akesha Adhikari]] dated March 26, 393 AC, sent from [[Storhvit]] during expedition ascent toward [[Altered/Locations/Regions/Cais Adarra]]. Letter described harsh conditions of climb, expedition progress through taiga and tundra, and [[Akesha Adhikari]]'s collaboration with [[Saskia Averina]] who might help find cure for [[Remanence]]. [[Akesha Adhikari]] expressed constant thoughts of Kumari and cherished memories of garden walks at [[Arkaster]]. Letter represented final correspondence before resupply team departed and [[The Ouroboros]] retreated ahead of approaching [[The Tumult|Tumult]] hurricane.
 
 ## Current Status
 Kumari remains interned at [[The Cloister]] within [[The Kadigir]], subject to visions, bouts of gentle madness, and [[Remanence]] episodes. Despite her affliction, she maintains hope that her sister will find a cure, both for herself and for the many other [[Yzmir]] [[Initiates]] suffering from the same condition. She waits, holding on to life and maintaining her bond with [[Akesha Adhikari|Akesha]] through the promise they made to each other.

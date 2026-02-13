@@ -2,7 +2,7 @@
 title: Leviathans
 type: concept
 category: creature
-source: ["L01_The_Leviathans", "heroes_muna", "heroes_bravos", "card_lore"]
+source: ["L01_The_Leviathans", "heroes_muna", "heroes_bravos", "card_lore", "[[L43_Halua]]", "[[L44_Goliaths]]", "[[T45_Onslaught]]"]
 related_concepts:
   - "[[Chimerae]]"
   - "[[The Tumult]]"
@@ -16,6 +16,7 @@ associated_locations:
   - "[[Kirighai]]"
   - "[[Caer Oorun]]"
   - "[[Katkera]]"
+  - "[[Cloud Realm]]"
 first_mentioned: null
 description_summary: Titanic creatures that feed on Mana, large enough to cover vast cities
 tags:
@@ -54,12 +55,19 @@ Other Leviathans continue to challenge the aging [[Kaibara]] or threaten the Pen
 - **Kacchena**: The Moving Island, a Turtle Leviathan in the [[Cierna]] that is an ecosystem unto itself.
 - **[[Black Leviathan]]**: An abomination born of war's negative emotions during [[The Three Factions War]], defeated by champions from all Factions.
 
+## Cloud Realm Leviathans
+
+The [[Cloud Realm]] harbors its own Leviathan population, encountered during the [[Rediscovery Endeavor]]:
+- **[[Halua]]**: The Manta Ray Leviathan, classified as the most catastrophic threat to the [[Expeditionary Corps]] fleet. Unlike territorial Leviathans, Halua actively hunts the fleet across multiple quadrants.
+- **[[Lucan]]**: The Beetle Leviathan of the [[Pelagonian Quadrant]]. Insectoid, approximately 800m in length, drawn to [[Aerolith]] and attacks ore convoys. High risk.
+- **[[Koi]]**: The Carp Leviathan of the [[Thessalian Quadrant]]. Pisciform, approximately 1,400m in length, gentle but playfully clumsy with ships. Moderate risk.
+- **[[Zaratan]]**: The Sky Turtle Leviathan of the [[Rhodopean Quadrant]]. Reptilian, approximately 1,500m diameter, docile and curious—contrasts with [[Kacchena]]'s territorial behavior. Low risk.
+- **[[Sagitta]]**: The Secretary Bird Leviathan of the [[Thermaic Quadrant]]. Avian, wingspan approaching 2km, extremely territorial over water sources. High risk.
+- **[[Alelo]]**: The Demon Leviathan of the [[Macedonian Quadrant]]. Pisciform eel-like creature straddling [[The Aether]] and reality like [[Mana Moths]], reacts to any [[Alteration]]. High risk.
+
 ## Symbiotic Leviathans
 
 [[Kaibara]] tolerates certain Leviathans on its territory. Two [[Lyra]] Clans live in symbiosis with Leviathans, having negotiated with Kaibara to allow them to roam the Peninsula:
 - **[[Scarab]]**: The Beetle Leviathan of [[Iju Clan]]
 - **[[Meander]]**: The Serpent Leviathan of [[Ventauri Clan]]
 
-## Leviathan Summoning
-
-The [[Yzmir]] possess the capability to add Leviathans to their summoning arsenal. In 392 AC, the Magisters debated whether to authorize the [[Kraken]] for summoning, with [[Chambulla]] casting the deciding vote in favor.

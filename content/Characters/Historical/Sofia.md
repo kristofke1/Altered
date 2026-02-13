@@ -2,7 +2,7 @@
 title: Sofia
 type: character
 category: historical
-source: ["[[T41_forget_me_not]]", "[[L34_the_city_of_scholars]]", "[[L38_Lost_and_found]]"]
+source: ["[[T41_forget_me_not]]", "[[L34_the_city_of_scholars]]", "[[L38_Lost_and_found]]", "[[L40_Story_So_Far_2]]", "[[T48_Remnants]]"]
 birth_date: null
 death_date: 393 AC
 status: deceased
@@ -28,6 +28,8 @@ Sofia was the living soul of the [[City of Scholars]], manifested through the co
 
 The [[City of Scholars]] was originally called "Serdica" or "Sofia" before [[The Confluence]]. [[Yzmir]] theorists identified Sap as a vital fluid capable of giving life, and it flowed through the city powering streetlights, ventilation, and machinery. Sofia manifested as a joyful, mischievous child who wandered rooftops after dusk, casting her innate glow across the skyline. Wall frescos in [[The Scholars' Tomb]] depict her in idealized adult form as a tall, serene woman with honey-gold features.
 
+Frescos discovered on a floating island in the [[Pelagonian Quadrant]] depict Sofia as a towering woman with hair writhing like tentacles, from whom the inhabitants hid their secret [[Sap]] stockpiling before their escape to the sky.
+
 ## The Fall
 
 When the inhabitants over-consumed the Sap and drained the world-tree until it died, Sofia began to starve. As the City's soul, she required sustenance, and with the Sap depleted, she turned to the memories and psychic essence of those around her, becoming [[The Hunger]]. The people sealed remaining Sap reserves in deep cisterns, retreated to upper levels, and eventually abandoned the City. Stelae and coffins in upper chambers suggest some chose to die rather than leave.
@@ -36,7 +38,7 @@ Left alone for ages with no worshippers or Sap, Sofia's monstrous form consumed 
 
 ## Timeline
 
-### 393 AC - Liberation and Death
+### 393 AC, September - Liberation and Death
 
 [[Fen]] and [[Teija]] attempted psychic contact with [[The Hunger]]. Fen extended mental tendrils into the creature's consciousness, breaking through layers of suffering. Using emotions of reunion, loyalty, and presence as armor against the entity's grief, Fen discovered Sofia and called her to wake. Sofia opened her eyes, reached toward Fen, and spoke her name when asked.
 

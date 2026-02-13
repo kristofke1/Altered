@@ -2,21 +2,44 @@
 title: Orchid
 type: character
 category: alter_ego
-source: ["heroes_muna", "[[Bureaucracy]]", "[[Chrysanthemum]]", "[[T26_Dead_Roots]]", "card_lore"]
-birth_date: null
-death_date: null
-reign_period: null
+source:
+  - heroes_muna
+  - "[[Bureaucracy]]"
+  - "[[Chrysanthemum]]"
+  - "[[T26_Dead_Roots]]"
+  - card_lore
+birth_date:
+death_date:
+reign_period:
 status: living
-fate: null
+fate:
 species: chimera
 became_oneiros: false
 affiliated_faction: "[[Muna]]"
 founded_organizations: []
-titles: ["Alter Ego", "Exalt"]
-lineage: null
-key_events: ["[[Musubi]]", "[[Rediscovery Endeavor]]", "[[Bureaucracy]]", "[[Chrysanthemum]]"]
-locations_associated: ["[[Amorgand]]", "[[The Spindle]]", "[[Bark Refuge]]", "[[Katkera]]", "[[Cebir]]", "[[Storvhit]]"]
-tags: [alter-ego, chimera, mantis, muna, exalt, oasis]
+titles:
+  - Alter Ego
+  - Exalt
+lineage:
+key_events:
+  - "[[Musubi]]"
+  - "[[Rediscovery Endeavor]]"
+  - "[[Bureaucracy]]"
+  - "[[Chrysanthemum]]"
+locations_associated:
+  - "[[Amorgand]]"
+  - "[[The Spindle]]"
+  - "[[Bark Refuge]]"
+  - "[[Katkera]]"
+  - "[[Cebir]]"
+  - "[[Storhvit]]"
+tags:
+  - alter-ego
+  - chimera
+  - mantis
+  - muna
+  - exalt
+  - oasis
 aliases: []
 ---
 
@@ -55,10 +78,10 @@ Orchid accompanied [[Rin]] on [[Son of Yggdrasil]]'s shoulder, revealing during 
 ### 392 AC - Forest Path Clearing
 Orchid led through dense forest using forelegs like sickles to prune thorny bushes while [[Rin]] released [[Mana]] to heal wounded plants.
 
-### 393 AC - Rin's Rescue and Hunting at Storvhit
-During [[Storvhit]] expedition, Orchid's colors dulled from vibrant pink to harsh cold white becoming almost translucent due to harsh environment. When [[Rin]] suffered hypothermia and fell into powder snow near sérac edge, Orchid assisted [[Arjun]] in digging out and rescuing bonded partner. After [[Arjun]] provided shelter in floral tent, Orchid went hunting for rabbit or marmot to help [[Rin]] recover from exposure. Orchid chittered warning with clicking mandibles before [[Rin]]'s fall, attempting to alert partner to danger. While [[Rin]] recovered, Orchid insisted on finding food to aid recovery process.
+### 393 AC, January-April - Rin's Rescue and Hunting at Storvhit
+During [[Storhvit]] expedition, Orchid's colors dulled from vibrant pink to harsh cold white becoming almost translucent due to harsh environment. When [[Rin]] suffered hypothermia and fell into powder snow near sérac edge, Orchid assisted [[Arjun]] in digging out and rescuing bonded partner. After [[Arjun]] provided shelter in floral tent, Orchid went hunting for rabbit or marmot to help [[Rin]] recover from exposure. Orchid chittered warning with clicking mandibles before [[Rin]]'s fall, attempting to alert partner to danger. While [[Rin]] recovered, Orchid insisted on finding food to aid recovery process.
 
-### ~393 AC - Jealousy Toward Saskia
+### 393 AC, January-April - Jealousy Toward Saskia
 When [[Saskia Averina]] comforted [[Rin]] after scolding her about carelessly summoning [[Persephone]], Orchid directed feelings of animosity toward the naturalist, causing [[Rin]] to pull away wondering if her [[Chimerae|Chimera]] was getting jealous.
 
 ## Relationships

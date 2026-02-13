@@ -3,20 +3,20 @@ title: Pamola
 type: character
 category: eidolon
 source: card_lore
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: eidolon
-fate: null
+fate:
 species: eidolon
 became_oneiros: true
-affiliated_faction: null
+affiliated_faction:
 founded_organizations: []
 titles: []
-lineage: null
+lineage:
 key_events: []
 locations_associated:
-  - "[[Storvhit]]"
+  - "[[Storhvit]]"
   - "[[Cais Adarra]]"
 tags:
   - eidolon
@@ -50,4 +50,4 @@ During [[Lindiwe]]'s ascent of a rock face at [[Cais Adarra]], Pamola appeared o
 - **[[Lindiwe]]**: Climber who encountered Pamola during mountain ascent (~393 AC)
 - **[[Maw]]**: Parasitic entity controlling Lindiwe during encounter
 - **[[Cais Adarra]]**: Mountain location within Pamola's domain
-- **[[Storvhit]]**: Arctic region where Pamola operates
+- **[[Storhvit]]**: Arctic region where Pamola operates

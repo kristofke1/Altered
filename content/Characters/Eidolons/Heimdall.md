@@ -2,20 +2,29 @@
 title: Heimdall
 type: character
 category: eidolon
-source: ["card_lore"]
-birth_date: null
-death_date: null
+source:
+  - card_lore
+birth_date:
+death_date:
 status: active
-fate: null
+fate:
 species: eidolon
 became_oneiros: true
-affiliated_faction: null
+affiliated_faction:
 founded_organizations: []
-titles: ["Guardian of the Bifrost"]
-lineage: null
+titles:
+  - Guardian of the Bifrost
+lineage:
 key_events: []
-locations_associated: ["[[Storvhit]]"]
-tags: [eidolon, norse-mythology, guardian, rainbow, sound, lyra]
+locations_associated:
+  - "[[Storhvit]]"
+tags:
+  - eidolon
+  - norse-mythology
+  - guardian
+  - rainbow
+  - sound
+  - lyra
 ---
 
 # Heimdall
@@ -36,11 +45,11 @@ Heimdall appears sparkly, gleaming, and colorful with vivid light emanating from
 
 ### 393 AC - Cave Escape at Storvhit
 
-[[Auraq]] summoned Heimdall while trapped in a dead-end ice cave at [[Storvhit]]. Auraq's [[Ignescence]] called to him and he replied quickly. Heimdall blew [[Gjallarhorn]], filling the cave with saturated hues. The sound grew stronger until the rock exploded and the stone wall collapsed, allowing sunlight to mingle with the colorful filaments. Auraq wished [[Fen]] had been present to appreciate the spectacle.
+[[Auraq]] summoned Heimdall while trapped in a dead-end ice cave at [[Storhvit]]. Auraq's [[Ignescence]] called to him and he replied quickly. Heimdall blew [[Gjallarhorn]], filling the cave with saturated hues. The sound grew stronger until the rock exploded and the stone wall collapsed, allowing sunlight to mingle with the colorful filaments. Auraq wished [[Fen]] had been present to appreciate the spectacle.
 
 ## Relationships
 
 - **[[Auraq]]**: Summoner who called upon Heimdall to escape ice cave (393 AC)
 - **[[Fen]]**: Lyra friend Auraq wished could witness the spectacle
 - **[[Gjallarhorn]]**: Signature instrument wielded by Heimdall
-- **[[Storvhit]]**: Arctic region where Heimdall was summoned
+- **[[Storhvit]]**: Arctic region where Heimdall was summoned

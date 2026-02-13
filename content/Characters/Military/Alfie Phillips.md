@@ -26,7 +26,7 @@ Alfie Phillips (service number 2187) was a recruit and communications officer of
 
 ## Military Service
 
-Phillips served in [[The Aegis]] and was assigned to Section 57 for subterranean deployment in the [[City of Scholars]]. His duties included communications and maintaining contact through [[The Gestalt]]. Prior to deployment, he had trained for fieldwork and served at the [[Storvhit]] garrison.
+Phillips served in [[The Aegis]] and was assigned to Section 57 for subterranean deployment in the [[City of Scholars]]. His duties included communications and maintaining contact through [[The Gestalt]]. Prior to deployment, he had trained for fieldwork and served at the [[Storhvit]] garrison.
 
 ## Timeline
 

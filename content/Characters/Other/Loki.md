@@ -3,8 +3,9 @@ title: Loki
 type: character
 category: eidolon
 source:
-  - heroes_lyra
-  - card_lore
+  - "[[heroes_lyra]]"
+  - "[[Nevenka]]"
+  - "[[Dorothy Gale]]"
 birth_date: null
 death_date: null
 reign_period: null
@@ -12,68 +13,49 @@ status: active
 fate: null
 species: eidolon
 became_oneiros: true
-affiliated_faction: "[[Lyra]]"
+affiliated_faction: null
 founded_organizations: []
 titles: ["Trickster God", "Oneiros"]
 lineage: null
 key_events: []
 locations_associated: ["[[Oz]]"]
-tags: [eidolon, lyra, trickster, oneiros, shapeshifter]
+tags: [eidolon, lyra, trickster, oneiros]
 aliases: ["Kiki"]
 ---
 
 # Loki
 
-Loki is Eidolon known as Trickster God and Oneiros. Manifests in various forms and serves as messenger while maintaining mischievous temperament.
+## Overview
 
-## Personality and Nature
+Loki is an [[Eidolons|Eidolon]] bearing the titles of Trickster God and [[The Oneiroi|Oneiros]]. He occupies his own domain within [[The Empyrean]] and occasionally crosses into the realms of other Oneiroi. [[Nevenka]] characterizes Loki as sharing her belief that the underlying nature of the world is disorder, and that any appearance of order is ultimately superficial — a conviction that informs their joint tendency toward provocation and disruption.
 
-Loki embodies trickster archetype. Mischievous nature evident in all interactions. Whispers excellent prank ideas to followers. Possesses millennia-old wisdom of troublemakers.
+## Appearance
 
-Provides best kind of bad education to those who seek his company. Not malicious but playful in approach to world.
-
-## Martengale Form
-
-Loki commonly manifests as martengale - cross between marten, rabbit, and jay. This form appears intentionally plain and frail, sickly in appearance, but looks deceive.
-
-Physical characteristics in martengale form:
-- Golden eyes
-- Long bushy tail used to carry messages
-- Long canine teeth for untying knots
-- Small size enabling acrobatic movements
-- Grooms ears with paws like small mammal
-
-Mischievous temperament perfectly captured in hint of smile when interacting. Tendency to roll around on railings almost falling into voids multiple times. Licks paws while staring at others waiting for reactions.
+Loki commonly manifests as a martengale, a creature combining features of a marten, a rabbit, and a jay. The form is deliberately unassuming — small, frail-looking, and sickly in appearance — but deceptive. In this shape, he possesses golden eyes, a long bushy tail capable of carrying messages, and elongated canine teeth suited for untying knots. His demeanor in martengale form is characteristically playful: grooming his ears with his paws, staring silently at others while waiting for a reaction, or performing acrobatic rolls along railings with apparent disregard for the drop below.
 
 ## Relationship with Nevenka
 
-Among Lyra Nevenka sought out Loki along with Pan and Tanuki for company and guidance. Loki specifically appreciated for mischievous side.
+[[Nevenka]] considers Loki her closest companion aside from her Alter Ego [[Blotch]]. She sought him out along with [[Pan]] and [[Tanuki]] during her youth within the Ossonoya Clan, and Loki contributed to her reputation by feeding her prank ideas. Together with the other Eidolons in her circle, they provided Nevenka with an unconventional education rooted in mischief and millennia of accumulated troublemaking experience.
 
-Whispered excellent prank ideas that contributed to Nevenka's reputation. Part of gang of Eidolons that provided education in troublemaking and pranks. Possessed wisdom spanning millennia that nurtured spirit for mischief.
+The dynamic between Loki and Nevenka is one of mutual antagonistic affection — they routinely play increasingly elaborate tricks on each other without resentment. Their pranks have included Loki trapping Nevenka inside a barrel of spoiled fish, and her retaliating by binding him to a rock and applying snake venom to his eyes. Nevenka refers to him by the nickname "Kiki."
 
 ## Card Lore Timeline
 
+### 391 AC - Shared Philosophy with Nevenka
+
+Nevenka described her bond with Loki as rooted in a shared worldview and announced their intention to jointly provoke hidden tensions beneath the surface of apparent calm.
+
 ### 392 AC - Warning Message to Dorothy
 
-Loki manifested in martengale form landing on balustrade of Dorothy's balcony. Began grooming ears with paws. Dorothy placed self between creature and Ozma recognizing who hid behind plain form.
-
-Dorothy greeted with nod but Loki just licked paws while staring with golden eyes. Dorothy wondered what could have persuaded him to leave his domain and enter theirs.
-
-As Dorothy approached Loki uncurled long bushy tail revealing message hanging from it. With one long canine tooth untied knot holding little note and let it drop into Dorothy's hand. Gave hint of smile perfectly capturing mischievous temperament.
-
-Dorothy opened note and started deciphering words full of strikethroughs, scribbles, spelling mistakes. Read it then read again gradually unfurling seemingly endless scroll. Full of speculation, stylistic verbiage, nonsensical digressions.
-
-Tiring of childishness Dorothy tried to skip to end only to realize it was never-ending scroll. Scolded him as he rolled around on railing almost falling into void few times. Then he finally decided to let her continue reading.
-
-With wide eyes Dorothy finally read end of message. With wave of hand created tornado to whisk him away to own realm.
-
-If what Loki said was true some nasty business was afoot in shadows.
+Loki entered the domain of Oz uninvited and delivered a warning to [[Dorothy Gale]] on her balcony in the Emerald City, carrying a message concealed in his tail that, beneath layers of digressions and deliberate nonsense, contained intelligence about an unspecified threat operating covertly.
 
 ## Relationships
 
-- **[[WIP folder/Nevenka]]**: Lyra follower who sought Loki's mischievous wisdom and prank ideas
-- **[[Pan]]**: Fellow Eidolon in Nevenka's gang, appreciated for irreverent side
-- **[[Tanuki]]**: Fellow Eidolon in Nevenka's gang
+- **[[Blotch]]**: Nevenka's Alter Ego; Loki ranks as her closest companion after Blotch
 - **[[Dorothy Gale]]**: Received warning message from Loki in martengale form (392 AC)
-- **[[Ozma]]**: Present when Loki delivered message to Dorothy (392 AC)
-- **[[Oz]]**: Realm Dorothy and Ozma inhabit where Loki delivered message
+- **Emerald City**: Location where Loki delivered his warning within Oz
+- **[[Nevenka]]**: Closest companion; mutual trickster dynamic and shared nihilistic outlook
+- **Oz**: Oneiros domain Loki entered to deliver his warning
+- **[[Ozma]]**: Present during Loki's visit to Dorothy (392 AC)
+- **[[Pan]]**: Fellow Eidolon in Nevenka's circle
+- **[[Tanuki]]**: Fellow Eidolon in Nevenka's circle

@@ -48,12 +48,3 @@ For the final ceremony, the aspirant must:
 3. Weave the [[Namkha Knot]] themselves using their collection
 
 The climb serves as a final lesson. While ascending, initiates witness countless species living in concord within the world tree, embodying the core Muna principle of harmony.
-
-## Significance
-Once the [[Namkha Knot]] is woven, it becomes the sign of the bearer's belonging to the Muna. With this symbol, they have officially become a sentinel of [[The Skein]] and are recognized as family among all Muna.
-
-The pilgrimage teaches aspirants to:
-- Connect deeply with [[The Skein]]
-- Understand the balance between all living things
-- Observe and respect natural ecosystems
-- Develop patience and harmony with their environment

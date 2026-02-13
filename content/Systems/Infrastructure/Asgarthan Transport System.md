@@ -46,8 +46,8 @@ The rail network includes:
 
 ### Air Transport
 Air routes utilize airships for both short-haul and long-haul journeys:
-- [[Altered/Locations/Landmarks/Wright Altiport|Wright Altiport]] accommodates airships and aerial vehicles serving the rest of Asgartha
-- [[Altered/Locations/Landmarks/Daedalus Terminal|Daedalus Terminal]] handles short trips to surrounding islands and the [[Ordis]] Monolith
+- [[Wright Altiport]] accommodates airships and aerial vehicles serving the rest of Asgartha
+- [[Daedalus Terminal]] handles short trips to surrounding islands and the [[Ordis]] Monolith
 
 ### Ground Vehicles
 The democratization of [[Kelon]] has led to the emergence of numerous ground vehicles, ranging from unicycles to automobiles, including automated carriages. However, these vehicles remain seldom used, as the Asgarthan topography and infrastructure are still not well-suited for these modes of transport.

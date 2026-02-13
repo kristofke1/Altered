@@ -21,7 +21,7 @@ sub_locations:
   - "[[Town Square]]"
 population:
 area: ~10 km diameter
-founded: 393 AC
+founded: 393 AC, June
 status: active
 controlling_faction: "[[Expeditionary Corps]]"
 present_factions:

@@ -61,6 +61,3 @@ The [[Yzmir]] do not boast of their role in protecting [[Asgartha]] from the dan
 Throughout history, the [[Yzmir]] have positioned themselves as defenders of humanity against the dark and nameless threats lurking within [[The Tumult]]. The Black Wave represents one such persistent threat that requires their constant attention and intervention.
 
 Even within their own Bastion, the [[Initiates]] must remain vigilant, ready to combat whatever emerges from this perpetually darkened plain of black grass.
-
-## Symbolic Nature
-The name "Black Wave" evokes the dark grass that covers the clearing and perhaps the waves or surges of [[The Tumult|Tumult]] energy that periodically manifest monstrosities from this location. It stands as a reminder that even in the heart of their sanctuary, the [[Yzmir]] are never far from the dangers they study.

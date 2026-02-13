@@ -46,7 +46,7 @@ Aberdeen delivered Sap samples to [[Treyst]]'s workshop on [[Sierra]]'s behalf, 
 
 ## Relationships
 
-- **[[Sierra]]**: Mentor and workshop supervisor who plans to transfer the workshop to Aberdeen; sends Aberdeen on courier missions
+- **[[Sierra]]**: Mentor and workshop supervisor who plans to transfer the workshop to Aberdeen; sends Aberdeen on courier missions; summoned Aberdeen as [[Eidolons|Eidolon]] during [[City of Scholars]] expedition when missing her (393 AC)
 - **[[Treyst]]**: Researcher to whom Aberdeen delivered Sap samples (393 AC)
 - **[[Rossum]]**: [[Chimerae|Chimera]] who showed interest in Aberdeen's unicycle (393 AC)
 - **[[Subhash Kadis]]**: Colleague whose beard was burned during FarFetch test

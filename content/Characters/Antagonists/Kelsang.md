@@ -3,12 +3,13 @@ title: Kelsang
 type: character
 category: perjurer
 source:
-  - "T19_Parasites"
+  - "[[T19_Parasites]]"
+  - "[[T43_Eidocracy]]"
 birth_date: null
 death_date: null
 status: active
-fate: "Body-hopping parasite, member of The Perjurers conspiracy"
-species: "parasite (possessing human hosts)"
+fate: "Member of [[The Perjurers]] conspiracy"
+species: perjurer
 became_oneiros: false
 affiliated_faction: "[[Ordis]]"
 founded_organizations: []
@@ -19,37 +20,32 @@ locations_associated:
   - "[[The Monolith]]"
 tags:
   - perjurer
-  - body-hopper
-  - parasite
   - ordis
   - monolith
+  - the-dominion
 aliases: []
 ---
 
 # Kelsang
 
-## Overview
-
-Kelsang is a body-hopping parasite and member of [[The Perjurers]] ancient conspiracy. He is associated with [[The Monolith]] and infiltrates the [[Ordis]] faction.
-
-## True Nature
-
-Kelsang is a member of the ancient conspiracy called [[The Perjurers]], body-hopping parasites who possess human hosts across centuries. Like fellow members [[Sylas]] and [[Saskia Averina]], Kelsang serially inhabits different bodies to maintain operations across generations.
+Kelsang is a member of [[The Perjurers]] conspiracy, associated with [[The Monolith]] and infiltrating the [[Ordis]] faction.
 
 ## Operational Pattern
 
-### Association with The Monolith
+By 392 AC, [[Saskia Averina]] noted that Kelsang would "hole up in [[The Monolith]] as usual" during Expeditionary Corps departure. While [[Sylas]] and [[Saskia Averina]] planned to infiltrate the [[Expeditionary Corps]] (392 AC), Kelsang remained behind in [[Asgartha]] to maintain conspiracy oversight at [[The Monolith]].
 
-By 392 AC, [[Saskia Averina]] noted that Kelsang would "hole up in [[The Monolith]] as usual" during Expeditionary Corps departure. This suggests an established pattern of remaining at the Monolith location while other Perjurers undertake field operations.
+## Timeline
 
-### Role During Rediscovery Endeavor
+### 393 AC - Transmigration
 
-While [[Sylas]] and [[Saskia Averina]] planned to infiltrate the Expeditionary Corps (392 AC), Kelsang was expected to remain behind in [[Asgartha]]. His role appears focused on maintaining conspiracy oversight at [[The Monolith]] rather than joining outward expansion.
+By October 393 AC, Kelsang had transmigrated and chosen a new host. [[Shiramun]] reported this development to [[Somayeh Bahman]] following her investiture as Basilissa.
 
 ## Relationships
 
 - **[[Ordis]]**: Faction Kelsang infiltrates as cover
-- **[[Saskia Averina]]**: Fellow Perjurer called "Eugenist" who noted Kelsang's pattern (392 AC)
+- **[[The Perjurers]]**: Conspiracy to which Kelsang belongs; also called "The Dominion"
+- **[[Saskia Averina]]**: Fellow Perjurer who noted Kelsang's pattern (392 AC)
 - **[[Sylas]]**: Fellow Perjurer who discussed Kelsang's expected location (392 AC)
+- **[[Shiramun]]**: Fellow Perjurer who reported Kelsang's transmigration (393 AC)
+- **[[Somayeh Bahman]]**: Fellow Perjurer and Basilissa informed of Kelsang's transmigration (393 AC)
 - **[[The Monolith]]**: Location where Kelsang habitually remains
-- **[[The Perjurers]]**: Ancient conspiracy of body-hopping parasites Kelsang belongs to

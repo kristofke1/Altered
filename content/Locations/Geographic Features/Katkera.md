@@ -33,7 +33,7 @@ The forest consists of:
 - Dense vegetation marked by the winds of the ancient [[The Tumult|Tumult]]
 
 ## Biodiversity
-The Katkera's biodiversity is incredibly rich and flourishing. Its panoramas, far from human influence and strongly marked by the winds of the ancient Tumult, are imbued with wild beauty.
+The Katkera's biodiversity is incredibly rich and flourishing.
 
 One can encounter:
 - Bears and majestic deer
@@ -61,7 +61,7 @@ The Katkera serves as the location for the [[Nine-Stage Pilgrimage]], the initia
 
 ### Proposed Model for Caer Nilam - 393 AC
 
-In May 393 AC, [[Muna]] envoys advocated for [[Storvhit]] region to be turned into natural reserve like Katkera rather than developed as province. [[Muna]] proposed Katkera's sanctuary model as template for protecting [[Storvhit]]'s unique ecosystem, [[Winter Folk]], and [[Belisenki]] populations. Despite [[Muna]] advocacy, [[Temera Singh]] decided to grant temporary governance to [[Ordis]] supported by [[Yzmir]] instead, balancing conservation concerns with territorial development priorities.
+In May 393 AC, [[Muna]] envoys advocated for [[Storhvit]] region to be turned into natural reserve like Katkera rather than developed as province. [[Muna]] proposed Katkera's sanctuary model as template for protecting [[Storhvit]]'s unique ecosystem, [[Winter Folk]], and [[Belisenki]] populations. Despite [[Muna]] advocacy, [[Temera Singh]] decided to grant temporary governance to [[Ordis]] supported by [[Yzmir]] instead, balancing conservation concerns with territorial development priorities.
 
 ## Connection to the Skein
 The Katkera is deeply connected to [[The Skein]], the Mana network that connects all living things. At its heart, [[The Spindle]] serves as a pulsating node where the dendrites of the Mana network gather, making this forest the literal heart of the ecosystem where all beings living there are connected.
@@ -74,6 +74,6 @@ The Katkera is deeply connected to [[The Skein]], the Mana network that connects
 - **[[The Spindle]]**: World tree at heart of Katkera serving as Skein nexus
 - **[[The Refuges]]**: Nine elemental sanctuaries within Katkera
 - **[[Bark Refuge]]**: Most sacred sanctuary within The Spindle
-- **[[Storvhit]]**: Region [[Muna]] advocated protecting using Katkera natural reserve model (393 AC)
+- **[[Storhvit]]**: Region [[Muna]] advocated protecting using Katkera natural reserve model (393 AC)
 - **[[Caer Nilam]]**: Proposed province [[Muna]] wanted modeled after Katkera sanctuary (393 AC)
-- **[[Temera Singh]]**: Grand Admiral who rejected natural reserve model for [[Storvhit]] (May 15, 393 AC)
+- **[[Temera Singh]]**: Grand Admiral who rejected natural reserve model for [[Storhvit]] (May 15, 393 AC)

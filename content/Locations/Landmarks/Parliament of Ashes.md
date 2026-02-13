@@ -2,7 +2,7 @@
 title: Parliament of Ashes
 type: location
 category: building
-source: ["faction_bravos", "[[T39_The_Betrayal]]"]
+source: ["faction_bravos", "[[T39_The_Betrayal]]", "BRAVOS_minor_narrators_lore"]
 parent_location: "[[Haven]]"
 sub_locations: []
 population:
@@ -50,7 +50,7 @@ In 393 AC, the [[Phoenix Egg]] was stolen from the Parliament of Ashes. [[Haven]
 The theft was later revealed to be part of [[Rune's Testament]]—secret instructions left by the first Kuningas. The [[Phoenixian Guard]] orchestrated the operation, with Testament-loyal [[Bravos]] secretly joining the [[Tisdhera Clan]] aboard [[The Wayfarer]] to transport the egg westward toward the Phoenix's nest, where it could be rekindled.
 
 ## Memorial Function
-Along the perimeter of the stair-carved rock, pierced with uneven alcoves, are piles of urns and candles, offerings, and relics of times past. These vases, covered in melted wax, contain the ashes of the greatest heroes of the [[Bravos]] Faction.
+Along the perimeter of the stair-carved rock, pierced with uneven alcoves, are piles of urns and candles, offerings, and relics of times past. These vases, covered in melted wax, contain the ashes of the greatest heroes of the [[Bravos]] Faction. The rows of seats are worn with age, surrounded by dusty catafalques. The dead heroes interred here were the guardians of the [[Phoenix Egg]].
 
 It is not uncommon to see members of the Faction paying their respects before these funerary vessels, asking them for strength or courage.
 

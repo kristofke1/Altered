@@ -2,28 +2,28 @@
 title: Silk
 type: character
 category: chimera
-source: ["[[The Gig]]", "[[T42_the_deep_tumult]]"]
+source: ["heroes_yzmir_moyo", "[[The Gig]]", "[[T42_the_deep_tumult]]"]
 birth_date: null
 death_date: null
 reign_period: null
 status: living
-fate: null
+fate: "Bonded with Moyo Chibuye through The Musubi"
 species: chimera
 became_oneiros: false
 affiliated_faction: "[[Yzmir]]"
 founded_organizations: []
-titles: []
+titles: ["Alter Ego"]
 lineage: null
-key_events: ["Discovery in The Nilam", "Potential Musubi candidate"]
+key_events: ["Discovery in The Nilam", "[[The Musubi]] bonding with [[Moyo Chibuye]]"]
 locations_associated: ["[[The Nilam]]", "[[Nilam Spires]]", "[[The Vivarium]]"]
-tags: [chimera, yzmir, nilam, larva, silk-production, potential-alter-ego]
+tags: [chimera, yzmir, nilam, larva, silk-production, alter-ego, exalt]
 ---
 
 # Silk
 
 ## Overview
 
-Silk is a [[Chimerae|Chimera]] larva discovered dormant inside [[The Nilam]]'s bark in 393 AC. Named by [[Moyo Chibuye]] for its ability to secrete hardening fiber similar to a silkworm, Silk has developed a bond with Moyo and is considered a potential candidate for [[The Musubi]] ceremony.
+Silk is a [[Chimerae|Chimera]] discovered dormant inside [[The Nilam]]'s bark in 393 AC and bonded with [[Moyo Chibuye]] through [[The Musubi]] ceremony. Named for its ability to secrete hardening fiber similar to a silkworm, Silk serves as Moyo's Alter Ego, sharing consciousness and perception with its partner.
 
 ## Discovery and Growth
 
@@ -39,7 +39,15 @@ Silk possesses unquestionably chimeric nature but displays unusual stability—i
 
 ## Bond with Moyo Chibuye
 
-Since Silk's awakening, [[Moyo Chibuye]] has been the one feeding it. The creature displays attachment to Moyo like a dog to its master—reacting differently in Moyo's presence, seeking out their touch, and showing what appears to be affection. This bond prompted [[Yzmir]] leadership to consider Silk as a potential candidate for serving as Moyo's Alter Ego through [[The Musubi]] ceremony.
+Since Silk's awakening, [[Moyo Chibuye]] was the one feeding it. The creature displayed attachment to Moyo like a dog to its master—reacting differently in Moyo's presence, seeking out their touch. This bond prompted [[Yzmir]] leadership to consider Silk as a candidate for [[The Musubi]] ceremony.
+
+## The Musubi and Shared Consciousness
+
+Through [[The Musubi]] with [[Moyo Chibuye]], Silk shares perception with its partner—each one's experience becoming the other's. Moyo can curl within Silk's folds to observe the world as a detached spectator. Silk's cognition developed from purely primal concerns—hunger, discomfort, thirst, fatigue—to more complex processes: attachment, distance, memory, projection.
+
+## Behavior
+
+Silk crawls toward [[Mana]] sources, spitting out filaments and wrapping them into balls around energy sources to store as reserves. The creature tucks these balls into the folds of its skin, nestled safely in its ringed segments.
 
 ## Possible Connection to Mana Moths
 
@@ -47,10 +55,11 @@ When questioned about a connection between Silk and [[Mana Moths]], Moyo could o
 
 ## Relationships
 
-- **[[Moyo Chibuye]]**: [[Yzmir]] Initiate who feeds and cares for Silk; potential Musubi partner
+- **[[Moyo Chibuye]]**: [[Yzmir]] [[Exalts|Exalt]] bonded with Silk through [[The Musubi]] (393 AC)
 - **[[The Nilam]]**: Dead world-tree where Silk was discovered dormant
-- **[[Nilam Spires]]**: Facility where Silk is housed and studied
+- **[[Nilam Spires]]**: Facility where Silk is housed; location of Moyo's workshop
 - **[[Saskia Averina]]**: Researcher called in to study Silk after discovery
-- **[[Zaj Ke Va]]**: Satrap who inquired about Silk's potential as Alter Ego
+- **[[Zaj Ke Va]]**: Satrap who inquired about Silk's potential as Alter Ego (393 AC)
 - **[[Mana Moths]]**: Species with possible connection to Silk
-- **[[The Musubi]]**: Bonding ceremony Silk may undergo with Moyo
+- **[[The Musubi]]**: Bonding ceremony Silk underwent with Moyo (393 AC)
+- **[[Kuraokami]]**: Dragon whose liberation led to recovery of Nilam bark containing Silk

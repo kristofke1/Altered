@@ -1,88 +1,93 @@
 ---
 title: Kuraokami
-type: entity
-category: dragon
-source: ["[[L19_The_Storvhit]]", "[[L26_Nilam]]", "[[T29_White_Out]]", "[[T30_Murky_Truths]]", "[[L30_Clear_Skies]]"]
+type: character
+category: oneiros
+source:
+  - "[[L22_Kuraokami]]"
+  - "[[L26_The_Nilam]]"
+  - "[[L30_Clear_Skies]]"
+  - "[[T29_White_Out]]"
+  - "[[T30_Murky_Truths]]"
 birth_date: null
 death_date: null
 status: living
 fate: "Freed from imprisonment (May 393 AC)"
-species: dragon
+species: oneiros
 affiliated_faction: null
 imprisonment_date: "~303 AC"
 liberation_date: "May 393 AC"
-key_events: ["Imprisonment in The Nilam", "305 AC Tsunami Weapon", "Liberation by Exalts", "Conversation with Afanas", "Climate consequences post-liberation"]
-locations_associated: ["[[The Nilam]]", "[[Cais Adarra]]", "[[Storvhit]]"]
-tags: [dragon, kuraokami, nilam, storvhit, oneiros]
+key_events:
+  - "Imprisonment in The Nilam (~303 AC)"
+  - "305 AC Tsunami"
+  - "Liberation by Exalts (May 393 AC)"
+locations_associated:
+  - "[[The Nilam]]"
+  - "[[Cais Adarra]]"
+  - "[[Storhvit]]"
+tags:
+  - oneiros
+  - dragon
+  - kuraokami
+  - storhvit
+  - nilam
+aliases:
+  - The Snow Wraith
+  - Spirit of the Snows
 ---
 
 # Kuraokami
 
 ## Overview
 
-Kuraokami is dragon imprisoned within [[The Nilam]] fossilized world-tree at [[Cais Adarra]] for approximately 90 years (~303-393 AC). Freed in May 393 AC when [[Exalts|Exalt]] assault shattered prison.
+Kuraokami is a primordial dragon [[The Oneiroi|Oneiros]] embodying the concepts of rain and snow. He was imprisoned within [[The Nilam]], a dead world-tree at [[Cais Adarra]], for approximately ninety years (~303–393 AC) by the [[Sylas|Chrysanthemum Cloaked Warlock]]. His presence transformed the surrounding region into a perpetually frozen expanse, creating the artificial arctic climate of [[Storhvit]]. He was liberated by [[Exalts]] in May 393 AC.
 
 ## Physical Description
 
-White dragon with serpentine form, pearly eye, gleaming scales. Mane drifts on breeze. Creates iridescent shimmer when moving. Can manifest as white light or ribbon-like form in sky.
+Kuraokami manifests as a white dragon with a serpentine form, pearly eyes, and gleaming enamel-like scales. His mane drifts as though on a breeze, and cerulean mists shimmer around his eyes. He moves fluidly and silently, creating an iridescent shimmer when in motion, and can manifest as white light or a ribbon-like form in the sky.
 
-## Timeline
+## Imprisonment
 
-### ~303 AC - Imprisonment
+The [[Sylas|Chrysanthemum Cloaked Warlock]] summoned Kuraokami's [[Eidolons|Eidolon]] to an already-dead world-tree at [[Cais Adarra]] around 303 AC, ostensibly to regenerate it. He then used what Kuraokami described as "unholy artifice" to trap the dragon within the trunk, turning its bark into prison walls. The method completely excised Kuraokami from the collective unconscious, preventing him from manifesting as an Eidolon — a technique with only one known parallel, the Mirror anomaly that had similarly trapped an [[The Oneiroi|Oneiros]].
 
-[[Sylas|Chrysanthemum Cloaked Warlock]] summoned Kuraokami's [[Eidolons|Eidolon]] to already-dead world-tree at [[Cais Adarra]] under pretense of regenerating it. Used "unholy artifice" to trap dragon within trunk, turning bark into prison walls. Method excised Kuraokami completely from collective unconscious making summoning impossible, similar to how Mirror trapped [[Oneiros]].
+The Warlock constructed a triple-walled containment system. The first wall was [[The Nilam]]'s fossilized bark as physical prison. The second was engineered glaciation using Kuraokami's siphoned essence, which transformed [[Cais Adarra]] from a mild climate to a polar wasteland, forcing the abandonment of a pre-existing human settlement. The third was the [[Belisenki]], a moth-like species created by the Warlock as guardians suited to cold and driven to repel outsiders.
 
-CCW constructed triple-walled containment: **First wall** - [[The Nilam]]'s fossilized bark as physical prison. **Second wall** - engineered glaciation using dragon's siphoned essence transforming [[Cais Adarra]] from mild climate to polar wasteland, pre-glaciation settlement abandoned. **Third wall** - [[Belisenki]] species created as guardians "suited to cold, would do anything to keep outsiders away."
+During his imprisonment, Kuraokami's rage caused persistent environmental effects including earthquakes, sky rumbles, cold currents seeping from the tree, frozen streams spiraling around the trunk, and white lightning through the branches. He was able to project his voice beyond the prison, manifesting as whispers, ground-shaking roars, or an almost tangible presence — a phenomenon early explorers called "The Snow Wraith" before identifying its source.
 
-During imprisonment Kuraokami's rage caused environmental effects: earthquakes, sky rumbles, cold currents seeping from tree, frozen streams spiraling around trunk, white lightning through branches.
+## The 305 AC Tsunami
 
-### 305 AC - Tsunami Weapon
+Two years after imprisonment, the Warlock siphoned Kuraokami's essence and weaponized it to create a devastating tsunami that struck [[Arkaster]]. The attack killed Basileus [[Itzamna ruun-Heeren]], thousands of civilians, and much of the government. [[Aroro Niski]] sacrificed herself defending the capital.
 
-CCW siphoned Kuraokami's essence and weaponized it, creating tsunami that devastated [[Arkaster]]. Attack killed [[Itzamna ruun-Heeren|Basileus Itzamna]], thousands of civilians, much of government. [[Aroro Niski]] sacrificed herself defending capital. Occurred 2 years after imprisonment began.
+## Liberation
 
-### May 393 AC - Liberation
+[[Fen]], granddaughter of the previous Shepherd of [[The Ouroboros]], first established communication with Kuraokami using her Wind affinity, confirming his identity as an imprisoned [[The Oneiroi|Oneiros]]. This discovery created an ethical dilemma for [[Temera Singh]]: [[The Covenant]]'s First Law required protection of all life (including the [[Belisenki]] ecosystem dependent on the cold), while [[The Concord]] obligated aid to the [[The Oneiroi|Oneiroi]], who viewed the imprisonment of one of their own as anathema.
 
-Multiple [[Exalts]] launched synchronized assault on [[The Nilam]]: [[Atsadi]], [[Sierra]], [[Rin]], [[Gulrang Oduro]], [[Crowbar]], [[Afanas Korovinovich]], [[Sigismar Synd]]. Dragon hammered from within while [[Exalts]] attacked from outside, with [[Sigismar Synd]]'s kelonic spear strike (delivered by transmuted [[Wingspan]]) shattering trunk. Kuraokami streaked skyward in flash of white light and vanished into lightning. Storm was still rumbling when Kuraokami took flight, emerging from shattered trunk of [[The Nilam]] during raging [[The Tumult]] hurricane. When dragon rose high into sky, roar alone scattered clouds gathered over [[Storvhit]], causing gray skies to give way to permanent blue.
+In May 393 AC, multiple Exalts launched a synchronized assault on [[The Nilam]]: [[Atsadi]], [[Sierra]], [[Rin]], [[Gulrang Oduro]], [[Crowbar]], [[Afanas Korovinovich]], and [[Sigismar Synd]]. Kuraokami hammered from within while the Exalts attacked from outside, redirecting the power of a [[The Tumult|Tumult]] hurricane against the prison. [[Sigismar Synd]] delivered the final strike with a kelonic spear through transmuted [[Wingspan]], shattering the trunk. Kuraokami streaked skyward, and when he rose high, his roar alone scattered the clouds gathered over [[Storhvit]], causing gray skies to give way to permanent blue.
 
-### May 393 AC - Conversation with Afanas
+## Post-Liberation
 
-Immediately after liberation, [[Afanas Korovinovich]] summoned Kuraokami as [[Eidolons|Eidolon]], with dragon appearing initially furious before recognizing Afanas as "bearer of my essence" who survived channeling dragon's power. Kuraokami confirmed imprisonment details, revealed tree was already dead when dragon arrived, explained CCW's "trickery" and triple-walled prison system, and confirmed 305 AC tsunami weapon. Environmental manifestations during conversation included heavy snow, hurricane-force winds, and lightning strikes triggering avalanche, with dragon coiling around Afanas demonstrating power. Kuraokami warned: "Your enemy is sly and treacherous. Unlike you I am eternal. This imprisonment is but brief interlude in my existence. For you it may be living hell if you are caught." [[Afanas Korovinovich|Afanas]] observed flicker of melancholy in dragon's gaze before departure as dragon roared, arced upward, and vanished into lightning.
+Immediately after liberation, [[Afanas Korovinovich]] summoned Kuraokami as an [[Eidolons|Eidolon]]. The dragon appeared initially furious before recognizing Afanas as the "bearer of my essence" who had survived channeling his power. Kuraokami confirmed the details of his imprisonment, revealed the tree was already dead when he arrived, explained the triple-walled prison, and confirmed the 305 AC tsunami. He warned Afanas: "Your enemy is sly and treacherous. Unlike you, I am eternal. This imprisonment is but a brief interlude in my existence. For you, it may be a living hell if you are caught."
 
-## Post-Liberation Consequences
-
-### Climate Crisis at Storvhit
-
-Liberation was necessary to honor alliance with [[Oneiros]], ending imprisonment. However, absence had troubling consequences for [[Storvhit]]. Temperatures rose, and snow, glaciers, and ice caps began melting at alarming rate. While this came as relief to [[Rediscovery Endeavor|Expeditionary Corps]], swift action required to safeguard [[Winter Folk]] and take drastic measures preventing unique ecosystem from deteriorating further. Liberation revealed climate of [[Storvhit]] had been entirely artificial all along, maintained by Kuraokami's imprisoned presence.
-
-### Replacement Decision
-
-Replacing Kuraokami became undeniable priority to maintain region's arctic climate. Various [[Oneiros]] candidates considered for patronage of [[Winter Folk]] and [[Belisenki]]:
-
-**Considered but Deemed Too Human-Centered:**
-- Snow Queen
-- Baron Kelvin
-- Dong Da Shen
-- Santa Claus
-
-**Ruled Out (Insufficient Capability):**
-- Snow Maiden: Needed cold to exist but could not generate it
-- Yeti: Needed cold to exist but could not generate it
-
-[[Jack Frost]], with immanent nature, best embodied kind of winter necessary for biome survival. Despite protests about constant mischief, decision was not about human governance or administration but about presence of entity capable of sustaining cold.
+Kuraokami's departure caused temperatures across [[Storhvit]] to rise, with snow, glaciers, and ice caps melting at an alarming rate — revealing the climate had been entirely artificial. [[Jack Frost]] was subsequently selected as replacement tutelary [[The Oneiroi|Oneiros]] to sustain the arctic ecosystem, and the region was designated [[Caer Nilam]] Province.
 
 ## Relationships
 
-- **[[Sylas|Chrysanthemum Cloaked Warlock]]**: Imprisoner who created triple-walled prison, weaponized dragon's essence
-- **[[The Nilam]]**: Prison for approximately 90 years; Kuraokami emerged from shattered trunk upon liberation (393 AC)
-- **[[Afanas Korovinovich]]**: Summoned dragon after liberation, received information about imprisonment
-- **[[Sigismar Synd]]**: Delivered final strike shattering prison
-- **[[Belisenki]]**: Species created by CCW as prison guardians
-- **[[Aroro Niski]]**: Died defending [[Arkaster]] against weaponized essence (305 AC)
-- **[[Itzamna ruun-Heeren]]**: Killed by tsunami weapon (305 AC)
-- **[[Wanjiru]]**: Appeared at [[Cais Adarra]] shortly after conversation with Afanas
-- **[[Rediscovery Endeavor]]**: Organization whose [[Exalts]] accomplished liberation
-- **[[Cais Adarra]]**: Mountain location of imprisonment and conversation
-- **[[Storvhit]]**: Region where liberation occurred; climate destabilized after Kuraokami's departure
-- **[[Jack Frost]]**: [[Oneiros]] selected to replace Kuraokami as patronage for [[Storvhit]] following liberation (393 AC)
-- **[[Winter Folk]]**: Indigenous arctic wildlife requiring climate protection after Kuraokami's departure
-- **[[Temera Singh]]**: Grand Admiral documenting liberation consequences and replacement decision (May 15, 393 AC)
+- **[[Afanas Korovinovich]]**: Summoned Kuraokami after liberation; received testimony about imprisonment and warning about the Warlock (May 393 AC)
+- **[[Aroro Niski]]**: Died defending [[Arkaster]] against the 305 AC tsunami created from Kuraokami's weaponized essence
+- **[[Atsadi]]**: [[Bravos]] Exalt who participated in the liberation assault (May 393 AC)
+- **[[Belisenki]]**: Species created by the Warlock as the third wall of Kuraokami's prison; functioned as de facto jailers
+- **[[Cais Adarra]]**: Mountain containing [[The Nilam]] and Kuraokami's prison
+- **[[Caer Nilam]]**: Province designated for [[Storhvit]] after liberation, with climate maintained by [[Jack Frost]]
+- **[[Crowbar]]**: [[Axiom]] Exalt who participated in the liberation assault (May 393 AC)
+- **[[Fen]]**: [[Lyra]] Alterer who first communicated with Kuraokami using Wind affinity
+- **[[Gulrang Oduro]]**: [[Ordis]] Exalt who participated in the liberation assault (May 393 AC)
+- **[[Itzamna ruun-Heeren]]**: Basileus killed by the 305 AC tsunami (305 AC)
+- **[[Jack Frost]]**: [[The Oneiroi|Oneiros]] selected to replace Kuraokami as tutelary patron of [[Storhvit]] (May 393 AC)
+- **[[Rin]]**: [[Muna]] Exalt who participated in the liberation assault (May 393 AC)
+- **[[Sierra]]**: [[Axiom]] Exalt who participated in the liberation assault (May 393 AC)
+- **[[Sigismar Synd]]**: [[Ordis]] Exalt who delivered the final strike shattering [[The Nilam]] (May 393 AC)
+- **[[Storhvit]]**: Arctic region whose artificial climate was sustained by Kuraokami's imprisoned essence
+- **[[Sylas|Chrysanthemum Cloaked Warlock]]**: Imprisoner who created the triple-walled prison and weaponized Kuraokami's essence (~303 AC)
+- **[[Temera Singh]]**: Grand Admiral who documented the ethical dilemma, liberation, and consequences (393 AC)
+- **[[The Nilam]]**: Dead world-tree that served as Kuraokami's prison for ~90 years
+- **[[Wanjiru]]**: Appeared at [[Cais Adarra]] shortly after the conversation with Afanas (May 393 AC)
+- **[[Winter Folk]]**: Indigenous arctic fauna whose habitat was threatened by Kuraokami's departure

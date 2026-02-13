@@ -2,22 +2,23 @@
 title: Lyra Skald Secret Society
 type: organization
 category: secret_society
-source: card_lore
-founded:
-founder:
+source: ["card_lore"]
+founded: null
+founder: null
 status: active
-dissolved_date:
-parent_organization:
+dissolved_date: null
+parent_organization: null
 parent_faction: "[[Lyra]]"
 affiliated_faction: "[[Lyra]]"
 alignment: rebel
-purpose: Preserving and sharing forbidden stories that Matriarchs exclude from official repertoires
+purpose: "Preserving and sharing forbidden stories that Matriarchs exclude from official repertoires"
 locations:
   - "[[Arkaster]]"
-key_figures: []
+key_figures:
+  - "[[Somayeh Bahman]]"
 related_organizations:
+  - "[[The Nine Matriarchs]]"
   - "[[The Nine Sisters]]"
-  - "[[Mnemosyne]]"
 tags:
   - lyra
   - secret-society
@@ -29,50 +30,46 @@ aliases:
   - Secret Skalds
 ---
 
-The Lyra Skald Secret Society is a clandestine organization of skalds who serve Memory (Mnemosyne) rather than the Matriarchs. They operate in secret to preserve and share stories that official Lyra authorities exclude from sanctioned repertoires.
+# Lyra Skald Secret Society
 
-## Philosophy and Purpose
+## Overview
 
-The secret skalds reject the Matriarchs' claim to exclusive communion with the Muses. They believe the Nine Sisters must also answer to Memory (Mnemosyne), whom they serve directly. This theological position justifies their disobedience and independent operation.
+The Lyra Skald Secret Society is a clandestine organization of [[Lyra]] skalds who serve [[Mnemosyne]] (Memory) rather than [[The Nine Matriarchs]]. They operate in secret to preserve and share stories that official Lyra authorities exclude from sanctioned repertoires.
 
-### Core Beliefs
-- Stories must not be subject to harsh restrictions
-- Stories should be free to make their way throughout the world
-- Stories need to find echo in minds of listeners
-- What is forgotten must be remembered
-- The Matriarchs have positioned themselves on pedestals for too long
+## Philosophy
+
+The secret skalds reject the Matriarchs' claim to exclusive communion with the Muses. They argue that [[The Nine Sisters]] must also answer to Memory ([[Mnemosyne]]), whom they serve directly. This theological position—that Memory outranks the Muses—justifies their disobedience and independent operation.
+
+The society holds that stories must not be subject to harsh restrictions, that they should be free to make their way throughout the world and find echo in the minds of listeners. They believe what is forgotten must be remembered, and that the Matriarchs have positioned themselves on pedestals for too long.
 
 ## Operating Methods
 
-### Secrecy and Discretion
-Members maintain masquerade of obedience to avoid suffering for sacrilegious rebelliousness. They join in required bowing, keep low profiles publicly, but pursue independent objectives privately. The society operates on the margins of Matriarchal rule in silence and secrecy.
+Members maintain a masquerade of obedience to avoid suffering for their sacrilegious rebelliousness. They join in required bowing and keep low profiles publicly, but pursue independent objectives privately. The society operates on the margins of Matriarchal rule in silence and secrecy.
 
-### Selective Storytelling
-Secret skalds carefully choose audiences before sharing forbidden stories. They wait until audiences are ready and situations are appropriate. This discretion protects both tellers and listeners while ensuring stories reach receptive minds.
+Secret skalds carefully choose audiences before sharing forbidden stories, waiting until audiences are ready and situations are appropriate. This discretion protects both tellers and listeners while ensuring stories reach receptive minds. Members warn each other not to share stories indiscriminately.
 
-### Forbidden Repertoire
-The organization preserves stories that regular skalds conveniently remove from their performances. These narratives often challenge official histories, expose uncomfortable truths, or present alternative perspectives on Lyra traditions and Matriarchal authority.
+## Forbidden Repertoire
 
-## Power of Stories
+The organization preserves stories that regular skalds conveniently remove from their performances. These narratives challenge official histories, expose uncomfortable truths, or present alternative perspectives on Lyra traditions and Matriarchal authority.
 
-Members understand that stories possess inherent power to:
-- Bewitch listeners
-- Disrupt established order
-- Challenge existing beliefs
-- Transform understanding
+Members understand that stories possess inherent power to bewitch listeners, disrupt established order, challenge existing beliefs, and transform understanding.
 
 ## Organizational Structure
 
-The society operates with distributed authority rather than centralized leadership. Members appear to work independently while maintaining shared purpose and communication networks. This structure provides resilience against discovery and persecution.
+The society operates with distributed authority rather than centralized leadership. Members work independently while maintaining shared purpose and communication networks. This structure provides resilience against discovery and persecution.
 
 ## Relationship with Official Lyra
 
-The secret skalds exist in tension with official Lyra structures:
-- They acknowledge Matriarchal authority publicly while subverting it privately
-- They use official training and positions as cover for forbidden activities
-- They believe in Lyra values of storytelling and memory but reject Matriarchal monopolization
-- They serve the same Muses but claim different hierarchical relationships
+The secret skalds exist in tension with official Lyra structures. They acknowledge Matriarchal authority publicly while subverting it privately, using official training and positions as cover for forbidden activities. They believe in Lyra values of storytelling and memory but reject Matriarchal monopolization of communion with the Muses.
 
-## Warning
+## Known Members
 
-Members warn each other not to share stories indiscriminately ("don't just go telling them left, right and center"). Careful audience selection protects the movement while ensuring forbidden knowledge survives. The most important principle remains that stories must never be forgotten, even when remembering them carries risk.
+- **[[Somayeh Bahman]]**: Skald and memorialist of the [[Ventauri Clan]]; elected fourteenth Basilissa of [[Asgartha]] (393 AC)
+
+## Relationships
+
+- **[[Lyra]]**: Parent faction within which the society operates covertly
+- **[[The Nine Matriarchs]]**: Official authority the society defies
+- **[[The Nine Sisters]]**: Muses the society claims must answer to Mnemosyne
+- **[[Mnemosyne]]**: Goddess of Memory whom the society serves directly
+- **[[Somayeh Bahman]]**: Skald who became Basilissa of Asgartha

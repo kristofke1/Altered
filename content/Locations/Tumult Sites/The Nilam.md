@@ -7,11 +7,13 @@ source:
   - "[[L28_Letter_to_Efren]]"
   - "[[T32_Down_the_rabbit_hole]]"
   - "[[The Gig]]"
+  - "[[T48_Remnants]]"
+  - "[[T50_Knit]]"
 year_established: unknown (ancient)
 year_destroyed: unknown (long ago)
 status: dead
-affiliated_faction: null
-founded_by: null
+affiliated_faction:
+founded_by:
 characters:
   - "[[Nauraa]]"
   - "[[Teija]]"
@@ -23,7 +25,7 @@ key_events:
   - Archaeological excavations revealing pre-glaciation settlement (393 AC)
 locations_associated:
   - "[[Cais Adarra]]"
-  - "[[Storvhit]]"
+  - "[[Storhvit]]"
   - "[[Caer Nilam]]"
 tags:
   - world-tree
@@ -33,6 +35,9 @@ tags:
   - kuraokami
   - crystallized
   - mana-absorption
+aliases:
+  - Világfa
+  - égig érő fa
 ---
 
 # The Nilam
@@ -40,6 +45,8 @@ tags:
 ## Overview
 
 The Nilam is colossal dead world-tree discovered at heart of [[Cais Adarra]] mountain on April 2, 393 AC, with proportions rivaling [[The Spindle]]. Named for bluish hue of crystallized wood, tree harbors imprisoned [[Oneiros]] [[Kuraokami]] within trunk. Despite death, xylem system continues absorbing vast [[Mana]] amounts rising from ground, contributing to [[Kuraokami]]'s confinement.
+
+Frescos discovered in the [[Pelagonian Quadrant]] refer to world-trees as "Világfa" (also rendered as "égig érő fa," meaning "tree that reaches the heavens"), the term used by inhabitants of the [[City of Scholars]] before their flight to the sky.
 
 ## Physical Description
 
@@ -49,7 +56,7 @@ Trunk reaches skyward within shadows of fractured mountain with crown nearly tou
 
 ### Crystallized State
 
-Fibers frozen and solidified becoming hard as crystal. Limbs long since shed leaves permanently. Entire inner wood glows with iridescent blue light visible throughout structure. Bark exhibits numerous perforations and gashes of non-natural origin penetrating deep into phloem network where [[Kuraokami]] imprisoned. Crystallization process transformed organic wood into mineral-like substance similar to dead world-tree discovered deep in [[Storvhit]] gorge.
+Fibers frozen and solidified becoming hard as crystal. Limbs long since shed leaves permanently. Entire inner wood glows with iridescent blue light visible throughout structure. Bark exhibits numerous perforations and gashes of non-natural origin penetrating deep into phloem network where [[Kuraokami]] imprisoned. Crystallization process transformed organic wood into mineral-like substance similar to dead world-tree discovered deep in [[Storhvit]] gorge.
 
 ## Mana Absorption Properties
 
@@ -85,7 +92,7 @@ Mysterious machine found encased in ice at nearby Cobalt Gorge demonstrates sett
 
 ### Climate Context
 
-Soil analysis revealed [[Cais Adarra]] region and entire [[Storvhit]] enjoyed much milder climate barely century ago, similar to current weather in [[Tilted Steppes]] of [[Caer Oorun]]. Region transformed from once-lush land to polar conditions in few decades through sudden glaciation. Deeper study of sediments and geological formations suggests shift was sudden, possibly using [[Alteration]] to shape arctic landscapes.
+Soil analysis revealed [[Cais Adarra]] region and entire [[Storhvit]] enjoyed much milder climate barely century ago, similar to current weather in [[Tilted Steppes]] of [[Caer Oorun]]. Region transformed from once-lush land to polar conditions in few decades through sudden glaciation. Deeper study of sediments and geological formations suggests shift was sudden, possibly using [[Alteration]] to shape arctic landscapes.
 
 Settlement abandonment before glaciation onset suggests inhabitants migrated. Questions remain whether they were descendants of [[The Lost Tribe]] or other [[Tumult Nomads]], and whether descendants still wander world.
 
@@ -97,11 +104,17 @@ Settlement abandonment before glaciation onset suggests inhabitants migrated. Qu
 
 ### Provincial Incorporation
 
-[[The Asterion]] desires incorporation of [[Storvhit]] region into Asgarthan Protectorate for political and economic reasons. [[Muna]] mediators will remain stationed tempering ambitions of [[Companies|Corporations]], Guilds, and other Factions seeking to exploit region's resources. Once area stabilized, [[Storvhit]] becomes eligible for potential settlement strategy. Explored territory gains official Province status under name [[Caer Nilam]] honoring fallen world-tree.
+[[The Asterion]] desires incorporation of [[Storhvit]] region into Asgarthan Protectorate for political and economic reasons. [[Muna]] mediators will remain stationed tempering ambitions of [[Companies|Corporations]], Guilds, and other Factions seeking to exploit region's resources. Once area stabilized, [[Storhvit]] becomes eligible for potential settlement strategy. Explored territory gains official Province status under name [[Caer Nilam]] honoring fallen world-tree.
 
 ### Regional Emblem
 
 Cartographers marked atlases with [[The Nilam]]'s location. Heraldists used tree's image designing region's emblem. [[Caer Nilam]] becomes first addition brought forth by [[Rediscovery Endeavor]] following recent reconquest of [[Caer Oorun]]. Development serves as undeniable proof initiative benefits [[Asgartha]]n civilization, significantly strengthening standing among Asgarthan population.
+
+## Seedling Carried by City of Scholars Refugees
+
+Frescos discovered on a floating island in the [[Pelagonian Quadrant]] document that refugees fleeing the [[City of Scholars]] took a fertile Nilam seed with them. The refugees cultivated this seedling during their journey through the quadrants after escaping via a levitating tower-city.
+
+The [[Leviathans|Leviathan]] [[Halua]] was born from this seedling, emerging from its bark. Halua lived alongside the refugees who venerated the growing tree until they began harvesting [[Sap]] from it. When Halua attempted to protect the tree, the refugees captured and imprisoned him before exiling him beyond the cloudline. Halua retains a connection to this tree and continues to feel its pain.
 
 ## Comparison to Other World-Trees
 
@@ -111,7 +124,7 @@ Both trees exhibit colossal proportions serving as knots in [[The Skein]]. Both 
 
 ### Root Network Extent
 
-The Nilam's roots extend deep into [[Storvhit]] gorge, where [[Rin]] and [[Arjun]] encountered crystallized wood transformed into crystal-hard opalescent substance. The root network's vast reach demonstrates the tree's colossal scale, with tendrils penetrating far beyond [[Cais Adarra]] into surrounding terrain.
+The Nilam's roots extend deep into [[Storhvit]] gorge, where [[Rin]] and [[Arjun]] encountered crystallized wood transformed into crystal-hard opalescent substance. The root network's vast reach demonstrates the tree's colossal scale, with tendrils penetrating far beyond [[Cais Adarra]] into surrounding terrain.
 
 ## Larva Discovery - 393 AC
 
@@ -132,11 +145,11 @@ When [[Teija]] and [[Nauraa]] passed The Nilam en route to [[The Screed]], the d
 - **[[Nauraa]]**: [[Muna]] Alter Ego who experienced profound melancholy upon seeing The Nilam; the tree reminded him of [[Katkera]] (393 AC)
 - **[[Teija]]**: [[Muna]] Exalt who passed The Nilam with [[Nauraa]] and shared the grief through their bond (393 AC)
 - **[[Mana Moths]]**: Moths circling The Nilam's crystal branches continuously; their wingbeats interpreted as sorrow
-- **[[Rin]]**: [[Lyra]] Exalt who encountered The Nilam's crystallized roots in [[Storvhit]] gorge
-- **[[Arjun]]**: [[Muna]] Exalt who encountered The Nilam's crystallized roots in [[Storvhit]] gorge
+- **[[Rin]]**: [[Lyra]] Exalt who encountered The Nilam's crystallized roots in [[Storhvit]] gorge
+- **[[Arjun]]**: [[Muna]] Exalt who encountered The Nilam's crystallized roots in [[Storhvit]] gorge
 - **[[Sierra]]**: [[Axiom]] engineer who conducted archaeological excavations revealing pre-glaciation settlement (393 AC)
 - **[[The Spindle]]**: Living world-tree [[The Nilam]] compared to for decline research; [[Teija]] fears similar fate
-- **[[Storvhit]]**: Region containing [[The Nilam]], designated for [[Caer Nilam]] Province
+- **[[Storhvit]]**: Region containing [[The Nilam]], designated for [[Caer Nilam]] Province
 - **[[Caer Nilam]]**: Future Province named honoring [[The Nilam]]
 - **[[Muna]]**: Faction conducting arborist research and proposing Tenth Refuge
 - **[[Axiom]]**: Faction conducting botanical analysis and archaeological excavations
@@ -144,7 +157,9 @@ When [[Teija]] and [[Nauraa]] passed The Nilam en route to [[The Screed]], the d
 - **[[Temera Singh]]**: Grand Admiral who documented discovery (April 2, 393 AC)
 - **[[Winter Folk]]**: Indigenous population targeted for diplomatic dialogue
 - **[[Belisenki]]**: Species targeted for diplomatic dialogue through Tenth Refuge
-- **[[The Asterion]]**: Political body desiring [[Storvhit]] incorporation into Protectorate
+- **[[The Asterion]]**: Political body desiring [[Storhvit]] incorporation into Protectorate
 - **[[Katkera]]**: Sacred forest The Nilam reminded [[Nauraa]] of
 - **Cobalt Gorge**: Nearby location where mysterious relic from pre-glaciation settlement discovered
 - **Pre-glaciation colony**: Ancient human settlement of several hundred people in tree's shadow with advanced technology
+- **[[Halua]]**: [[Leviathans|Leviathan]] born from a Nilam seedling cultivated by [[City of Scholars]] refugees; exiled after attempting to protect the tree from [[Sap]] harvesting
+- **[[City of Scholars]]**: Ruined city whose refugees carried a Nilam seed during their escape

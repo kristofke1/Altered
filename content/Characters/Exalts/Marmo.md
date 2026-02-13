@@ -41,7 +41,7 @@ Marmo possesses a dorsal antenna that can part [[The Tumult|Tumult]] mist, usefu
 ### 392 AC - Cave Exploration with Subhash
 Marmo explored cave tunnels with [[Subhash Kadis]], using dorsal antenna to part [[The Tumult|Tumult]] mist while Bash summoned a [[Kelon Elemental]] to detect deposits.
 
-### 393 AC - Playing with Oddball at The Screed
+### 393 AC, June-September - Playing with Oddball at The Screed
 Marmo played with [[Oddball]] at [[Subhash Kadis]]'s workbenches near [[The Screed]]'s chasm, chasing each other through scrap piles while Sierra and Bash discussed research.
 
 ## Relationships

@@ -2,7 +2,7 @@
 title: Booda
 type: character
 category: chimera
-source: ["heroes_bravos", "[[T33_The_Duel]]", "[[L23_Butterfly_Effect]]"]
+source: ["heroes_bravos", "[[T33_The_Duel]]", "[[L23_Butterfly_Effect]]", "BRAVOS_minor_narrators_lore"]
 birth_date: ~385-390 AC
 death_date: 
 reign_period: 
@@ -18,6 +18,7 @@ lineage:
 key_events:
   - "[[The Musubi]]"
   - "[[The Rediscovery Endeavor]]"
+  - "[[Battle of Madan Bay]]"
 locations_associated:
   - "[[Arkaster]]"
   - "[[City of Scholars]]"
@@ -52,13 +53,13 @@ During [[Kojo Oduro]]'s ceremony to receive the [[Carnelian Crown]] from Basileu
 
 At the moment the crown was placed upon Kojo's head, Booda let out a roar that was echoed by the crowd's cheers, affirming their shared triumph over the [[Kraken]].
 
-## Timeline of Activities
+## Timeline
 
-### 393 AC - Belisenki Night Assault at Storvhit
+### 393 AC, February - Belisenki Night Assault at Storvhit
 
-Booda accompanied [[Kojo Oduro]] into combat during [[Belisenki]] night assault on convoy near [[Storvhit]], melting frost with each step. When [[Gulrang Oduro]] grabbed Kojo's collar warning him to take cover, Booda growled protectively. During the battle, Booda's incandescent glow zigzagged through the icy turmoil fighting alongside expedition forces until [[Akesha Adhikari]] distributed [[Mana Moths]] chrysalides that ended the [[Belisenki]] hostility.
+Booda accompanied [[Kojo Oduro]] into combat during [[Belisenki]] night assault near [[Storhvit]], fighting alongside expedition forces until [[Akesha Adhikari]] distributed [[Mana Moths]] chrysalides that ended the hostility.
 
-### 393 AC - City of Scholars Exploration
+### 393 AC, June - City of Scholars Exploration
 Booda accompanied [[Kojo Oduro]] through the tunnels of the [[City of Scholars]] as Kojo followed [[Atsadi]]. When Atsadi confronted Kojo about trailing him, Booda curled up at Kojo's feet during their conversation and growled softly in disapproval when Atsadi harshly rejected Kojo's request to become his apprentice.
 
 ## Personality
@@ -66,7 +67,7 @@ Booda is both powerful and mischievous. Despite his fearsome appearance as a fla
 
 ## Relationships
 
-- **[[Kojo Oduro]]**: Bonded partner through Musubi, rescuer who raised Booda from cub
+- **[[Kojo Oduro]]**: Bonded partner through Musubi, rescuer who raised Booda from cub; identified by [[Waru Toowoom]] as Kojo's greatest asset among his four strengths
 - **[[Muna]]**: Faction members who assisted in providing Mana for Booda's needs
 - **Jusaka Blaze**: Altrun team for which Booda serves as mascot and emblem
 - **[[Avkan ruun-Heshkari]]**: Basileus who presented Carnelian Crown to Kojo and Booda

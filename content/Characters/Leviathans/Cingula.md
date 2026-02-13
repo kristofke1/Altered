@@ -2,7 +2,7 @@
 title: Cingula
 type: character
 category: leviathan
-source: ["T9_Chrysanthemum", "T10_Mise_En_Abyss", "L0_Global_Timeline"]
+source: ["T9_Chrysanthemum", "T10_Mise_En_Abyss", "L0_Global_Timeline", "heroes_ordis_zhen"]
 birth_date:
 death_date:
 status: living
@@ -53,6 +53,8 @@ The 80-year cycle means the next attack would theoretically occur around 420 AC.
 
 During Cingula's most recent incursion, both [[Ordis]] sky vessels—[[Mandjet]] (the Day Barque) and [[Mesektet]] (the Night Barque)—suffered damage while defending the peninsula. [[Mesektet]] was lost within [[The Tumult]] in [[Caer Oorun]] during this engagement. [[Mandjet]] survived but required extensive repairs, remaining in [[Sadracca]] for reconstruction as of 392 AC.
 
+[[Madelyn Moss]], a scientist, was aboard Mesektet to test an invention when the ship went down. She died in an explosion on the scientific bridge. Her husband [[Bai Shan-shu]] used [[Zephyr]]'s abilities to save many crew members, earning the Purple Star. Decades later, Shan-shu confessed on his deathbed to his daughter [[Zhen]] that he had caused the Mesektet's crash—suggesting the attack attributed to Cingula involved additional factors.
+
 ## Personal Losses
 
 ### Attack on Basira's Family
@@ -74,3 +76,6 @@ The fact that [[Mamello]] formally named Cingula establishes the taxonomist trad
 - **[[Afanas Korovinovich]]**: [[Yzmir]] Exalt who bonded with Basira over similar losses
 - **[[Mandjet]]**: [[Ordis]] Day Barque damaged during 340 AC attack
 - **[[Mesektet]]**: [[Ordis]] Night Barque lost during 340 AC attack
+- **[[Madelyn Moss]]**: Scientist who died aboard [[Mesektet]] during 340 AC attack
+- **[[Bai Shan-shu]]**: [[Tagmata]] officer who saved crew during 340 AC attack; later confessed to causing the crash
+- **[[Zhen]]**: Daughter of Madelyn and Shan-shu; investigating the Mesektet conspiracy

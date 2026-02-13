@@ -3,20 +3,26 @@ title: Amarok
 type: character
 category: eidolon
 source: card_lore
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: eidolon
-fate: null
+fate:
 species: eidolon
 became_oneiros: true
-affiliated_faction: null
+affiliated_faction:
 founded_organizations: []
 titles: []
-lineage: null
+lineage:
 key_events: []
-locations_associated: ["[[Storvhit]]"]
-tags: [eidolon, wolf, giant, frost, bravos]
+locations_associated:
+  - "[[Storhvit]]"
+tags:
+  - eidolon
+  - wolf
+  - giant
+  - frost
+  - bravos
 ---
 
 # Amarok
@@ -37,13 +43,13 @@ Amarok demonstrates predatory behavior, charging through forests and flattening 
 
 ### 393 AC - Kojo's Summoning
 
-During [[Storvhit]] expedition, [[Kojo Oduro]] summoned Amarok despite [[Atsadi]]'s instructions not to call upon the creature. [[Atsadi]] had intended for Amarok to focus on [[Belisenki]] threat, requiring that [[Kojo Oduro]]'s companion remain completely still without blinking.
+During [[Storhvit]] expedition, [[Kojo Oduro]] summoned Amarok despite [[Atsadi]]'s instructions not to call upon the creature. [[Atsadi]] had intended for Amarok to focus on [[Belisenki]] threat, requiring that [[Kojo Oduro]]'s companion remain completely still without blinking.
 
 However, someone ordered [[Cathal]] to run away, causing Amarok to lose interest in the enemies and instead charge through pines pursuing [[Cathal]]. The creature flattened trees in its path while growing to gigantic proportions with frost forming on its fur. [[Cathal]] used trees for support and [[Alteration]] to push forward, but Amarok caught up in single stride with oversized legs. [[Cathal]] dashed to tree trunk then leapt into air, landing on wolf's fur rather than being caught in its jaws.
 
 ## Relationships
 
-- **[[Kojo Oduro]]**: Summoner who called Amarok during [[Storvhit]] expedition against [[Atsadi]]'s instructions (393 AC)
+- **[[Kojo Oduro]]**: Summoner who called Amarok during [[Storhvit]] expedition against [[Atsadi]]'s instructions (393 AC)
 - **[[Atsadi]]**: Had instructed [[Kojo Oduro]] not to summon Amarok during expedition (393 AC)
 - **[[Cathal]]**: Target that Amarok chased through pines after being ordered to run (393 AC)
 - **[[Belisenki]]**: Intended targets that Amarok was meant to focus on before being distracted

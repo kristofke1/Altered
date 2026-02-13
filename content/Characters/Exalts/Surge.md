@@ -2,7 +2,7 @@
 title: Surge
 type: character
 category: chimera
-source: ["heroes_bravos", "[[T33_The_Duel]]"]
+source: ["heroes_bravos", "[[T33_The_Duel]]", "card_lore"]
 birth_date: ~370-375 AC
 death_date: 
 reign_period: 
@@ -60,17 +60,17 @@ As soon as [[Atsadi]] could walk, he went to the glass lake where [[Aurora]] rem
 Surge's nature as a being of living lightning, born from Aurora's light, gives him unique properties that may eventually prove crucial in the quest to free Aurora.
 
 ## Appearance
-Surge appears as living lightning given humanoid form. He is described as "crackling light" and "as if a lightning bolt had taken on a humanoid silhouette." His form embodies the electrical and luminous nature of his creation, born from both Aurora's divine light and the sacrificed cicada.
+Surge appears as living lightning given humanoid form. He is described as "crackling light" and "as if a lightning bolt had taken on a humanoid silhouette." His form embodies the electrical and luminous nature of his creation, born from both Aurora's divine light and the sacrificed cicada. Surge can also take a cicada form, in which he produces cymbal-like sounds while perched on [[Atsadi]]'s shoulder.
 
 ## Relationship with Atsadi
 Surge shares [[Atsadi]]'s quest to free [[Aurora]] from her crystal prison. His birth was an act of Aurora's love and sacrifice - her final effort to save Atsadi's life even as she was being imprisoned. This origin creates a deep connection between Surge, Atsadi, and the imprisoned Aurora.
 
 Through the [[The Musubi|Musubi]] ceremony, Surge and Atsadi formalized their bond as Alterer and Alter Ego, uniting in the quest to obtain [[Excalibur]] and achieve the impossible: cracking the crystal prison and reuniting with Aurora.
 
-## Timeline of Activities
+## Timeline
 
 ### 392 AC - Training with Atsadi
 Surge served as [[Atsadi]]'s training partner, disappearing and reappearing with lightning speed and crackling ozone to test Atsadi's reaction time while sheltering within Atsadi's jian between attacks.
 
-### 393 AC - City of Scholars Exploration
+### 393 AC, June - City of Scholars Exploration
 Surge accompanied [[Atsadi]] into the depths of the [[City of Scholars]], standing guard during rest stops and scouting ahead through tunnels. When Atsadi found the cylindrical memory library, Surge slipped between obsidian blocks, following etched lines in the stone like an electric circuit. Surge observed that the chamber was "a library of memories" rather than books. During Atsadi's subsequent duel with [[Fiore dei Liberi]], Surge's power contributed to Atsadi's victory when the swordsman erupted in flames to overcome the master duelist.

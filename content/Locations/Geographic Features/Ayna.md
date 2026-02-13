@@ -25,14 +25,14 @@ tags: [lake, arkaster, water-source, irrigation]
 # Ayna
 
 ## Overview
-Ayna is a high-altitude lake in [[Arkaster]] that serves as the water source for the [[Kadigir]]'s irrigation system.
+Ayna is a high-altitude lake in [[Arkaster]] that serves as the water source for [[The Kadigir]]'s irrigation system.
 
 ## Irrigation System
-An impressive irrigation system channels water from Ayna to the verdant terraces of the [[Kadigir]] in [[Kuth Kanat]]. The water then continues downward to supply the workshops of the [[Axiom]] Bastion below.
+An impressive irrigation system channels water from Ayna to the verdant terraces of [[The Kadigir]] in [[Kuth Kanat]]. The water then continues downward to supply the workshops of the [[Axiom]] Bastion below.
 
 ## Relationships
 - **[[Arkaster]]**: City containing the lake
-- **[[Kadigir]]**: Yzmir Bastion supplied by Ayna's waters
+- **[[The Kadigir]]**: Yzmir Bastion supplied by Ayna's waters
 - **[[Kuth Kanat]]**: District where the irrigation system operates
 - **[[Yzmir]]**: Faction whose Bastion benefits from the water
 - **[[Axiom]]**: Faction whose workshops receive water from the system

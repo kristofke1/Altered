@@ -6,11 +6,11 @@ source:
   - heroes_muna
   - "[[T32_Down_the_rabbit_hole]]"
   - "[[T41_forget_me_not]]"
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: living
-fate: null
+fate:
 species: chimera
 became_oneiros: false
 affiliated_faction: "[[Muna]]"
@@ -18,7 +18,7 @@ founded_organizations: []
 titles:
   - Alter Ego
   - Exalt
-lineage: null
+lineage:
 key_events:
   - "[[Rediscovery Endeavor]]"
   - "[[The Musubi|Musubi]]"
@@ -26,7 +26,7 @@ locations_associated:
   - "[[Katkera]]"
   - "[[The Spindle]]"
   - "[[Kiragata Wetlands]]"
-  - "[[Storvhit]]"
+  - "[[Storhvit]]"
   - "[[The Nilam]]"
   - "[[The Screed]]"
   - "[[The Crow's Eye]]"
@@ -64,16 +64,16 @@ Nauraa works alongside [[Teija]] to combat creatures corrupted by [[The Fagn]] i
 ### 392 AC - Post-Battle Recovery
 After fighting to escape a swamp, Nauraa's red fur bore scabs of coagulated blood from harsh ordeals. While Teija fished, Nauraa stared hungrily at the water surface, lay stretched out for siesta, then leaped into the pond disrupting the catch when the float sank.
 
-### ~393 AC - Fleeing Belisenki at Storvhit
-Nauraa fled through [[Storvhit]] forest while pursued by hordes of [[Belisenki]], aided by [[Eidolons]] and [[Simbi]] manifested by [[Teija]].
+### 393 AC, January-March - Fleeing Belisenki at Storvhit
+Nauraa fled through [[Storhvit]] forest while pursued by hordes of [[Belisenki]], aided by [[Eidolons]] and [[Simbi]] manifested by [[Teija]].
 
-### 393 AC - Melancholy at The Nilam
+### 393 AC, April-May - Melancholy at The Nilam
 While passing [[The Nilam]], Nauraa reacted with prolonged melancholy, staring at the dead world-tree and listening to [[Mana Moths]] circling its crystal branches. Nauraa told Teija the moths' wingbeats cried out their sorrow and described sensing a hollow space where something was missing—like a void where there should have been absence of void. The tree reminded Nauraa of [[Katkera]] and the time before bonding with Teija.
 
-### 393 AC - Descent into The Crow's Eye
-Nauraa's fur shifted from white winter pelt to deep brown and black after crossing [[Storvhit]], adapting to conditions. At [[The Screed]], Nauraa entered freight elevator cage despite loathing cages, lying down at center of platform without prompting from Teija. During descent into [[The Crow's Eye]], Nauraa sensed something lurking in the depths and observed [[The Undergrowth]] through Teija's eyes, declaring it their new hunting ground.
+### 393 AC, June-September - Descent into The Crow's Eye
+Nauraa's fur shifted from white winter pelt to deep brown and black after crossing [[Storhvit]], adapting to conditions. At [[The Screed]], Nauraa entered freight elevator cage despite loathing cages, lying down at center of platform without prompting from Teija. During descent into [[The Crow's Eye]], Nauraa sensed something lurking in the depths and observed [[The Undergrowth]] through Teija's eyes, declaring it their new hunting ground.
 
-### 393 AC - Protecting Teija During The Hunger Confrontation
+### 393 AC, September - Protecting Teija During The Hunger Confrontation
 Nauraa accompanied [[Teija]] into [[The Maze]] for the Exalt confrontation with [[The Hunger]]. While Teija meditated atop a memory block attempting psychic contact with the entity, Nauraa provided protection. Through their bond, Nauraa warned Teija of danger—his serpentine aspect (referred to as "Maw") rasping at the edge of consciousness with convulsive, fearful undulations. When [[The Hunger]] shifted from feeding to aggression, Nauraa helped shield Teija during the chaos that followed.
 
 ## Participation in the Rediscovery Endeavor

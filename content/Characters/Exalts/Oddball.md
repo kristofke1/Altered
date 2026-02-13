@@ -2,7 +2,7 @@
 title: Oddball
 type: character
 category: chimera
-source: ["heroes_axiom.md", "card_lore", "[[T27_Relics]]", "[[T34_The_Wayfarer]]"]
+source: ["heroes_axiom.md", "card_lore", "[[T27_Relics]]", "[[T34_The_Wayfarer]]", "AXIOM_minor_narrators_lore"]
 birth_date: 386 AC
 death_date: null
 status: living
@@ -52,14 +52,18 @@ Sierra sent her drone into [[The Tumult]] to collect data, and after returning d
 ### 392 AC - Tumult Lake Crossing
 Oddball sustained frame damage from intrusive ideas while maneuvering through a twilit forest, and [[Sierra]] remotely summoned a Salvager [[Eidolons|Eidolon]] through their bond to restore his armor.
 
-### 393 AC - Relic Examination at Storvhit
+### 393 AC, January-April - Relic Examination at Storvhit
 Oddball accompanied [[Sierra]] during mysterious machine examination at Cobalt Gorge, circling [[Rossum]] with series of agitated beeps while relic was positioned on raised platform.
 
-### 393 AC - Avalanche Beacon Deployment
-Oddball flew at full speed down into an avalanche at [[Storvhit]], slaloming between falling rocks and ice shards to drop location beacons on buried [[The Aegis|Aegis]] soldiers while emitting distress signals on official channels.
+### 393 AC, January-April - Avalanche Beacon Deployment
+Oddball flew at full speed down into an avalanche at [[Storhvit]], slaloming between falling rocks and ice shards to drop location beacons on buried [[The Aegis|Aegis]] soldiers while emitting distress signals on official channels.
 
-### 393 AC - Playing with Marmo at The Screed
+### 393 AC, June-September - Playing with Marmo at The Screed
 Oddball played with [[Marmo]] at [[Subhash Kadis]]'s workbenches near [[The Screed]]'s chasm, chasing each other through scrap piles while Sierra and Bash discussed research.
+
+### 393 AC, June-September - Lucan Attack Warning
+
+Oddball alerted [[Sierra]] to [[Lucan]]'s approach during the [[Leviathans|Leviathan]]'s attack on an [[Aerolith]] convoy.
 
 ## Relationships
 
@@ -67,3 +71,4 @@ Oddball played with [[Marmo]] at [[Subhash Kadis]]'s workbenches near [[The Scre
 - **[[Irun]]**: Foundry Engineer who connected damaged drone to charging station, witnessed transformation (386 AC)
 - **[[Marmo]]**: [[Subhash Kadis]]'s [[Chimerae|Chimera]] companion, played together at [[The Screed]] (393 AC)
 - **[[Rossum]]**: [[Eidolons|Eidolon]] that Oddball circled during relic examination (393 AC)
+- **[[Lucan]]**: [[Leviathans|Leviathan]] whose approach Oddball detected during convoy attack (393 AC)

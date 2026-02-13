@@ -3,20 +3,27 @@ title: Will-o'-the-Wisp
 type: character
 category: eidolon
 source: card_lore
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: eidolon
-fate: null
+fate:
 species: eidolon
 became_oneiros: true
-affiliated_faction: null
+affiliated_faction:
 founded_organizations: []
 titles: []
-lineage: null
+lineage:
 key_events: []
-locations_associated: ["[[Storvhit]]"]
-tags: [eidolon, light, misdirection, illusion, performance, lyra]
+locations_associated:
+  - "[[Storhvit]]"
+tags:
+  - eidolon
+  - light
+  - misdirection
+  - illusion
+  - performance
+  - lyra
 ---
 
 # Will-o'-the-Wisp
@@ -49,7 +56,7 @@ The creatures possess irresistible charm that compels people to follow them, wit
 
 ### 393 AC - Scout Misdirection
 
-[[Auraq]] materialized Will-o'-the-Wisp at [[Storvhit]] to mislead scouts who were heading directly toward [[Belisenki]] nest. [[Auraq]] stood on bluff looking down at scouts moving below, deciding to send them wrong way to get blood flowing in their legs while protecting them from danger.
+[[Auraq]] materialized Will-o'-the-Wisp at [[Storhvit]] to mislead scouts who were heading directly toward [[Belisenki]] nest. [[Auraq]] stood on bluff looking down at scouts moving below, deciding to send them wrong way to get blood flowing in their legs while protecting them from danger.
 
 [[Auraq]] materialized Will-o'-the-Wisp in brief moment, and little pink spark started glowing in fading light, tinting ice with beautiful pink shimmer. With little blow, [[Auraq]] pushed spark toward explorers and it rushed down slope, darting between coral flowers like ghostly soap bubble.
 
@@ -57,6 +64,6 @@ Will-o'-the-Wisp approached scouts weaving between frozen petals like bloated fi
 
 ## Relationships
 
-- **[[Auraq]]**: [[Lyra]] performer who materialized Will-o'-the-Wisp to mislead scouts away from [[Belisenki]] nest at [[Storvhit]] (393 AC)
+- **[[Auraq]]**: [[Lyra]] performer who materialized Will-o'-the-Wisp to mislead scouts away from [[Belisenki]] nest at [[Storhvit]] (393 AC)
 - **[[Belisenki]]**: Creatures whose nest Will-o'-the-Wisp was used to protect scouts from approaching
 - **[[Lyra]]**: Faction whose performers use Will-o'-the-Wisps for theatrical distraction and audience captivation

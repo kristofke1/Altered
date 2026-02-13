@@ -2,7 +2,7 @@
 title: Phoenix Egg
 type: concept
 category: artifact
-source: ["faction_bravos", "[[T28_On_The_Tip_Of_The_Tongue]]", "[[T39_The_Betrayal]]"]
+source: ["faction_bravos", "[[T28_On_The_Tip_Of_The_Tongue]]", "[[T39_The_Betrayal]]", "BRAVOS_minor_narrators_lore"]
 related_concepts:
   - "[[Phoenix]]"
   - "[[Rune's Testament]]"
@@ -40,6 +40,10 @@ When Rune disappeared into [[The Tumult]] at the twilight of his reign, the Phoe
 
 The egg was kept in a central brazier with everlasting flames at the [[Parliament of Ashes]], the heart of [[Haven]]. [[Tiny Jinn]] maintained the flames, serving as eternal guardians. The [[Phoenix Chamber]] deep beneath Haven also housed the egg, where it was incubated in connection to the site of Rune's coronation and the enactment of [[The Creed]].
 
+## Physical Properties
+
+The Phoenix Egg is warm to the touch, still smoldering with flames. It radiates its own heat while simultaneously absorbing heat from surrounding fire. The dead warriors of the [[Parliament of Ashes]] were the guardians of this Egg before its transport westward.
+
 ## The Legend
 
 A persistent legend within the [[Bravos]] Faction holds that the Firebird will only reappear when Rune's true heir is found. This belief motivated many Bravos to volunteer for the [[Rediscovery Endeavor]], hoping to find traces of the first sovereign and perhaps his tomb.
@@ -48,7 +52,7 @@ A persistent legend within the [[Bravos]] Faction holds that the Firebird will o
 
 In 393 AC, the Phoenix Egg was stolen from [[Haven]]. Initial reports caused Haven to be sealed off—even from the [[Lyra]]—with only [[Bravos]] permitted to circulate freely within its walls. An armorer named [[Tessalit Girum]], who had been appointed to modernize the Bravos' training dummies, was taken in for questioning regarding her involvement in the theft.
 
-The theft was reported in the [[Arkaster Echo]] newspaper, which [[Waru Toowoom]] read while stationed at [[Storvhit]].
+The theft was reported in the [[Arkaster Echo]] newspaper, which [[Waru Toowoom]] read while stationed at [[Storhvit]].
 
 ## Transport Westward
 
@@ -75,4 +79,5 @@ The Phoenix Egg represents the true objective of the [[Rediscovery Endeavor]]—
 - **[[Tiny Jinn]]**: [[Eidolons]] who maintained the egg's flames
 - **[[Tessalit Girum]]**: Armorer questioned about involvement in theft
 - **[[Waru Toowoom]]**: Learned of the egg's transport after discovering Rune's scroll (393 AC)
-- **[[Sitina]]**: Revealed the egg's transport as part of Testament (393 AC)
+- **[[Sitina]]**: Revealed the egg's transport as part of Testament; entrusted the Egg to [[Basira al-Arshad]] (393 AC)
+- **[[Basira al-Arshad]]**: [[Bravos]] Exalt entrusted with the Egg by [[Sitina]] and the [[Phoenixian Guard]] to find a worthy carrier (393 AC)

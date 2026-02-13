@@ -2,7 +2,7 @@
 title: Phoenixian Guard
 type: organization
 category: faction_cell
-source: ["card_lore", "[[T39_The_Betrayal]]"]
+source: ["card_lore", "[[T39_The_Betrayal]]", "BRAVOS_minor_narrators_lore"]
 parent_organization: "[[Bravos]]"
 sub_organizations: []
 founded: null
@@ -26,7 +26,7 @@ tags:
 
 ## Overview
 
-The Phoenixian Guard is an elite military organization within the [[Bravos]] Faction. Members have received "the gift of the Phoenix," granting them the ability to control the element of fire. Beyond their martial role, the Guard serves as the secret keepers of [[Rune's Testament]].
+The Phoenixian Guard is an elite military organization within the [[Bravos]] Faction, known as the self-proclaimed heirs of [[Rune]]. Members have received "the gift of the Phoenix," granting them the ability to control the element of fire. Beyond their martial role, the Guard serves as the secret keepers of [[Rune's Testament]].
 
 ## The Gift of the Phoenix
 

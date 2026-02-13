@@ -22,7 +22,7 @@ tags: [deity, eidolon, cunning, ordis]
 
 ## Overview
 
-Odysseus is an [[Eidolon]] associated with cunning and endurance, invoked by warriors and strategists of the [[Ordis]] Faction.
+Odysseus is an [[Eidolons|Eidolon]] associated with cunning and endurance, invoked by warriors and strategists of the [[Ordis]] Faction.
 
 ## Timeline
 

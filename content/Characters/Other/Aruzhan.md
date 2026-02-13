@@ -32,7 +32,7 @@ Aruzhan has close bond with [[Fen]], sometimes snuggling up against her during n
 
 ## Eidolon Manifestation
 
-Aruzhan possesses an [[Eidolons|Eidolon]] capable of manifesting her presence across distance. During [[Fen]]'s journey through [[Storvhit]] taiga, [[Fen]] felt Aruzhan's [[Eidolons|Eidolon]] presence snuggling against her when her [[Ignescence]] fired up while harmonizing with nature's sounds. [[Fen]] kept eyes closed to avoid the sensation fading.
+Aruzhan possesses an [[Eidolons|Eidolon]] capable of manifesting her presence across distance. During [[Fen]]'s journey through [[Storhvit]] taiga, [[Fen]] felt Aruzhan's [[Eidolons|Eidolon]] presence snuggling against her when her [[Ignescence]] fired up while harmonizing with nature's sounds. [[Fen]] kept eyes closed to avoid the sensation fading.
 
 ## Timeline of Activities
 
@@ -43,7 +43,7 @@ Aruzhan possesses an [[Eidolons|Eidolon]] capable of manifesting her presence ac
 Aruzhan remained in [[Kladiver]] with [[Kasirga Clan]] families looking after very young children when expedition departed, causing painful separation from [[Fen]].
 
 ### 393 AC - Eidolon Presence in Taiga
-Aruzhan's [[Eidolons|Eidolon]] manifested to [[Fen]] in [[Storvhit]] taiga when [[Fen]]'s [[Ignescence]] activated while harmonizing with nature, felt snuggling against [[Fen]] like during past night vigils.
+Aruzhan's [[Eidolons|Eidolon]] manifested to [[Fen]] in [[Storhvit]] taiga when [[Fen]]'s [[Ignescence]] activated while harmonizing with nature, felt snuggling against [[Fen]] like during past night vigils.
 
 ## Relationships
 

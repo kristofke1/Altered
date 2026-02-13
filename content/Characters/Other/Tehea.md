@@ -2,47 +2,44 @@
 title: Tehea
 type: character
 category: artisan
-source: heroes_ordis
-birth_date: 
-death_date: 
-reign_period: 
+source:
+  - "heroes_ordis"
+  - "heroes_bravos"
+birth_date: null
+death_date: null
 status: living
-fate: 
+fate: null
 species: human
 became_oneiros: false
-affiliated_faction: 
+affiliated_faction: null
 founded_organizations: []
-titles: []
-lineage: 
+titles:
+  - Woodworker
+lineage: null
 key_events: []
-locations_associated: ["[[Arkaster]]"]
-tags: [artisan, woodworker, wood-guild, alterer]
+locations_associated:
+  - "[[Arkaster]]"
+tags:
+  - artisan
+  - woodworker
+  - wood-guild
 ---
 
 # Tehea
 
-Tehea is a skilled woodworker from the Wood Guild who specializes in luxury marquetry and ebony work. She is the mother of Gulrang Oduro and Kojo Oduro, and the wife of Yawo.
+## Overview
 
-## Profession and Skills
+Tehea is a skilled woodworker from the Wood Guild who specializes in luxury marquetry and ebony work. She is the wife of [[Yawo]] and the mother of [[Gulrang Oduro]] and [[Kojo Oduro]], both of whom became Exalts.
 
-Tehea is a skilled woodworker specializing in luxury marquetry. She works with ebony and other fine woods, using Alteration in her craft. She would sometimes show Gulrang how she worked with wood using Alteration, seeking to instill in her daughter the necessary knowledge to take over the factory.
+## Background
 
-Tehea works at a factory where she practices her craft. Even when pregnant with Kojo, she continued to work, demonstrating her dedication to her profession.
+Tehea works at a factory where she practices her craft. When Gulrang was twelve and Tehea was pregnant with Kojo, she would bring Gulrang to the factory and demonstrate woodworking techniques using [[Alteration]], hoping her daughter would eventually take over the business.
 
-## Family
+When fourteen-year-old Gulrang declared her intention to join [[The Aegis]] instead, Tehea and Yawo tried to dissuade her, warning that a soldier's life would be dangerous and hard. Faced with Gulrang's unwavering determination, they eventually relented. Tehea then insisted that [[Venka]], the veteran whose stories had inspired Gulrang, take responsibility for preparing her daughter for military service.
 
-Tehea is married to Yawo, who owns a small neighborhood grocery store under the Cornucoopia brand. Together they have two children:
-- **Gulrang Oduro**: Their older daughter who became an Ordis Exalt and Aegis captain
-- **Kojo Oduro**: Their younger son who became a Bravos Exalt known as the Slayer of the Kraken
+## Relationships
 
-## Relationship with Gulrang
-
-When Gulrang was twelve years old, Tehea was pregnant with Kojo. She would take Gulrang to the factory and show her woodworking techniques. Gulrang would accompany her mother to work, though the young girl was more interested in watching Aegis sentinels parade through the streets than learning the family trade.
-
-When Gulrang was fourteen and determined to join the Aegis, Tehea and Yawo tried desperately to persuade their daughter to change her mind. They warned her that the life of a soldier would be dangerous and the existence would be hard. However, Gulrang remained steadfast in her determination.
-
-Facing their daughter's stubbornness, Tehea and Yawo were at a loss. Eventually they relented. As if to punish Venka for putting this fixed idea in their daughter's head, Tehea insisted that the veteran prepare Gulrang to join the Aegis ranks.
-
-## Personality
-
-Tehea is hardworking and skilled in her craft, continuing to work even while pregnant. She hoped to pass her woodworking skills and business to Gulrang but came to accept her daughter's different path. Despite her initial resistance to Gulrang's military ambitions, she ultimately supported her daughter's choice.
+- **[[Yawo]]**: Husband; owns a [[Cornucoopia]] convenience store
+- **[[Gulrang Oduro]]**: Daughter; became an [[Ordis]] Exalt and [[The Aegis|Aegis]] captain
+- **[[Kojo Oduro]]**: Son; became a [[Bravos]] Exalt known as the Slayer of the Kraken
+- **[[Venka]]**: Family friend and veteran whom Tehea insisted train Gulrang for military service

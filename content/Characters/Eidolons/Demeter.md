@@ -22,7 +22,7 @@ aliases: []
 
 # Demeter
 
-Demeter is an [[Eidolons|Eidolon]] associated with harvest and nature who was consulted regarding [[Storvhit]] climate policy.
+Demeter is an [[Eidolons|Eidolon]] associated with harvest and nature who was consulted regarding [[Storhvit]] climate policy.
 
 ## Appearance
 
@@ -36,10 +36,10 @@ Demeter advocates that humanity must adapt to nature rather than reshaping natur
 
 ### ~393 AC - Storvhit Climate Conference
 
-Admiral [[Temera Singh]] sought Demeter's counsel regarding proposals to permanently transform [[Storvhit]]'s climate, as many [[Rediscovery Endeavor|Expeditionary Corps]] members suffered from the harsh interminable winter including frostbite, cardiovascular problems, and hypothermia. After listening to arguments ranging from radical terraforming proposals to compromise positions, Demeter concluded that humanity must adapt to nature rather than the reverse.
+Admiral [[Temera Singh]] sought Demeter's counsel regarding proposals to permanently transform [[Storhvit]]'s climate, as many [[Rediscovery Endeavor|Expeditionary Corps]] members suffered from the harsh interminable winter including frostbite, cardiovascular problems, and hypothermia. After listening to arguments ranging from radical terraforming proposals to compromise positions, Demeter concluded that humanity must adapt to nature rather than the reverse.
 
 ## Relationships
 
 - **[[Temera Singh]]**: Admiral who consulted Demeter about Storvhit climate transformation (~393 AC)
 - **[[Teija]]**: [[Muna]] Exalt who attended the climate conference and supported Demeter's position (~393 AC)
-- **[[Storvhit]]**: Arctic region whose climate transformation was debated (~393 AC)
+- **[[Storhvit]]**: Arctic region whose climate transformation was debated (~393 AC)

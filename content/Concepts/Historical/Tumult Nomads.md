@@ -2,7 +2,7 @@
 title: "Tumult Nomads"
 type: concept
 category: organization
-source: "faction_lyra"
+source: ["faction_lyra", "[[T48_Remnants]]"]
 related_concepts: ["[[The Eight Tribes]]", "[[The Lost Tribe]]", "[[The Exiled Tribe]]", "[[The Tumult]]"]
 associated_factions: ["[[Lyra]]"]
 associated_locations: []
@@ -18,6 +18,10 @@ The Tumult Nomads were the first humans to have been able to read the currents o
 
 ## The Eight Tribes
 Eons ago, before the birth of [[Asgartha]]'s civilization, the Tumult Nomads roamed the world. They were divided into [[The Eight Tribes|eight Tribes]], each originating from a distinct region of the world.
+
+### Tribe of the Setting Sun
+
+The Tribe of the Setting Sun is one of the Eight Tribes. The scripts used by inhabitants of the [[City of Scholars]] share common roots with those of this tribe, according to [[Ordis]] linguists who translated frescos discovered in the [[Pelagonian Quadrant]] in 393 AC. This linguistic connection suggests historical contact or shared ancestry between the City's population and the Tumult Nomads.
 
 ## The Convergence
 The Tumult Nomads all received a mystical call to converge towards the same place. While they all received this call, only seven arrived safely. The eighth was lost body and soul, earning the name of [[The Lost Tribe]] after its demise.

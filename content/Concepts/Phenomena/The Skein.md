@@ -2,19 +2,20 @@
 title: The Skein
 type: concept
 category: phenomenon
-source: faction_muna
+source: ["[[faction_muna]]", "[[L45_Eru]]", "[[T4_namkha]]", "[[T50_Knit]]", "[[heroes_muna_kauri]]"]
 related_concepts:
   - "[[Mana]]"
   - "[[The Anam]]"
   - "[[Alteration]]"
   - "[[The Musubi]]"
+  - "[[The Gestalt]]"
 associated_factions:
   - "[[Muna]]"
 associated_locations:
   - "[[The Spindle]]"
   - "[[Katkera]]"
   - "[[Kirighai]]"
-first_mentioned:
+first_mentioned: ~150 AC
 description_summary: The Mana network connecting all sentient beings and life forms, perceived naturally by the Muna
 tags:
   - mana
@@ -29,25 +30,48 @@ aliases:
 # The Skein
 
 ## Overview
-The Skein is the fabric of Mana that permeates and connects all things in Creation. It is a network, a strong bond that unites all living beings into a protean and shifting whole, serving as the foundation of Muna philosophy and practice.
+The Skein is the underlying [[Mana]] network that binds all living beings and life forms across reality. Perceived naturally by the [[Muna]], it functions as both a communication medium and an ecological sensing apparatus, allowing those attuned to it to detect disturbances, transmit emotions, and commune with other species. The Skein forms the philosophical and practical foundation of the Muna Faction, shaping their understanding of identity, interconnection, and their role as stewards of natural balance.
 
 ## Nature and Function
-The Skein exists as dendrites of Mana energy that interconnect all sentient beings and life forms. For the Muna, it represents the reflection of a collective soul to which all sentient beings are connected. The Skein is not regarded as a deity seeking worship, but rather as an intrinsic aspect of reality itself.
+The Skein manifests as dendrite-like filaments of Mana energy extending between all sentient beings. The Muna understand it not as a divine entity but as an intrinsic dimension of reality — a shared substrate linking every living thing into a continuously shifting whole. Under this view, no individual exists in isolation; identity emerges from one's position within the network and the interactions maintained with the surrounding ecosystem.
 
-## Perception by the Muna
-The Muna naturally perceive the Skein on multiple levels:
+The scholar [[Fenn|Ascanios Fenn]]'s [[Codex Linificus]] offers a theoretical framework describing the Skein as a Mana network that connects ideas together. Each idea can be decomposed into component ideas linked through the Skein, which shapes them into composite concepts forming things and individuals. This raises the question of whether entities might also be connected on a macroscopic scale — something the Muna affirm through direct experience. The relationship between the Skein and the [[Ordis]] [[The Gestalt|Gestalt]] has been compared to the difference between the soul and the spirit, though this comparison remains opaque even to those who invoke it.
 
-**Conscious Level**: Fully conscious, the Muna can send signals to their peers to inform them of dangers or destabilizations even leagues away, functioning akin to a network of mycelium.
+## Perception and Affinities
+The Muna perceive the Skein on multiple levels. Consciously, they can transmit signals across great distances to warn peers of dangers or environmental destabilizations, in a manner analogous to mycelial networks. Emotional states also travel along the Skein — when one connected individual experiences intense grief or anger, others attuned to the network feel those sensations as visceral impressions that linger and cling. At a deeper, instinctive level, the Skein can draw a Muna toward a specific location without conscious understanding of why, as though the network itself exerts a guiding influence.
 
-**Instinctive Level**: The connection to the Skein grants the Muna an animal-like instinct. They may feel called to specific places without knowing why, as if the Skein had a will of its own.
+Individual Muna develop distinct affinities through the Skein. Among [[Niavhe]]'s original nine disciples, [[Eru]] was uniquely attuned to animal communication, while others like Sewit communed most readily with [[The Spindle]] and Kiyiya excelled at manipulating fire. The Skein also serves as raw material for the Muna practice of [[Alteration]] through [[The Anam]]: when weaving an entity into existence, a Muna draws ideas from everything in the surrounding environment through the Skein's filaments, incorporating experiences and memories from nearby living beings into the creation.
 
-## The Founding Event
-The Skein became accessible to humanity through a fortuitous event when [[Niavhe]], a young girl, formed a bond with [[Kaibara]], the Leviathan who made the peninsula its territory. This union caused a discharge in the Mana fabric, the Skein, which touched many individuals throughout [[Asgartha]]. All those affected awakened to this network and became aware of the existence of others like them, forming the first Muna.
+## Awakening
+The Skein first became accessible to humanity when [[Niavhe]], a young girl on the Asgarthan peninsula, formed an unprecedented bond with the [[Leviathans|Leviathan]] [[Kaibara]]. The resulting discharge of Mana energy rippled across [[Asgartha]], awakening latent sensitivity to the network in individuals scattered throughout the peninsula. Those who felt the awakening became aware of each other's existence through the Skein, forming the nucleus of what would become the [[Muna]] Faction. No one fully understands why the Skein awakens in some individuals and not others — [[Niavhe]] herself compared it to seeds requiring the right conditions to bloom.
 
-## The Spindle Connection
-At [[The Spindle]], a world tree in the [[Katkera]], the dendrites of the Mana network gather to create a pulsating node of energy. When the Muna access the Skein, they can see this concentration of power, making the Spindle the literal heart of the forest where all beings living there are connected.
+The awakening took years to mature. The first generation born with this extrasensory faculty experienced the Skein as simply another sense, finding it difficult to comprehend that others could not perceive it. Niavhe recognized the need to transmit her understanding, selecting nine disciples — including Eru — to live ascetic lives dedicated to nurturing the Skein's development within the growing Muna community.
 
-## Current Objectives
-The Muna serve as vigilant sentinels of the Skein, striving to capture all its subtle variations. Through this connection, they can sense when an imbalance is emerging within reality. They stand ready to intervene when an ecosystem is threatened by [[The Tumult]] or the excessive proliferation of invasive species.
+## The Spindle
+At [[The Spindle]], a world tree deep within the [[Katkera]] forest, the Skein's filaments converge into a concentrated node of pulsating energy. When Muna access the network, they can perceive this gathering of power, which functions as the ecological heart of the forest — the point through which all living things within the Katkera are connected. Niavhe and her nine disciples were granted permission by Kaibara to enter and dwell within the Katkera, establishing the [[Bark Refuge]] at the Spindle's base as the spiritual center of the Faction.
 
-With time and the rediscovery of the world, the Muna hope to expand their awareness to new horizons, connecting new biomes to the Skein and spreading their perception far beyond current limits.
+## Relationship to the Musubi
+The [[The Musubi|Musubi]] is an extension of the Skein — a ceremony through which two beings are permanently joined by intertwining their spiritual threads with Mana. During the ritual, a Muna officiant weaves the participants' essences together through the Skein's filaments, creating a single shared consciousness divided between two physical bodies. The bonded pair can perceive through each other's senses and communicate beyond language. The Musubi is understood to replicate the original bond between Niavhe and Kaibara, though it took centuries before anyone succeeded in reproducing the phenomenon.
+
+## Guardianship
+The Muna maintain constant vigilance over the Skein, monitoring its fluctuations for signs of ecological imbalance. Through the network, they can detect when ecosystems are destabilized — whether by [[The Tumult]], invasive species proliferation, or other disruptions — and intervene accordingly. As the [[Rediscovery Endeavor]] extends humanity's reach beyond Asgartha, the Muna aspire to connect newly discovered biomes to the Skein, expanding their perceptual range into territories previously beyond their awareness.
+
+## Relationships
+
+- **[[Alteration]]**: The Skein channels environmental ideas as raw material for Muna Alteration
+- **[[Asgartha]]**: Peninsula where the Skein first awakened in humanity
+- **[[Bark Refuge]]**: Spiritual center of the Muna at the base of the Spindle
+- **[[Eru]]**: One of Niavhe's nine original disciples; uniquely attuned to animal communication through the Skein
+- **[[Kaibara]]**: Leviathan whose bond with Niavhe triggered the Skein's awakening
+- **[[Katkera]]**: Forest where the Spindle concentrates Skein energy
+- **[[Kauri]]**: Muna Exalt trained in Skein perception by Niavhe and Eru
+- **[[Kirighai]]**: Island where Muna initiatory pilgrimage strengthens Skein connection
+- **[[Mana]]**: Energy forming the Skein's filaments and connections
+- **[[Muna]]**: Faction founded through and devoted to the Skein
+- **[[Niavhe]]**: Founder of the Muna whose bond with Kaibara awakened the Skein
+- **[[Ordis]]**: Faction whose Gestalt is compared to the Skein
+- **[[The Anam]]**: Muna Alteration style practiced through the Skein
+- **[[The Gestalt]]**: Ordis network compared to the Skein as spirit to soul
+- **[[The Musubi]]**: Ritual extending the Skein to bond two beings permanently
+- **[[The Spindle]]**: World tree where Skein filaments converge into a concentrated node
+- **[[The Tumult]]**: Phenomenon the Muna monitor for through the Skein

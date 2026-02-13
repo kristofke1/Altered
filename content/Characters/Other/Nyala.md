@@ -2,21 +2,37 @@
 title: Nyala
 type: character
 category: hero
-source: ["heroes_lyra", "[[L33_The_Outpost]]", "[[Carnelian Crown]]"]
-birth_date: null
-death_date: null
-reign_period: null
+source:
+  - heroes_lyra
+  - "[[L33_The_Outpost]]"
+  - "[[Carnelian Crown]]"
+birth_date:
+death_date:
+reign_period:
 status: living
-fate: null
+fate:
 species: human
 became_oneiros: false
 affiliated_faction: "[[Lyra]]"
 founded_organizations: []
-titles: ["Exalt", "Alterer", "Performer"]
-lineage: null
+titles:
+  - Exalt
+  - Alterer
+  - Performer
+lineage:
 key_events: []
-locations_associated: ["[[The Screed]]", "[[Caer Oorun]]", "[[Storvhit]]"]
-tags: [lyra, hero, exalt, alterer, performer, portals, skating]
+locations_associated:
+  - "[[The Screed]]"
+  - "[[Caer Oorun]]"
+  - "[[Storhvit]]"
+tags:
+  - lyra
+  - hero
+  - exalt
+  - alterer
+  - performer
+  - portals
+  - skating
 aliases: []
 ---
 
@@ -46,11 +62,11 @@ Nyala performed at the [[Kasirga Clan]] celebration marking [[Caer Oorun]] recla
 
 ### 393 AC - Ice Performance at Storvhit
 
-Nyala performed skating tricks at [[Storvhit]] with Mana rippling at fingertips generating portals. [[Auraq]] watched the performance but dismissed the techniques despite their spectacular relocation abilities.
+Nyala performed skating tricks at [[Storhvit]] with Mana rippling at fingertips generating portals. [[Auraq]] watched the performance but dismissed the techniques despite their spectacular relocation abilities.
 
 ### 393 AC - Lake Ice Incident
 
-During the frozen lake incident at [[Storvhit]], [[Auraq]] chose to save children from breaking ice rather than warning Nyala who was skating. Nyala fell through the weakened ice. [[Subhash Kadis]] rescued her by sending [[Marmo]] into the water and summoning a Walrus [[Eidolons|Eidolon]] with sonar rig to locate her. Afterward, Subhash summoned [[Little Match Girl]] to comfort the traumatized Nyala.
+During the frozen lake incident at [[Storhvit]], [[Auraq]] chose to save children from breaking ice rather than warning Nyala who was skating. Nyala fell through the weakened ice. [[Subhash Kadis]] rescued her by sending [[Marmo]] into the water and summoning a Walrus [[Eidolons|Eidolon]] with sonar rig to locate her. Afterward, Subhash summoned [[Little Match Girl]] to comfort the traumatized Nyala.
 
 ### 393 AC - Scheduled at The Stage
 

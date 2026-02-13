@@ -2,7 +2,7 @@
 title: Frog Prince
 type: character
 category: eidolon
-source: card_lore
+source: ["card_lore", "[[L39_Arkaster_Echo_Elections]]"]
 birth_date: null
 death_date: null
 reign_period: null
@@ -16,7 +16,7 @@ titles: ["Notary"]
 lineage: null
 key_events: []
 locations_associated: []
-tags: [eidolon, notary, authentication, ordis, frog]
+tags: [eidolon, notary, authentication, ordis, frog, author]
 ---
 
 # Frog Prince
@@ -33,19 +33,28 @@ The Frog Prince authenticates official documents by examining seals, verifying a
 
 His role includes confirming proclamations that make appointments and positions official. He provides copies of confirmed documents to involved parties.
 
-## Authentication Process
+## Election Oversight
+
+The Frog Prince was appointed by [[Parliament of Ashes|Parliament]] to oversee the [[393 AC Basileal Elections]], ensuring proper conduct of the vote. All accredited candidates swore an oath before his Eidolon to defend the interests of the [[The Concord|Concord]], of [[Asgartha]], and of its people, and to act with discernment and in service of the common good.
+
+## Literary Work
+
+The Frog Prince co-authored "The Three Circles" with ghostwriter [[Zyran Rostag]], a political-fiction adventure essay exploring the role of compassion within the political intelligentsia. The book was published by Les Éditions de l'Orée.
+
+## Timeline
 
 ### 386 AC - Confirming Waru's Exalt Appointment
 
-Waru brought letter to Frog Prince. The Eidolon leaned back in chair, picked up golden ball, and rolled it between slender fingers. He read letter appearing bewildered by contents - Avkan's most notorious opponent being nominated as Exalt. He examined Basileus's seal to check authenticity.
+The Frog Prince authenticated [[Waru Toowoom]]'s Exalt appointment proclamation, verifying [[Avkan ruun-Heshkari]]'s seal and signing the notarial confirmation that made Waru and [[Mack]] officially an Exalt.
 
-Though nomination seemed strange, many official reasons had been put forward. Waru had offered to be part of vanguard under pretext of monitoring Expeditionary Corps from inside as mole and spy. Opponents celebrated extraction of this "concession."
+### 393 AC - Election Oversight
 
-Frog Prince examined Waru with bulging and piercing eyes. He grabbed magnifying glass and ensured document was authentic and not crude forgery. He then dipped quill in inkwell and signed proclamation's notarial confirmation at bottom of page.
-
-When he handed Waru his copy, it became official: Mack and Waru were an Exalt. Waru smiled at confirmation. Frog Prince's eyes narrowed when noticing Waru's expression - it would be shame if he started to suspect full extent of machinations.
+The Frog Prince was appointed by [[Parliament of Ashes|Parliament]] to oversee the [[393 AC Basileal Elections]] and administered the oath of office to all candidates.
 
 ## Relationships
 
-- **[[Waru Toowoom]]**: Authenticated Exalt appointment proclamation (386 AC)
+- **[[Avkan ruun-Heshkari]]**: Basileus whose seal Frog Prince verified (386 AC)
 - **[[Mack]]**: Waru's Alter Ego included in confirmed Exalt status
+- **[[Parliament of Ashes]]**: Body that appointed Frog Prince to oversee 393 AC elections
+- **[[Waru Toowoom]]**: Authenticated Exalt appointment proclamation (386 AC)
+- **[[Zyran Rostag]]**: Ghostwriter, co-authored "The Three Circles"

@@ -1,25 +1,35 @@
 ---
 title: Hadrian
 type: character
-category: supporting
+category: political
 source: ["[[T12_the_legacy]]"]
+birth_date: null
+death_date: null
 status: living
-titles: ["Politician"]
+fate: null
+species: human
+became_oneiros: false
 affiliated_faction: null
-tags: [politician]
+titles: []
+key_events: []
+locations_associated: []
+tags: [politician, elections]
 ---
 
 # Hadrian
 
-Hadrian is a politician who was considered as a potential successor to Basileus [[Avkan ruun-Heshkari]] during the 392 AC succession planning discussions.
+## Overview
 
-## Succession Candidacy
+Hadrian is a politician who was considered as a potential successor to [[Basileus]] [[Avkan ruun-Heshkari]] during succession planning discussions in 392 AC.
 
-In 392 AC, Hadrian was evaluated by [[Anuncia ruun-Aysun]] and her advisor [[Abenet]] as a potential successor to [[Avkan ruun-Heshkari]]. However, he was rejected due to minimal influence in the Assembly at best.
+## Timeline
+
+### 392 AC - Rejected as Successor Candidate
+
+[[Anuncia ruun-Aysun]] and her advisor [[Abenet ruun-Aksoy|Abenet]] evaluated Hadrian as a potential successor to [[Avkan ruun-Heshkari]]. He was rejected on the grounds that his influence in the Assembly was minimal.
 
 ## Relationships
 
-- **[[Anuncia ruun-Aysun]]**: Senator who evaluated and rejected Hadrian as potential Avkan successor
-- **[[Abenet]]**: Political advisor who discussed Hadrian's insufficient Assembly influence
-- **[[Avkan ruun-Heshkari]]**: Basileus whose succession Hadrian was considered for
-- **[[Noya]]**: Alternative succession candidate also rejected for being too conservative
+- **[[Abenet ruun-Aksoy|Abenet]]**: Political advisor who assessed Hadrian's candidacy (392 AC)
+- **[[Anuncia ruun-Aysun]]**: Senator who evaluated and rejected Hadrian (392 AC)
+- **[[Noya|Noya Kagama]]**: Alternative succession candidate also rejected (392 AC)

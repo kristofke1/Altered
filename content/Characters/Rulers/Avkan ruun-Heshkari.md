@@ -3,13 +3,14 @@ title: Avkan ruun-Heshkari
 type: character
 category: ruler
 source: 
-  - "L7_political_system"
+  - "[[L7_political_system]]"
   - "[[A Heavy Burden]]"
   - "[[White Lie]]"
   - "[[Bureaucracy]]"
+  - "[[T43_Eidocracy]]"
 birth_date:
 death_date:
-reign_period: 361-392 AC
+reign_period: 361-393 AC
 status: living
 fate:
 species: human
@@ -26,6 +27,7 @@ locations_associated:
   - "[[Asgartha]]"
   - "[[Arkaster]]"
   - "[[The Ouroboros]]"
+  - "[[The Asterion]]"
 tags:
   - ruler
   - basileus
@@ -38,7 +40,7 @@ tags:
 
 ## Overview
 
-Avkan ruun-Heshkari is the Basileus of [[Asgartha]], having held office since 361 AC. Elected at age forty-one, he was seventy-two years old as of 392 AC when he delivered [[The Age of Rediscovery Proclamation]]. He hails from a distinguished noble lineage dating back to the founding of Asgartha, connected to [[House ruun-Heshkari]] and through it to the founding family of [[Bravos]]. His face is framed by a thick beard and bushy brows.
+Avkan ruun-Heshkari served as Basileus of [[Asgartha]] from 361 to 393 AC. Elected at age forty-one, he was seventy-two years old as of 392 AC when he delivered [[The Age of Rediscovery Proclamation]]. He hails from a distinguished noble lineage dating back to the founding of Asgartha, connected to [[House ruun-Heshkari]] and through it to the founding family of [[Bravos]]. His face is framed by a thick beard and bushy brows.
 
 ## Background
 
@@ -60,7 +62,7 @@ In truth, Avkan maintained secret friendship and political collaboration with [[
 
 Convincing the Factions and various state organs to support the Rediscovery Endeavor required deploying considerable oratory and tactical skill. [[Bravos]] immediately praised his initiative. [[Axiom]] was won over by offering the opportunity to gather more [[Kelon]]. [[Ordis]] was convinced it was a societal necessity. [[Lyra]] was attracted by the prospect of rediscovering humanity's lost children. [[Yzmir]] was interested in learning more about the secrets of the universe.
 
-If aligned with any Faction, it would be [[Muna]]. Avkan believes that humanity and its allies have a role to play in restoring balance to the world, stabilizing it by restraining the [[The Tumult|Tumult]] winds.
+If aligned with any Faction, it would be [[Muna]]. Avkan has publicly advocated that humanity and its allies have a role to play in restoring balance to the world by restraining the [[The Tumult|Tumult]] winds.
 
 ## Timeline
 
@@ -82,19 +84,19 @@ Waru conducted research at [[The Sanctum|Sanctum]] and consulted with [[Quetzalc
 
 ### 368 AC - Extended Mandate and Council Ratification
 
-Avkan requested an extended mandate to realize his grand project, having a decree ratified by four councilors allowing him to reign until the realization of the Rediscovery Endeavor. Waru theatrically opposed on auditorium floor while political allies berated Council. Avkan gave Waru a discreet nod while projecting arrogant disdain to hide gratitude.
+Avkan requested an extended mandate to realize his grand project, having a decree ratified by four councilors allowing him to reign until the realization of the Rediscovery Endeavor. Waru theatrically opposed on auditorium floor while political allies berated Council.
 
 ### 386 AC - Exalt Appointment
 
-Basileus's seal appeared on proclamation nominating Waru as Exalt. [[Frog Prince]] authenticated document making Waru and [[Mack]] official Exalt.
+Basileus's seal appeared on proclamation nominating Waru as Exalt. [[The Frog Prince]] authenticated document making Waru and [[Mack]] official Exalt.
 
-### Peregrine Museum Meeting
+### ~386-392 AC - Peregrine Museum Meeting
 
-Avkan met secretly with Waru at Peregrine Museum. Before them stood an old map of the world as it was before; two friends vowed to affix a new map of current reality with Asgartha at center.
+Avkan met secretly with Waru at the [[Peregrine Museum]]. Before them stood a pre-Confluence world map reproduced on an entire wall. The two planned to replace it with a map of the current world, with [[Asgartha]] at its center, to be filled in as new territories were charted.
 
-### 392 AC - Recruiting Temera Singh
+### 390 AC - Recruiting Temera Singh
 
-Avkan personally recruited [[Temera Singh]] to lead the [[Expeditionary Corps]]. He outlined the need for an authority whose neutrality could not be questioned, capable of analysis, anticipation, and control—a hand firm enough to command respect while allowing everyone the ability to express their opinions. He described the role as walking the razor's edge, framing the Factions' participation and guiding their ambitions toward the common goal.
+Avkan personally recruited [[Temera Singh]] to lead the [[Expeditionary Corps]]. Singh's lack of Faction affiliation was a deciding factor, as Avkan sought to ensure the Endeavor's neutrality. The [[Privy Council]] voted in her favor among proposed candidates, and [[Abelen Sundström]] put forward her name.
 
 ### 392 AC - The Age of Rediscovery Proclamation
 
@@ -102,18 +104,27 @@ Avkan delivered [[The Age of Rediscovery Proclamation]], announcing the launch o
 
 ### 393 AC - The White Lie Revelation
 
-Avkan met secretly with Waru in a hidden chamber aboard [[The Ouroboros]]'s potable water reservoir, a place [[Esmeralda]] had told him about. Face drawn and tired, Avkan spoke of his upcoming retirement and his intent to let the Rediscovery Endeavor stand on its own. When Waru revealed what he believed was his orchestrated scheme—hiring forgers to authenticate fakes about the Source of the Tumult—Avkan shocked him with a revelation that even he had been "but a mere executor," serving a higher power. Though Avkan suspected what lay at the City of Scholars, he did not have all the cards to be certain. Avkan stated the burden was far too heavy to bear, as his [[Eidolons|Eidolon]] manifested above him, draped in heavy chains.
+Avkan met secretly with Waru in a hidden chamber aboard [[The Ouroboros]]'s potable water reservoir, a place [[Esmeralda]] had told him about. Avkan spoke of his upcoming retirement and his intent to let the Rediscovery Endeavor stand on its own. Waru expressed concern that the Endeavor was built on their joint fabrication — the "white lie" that the Source of the [[The Tumult|Tumult]] could be found at the [[City of Scholars]], for which Waru had hired forgers and paid experts to authenticate supporting evidence. Avkan disclosed that Waru did not have all the pieces, and confessed that he himself had also been "but a mere executor," indicating that both of them had been serving an unnamed higher authority. Avkan stated he suspected what lay at the [[City of Scholars]] but did not have all the information to be certain. He described the burden as too heavy to bear, at which point an [[Eidolons|Eidolon]] manifested above him in heavy chains.
+
+### 393 AC, October 22 - Somayeh Bahman Investiture
+
+Avkan attended the swearing-in ceremony of [[Somayeh Bahman]] as fourteenth Basilissa of [[Asgartha]] at [[The Asterion]], formally transferring power after 32 years in office. Earlier that day, Avkan secluded himself with Somayeh in his boudoir for nearly an hour to offer final words of counsel. During the ceremony, he placed the diadem upon her head. His bedchamber at The Asterion contained portraits of [[Ayxas]] and [[Aysar]], kept as reminders of the temptation and corruption any ruler might succumb to.
 
 ## Relationships
 
 - **[[Baird y Idris]]**: Historical explorer whose logbook provided City of Scholars coordinates for Endeavor research (367 AC)
 - **[[Esmeralda]]**: Informed Avkan about The Ouroboros's secret places
-- **[[Frog Prince]]**: Notary who authenticated Waru's Exalt appointment with Avkan's seal (386 AC)
+- **[[The Frog Prince]]**: Notary who authenticated Waru's Exalt appointment with Avkan's seal (386 AC)
 - **[[Hadrian]]**: Alternative succession candidate rejected for insufficient Assembly influence
 - **[[Mack]]**: Waru's Alter Ego who gathered intelligence for Avkan
 - **[[Noya|Noya Kagama]]**: Senator considered as potential successor but deemed too conservative (392 AC)
 - **[[Quetzalcóatl]]**: University professor who showed Waru logbook advancing Endeavor research (367 AC)
 - **[[Robin Hood]]**: Isura financier whose meeting with Waru was monitored by Avkan's spy (364 AC)
-- **[[Temera Singh]]**: Commander Avkan personally recruited to lead the Expeditionary Corps (392 AC)
+- **[[Temera Singh]]**: Commander Avkan personally recruited to lead the Expeditionary Corps (390 AC)
 - **[[Thoth]]**: Scholar who translated memoir for Waru revealing City of Scholars importance (367 AC)
 - **[[Waru Toowoom]]**: University rival and lifelong secret collaborator spanning 23+ years (363-393 AC)
+- **[[Somayeh Bahman]]**: Successor as Basilissa; Avkan attended her investiture and offered counsel (393 AC)
+- **[[Ayxas]]**: Former ruler whose portrait Avkan kept as warning against corruption
+- **[[Aysar]]**: Ayxas's twin whose portrait Avkan kept alongside Ayxas's
+- **[[The Asterion]]**: Official residence where Avkan transferred power to successor
+- **[[Peregrine Museum]]**: Gallery in [[Arkaster]] where Avkan met secretly with Waru (~386-392 AC)

@@ -3,20 +3,28 @@ title: Valemon
 type: character
 category: eidolon
 source: card_lore
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: eidolon
-fate: null
+fate:
 species: eidolon
 became_oneiros: true
-affiliated_faction: null
+affiliated_faction:
 founded_organizations: []
-titles: ["Bear King"]
-lineage: null
+titles:
+  - Bear King
+lineage:
 key_events: []
-locations_associated: ["[[Storvhit]]"]
-tags: [eidolon, bear, king, ice, strength, norwegian]
+locations_associated:
+  - "[[Storhvit]]"
+tags:
+  - eidolon
+  - bear
+  - king
+  - ice
+  - strength
+  - norwegian
 ---
 
 # Valemon
@@ -35,7 +43,7 @@ Valemon possesses immense physical strength sufficient to twist and deform thick
 
 ### ~393 AC - Ice Rescue at Storvhit
 
-[[Waru Toowoom]] summoned Valemon during glacier cave exploration at [[Storvhit]] after hearing calls for help behind thick ice barrier, and the Bear King broke through the translucent wall by twisting and deforming ice until it sublimated in a cloud of steam.
+[[Waru Toowoom]] summoned Valemon during glacier cave exploration at [[Storhvit]] after hearing calls for help behind thick ice barrier, and the Bear King broke through the translucent wall by twisting and deforming ice until it sublimated in a cloud of steam.
 
 ## Relationships
 

@@ -4,18 +4,11 @@ title: Altered TCG Lore Wiki
 
 # Welcome to the Altered TCG Lore Repository
 
-An encyclopedic documentation of the world, characters, and events of the **Altered Trading Card Game** universe.
+An encyclopedic documentation of the world, characters, and events of the **[Altered Trading Card Game](https://www.playaltered.com/)** universe — a game by Equinox in which players summon [[Exalts]] and their [[Eidolons|companions]] to battle across a rich fantasy world shaped by the forces of imagination.
 
-*Explore the last bastion of humanity, meet the [[Exalts]] who fight to survive, and uncover the mysteries of [[The Tumult]].*
+*Explore [[Asgartha]], the last bastion of humanity. Meet the Exalts who venture beyond its walls. Uncover the mysteries of [[The Tumult]].*
 
-Currently this repository contains up-to-date information from:
- - Beyond the Gates
- - Trial by Frost
- - Whispers from the Maze
-
-Not yet included:
- - Skybound Odyssey
- - Seeds of Unity
+> **Last updated:** 13th February 2026 · Covers content through the *Skybound Odyssey* story arc. Improvements made on various entries.
 
 ---
 
@@ -29,22 +22,22 @@ Not yet included:
 <div class="description">Meet the Exalts, Heroes, and key figures across all six factions.</div>
 </a>
 
-<a href="./Organizations/Factions" class="grid-item" data-slug="rganizations/Factions">
+<a href="./Organizations/Factions" class="grid-item" data-slug="Organizations/Factions">
 <div class="icon">⚙️</div>
 <div class="title">The Six Factions</div>
-<div class="description">Axiom, Bravos, Lyra, Muna, Ordis, Yzmir - each with their own vision for humanity's future.</div>
+<div class="description">Axiom, Bravos, Lyra, Muna, Ordis, Yzmir — each with their own vision for humanity's future.</div>
 </a>
 
 <a href="./Locations" class="grid-item" data-slug="Locations">
 <div class="icon">🗺️</div>
 <div class="title">Locations</div>
-<div class="description">Explore Asgartha, The Tumult, and the lands beyond the gates.</div>
+<div class="description">Explore Asgartha, the Tumult, and the lands beyond the gates.</div>
 </a>
 
 <a href="./Events" class="grid-item" data-slug="Events">
 <div class="icon">📜</div>
 <div class="title">Timeline & Events</div>
-<div class="description">Follow the Rediscovery Endeavor and major events that shaped the world.</div>
+<div class="description">Follow the Rediscovery Endeavor and the major events that shaped the world.</div>
 </a>
 
 <a href="./Concepts" class="grid-item" data-slug="Concepts">
@@ -56,7 +49,7 @@ Not yet included:
 <a href="./Organizations" class="grid-item" data-slug="Organizations">
 <div class="icon">🏛️</div>
 <div class="title">Organizations</div>
-<div class="description">Guilds, councils, and institutions that govern the world.</div>
+<div class="description">Guilds, councils, institutions, and other groups that shape Asgarthan society.</div>
 </a>
 
 </div>
@@ -65,8 +58,16 @@ Not yet included:
 
 ## Getting Started
 
-**New to Altered TCG lore?** Start with [[Asgartha]] to learn about the world, then explore one of the six [[The Six Factions|factions]] that interest you.
+**New to the lore?** Start with [[Asgartha]] to learn about the world, then explore one of the six [[The Six Factions|factions]] that interest you. For a primer on the core mechanics of magic and bonding, see [[Alteration]] and [[Musubi]].
 
-**Want to follow the story?** Check out the [[Rediscovery Endeavor]] for the narrative timeline across four story arcs.
+**Want to follow the story?** Check out the [[Rediscovery Endeavor]] for the full narrative timeline — from the opening of the [[Solstice Gate]] in 392 AC, through the frozen reaches of [[Caer Nilam]], to the uncharted skies of the [[Cloud Realm]].
 
-**Looking for a specific character or location?** Use the search bar in the top left corner.
+**Looking for something specific?** Use the search bar in the top left corner.
+
+---
+
+## About This Wiki
+
+This repository is a community resource documenting the lore of the Altered TCG. All content is sourced from official materials including story arcs, encyclopedic lore articles, and card narratives published by Equinox.
+
+If you notice missing content or would like to contribute, feel free to reach out — this is a repository for everyone.

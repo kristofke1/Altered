@@ -2,30 +2,21 @@
 title: Mist
 type: location
 category: sahanka
-source: heroes_lyra, T3_catch_the_drift
+source: ["[[heroes_lyra]]"]
 parent_location: "[[Sahanka]]"
 sub_locations: []
-population:
-area:
-founded:
+population: null
+area: null
+founded: null
 status: active
 controlling_faction: "[[Lyra]]"
 present_factions:
   - "[[Lyra]]"
-government_type:
-notable_features:
-  - Huge metal citadel that rolls across plains
-  - Emits vapors and surrounded by fog/mist
-  - Has mighty chimneys and smokestacks
-  - Metal platforms, dizzying ladders, protective railings
-  - Colorful masses swirling in the clouds
-  - Maintenance platforms
-  - Terraces
-  - Long stairs
-  - Deep caterpillar tracks left in ground
-climate:
+government_type: null
+notable_features: []
+climate: null
 characters:
-  - "[[WIP folder/Nevenka]]"
+  - "[[Nevenka]]"
   - "[[Blotch]]"
 tags:
   - lyra
@@ -40,38 +31,15 @@ aliases:
 # Mist
 
 ## Overview
-Mist is the [[Sahanka]] of the [[Ossonoya Clan]], one of the nine [[Lyra]] [[Saraband|Sarabands]]. 
 
-## Description
-Mist is described as a huge metal citadel that rolls across the plains, emitting vapors. The [[Sahanka]] is perpetually surrounded by fog and mist, creating an atmospheric environment that defines the structure's character.
+Mist is the [[Sahanka]] of the [[Ossonoya Clan]], one of the nine [[Lyra]] [[Saraband|Sarabands]]. It is a ground-based mobile settlement of enormous proportions, distinguished from airborne Sahankas like [[The Ouroboros]] or [[The Wayfarer]] by its land-bound locomotion. The structure takes its name from the perpetual haze produced by its own exhaust systems, which envelop it as it travels.
 
-### Architectural Features
-The structure features:
-- Mighty chimneys that emit vapors
-- Metal platforms at various heights
-- Dizzying ladders for vertical movement
-- Protective railings along platforms
-- Maintenance platforms (though they don't always receive proper repairs)
-- Smokestacks that reach high into the sky
-- Terraces where one might land if they fall
-- Long stairs connecting different levels
+## Physical Structure
 
-### Movement
-Mist leaves deep caterpillar tracks in the ground as the metal colossus continues its journey across the landscape. The structure rolls rather than flying, moving with the [[Lyra]] caravan as they roam.
+Mist is an armored urban chassis that crawls across open terrain on heavy treads, scoring deep ruts into the ground as it advances. Its silhouette is dominated by rows of tall industrial stacks that vent constant plumes, feeding the bank of fog that surrounds the vehicle at all times. The interior is organized vertically — a dense network of ascending stairways, gantries, enclosed walkways, observation decks, and maintenance levels connected by barriers and handholds throughout. The overall effect is a self-contained settlement compressed into a single rolling edifice, housing the Ossonoya Clan's population as it makes its slow progress across the Asgarthan landscape.
 
-### Atmospheric Phenomena
-Colorful masses swirl in the clouds around [[Mist]], likely attracted by the vapors and height of the smokestacks. [[Blotch]], the paint dragon [[Chimerae|Chimera]], was seen swirling around these smokestacks before meeting [[WIP folder/Nevenka]].
+## Relationships
 
-## The Ossonoya Clan
-[[Mist]] serves as home to the [[Ossonoya Clan]], which [[Esmeralda]] describes as being "fond of secrets." The Clan maintains the typical [[Lyra]] nomadic lifestyle, with life in the open air, constant wandering, and the presence of bards and artists.
-
-## Notable Events
-
-### Nevenka's Fall
-While wandering beneath the mighty chimneys of [[Mist]], [[WIP folder/Nevenka]] saw [[Blotch]] swirling in the clouds. To get closer to the entity, she climbed dizzying ladders and stepped over protective railings. A maintenance platform that had not been properly repaired gave way beneath her feet, and she plummeted into the void. [[Blotch]] saved her by using his oily texture to slow her fall and place her on a terrace below.
-
-### Nevenka's Departure
-After this incident and her subsequent pursuit of [[Blotch]], [[WIP folder/Nevenka]] leaped from the base of the [[Sahanka]] and began following the dragon, leaving [[Mist]] behind. She watched the metal colossus continue its journey, leaving deep caterpillar tracks in the ground.
-
-## Cultural Character
-As part of the [[Ossonoya Clan]]'s identity, [[Mist]] embodies the secretive nature of the Clan. The fog and mist that perpetually surround the structure create an atmosphere of mystery, fitting for a Clan described as "fond of secrets."
+- **[[Blotch]]**: [[Chimerae|Chimera]] first encountered circling above Mist's upper levels
+- **[[Nevenka]]**: Born and raised aboard Mist before her banishment from the Ossonoya Clan
+- **[[Ossonoya Clan]]**: The Lyra Saraband that calls Mist home

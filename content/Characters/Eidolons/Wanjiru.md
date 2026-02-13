@@ -2,7 +2,7 @@
 title: Wanjiru
 type: character
 category: eidolon
-source: ["[[T10_mise_en_abyss]]", "[[T02_a_heavy_burden]]", "[[L13_the_severance_war]]", "[[L17_Correspondence]]", "[[T30_Murky_Truths]]"]
+source: ["[[T10_mise_en_abyss]]", "[[T2_a_heavy_burden]]", "[[L13_the_severance_war]]", "[[L17_Correspondence]]", "[[T30_Murky_Truths]]", "[[T43_Eidocracy]]", "[[T47_Bonds]]"]
 birth_date: null
 death_date: "Early 3rd century AC"
 reign_period: null
@@ -88,3 +88,4 @@ Wanjiru's heroism is commemorated in tapestries depicting major turning points i
 - **[[Temera Singh]]**: Admiral whose [[Cebir]] directive was complicated by Wanjiru's intervention
 - **[[Waru Toowoom]]**: [[Ordis]] politician who planned espionage against [[Yzmir]] quarantine at [[Cebir]]
 - **[[Chiara Caceres]]**: Hero whose tapestry hangs alongside Wanjiru's in Basileus's chambers
+- **[[Somayeh Bahman]]**: Perjurer elected Basilissa whom Wanjiru called "The Demagogue" during 393 AC campaign

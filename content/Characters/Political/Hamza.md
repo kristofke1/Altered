@@ -1,25 +1,36 @@
 ---
 title: Hamza
-type: Character
-category: Person
-source: 
-  - "[[Carnelian_Crown]]"
+type: character
+category: political
+source: ["[[T11_carnelian_crown]]"]
+birth_date: null
+death_date: null
 status: living
+fate: null
+species: human
+became_oneiros: false
+affiliated_faction: null
+titles: []
+key_events: []
+locations_associated: []
+tags: [politician, elections]
 ---
 
-Hamza is a politician who was considered as a potential candidate during political discussions in 392 AC but was rejected due to excessive baggage.
+# Hamza
 
-## Political Consideration
+## Overview
 
-In 392 AC, during political discussions between Waru Toowoom and Temesgen, Hamza's name was raised as a potential candidate for an unspecified position. Waru was seeking someone realistic who could inspire people and maintain harmony - someone who represented a new face rather than an established figure.
+Hamza is a politician who was considered as a potential candidate during discussions about the succession of [[Avkan ruun-Heshkari]] in 392 AC.
 
-When Temesgen suggested Hamza alongside Visala and Hoyt as possible candidates, Waru rejected all three, stating they carried "too much baggage." This assessment indicated that Hamza's political history or associations created complications that made them unsuitable for the role being considered.
+## Timeline
 
-The rejection demonstrated Waru's preference for fresh political faces over experienced figures whose past entanglements might complicate their effectiveness in the desired position.
+### 392 AC - Rejected as Successor Candidate
+
+[[Temesgen]] suggested Hamza alongside [[Visala]] and [[Hoyt]] as potential candidates to succeed [[Avkan ruun-Heshkari]]. [[Waru Toowoom]] rejected all three, stating they carried too much baggage, and expressed a preference for a new face.
 
 ## Relationships
 
-- **[[Waru Toowoom]]** - Politician who rejected Hamza as candidate due to excessive baggage
-- **[[Temesgen]]** - Political figure who suggested Hamza as potential candidate
-- **[[Visala]]** - Fellow politician also rejected for having too much baggage
-- **[[Hoyt]]** - Fellow politician also rejected for having too much baggage
+- **[[Hoyt]]**: Fellow candidate also rejected by Waru (392 AC)
+- **[[Temesgen]]**: Political figure who suggested Hamza as candidate (392 AC)
+- **[[Visala]]**: Fellow candidate also rejected by Waru (392 AC)
+- **[[Waru Toowoom]]**: Politician who rejected Hamza as candidate (392 AC)

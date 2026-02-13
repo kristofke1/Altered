@@ -31,6 +31,10 @@ Avalon is a mythical location referenced in [[Rune]]'s scroll discovered in the 
 
 In Arthurian mythology from the [[World Before]], Avalon was the legendary island where King Arthur was taken after his final battle, destined to return when Britain needed him most. The reference in Rune's scroll connects the [[Rediscovery Endeavor]]'s true purpose to this mythological tradition.
 
+## Location
+
+Avalon lies to the northwest of the [[City of Scholars]], representing the next stage of the expedition's journey according to [[Rune's Testament]].
+
 ## Significance
 
 Rune's message names Avalon as the destination where "the king will awaken," connecting the [[Phoenix]]'s rebirth to this western location. Whether Rune himself, the [[Phoenix]], or another entity awaits renewal there remains unclear from the scroll's text.

@@ -1,82 +1,98 @@
 ---
-title: "Ayxas"
+title: Ayxas
 type: character
 category: ruler
-source: "L7_political_system, L11_the_torment"
+source:
+  - "[[L7_political_system]]"
+  - "[[L11_the_torment]]"
+  - "[[T43_Eidocracy]]"
 birth_date: null
 death_date: null
 reign_period: "70-86 AC"
-status: "exiled"
-fate: "Sentenced to exile in 86 AC after tyrannical rule; witnesses saw his frail figure fade into the distance, devoured by madness, whom the Tumult would claim"
-species: "human"
-became_oneiros: null
+status: exiled
+fate: "Sentenced to exile in 86 AC; claimed by The Tumult"
+species: human
+became_oneiros: false
 affiliated_faction: null
-founded_organizations: ["[[The Castigar]]", "[[The Magan]]"]
-titles: ["High King", "Kuningas"]
-lineage: null
-key_events: ["[[The Torment]]"]
-locations_associated: ["[[Asgartha]]", "[[Elysium]]"]
-tags: [ruler, high-king, tyrant, exiled, the-torment]
+founded_organizations:
+  - "[[The Castigar]]"
+  - "[[The Magan]]"
+titles:
+  - High King
+  - Kuningas
+lineage: "Son of Aysun"
+key_events:
+  - "[[The Torment]]"
+locations_associated:
+  - "[[Asgartha]]"
+  - "[[Elysium]]"
+  - "[[The Asterion]]"
+tags:
+  - ruler
+  - high-king
+  - tyrant
+  - exiled
+  - the-torment
+  - aysun-lineage
+aliases: []
 ---
 
 # Ayxas
 
-## Overview
-Ayxas was the third High King (Kuningas) of [[Asgartha]], reigning from 70-86 AC. Initially beloved as Asgartha's favorite son, he descended into tyranny during [[The Torment]], establishing an autocratic dictatorship before being overthrown and exiled in 86 AC.
+Ayxas was the third High King (Kuningas) of [[Asgartha]], reigning from 70-86 AC. He was a son of [[Aysun]] and twin brother of [[Aysar]]. His reign began with expansion efforts but descended into tyranny during [[The Torment]], ending with his overthrow and exile.
 
-## Early Life and Rise to Power
+## Background
 
-### Protégé of Cwaith
-Ayxas was the protégé of [[Cwaith]], the second Kuningatar. Together, they developed their strategy: she prepared society and the population, while he was tasked with further expanding the nation's sphere of influence.
+Ayxas was the protégé of [[Cwaith]], the second Kuningatar. Together they developed a strategy: she prepared society and the population, while he was tasked with expanding the nation's sphere of influence. When Cwaith relinquished her crown, Ayxas ascended to the title of Kuningas.
 
-### Popular Appeal
-Ayxas was beloved by the people. Handsome and charismatic, he consistently showed compassion and kindness, earning him the reputation as Asgartha's favorite son. When Cwaith relinquished her crown, the elections were a mere formality, and Ayxas ascended to the title of Kuningas without any real competition.
+## Early Reign
 
-## Early Reign (70-74 AC)
+During his early reign (70-74 AC), Ayxas funded the research of [[Jian Lam]], a physicist studying the properties of [[Aerolith]]. He began planning strategy to populate the [[Anthea]] peninsula, exchanging information with the [[Lyra]] caravans. He provided logistical and material support to help [[Yzmir]], [[Bravos]], and [[Ordis]] organize themselves.
 
-### Initial Accomplishments
-His reign began under the best circumstances:
-- He funded the research of [[Jian Lam]], a physicist studying the properties of [[Aerolith]]
-- He began planning a strategy to populate the [[Anthea]] peninsula, frequently exchanging information with the [[Lyra]] caravans
-- He helped the [[Yzmir]], the [[Bravos]], and the [[Ordis]] to organize themselves, providing logistical and material support
+## The Torment
 
-## Descent into Tyranny (74-86 AC)
+In 74 AC, Ayxas secluded himself for several months in his [[Elysium|Elysian]] quarters. He founded two organizations loyal to him: [[The Castigar]], an Alteration Faction affiliated with political power, and [[The Magan]], a military academy dedicated to the arts of war.
 
-### The Turning Point (74 AC)
-No one truly knows how [[The Torment]] began. In 74 AC, Ayxas secluded himself for several months in his [[Elysium|Elysian]] quarters, where he received numerous dignitaries, advisors, and analysts. Hidden away in his palace, he devised a plan.
+From 74-79 AC, he passed laws and decrees restructuring the state apparatus. In 79 AC, Ayxas presented a motion of no confidence against the Factions to the Privy Council. By royal decree, [[Bravos]] and [[Ordis]] were declared illegal and ordered to dissolve. [[Yzmir]] were instructed to submit to [[The Castigar]] and surrender their esoteric research. All independent military groups were required to disarm and submit to [[The Magan]].
 
-### Creation of Loyalist Organizations
-He founded two organizations loyal only to him:
-- [[The Castigar]] - An Alteration Faction affiliated with political power
-- [[The Magan]] - A military academy dedicated to the arts of war
+Alterers who refused to join [[The Castigar]] were hunted, imprisoned, or eliminated. The militant orders were dissolved, often violently.
 
-### Political Genius
-Ayxas was a political genius, a talented orator, with magnetic charm and natural authority. For five years (74-79 AC), he passed laws and decrees, patiently restructuring the state apparatus to give himself more freedom of action. He built a circle of loyalists by promoting certain individuals to key positions and winning over others with words, attention, or substantial gifts.
+## Timeline
 
-### Declaration of Dictatorship (79 AC)
-Things changed abruptly in 79 AC when Ayxas presented a motion of no confidence against the Factions to the Privy Council. Unilaterally:
-- The [[Bravos]] and the [[Ordis]] were declared illegal and ordered to dissolve by royal decree
-- The [[Yzmir]] were instructed to submit to [[The Castigar]] and hand over all their esoteric research
-- All independent military groups were required to disarm and submit to [[The Magan]]
+### 70 AC - Ascension
 
-### Suppression of Warrior Brotherhoods
-In 74 AC, Ayxas issued royal decree outlawing independent warrior brotherhoods including [[Ugetsu Fenshen]] school. When [[Walela]], Grandmaster of Ugetsu-Fenshen, refused decree, [[The Magan|Magan]] contingent attacked monastery. Flames consumed dwellings, monks fought but resistance crumbled. [[Suddran]], [[Nadra]], and many others were killed. [[Gericht vaan-Bracht]] survived, left for dead, later joined rebellion against Ayxas.
+Ayxas became the third Kuningas of [[Asgartha]] following [[Cwaith]]'s abdication.
 
-### Reign of Terror
-Historians are unsure whether Ayxas had been hiding his true intentions from the start or if external circumstances had radically shifted his political vision. The despot became obsessed with suppressing all dissent, resorting to violence if necessary.
+### 74 AC - Suppression of Warrior Brotherhoods
 
-Alterers who refused to join [[The Castigar]] were hunted, imprisoned, or eliminated. One by one, the militant orders were dissolved, often violently. [[Asgartha]] lived in fear, under the tyranny of its ruler's whims. Leaflets circulated condemning his abuses and excesses, which clearly displayed paranoid tendencies and even psychotic episodes of extreme violence.
+Ayxas issued royal decree outlawing independent warrior brotherhoods including [[Ugetsu Fenshen]] school. When [[Walela]], Grandmaster of Ugetsu-Fenshen, refused the decree, a [[The Magan|Magan]] contingent attacked the monastery. [[Suddran]], [[Nadra]], and many others were killed. [[Gericht vaan-Bracht]] survived and later joined the rebellion against Ayxas.
 
-## Overthrow and Exile (86 AC)
+### 79 AC - Declaration of Dictatorship
 
-### The Uprising
-In 86 AC, insurgents stormed the [[Elysium]] with the help of certain royal guards. The conscripted forces of [[The Magan]] and [[The Castigar]] opposed the rioters but were eventually overthrown by the coalition of rebel forces.
+Ayxas presented motion of no confidence against the Factions to the Privy Council, declaring [[Bravos]] and [[Ordis]] illegal and ordering [[Yzmir]] to submit to [[The Castigar]].
 
-### Final Confrontation
-When the mutineers entered the throne room, Ayxas was there waiting for them, pale and horrified. He harshly rebuked them, arguing that their rebellion would spell humanity's doom. He claimed to know the dangers lurking beyond, the horrors lying at the edge of reason. He tried to convince them that everything he had done was necessary for humanity's survival.
+### 86 AC - Overthrow and Exile
 
-### Sentence and Fate
-Ayxas was judged by a people's court and sentenced to exile, the harshest punishment in Asgarthan law. Witnesses to the event saw his frail figure fade into the distance, that of a man devoured and consumed by madness, whom [[The Tumult]] would claim.
+Insurgents stormed [[Elysium]] with help from certain royal guards. Forces of [[The Magan]] and [[The Castigar]] were overthrown by the coalition of rebel forces. Ayxas was judged by a people's court and sentenced to exile, the harshest punishment in Asgarthan law. He was last seen walking into [[The Tumult]].
 
 ## Legacy
-After Ayxas's overthrow, [[The Castigar]] and [[The Magan]] were dismantled. Order was restored in the administrative and political institutions, and [[Akash]] was crowned the next Kuningas of [[Asgartha]].
+
+A portrait of Ayxas hangs in the Basileus's bedchamber at [[The Asterion]], opposite that of his twin [[Aysar]]. [[Avkan ruun-Heshkari]] kept both portraits as reminders of the temptation and corruption any ruler might succumb to during their reign.
+
+After Ayxas's overthrow, [[The Castigar]] and [[The Magan]] were dismantled. [[Akash]] was crowned the next Kuningas of [[Asgartha]].
+
+## Relationships
+
+- **[[Akash]]**: Successor as Kuningas following Ayxas's exile
+- **[[Avkan ruun-Heshkari]]**: Basileus who kept Ayxas's portrait as warning
+- **[[Aysar]]**: Twin brother who chose humility
+- **[[Aysun]]**: Mother; founder of [[Yzmir]]
+- **[[Cwaith]]**: Predecessor and mentor; second Kuningatar
+- **[[Eskheret ruun-Kurush]]**: Rebel who breached fortress gates during uprising; died from wounds (86 AC)
+- **[[Gericht vaan-Bracht]]**: Survivor of Ugetsu-Fenshen massacre who joined rebellion
+- **[[Jian Lam]]**: Physicist whose [[Aerolith]] research Ayxas funded
+- **[[Nadra]]**: Monk killed in Ugetsu-Fenshen massacre (74 AC)
+- **[[Rune]]**: Grandfather; first Kuningas of Asgartha
+- **[[Sigismar Synd]]**: Descendant who carries the stigma of Ayxas's lineage
+- **[[Suddran]]**: Monk killed in Ugetsu-Fenshen massacre (74 AC)
+- **[[Walela]]**: Grandmaster of [[Ugetsu Fenshen]] who refused Ayxas's decree (74 AC)

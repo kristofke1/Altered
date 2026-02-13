@@ -2,7 +2,7 @@
 title: Sitina
 type: character
 category: warrior
-source: ["card_lore", "[[T39_The_Betrayal]]"]
+source: ["card_lore", "[[T39_The_Betrayal]]", "BRAVOS_minor_narrators_lore"]
 birth_date: null
 death_date: null
 reign_period: null
@@ -48,7 +48,7 @@ The duende is a transcendent artistic state where the performer loses self-consc
 ## Timeline
 
 ### 390 AC - Training with Basira al-Arshad
-Sitina underwent advanced training with [[Basira al-Arshad]], demonstrating her blade dancing skills in a chalk-drawn circle. Other swordsmen stopped their training to watch. Basira used finger snaps to cue Sitina through three progressive stages: slow arabesques, accelerated spinning, and unleashed duende where Sitina replicated Basira's complex katas perfectly.
+[[Basira al-Arshad]] trained Sitina through three progressive stages—slow arabesques, accelerated spinning, and unleashed duende—using finger snaps as cues until Sitina replicated her complex katas perfectly.
 
 ### 393 AC - Escorting Waru's Expedition
 Sitina led a cohort of [[Phoenixian Guard]] escorting [[Waru Toowoom]]'s expedition into the [[City of Scholars]] depths. When seismic tremors struck following Waru's [[Tesseracts]] probe, she urged retreat but deferred to the Exalt's judgment.
@@ -62,7 +62,7 @@ Sitina bears golden tracings on her skin—patterns identical to the archaic scr
 
 ## Relationships
 
-- **[[Basira al-Arshad]]**: Seiringar instructor who trained Sitina in advanced blade dancing (390 AC)
+- **[[Basira al-Arshad]]**: Seiringar who trained Sitina (390 AC); entrusted with [[Phoenix Egg]] by Sitina and the [[Phoenixian Guard]] (393 AC)
 - **[[Phoenixian Guard]]**: Elite military organization Sitina serves as blade dancer member
 - **[[Waru Toowoom]]**: [[Ordis]] Exalt to whom Sitina revealed the Testament (393 AC)
 - **[[Kojo Oduro]]**: [[Bravos]] Exalt who witnessed Sitina's revelation (393 AC)

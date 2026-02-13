@@ -6,13 +6,14 @@ source:
   - "[[Until_The_Latter_Fire_Shall_Heat_The_Deep]]"
 faction: "[[Yzmir]]"
 status: deceased
+key_events: ["[[Battle of Madan Bay]]"]
 ---
 
-Asta was one of ten elite Battle Mages of the Kadigir who participated in the coordinated assault against the Kraken in 392 AC.
+Asta was one of ten elite Battle Mages of [[The Kadigir]] who participated in the [[Battle of Madan Bay]] in 392 AC.
 
-## Battle Against the Kraken
+## Battle of Madan Bay
 
-In 392 AC, Asta was among the most powerful Initiates of the Kadigir deployed in the military operation to destroy the Kraken. The battle took place in a cove where all six Factions coordinated their forces under Sigismar's strategy.
+In 392 AC, Asta was among the most powerful [[Initiates]] of [[The Kadigir]] deployed in the [[Battle of Madan Bay]]. The battle took place in a cove where all six Factions coordinated their forces under [[Sigismar Synd|Sigismar]]'s strategy.
 
 Asta joined nine other illustrious Battle Mages - including Afanas Korovinovich, Elewa, Yasti, Mathis, Biska, Curcio, and Matera - in forming a circle hovering around the imprisoned Leviathan. The Mages concentrated their Mana to call down a star from the sky and reduce the Kraken to ashes, tracing complex Signs in the air to shield themselves with protective Sigils.
 
@@ -30,5 +31,5 @@ The fate of Asta following the meteor's destruction and the Kraken's violent cou
 - **[[Curcio]]** - Fellow Battle Mage who teleported to safety
 - **[[Matera]]** - Afanas's disciple who participated in the assault
 - **[[Senka]]** - Eidolon imbued with power to create the meteor strike
-- **[[Kraken]]** - Leviathan targeted in the 392 AC assault
-- **[[The Kadigir]]** - Yzmir facility where the elite Battle Mages trained
+- **[[Kraken]]** - Leviathan targeted in the [[Battle of Madan Bay]] (392 AC)
+- **[[The Kadigir]]** - [[Yzmir]] facility where the elite Battle Mages trained

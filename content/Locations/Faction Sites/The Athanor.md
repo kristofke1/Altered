@@ -45,7 +45,7 @@ The facility is a glass and metal girder construction featuring walkways connect
 The Athanor has direct access to [[Wright Altiport]]. A marshaling yard with a dozen railway tracks handles cargo. Trains transport machines to aerostats that disseminate technology throughout the peninsula.
 
 ## The Nexus
-At the center of the Athanor pulses the [[Nexus]], a sphere of concentrated [[Kelon]] floating in the air. This energy core powers all equipment in the facility. [[Constructs]] are created near the Nexus.
+At the center of the Athanor pulses the [[The Nexus]], a sphere of concentrated [[Kelon]] floating in the air. This energy core powers all equipment in the facility. [[Constructs]] are created near the Nexus.
 
 ## Research Functions
 The Athanor serves as a research center studying phenomena caused by [[The Tumult]]: botanists analyze Tumult-tinted plants, naturalists observe new animal species, and physicists examine [[Kelon]] and study how gravity and time have been affected by [[The Confluence]].
@@ -53,7 +53,7 @@ The Athanor serves as a research center studying phenomena caused by [[The Tumul
 ## Relationships
 - **[[Arkaster]]**: Capital city where the Athanor is located
 - **[[Axiom]]**: Faction operating the facility
-- **[[Nexus]]**: Energy core at the center of the Athanor
+- **[[The Nexus]]**: Energy core at the center of the Athanor
 - **[[Wright Altiport]]**: Transportation hub with direct access
 - **[[Kelon]]**: Energy source studied and utilized here
 - **[[Constructs]]**: Mechanical artifacts created at the facility

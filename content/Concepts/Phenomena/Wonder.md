@@ -2,17 +2,16 @@
 title: Wonder
 type: concept
 category: phenomenon
-source: faction_lyra
+source: ["faction_lyra"]
 related_concepts:
   - "[[Kalann Mae]]"
   - "[[The Ignescence]]"
   - "[[Alteration]]"
 associated_factions:
   - "[[Lyra]]"
-associated_locations:
-  - "[[Kalann Mae]]"
+associated_locations: []
 first_mentioned:
-description_summary: Grandiose and sumptuous creations that blossom at the end of Kalann Mae festivities, shaped by gathered energy of Lyra artists
+description_summary: Permanent masterworks created at the climax of Kalann Mae festivities through the collective creative energy of Lyra artists
 tags:
   - phenomenon
   - lyra
@@ -26,17 +25,23 @@ aliases:
 # Wonder
 
 ## Overview
-A Wonder is a grandiose and sumptuous creation that blossoms at the end of [[Kalann Mae]] festivities. These are enchanting places or monuments, eternal masterpieces commemorating a fleeting and glorious moment.
+A Wonder is a permanent masterwork — an enchanting place or monument — that emerges at the climax of a [[Kalann Mae]] festival. Created through the collective creative energy of [[Lyra]] artists, Wonders serve as eternal commemorations of the fleeting celebrations that produced them.
 
 ## Creation Process
-During [[Kalann Mae]], [[Lyra]] troubadours and contortionists, sculptors and painters compete in talent, becoming intoxicated with fever to unleash unbridled creativity. All the gathered energy shapes the location of the call, and at the end of the festivities, as a climax, a Wonder blossoms there.
+During Kalann Mae, Lyra artists of every discipline channel their talents in an atmosphere of intense creative fervor. The gathered energy of performers, sculptors, painters, and other artisans accumulates throughout the festivities, shaping the location where the festival was called. At the celebration's peak, this concentrated creative force manifests as a Wonder.
 
 ## Aftermath
-The Wonder in question is then left behind or entrusted to local populations, and the [[Lyra]] set off again towards new horizons.
+Once created, a Wonder is left behind or entrusted to local populations. The Lyra then depart toward new horizons, leaving the masterwork as a lasting mark of their passage.
 
 ## Known Wonders
-Examples of Wonders include:
-- The reversed waterfall of Cuyvar
-- The Olive Grove of Sartonis
-- The Alabaster House of Ser-Karran
-- The Valtrecht Centaur
+Examples of Wonders include the [[Reversed Waterfall of Cuyvar]], the [[Olive Grove of Sartonis]], the [[Alabaster House of Ser-Karran]], and the [[Valtrecht Centaur]].
+
+## Relationships
+
+- **[[Alabaster House of Ser-Karran]]**: Known Wonder
+- **[[Ignescence]]**: Lyra Alteration style that channels the creative energy shaping Wonders
+- **[[Kalann Mae]]**: Festival during which Wonders are created
+- **[[Lyra]]**: Faction whose artists create Wonders
+- **[[Olive Grove of Sartonis]]**: Known Wonder
+- **[[Reversed Waterfall of Cuyvar]]**: Known Wonder
+- **[[Valtrecht Centaur]]**: Known Wonder

@@ -2,18 +2,21 @@
 title: Kaibara
 type: character
 category: leviathan
-source: ["T8_Until_The_Latter_Fire", "T4_Namkha", "T11_Carnelian_Crown", "T10_Mise_En_Abyss", "card_lore", "L02_Geography_A", "L04_Geography_C"]
+source: ["T8_Until_The_Latter_Fire", "T4_Namkha", "T11_Carnelian_Crown", "T10_Mise_En_Abyss", "card_lore", "L02_Geography_A", "L04_Geography_C", "[[L45_Eru]]"]
 related_concepts: ["[[Leviathans]]", "[[Kraken]]", "[[Niavhe]]", "[[Bravos]]"]
 associated_factions: ["[[Bravos|Bravos]]", "[[Muna|Muna]]"]
 associated_locations: ["[[Caer Oorun]]", "[[Silg]]"]
 first_mentioned: "~125-135 AC"
 description_summary: Whale Leviathan allied with Bravos, named by Chiziwa, bonded with Niavhe, aided in battle against Kraken
+key_events: ["[[Battle of Madan Bay]]"]
 tags:
   - leviathan
   - creature
   - ally
   - asgarthan-leviathan
 ---
+
+# Kaibara
 
 ## Overview
 
@@ -23,46 +26,30 @@ Kaibara is a whale Leviathan known for its alliance with humanity, particularly 
 
 ### Soul Bond with Niavhe (~125-135 AC)
 
-Kaibara formed a soul bond with Niavhe, creating one of the recorded instances of soul resonance between a human and a Leviathan. This bond is referenced in later tales of the Paramours.
+Kaibara formed a soul bond with [[Niavhe]], creating one of the recorded instances of soul resonance between a human and a Leviathan. This bond is referenced in later tales of the [[Paramours]]. Through this bond, Niavhe demonstrated that communication with Kaibara was possible.
+
+### The Nine Keepers
+
+Kaibara granted [[Niavhe]] and her nine disciples permission to enter the [[Katkera]]—and even to dwell there. [[Eru]] was the first person besides Niavhe whom Kaibara allowed upon her back, demonstrating the deep trust between the Leviathan and the early Muna.
 
 ### Defeat by the Kraken (~146 AC)
 
-[[Kraken|The Kraken]] challenged Kaibara for control of [[Caer Oorun]]. The two colossi battled for days, ravaging the Province and raining ruin and destruction upon the human enclaves. Entire villages were wiped off the map and fields were laid to waste.
-
-At the end of this titanic confrontation, Kaibara was defeated and had to retreat, leaving Caer Oorun in the hands of the victorious Kraken. This defeat led to the construction of [[The Rampart]] and the sealing of the [[Solstice Gate]] to protect the rest of the peninsula.
+[[Kraken|The Kraken]] challenged Kaibara for control of [[Caer Oorun]]. The two colossi battled for days, devastating the Province and destroying human enclaves. Entire villages were wiped off the map and fields were laid to waste. Kaibara was defeated and had to retreat, leaving Caer Oorun in the hands of the victorious Kraken. This defeat led to the construction of [[The Rampart]] and the sealing of the [[Solstice Gate]].
 
 ### Alliance with Muna
 
-The Muna worked alongside Kaibara to contain the growth of the Black Leviathan during the Three Factions War (late 3rd century AC). Despite their efforts, they could not make the malevolent creature disappear entirely.
+The Muna worked alongside Kaibara to contain the growth of the [[Black Leviathan]] during [[The Three Factions War]] (late 3rd century AC). Despite their efforts, they could not make the malevolent creature disappear entirely.
 
-### Battle Against the Kraken (392 AC)
+### Battle of Madan Bay (392 AC)
 
-During the Expeditionary Corps' effort to defeat the Kraken and reclaim Caer Oorun, Teija summoned Kaibara as a crucial ally through infiltrating the Mana network. The summoning occurred while the beach battle fell apart with Ordis soldiers being carried away by tumultuous waves and the Kraken using tentacles and black ink geysers effectively.
-
-Teija sat cross-legged for several minutes concentrating while Kojo paced nearby. When she opened her eyes with a slight smile, a massive shadow appeared above so large it caused clouds to swell and dissipate as it passed. Kaibara pierced through the cloudy ceiling, and the Leviathan's cry filled the world.
-
-Kojo began running with Booda, sprinting and dodging boulders littering the path. When the whale pulled up alongside, Kojo leaped toward it, throwing himself into the void. His hands gripped branches on one of the trees growing on Kaibara's skin surface. He held tight despite wind buffeting his face, barely able to keep his eyes open. Kaibara engaged the Kraken in battle.
-
-The massive whale Leviathan:
-- Slammed into the Kraken with tremendous force
-- Carried Kojo Oduro and Booda on its tree-covered skin during the assault
-- The Leviathan's attacks weakened the Kraken, allowing Kojo to deliver the final devastating blow
-- After Kojo's strike, Kaibara remained in the bay as the battle concluded
-
-### Communication
-
-Niavhe demonstrated that communication with Kaibara was possible.
+During the [[Battle of Madan Bay]], [[Teija]] summoned Kaibara through the Mana network. Kaibara pierced through the clouds above the beach battle as [[Kojo Oduro]] leaped onto its tree-covered skin. The massive whale slammed into the [[Kraken]] with tremendous force, weakening it enough for Kojo to deliver the final devastating blow.
 
 ## Physical Description
 
-Kaibara is described as a colossal whale capable of:
-- Flying through the air and swimming through clouds
-- Creating tremendous impacts when striking opponents
-- Carrying riders (such as Kojo and Booda) during combat on its skin surface
-- Moving with enough force to create towering waves
-- Having trees growing on its skin that riders can grip as handholds
+Kaibara is a colossal whale capable of flying through the air and swimming through clouds. Trees grow on its skin surface, providing handholds for riders. The Leviathan can create tremendous impacts when striking opponents and move with enough force to create towering waves.
 
 ## Relationships
+
 - **[[Silg]]**: Mountain region where Kaibara resides in a half-frozen lake
 - **[[Kirighai]]**: Peninsula protected by Kaibara as tutelary Leviathan
 - **[[Katkera]]**: Sacred forest protected under pact with Kaibara
@@ -72,6 +59,7 @@ Kaibara is described as a colossal whale capable of:
 - **[[Muna]]**: Faction allied with Kaibara through ancient pact
 - **[[Bravos]]**: Faction allied with Kaibara
 - **[[Niavhe]]**: Human who formed soul bond with Kaibara
-- **[[Teija]]**: Muna who summoned Kaibara during Kraken battle (392 AC)
-- **[[Kojo Oduro]]**: Bravos warrior who rode Kaibara into battle against Kraken
-- **[[Kraken]]**: Leviathan that defeated Kaibara (~146 AC), later defeated with Kaibara's aid (392 AC)
+- **[[Eru]]**: First person besides Niavhe whom Kaibara allowed upon her back
+- **[[Teija]]**: [[Muna]] who summoned Kaibara during [[Battle of Madan Bay]] (392 AC)
+- **[[Kojo Oduro]]**: [[Bravos]] warrior who rode Kaibara during [[Battle of Madan Bay]] (392 AC)
+- **[[Kraken]]**: Leviathan that defeated Kaibara (~146 AC), later defeated with Kaibara's aid at [[Battle of Madan Bay]] (392 AC)

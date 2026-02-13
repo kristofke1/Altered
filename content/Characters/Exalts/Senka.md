@@ -16,7 +16,7 @@ titles:
   - Alter Ego
   - Night Bird
 lineage:
-key_events: []
+key_events: ["[[Battle of Madan Bay]]"]
 locations_associated:
   - "[[The Kadigir]]"
   - "[[Cebir]]"
@@ -70,10 +70,15 @@ Afanas held out hand and Senka landed digging claws into flesh. Pierced skin wit
 
 Like shadow, Senka soared above site. Like bird of prey chased down ideas catching them on wing and swallowing like common mice. For brief moment, anxiety bubbled to surface of Afanas's mind. Each time they advanced, he watched Senka grow stronger and stronger. Its wings grew larger, just like night within. Afanas needed it to grow but was it wise to let it gorge itself like this?
 
+## Origins
+
+Senka was found imprisoned in a steel coffin aboard the frigate carrying [[Afanas Korovinovich|Afanas]]'s family toward [[Cebir]] (~327 AC). When the [[Kraken]] destroyed the ship, the coffin split open and Senka emerged, sinking talons into Afanas and lifting him from the icy waters. The bird remained at his bedside throughout his convalescence, and like Afanas, had lost an eye. The circumstances of Senka's imprisonment — sealed in a metal container aboard a ship heading to [[Cebir]], where [[Sylas]] operated — and [[Saskia Averina]]'s later accusation that Sylas failed to deliver a creature she called "the Strix" suggest Senka may be the undelivered Strix. If so, Senka's spontaneous bond with Afanas during the shipwreck prevented the delivery, which Sylas later "atoned" for. Saskia's subsequent remark about finding "a target in [[Yzmir]] domain more interesting than the night bird" further implies she remained aware of Senka's existence.
+
 ## Relationships
 
 - **[[Afanas Korovinovich]]**: Bonded partner through Musubi, serves as Afanas's eyes and scout
 - **[[Basira al-Arshad]]**: Bravos warrior Senka hovered above during Cebir confrontation (392 AC)
 - **[[Kaizaimon]]**: Oni Alter Ego Senka threatened with violet lightning during clash (392 AC)
-- **[[Sylas|Chrysanthemum Cloaked Warlock]]**: Target of search through Tumult
+- **[[Saskia Averina]]**: Referenced "the Strix" as a creature Sylas failed to deliver; may have been intended recipient of Senka
+- **[[Sylas|Chrysanthemum Cloaked Warlock]]**: Target of search through Tumult; possibly transported Senka in steel coffin toward [[Cebir]] for delivery to [[Saskia Averina]]
 - **[[Nimue|Lady of the Lake]]**: Guardian Eidolon manifested during Megalith sealing (386 AC)

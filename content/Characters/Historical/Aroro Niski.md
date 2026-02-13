@@ -61,4 +61,5 @@ The fervor of remembrance and continued storytelling about her sacrifice enabled
 - **[[Itzamna ruun-Heeren]]**: Basileus who declined to receive her warning; perished in tsunami
 - **[[Ndidi Dewitt]]**: Basilissa who commissioned her memorial
 - **[[The Asterion]]**: Palace where she waited unsuccessfully for audience
+- **[[Carnelian Crown]]**: Historical recipient of Asgartha's highest honor
 - **[[Rediscovery Endeavor]]**: Organization she joined as [[Oneiros]]

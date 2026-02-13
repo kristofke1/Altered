@@ -92,9 +92,9 @@ Frog Prince signed notarial confirmation making it official: Mack and Waru were 
 ### 392 AC - Caer Oorun Boredom
 Mack on low wall casually cleaning claws at Caer Oorun ruins. He obviously couldn't wait to return to Ouroboros intrigues - opponents of Endeavor and officers behaving like sycophants in power struggle. Mack shook head openly expressing boredom. Despite Waru's attempts to introduce him to history, archaeology, study of past, none captured his attention long. Mack fell backward into thick grass squirming like impatient little kid.
 
-### ~393 AC - Ice Rescue Assessment at Storvhit
+### 393 AC, January-April - Ice Rescue Assessment at Storvhit
 
-Mack observed through [[Waru Toowoom|Waru]]'s eyes during glacier cave rescue at [[Storvhit]] and warned that trapped [[Yzmir]] warlock no longer had enough [[Mana]] to do anything more than protect himself from cold.
+Mack observed through [[Waru Toowoom|Waru]]'s eyes during glacier cave rescue at [[Storhvit]] and warned that trapped [[Yzmir]] warlock no longer had enough [[Mana]] to do anything more than protect himself from cold.
 
 ## Musubi Bond
 

@@ -32,7 +32,7 @@ aliases: []
 
 ## Overview
 
-Santa Claus is an [[Eidolons|Eidolon]] who operates a flying sleigh pulled by reindeer for deliveries. He was considered as a candidate for [[Storvhit]] patronage following [[Kuraokami]]'s liberation but was deemed too human-centered for the role.
+Santa Claus is an [[Eidolons|Eidolon]] who operates a flying sleigh pulled by reindeer for deliveries. He was considered as a candidate for [[Storhvit]] patronage following [[Kuraokami]]'s liberation but was deemed too human-centered for the role.
 
 ## Appearance
 
@@ -48,7 +48,7 @@ Santa Claus can climb into the sky and disappear into the clouds with his sleigh
 
 ## Storvhit Patronage Consideration - 393 AC
 
-Following [[Kuraokami]]'s liberation from [[The Nilam]], various [[Oneiros]] candidates were evaluated to replace the dragon as patronage for [[Storvhit]]'s arctic climate. Santa Claus was among those considered alongside Snow Queen, Baron Kelvin, and Dong Da Shen. All four were ruled out as being too human-centered for the biome survival role, which was ultimately given to [[Jack Frost]].
+Following [[Kuraokami]]'s liberation from [[The Nilam]], various [[Oneiros]] candidates were evaluated to replace the dragon as patronage for [[Storhvit]]'s arctic climate. Santa Claus was among those considered alongside Snow Queen, Baron Kelvin, and Dong Da Shen. All four were ruled out as being too human-centered for the biome survival role, which was ultimately given to [[Jack Frost]].
 
 ## Timeline
 
@@ -60,6 +60,6 @@ Santa Claus encountered [[Nevenka]] leaving [[The Talaria]] warehouse with stole
 
 - **[[Nevenka]]**: [[Lyra]] Exalt who stole his sleigh after warehouse encounter; covets the vehicle (~393 AC)
 - **[[The Talaria]]**: Postal organization whose warehouse Santa Claus visits for deliveries
-- **[[Jack Frost]]**: [[Oneiros]] selected for [[Storvhit]] patronage over Santa Claus (393 AC)
+- **[[Jack Frost]]**: [[Oneiros]] selected for [[Storhvit]] patronage over Santa Claus (393 AC)
 - **[[Kuraokami]]**: Dragon whose liberation created the patronage vacancy Santa Claus was considered for
-- **[[Storvhit]]**: Arctic region Santa Claus was considered to provide patronage for
+- **[[Storhvit]]**: Arctic region Santa Claus was considered to provide patronage for

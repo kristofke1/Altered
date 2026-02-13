@@ -13,10 +13,10 @@ related_concepts:
   - "[[The Confluence]]"
 associated_factions: []
 associated_locations:
-  - "[[Storvhit]]"
+  - "[[Storhvit]]"
   - "[[Caer Oorun]]"
   - "[[City of Scholars]]"
-first_mentioned: "Pre-Concord era"
+first_mentioned: Pre-Concord era
 description_summary: The unknown lands beyond Asgartha's borders, still affected by the Tumult
 tags:
   - geography
@@ -48,5 +48,5 @@ In 392 AC, Basileus [[Avkan ruun-Heshkari]] proclaimed the [[Rediscovery Endeavo
 Several regions of the Terra Incognita have been identified through exploration:
 
 - **[[Caer Oorun]]**: The first province reclaimed during the Rediscovery Endeavor
-- **[[Storvhit]]**: A winter region perpetually locked in harsh cold, centered on [[Cais Adarra]] mountain
+- **[[Storhvit]]**: A winter region perpetually locked in harsh cold, centered on [[Cais Adarra]] mountain
 - **[[City of Scholars]]**: An ancient settlement referenced in Tumult Nomad records

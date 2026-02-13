@@ -41,7 +41,7 @@ The Kadigir, also known as the Occult College, is the Bastion of the [[Yzmir]] f
 An irrigation system channels water from the high-altitude lake [[Ayna]] to verdant terraces, then supplies the [[Axiom]] workshops below. Levitating elevators connect the fjord waters to the hanging gardens above.
 
 ## Structure
-The Kadigir consists of esplanades, temples, and hanging gardens containing shaded alleys, terraces, ancient trees (cypresses, cedars, maples), glasshouses, orangeries, fountains, artificial streams, colonnades, temples, and observatories for studying the night sky and [[The Tumult]].
+The Kadigir consists of esplanades, temples, and hanging gardens containing shaded alleys, terraces, ancient trees (cypresses, cedars, maples), glasshouses, orangeries, fountains, artificial streams, colonnades, temples, and observatories for studying the night sky and [[The Tumult]]. The arboretum contains many plants transmuted by [[The Tumult]], producing trees with extraordinary shapes and colors, exotic flowers, and strange birds. The complex includes an occult library where silence etiquette is maintained and staff greet visitors using Signs.
 
 ## The Five Sphere Temples
 Each of [[The Spheres|the five Spheres]] has a dedicated temple: [[Eidomancy]], [[Horomancy]], [[Phonomancy]], [[Kinemancy]], and [[Gephyromancy]]. Each temple hosts teachers and disciples devoted to that magical discipline.

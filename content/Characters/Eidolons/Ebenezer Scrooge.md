@@ -3,20 +3,27 @@ title: Ebenezer Scrooge
 type: character
 category: eidolon
 source: card_lore
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: eidolon
-fate: null
+fate:
 species: eidolon
 became_oneiros: true
 affiliated_faction: "[[Ordis]]"
 founded_organizations: []
-titles: ["Quartermaster"]
-lineage: null
+titles:
+  - Quartermaster
+lineage:
 key_events: []
-locations_associated: ["[[Storvhit]]"]
-tags: [eidolon, quartermaster, rationing, supplies, ordis]
+locations_associated:
+  - "[[Storhvit]]"
+tags:
+  - eidolon
+  - quartermaster
+  - rationing
+  - supplies
+  - ordis
 ---
 
 # Ebenezer Scrooge
@@ -35,7 +42,7 @@ Ebenezer Scrooge is an inflexible old quartermaster who efficiently administers 
 
 ### ~393 AC - Supply Crisis at Storvhit
 
-[[Waru Toowoom]] discovered an empty supply crate at [[Storvhit]] camp due to team disorganization, drew [[Heka|Glyphs]] in snow with his cane, and summoned Ebenezer Scrooge to ration remaining supplies.
+[[Waru Toowoom]] discovered an empty supply crate at [[Storhvit]] camp due to team disorganization, drew [[Heka|Glyphs]] in snow with his cane, and summoned Ebenezer Scrooge to ration remaining supplies.
 
 ## Relationships
 

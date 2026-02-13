@@ -7,14 +7,14 @@ birth_date: null
 death_date: 392
 reign_period: null
 status: deceased
-fate: Murdered by Lindiwe who tore apart essence during Kraken battle
+fate: Murdered by [[Lindiwe]] who tore apart essence during [[Battle of Madan Bay]]
 species: human
 became_oneiros: false
 affiliated_faction: "[[Yzmir]]"
 founded_organizations: []
 titles: ["Initiate", "Disciple"]
 lineage: null
-key_events: []
+key_events: ["[[Battle of Madan Bay]]"]
 locations_associated: ["[[The Well of Tears]]", "[[The Kadigir]]"]
 tags: [yzmir, initiate, disciple, well-of-tears, megalith, deceased, kraken-battle, murdered]
 ---
@@ -53,11 +53,11 @@ Eidolon handed each Disciple hammer and chisel - tools needed to collect fragmen
 
 When Matera's turn came, she stepped forward ceremoniously. She collected fragment of Aether anomaly, completing transition from Disciple to Initiate rank.
 
-## Murder During Kraken Battle
+## Murder During Battle of Madan Bay
 
-### 392 AC - Killed by Lindiwe
+### 392 AC, September - Killed by Lindiwe
 
-Matera participated in Kraken battle during Rediscovery Endeavor. She fell as struck with full force by Kraken's tentacle. Leviathan smashed through mage's protective barrier as if thin layer of glass. Her broken body toppled backwards as she feebly uttered incantations to repair shattered bones.
+Matera participated in the [[Battle of Madan Bay]] during the [[Rediscovery Endeavor]]. She fell as struck with full force by Kraken's tentacle. Leviathan smashed through mage's protective barrier as if thin layer of glass. Her broken body toppled backwards as she feebly uttered incantations to repair shattered bones.
 
 Lindiwe watched remotely through crystal ball. Lindiwe felt Matera draw on all strength to repair body, fighting for life, before raging waters enveloped her and dragged down into abyss. Lindiwe felt her despair and panic. Matera didn't want to die. She clung to life fighting.
 
@@ -87,8 +87,8 @@ Eye wide, Afanas watched her fall with gaze dull and lifeless before disintegrat
 
 - **[[Afanas Korovinovich]]**: Mentor who observed Matera's Initiate ceremony and nodded encouragement (386 AC), witnessed her murder (392 AC)
 - **[[Flamel]]**: Eidolon who presided over ceremony, handed Matera hammer and chisel (386 AC)
-- **[[Lindiwe]]**: Murdered Matera by telepathically tearing apart essence during Kraken battle (392 AC)
+- **[[Lindiwe]]**: Murdered Matera by telepathically tearing apart essence during [[Battle of Madan Bay]] (392 AC)
 - **[[The Well of Tears]]**: Location of Initiate induction ceremony
 - **[[The Megalith]]**: Aether Singularity from which Matera collected fragment
 - **[[The Kadigir]]**: Yzmir Bastion where Matera studied
-- **[[Kraken]]**: Creature whose tentacle struck Matera, creating opportunity for Lindiwe's murder
+- **[[Kraken]]**: Creature whose tentacle struck Matera during [[Battle of Madan Bay]], creating opportunity for Lindiwe's murder (392 AC)

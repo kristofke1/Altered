@@ -3,28 +3,37 @@ title: Chaghagan
 type: character
 category: veteran
 source: card_lore
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: living
-fate: null
+fate:
 species: human
 became_oneiros: false
 affiliated_faction: "[[Bravos]]"
 founded_organizations: []
-titles: ["Bravos Trailblazer"]
-aliases: ["Chagha"]
-lineage: null
+titles:
+  - Bravos Trailblazer
+aliases:
+  - Chagha
+lineage:
 key_events: []
-locations_associated: ["[[Storvhit]]"]
-tags: [bravos, trailblazer, rescue, solid, taciturn, expeditionary-corps]
+locations_associated:
+  - "[[Storhvit]]"
+tags:
+  - bravos
+  - trailblazer
+  - rescue
+  - solid
+  - taciturn
+  - expeditionary-corps
 ---
 
 # Chaghagan
 
 ## Overview
 
-Chaghagan, nicknamed "Chagha," is a [[Bravos]] Trailblazer serving with the [[Rediscovery Endeavor|Expeditionary Corps]]. Known for being solid and taciturn as rock, Chaghagan specializes in rescue operations and heavy digging work during avalanche recovery missions. He served alongside [[Basira al-Arshad]] and [[Catriona]] during the [[Storvhit]] expedition.
+Chaghagan, nicknamed "Chagha," is a [[Bravos]] Trailblazer serving with the [[Rediscovery Endeavor|Expeditionary Corps]]. Known for being solid and taciturn as rock, Chaghagan specializes in rescue operations and heavy digging work during avalanche recovery missions. He served alongside [[Basira al-Arshad]] and [[Catriona]] during the [[Storhvit]] expedition.
 
 ## Personality
 
@@ -34,7 +43,7 @@ Chaghagan is described as solid and taciturn as rock, suggesting reliable and qu
 
 ### 393 AC - Storvhit Avalanche Response
 
-During [[Storvhit]] expedition, avalanche buried path cleared by [[Alterers]] on steep slope under white carpet of snow. Response team arrived over five minutes after avalanche hit, with ten minutes elapsed since initial disaster. Time continued ticking away as rescue operations commenced.
+During [[Storhvit]] expedition, avalanche buried path cleared by [[Alterers]] on steep slope under white carpet of snow. Response team arrived over five minutes after avalanche hit, with ten minutes elapsed since initial disaster. Time continued ticking away as rescue operations commenced.
 
 [[Basira al-Arshad]] used probe to search through thick layer of packed snow, piercing frozen blanket repeatedly while moving forward. When Basira felt resistance in probe and removed glove to whistle with fingers, Chaghagan arrived almost immediately at her side with shovel in hand, leaving deep furrows in snow from his heavy steps.
 
@@ -48,7 +57,7 @@ Chaghagan finally dug something up - small animal with white fur, probably one o
 
 ## Relationships
 
-- **[[Basira al-Arshad]]**: Worked with during [[Storvhit]] avalanche rescue, responded to her whistle signal (393 AC)
+- **[[Basira al-Arshad]]**: Worked with during [[Storhvit]] avalanche rescue, responded to her whistle signal (393 AC)
 - **[[Catriona]]**: Fellow rescuer during avalanche response, complements her caring nature with his solid presence
 - **[[Aoife]]**: [[Bravos]] protégé whom Chaghagan helps look after alongside [[Catriona]]
 - **Bravos Trailblazer**: Rescued from avalanche, had pink-dyed hair from lost bet

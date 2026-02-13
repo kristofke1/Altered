@@ -3,20 +3,27 @@ title: Three Little Pigs
 type: character
 category: eidolon
 source: card_lore
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: eidolon
-fate: null
+fate:
 species: eidolon
 became_oneiros: true
 affiliated_faction: "[[Axiom]]"
 founded_organizations: []
-titles: ["Pig Engineers"]
-lineage: null
+titles:
+  - Pig Engineers
+lineage:
 key_events: []
-locations_associated: ["[[The Foundry]]", "[[Storvhit]]"]
-tags: [eidolon, engineers, axiom, fairy-tale]
+locations_associated:
+  - "[[The Foundry]]"
+  - "[[Storhvit]]"
+tags:
+  - eidolon
+  - engineers
+  - axiom
+  - fairy-tale
 aliases: []
 ---
 
@@ -36,11 +43,11 @@ The Three Little Pigs supervised a competition for spots in [[The Fulcrum]] guil
 
 ### 393 AC - Reprocessor Vehicle Steering
 
-The Three Little Pigs steered the Reprocessor armored vehicle during [[Storvhit]] operations, reversing to safety when [[Sierra]] stabilized cracking rock with [[Alteration]] after the vehicle nearly slid off a cliff edge.
+The Three Little Pigs steered the Reprocessor armored vehicle during [[Storhvit]] operations, reversing to safety when [[Sierra]] stabilized cracking rock with [[Alteration]] after the vehicle nearly slid off a cliff edge.
 
 ### ~393 AC - Hostile Forest Rescue
 
-The Three Little Pigs were discovered by [[Teija]] struggling with voracious roots and grasping stalks in a dark clearing within a hostile reawakened forest at [[Storvhit]], with one pig engineer grabbed and lifted by vine before Teija intervened to free them.
+The Three Little Pigs were discovered by [[Teija]] struggling with voracious roots and grasping stalks in a dark clearing within a hostile reawakened forest at [[Storhvit]], with one pig engineer grabbed and lifted by vine before Teija intervened to free them.
 
 ### 393 AC - Creature Hunt Encounter
 

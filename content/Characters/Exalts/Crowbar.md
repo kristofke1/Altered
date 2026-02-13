@@ -15,7 +15,7 @@ founded_organizations: []
 titles: ["Alter Ego"]
 lineage: "[[Kasirga Clan]]"
 key_events: []
-locations_associated: ["[[The Ouroboros]]", "[[Arkaster]]", "[[The Screed]]"]
+locations_associated: ["[[The Ouroboros]]", "[[Arkaster]]", "[[The Screed]]", "[[Cloud Realm]]"]
 tags: [lyra, chimera, alter-ego, kasirga-clan, musician, scarecrow, bliss]
 aliases: []
 ---
@@ -28,7 +28,7 @@ Crowbar is a scarecrow [[Chimerae|Chimera]] with a pumpkin head who serves as th
 
 ## Appearance
 
-Crowbar appears as a scarecrow with a pumpkin head. Her eyes light up when she "wakes up" or becomes alert. She can set her pumpkin head aflame during performances.
+Crowbar appears as a scarecrow with a pumpkin head. Her eyes light up when she "wakes up" or becomes alert. She can set her pumpkin head aflame during performances. Crowbar also possesses wings, which she can unfurl by discarding her outer outfit.
 
 ## Role in BLISS!
 
@@ -51,13 +51,16 @@ Crowbar serves as [[Fen]]'s Alter Ego in the [[Rediscovery Endeavor]], accompany
 Crowbar played electric guitar during festival in [[Arkaster]] while [[Fen]] drew on [[Ignescence]] and summoned [[Asmodeus]], [[The Sandman]], and [[Cloth Dancer]].
 
 ### 393 AC, January-April - Snowman Building at Storvhit
-Crowbar built snowman with [[Fen]] at [[Storvhit]], engaged in snowball fight, then observed [[Living Snowman]] examine their creation and wave goodbye.
+Crowbar built snowman with [[Fen]] at [[Storhvit]], engaged in snowball fight, then observed [[Living Snowman]] examine their creation and wave goodbye.
 
 ### 393 AC, June-September - BLISS! Concert Crisis
 During [[BLISS!]] performance at [[The Screed]], Crowbar suffered migraine causing missed note simultaneously with [[Fen]]'s memory loss, then approached [[Fen]] telepathically but received only white noise.
 
 ### 393 AC, June-September - Concert Recovery and Encore
 Crowbar convinced [[Orbec]] and [[Tamati]] to support [[Fen]] after her memory loss, then led marathon encore culminating in flaming pumpkin head solo and crowd surf.
+
+### 393 AC - Chasing the Blue Swan
+Crowbar pursued a blue swan across the [[Cloud Realm]], conjuring colorful umbrellas for companions before unfurling her wings and riding wind gusts summoned by [[Fen]] to close the distance.
 
 ## Relationships
 

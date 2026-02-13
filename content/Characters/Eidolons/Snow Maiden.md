@@ -5,20 +5,20 @@ category: eidolon
 source:
   - card_lore
   - "[[L19_The_Storvhit]]"
-birth_date: null
-death_date: null
-reign_period: null
+birth_date:
+death_date:
+reign_period:
 status: eidolon
-fate: null
+fate:
 species: eidolon
 became_oneiros: true
-affiliated_faction: null
+affiliated_faction:
 founded_organizations: []
 titles: []
-lineage: null
+lineage:
 key_events: []
 locations_associated:
-  - "[[Storvhit]]"
+  - "[[Storhvit]]"
 tags:
   - eidolon
   - ice
@@ -32,7 +32,7 @@ aliases: []
 
 ## Overview
 
-Snow Maiden is an [[Eidolons|Eidolon]] who sculpts ice into living animal forms and sings melancholy songs in frozen forests. She was considered as a candidate for [[Storvhit]] patronage but ruled out because she needed cold to exist rather than being able to generate it.
+Snow Maiden is an [[Eidolons|Eidolon]] who sculpts ice into living animal forms and sings melancholy songs in frozen forests. She was considered as a candidate for [[Storhvit]] patronage but ruled out because she needed cold to exist rather than being able to generate it.
 
 ## Appearance
 
@@ -50,11 +50,11 @@ Snow Maiden hums soft, somber melodies with crystalline quality in frozen forest
 
 ## Spontaneous Manifestation
 
-Snow Maiden manifests at [[Storvhit]] without being summoned, one of many [[Eidolons]] appearing spontaneously in the frozen expanses. This unusual frequency of unsummoned manifestations prompted observers to question why [[Eidolons]] appear even to those with no memory of them.
+Snow Maiden manifests at [[Storhvit]] without being summoned, one of many [[Eidolons]] appearing spontaneously in the frozen expanses. This unusual frequency of unsummoned manifestations prompted observers to question why [[Eidolons]] appear even to those with no memory of them.
 
 ## Storvhit Patronage Consideration - 393 AC
 
-Following [[Kuraokami]]'s liberation from [[The Nilam]], various [[Oneiros]] candidates were evaluated to replace the dragon as patronage for [[Storvhit]]'s arctic climate. Snow Maiden was ruled out because she needed cold to exist but could not generate it, unlike [[Jack Frost]] who was selected for the role.
+Following [[Kuraokami]]'s liberation from [[The Nilam]], various [[Oneiros]] candidates were evaluated to replace the dragon as patronage for [[Storhvit]]'s arctic climate. Snow Maiden was ruled out because she needed cold to exist but could not generate it, unlike [[Jack Frost]] who was selected for the role.
 
 ## Timeline
 
@@ -64,7 +64,7 @@ Following [[Kuraokami]]'s liberation from [[The Nilam]], various [[Oneiros]] can
 
 ## Relationships
 
-- **[[Rin]]**: [[Muna]] Exalt who encountered Snow Maiden at [[Storvhit]] (~393 AC)
-- **[[Jack Frost]]**: [[Oneiros]] selected for [[Storvhit]] patronage over Snow Maiden (393 AC)
+- **[[Rin]]**: [[Muna]] Exalt who encountered Snow Maiden at [[Storhvit]] (~393 AC)
+- **[[Jack Frost]]**: [[Oneiros]] selected for [[Storhvit]] patronage over Snow Maiden (393 AC)
 - **[[Kuraokami]]**: Dragon whose liberation created the patronage vacancy Snow Maiden was considered for
-- **[[Storvhit]]**: Arctic region where Snow Maiden manifests spontaneously
+- **[[Storhvit]]**: Arctic region where Snow Maiden manifests spontaneously

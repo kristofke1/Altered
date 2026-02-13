@@ -2,20 +2,34 @@
 title: Hakupopo
 type: concept
 category: sentient_being
-source: ["[[T22_Winter_Folk]]", "[[L24_Mana_Moths]]"]
-related_concepts: ["[[Winter Folk]]", "[[The Skein]]"]
-associated_factions: ["[[Muna]]"]
-associated_locations: ["[[Storvhit]]", "[[Kadigir]]"]
-first_mentioned: "393 AC"
-description_summary: "Sentient fluffy spheres that drift with snowfall and exhibit responsive behavior to human presence"
-tags: [sentient, fauna, arctic, muna-named, storvhit, winter-folk, snow-beings]
+source:
+  - "[[T22_Winter_Folk]]"
+  - "[[L24_Mana_Moths]]"
+related_concepts:
+  - "[[Winter Folk]]"
+  - "[[The Skein]]"
+associated_factions:
+  - "[[Muna]]"
+associated_locations:
+  - "[[Storhvit]]"
+  - "[[Kadigir]]"
+first_mentioned: 393 AC
+description_summary: Sentient fluffy spheres that drift with snowfall and exhibit responsive behavior to human presence
+tags:
+  - sentient
+  - fauna
+  - arctic
+  - muna-named
+  - storvhit
+  - winter-folk
+  - snow-beings
 ---
 
 # Hakupopo
 
 ## Overview
 
-Hakupopo are small sentient beings documented at [[Storvhit]] by [[Muna]] observers. Name "Hakupopo" coined by first [[Muna]] naturalists who encountered species. Documented in field journal by [[Saskia Averina]] dated January 29, 393 AC.
+Hakupopo are small sentient beings documented at [[Storhvit]] by [[Muna]] observers. Name "Hakupopo" coined by first [[Muna]] naturalists who encountered species. Documented in field journal by [[Saskia Averina]] dated January 29, 393 AC.
 
 ## Physical Characteristics
 
@@ -46,7 +60,7 @@ Begin to float about when disturbed, rising into air similar to moonlight jellyf
 ## Habitat and Adaptation
 
 ### Arctic Environment
-Perfectly adapted to [[Storvhit]] arctic environment. Ability to blend with snow, survive extreme cold, and navigate heavy snowfall indicates specialized evolutionary adaptation.
+Perfectly adapted to [[Storhvit]] arctic environment. Ability to blend with snow, survive extreme cold, and navigate heavy snowfall indicates specialized evolutionary adaptation.
 
 ### Snowfall Association
 Most commonly observed when snow falls heavily. Mingle with snowflakes making them difficult to distinguish from precipitation. Unclear whether snowfall triggers emergence or if they are simply more visible during these conditions.
@@ -57,7 +71,7 @@ Most commonly observed when snow falls heavily. Mingle with snowflakes making th
 Classified as sentient beings rather than simple fauna due to demonstrated responsive behavior to human presence. Deliberate movement patterns and coordinated avoidance suggest consciousness and environmental awareness.
 
 ### Relation to Winter Folk
-Part of [[Winter Folk]] collective term for [[Storvhit]] endemic wildlife exhibiting pseudo-societal consciousness. Though sentient, hakupopo display similar cooperative environmental response as other arctic species.
+Part of [[Winter Folk]] collective term for [[Storhvit]] endemic wildlife exhibiting pseudo-societal consciousness. Though sentient, hakupopo display similar cooperative environmental response as other arctic species.
 
 ## Comparative Biology
 
@@ -74,7 +88,7 @@ Hakupopo identified as natural predators of [[Mana Moths]] caterpillars. Blend i
 
 ## Scientific Study
 
-Documented by [[Muna]] naturalists deployed to study fauna and flora of [[Storvhit]] region as part of broader research initiative. [[Axiom]] naturalists also present in region studying endemic species.
+Documented by [[Muna]] naturalists deployed to study fauna and flora of [[Storhvit]] region as part of broader research initiative. [[Axiom]] naturalists also present in region studying endemic species.
 
 ## Questions and Mysteries
 

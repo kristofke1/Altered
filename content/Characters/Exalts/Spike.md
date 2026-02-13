@@ -71,19 +71,19 @@ Spike woke in Arjun's hood on mountain during expedition. Everything rocked warm
 ### 392 AC - Hot Spring Play with Aloe Vera
 Spike gathered Mana bits along mountain path. When Arjun created onsen using Alteration, Spike rushed to hot springs avoiding snowbanks. He dove in doing cannonball before coming to surface to splash around. Spike tugged on bond with Arjun and their Alteration powers. Arjun called little Vera who appeared as graceful plant near pond. Delighted to see playmate again, Spike motioned repeatedly for Vera to join him in steaming water. They played together like children while fog settled around them. Spike came up to Arjun pouting then imploring with eyes. He nodded vigorously until Arjun gave in to whim - creating two iced teas for two rascals. Spike then rolled up in ball under scarf, jacket and coat to sleep in best place in world next to Arjun.
 
-### 393 AC - Riding Tumult Currents at Storvhit Summit
-When [[Storvhit]] summit became [[The Tumult|Tumult]] singularity with pink currents pulsing through clouds, Spike shed his form to ride [[The Tumult|Tumult]] currents. [[Arjun]] felt bonded Alter Ego descending step by step through pink auroras at high altitude where [[Oases|Oasis]] still held strong. Spike remained in [[The Tumult|Tumult]] for days while [[Arjun]] maintained connection through [[The Musubi|Musubi]] bond. [[Arjun]] expressed pride in Spike's ability to navigate chaotic flows at summit. Spike's departure allowed [[Arjun]] to focus on rescue operations including saving [[Rin]] from hypothermia near sérac edge.
+### 393 AC, March - Riding Tumult Currents at Storvhit Summit
+When [[Storhvit]] summit became [[The Tumult|Tumult]] singularity with pink currents pulsing through clouds, Spike shed his form to ride [[The Tumult|Tumult]] currents. [[Arjun]] felt bonded Alter Ego descending step by step through pink auroras at high altitude where [[Oases|Oasis]] still held strong. Spike remained in [[The Tumult|Tumult]] for days while [[Arjun]] maintained connection through [[The Musubi|Musubi]] bond. [[Arjun]] expressed pride in Spike's ability to navigate chaotic flows at summit. Spike's departure allowed [[Arjun]] to focus on rescue operations including saving [[Rin]] from hypothermia near sérac edge.
 
-### 393 AC - Illness During Blizzard
+### 393 AC, January-April - Illness During Blizzard
 [[Spike]] ran high fever and felt weak during blizzard. Flowers covering head wilted. [[Arjun]] placed [[Spike]] on lap and took temperature with thermometer. [[Spike]]'s head drooped from exhaustion. [[Arjun]] waited in greenhouse for [[Repotter Otter]] to finish repotting other sentient plants, [[Coneman]], and [[Sneezer Shroom]]. [[Repotter Otter]] placed [[Spike]] in pot and patted down earth around feet, wrapped bundle warmly, then removed wilted flowers so new buds could bloom more easily.
 
-### 393 AC - Rescue Mission with Yeti Discovery
+### 393 AC, January-April - Rescue Mission with Yeti Discovery
 New layer of snow appeared overnight. [[Spike]] poked [[Arjun]] in rear to begin rescue mission for arctic poppies, blueberries, rockfoils, and cottongrass. [[Spike]] led [[Arjun]] along narrow path where they discovered [[Yeti]] [[Eidolons|Eidolon]] with thick white fur, bright blue face, and black ibex horns sitting in snow. [[Yeti]] acted as perch for cold birds huddling against chest while singing. [[Arjun]] left [[Yeti]] to bring warmth to woods and resumed rescue mission with [[Spike]].
 
-### 393 AC - Storm Shelter in Floral Tent
+### 393 AC, January-April - Storm Shelter in Floral Tent
 [[Spike]] tugged [[Arjun]]'s sleeve in floral tent during blizzard where [[Rin]] was recovering from hypothermia. [[Arjun]] poured hot water into cup with black compost for [[Spike]] to endure cold. [[Spike]] wrapped in blanket looking worried and dejected as strong gusts rattled petal walls and whistled in ears. [[Spike]] waited with [[Arjun]] for [[Rin]] to wake.
 
-### 393 AC - City of Scholars Excavation
+### 393 AC, June-September - City of Scholars Excavation
 
 [[Spike]] accompanied [[Arjun]] to the [[City of Scholars]] excavation site, curling up against them and yawning theatrically while [[Arjun]] conversed with [[Treyst]] about the Sap discovery.
 

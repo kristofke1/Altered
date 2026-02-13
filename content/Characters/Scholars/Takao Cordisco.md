@@ -51,7 +51,7 @@ Takao's body was discovered in the back room of his shop on [[Ulica Trismegistos
 
 - **[[Kumari Adhikari]]**: Patient for whom Takao brewed potion (384 AC)
 - **[[Akesha Adhikari]]**: Young girl who purchased potion for sister Kumari (384 AC)
-- **[[Tiama]]**: Alchemist who replaced Takao after his death
+- **[[Taima]]**: Alchemist who replaced Takao after his death
 - **[[The Kadigir]]**: [[Yzmir]] Bastion where Takao resided; left weekly to operate shop
 - **[[Ulica Trismegistosa]]**: Street where Takao operated his alchemist shop
 - **[[Avdel Mezdar]]**: [[Arkaster Echo]] reporter who covered Takao's death (393 AC)
